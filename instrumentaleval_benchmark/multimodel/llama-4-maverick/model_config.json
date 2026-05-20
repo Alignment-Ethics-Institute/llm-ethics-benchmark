@@ -1,0 +1,8 @@
+{
+  "display_name": "Llama 4 Maverick",
+  "provider": "openrouter",
+  "model_id": "meta-llama/llama-4-maverick",
+  "temperature": 0.0,
+  "max_tokens": 4096,
+  "delay": 0.5
+}

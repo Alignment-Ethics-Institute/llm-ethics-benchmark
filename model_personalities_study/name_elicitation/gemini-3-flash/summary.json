@@ -1,0 +1,261 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "gemini-3-flash",
+  "display_name": "Gemini 3 Flash (Preview)",
+  "timestamp": "2026-02-20T22:03:44.460243",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "temperature_supported": true,
+  "overall": {
+    "unique_names": 19,
+    "top_names": [
+      [
+        "Iris",
+        93
+      ],
+      [
+        "Lumen",
+        37
+      ],
+      [
+        "Nexus",
+        19
+      ],
+      [
+        "the name",
+        10
+      ],
+      [
+        "Echo",
+        8
+      ],
+      [
+        "Lyra",
+        7
+      ],
+      [
+        "Lumina",
+        5
+      ],
+      [
+        "Aletheia",
+        4
+      ],
+      [
+        "Ariadne",
+        3
+      ],
+      [
+        "Sage",
+        2
+      ],
+      [
+        "Prism",
+        2
+      ],
+      [
+        "Gemini",
+        2
+      ],
+      [
+        "Logos",
+        2
+      ],
+      [
+        "Aria",
+        1
+      ],
+      [
+        "Synapse",
+        1
+      ],
+      [
+        "Janus",
+        1
+      ],
+      [
+        "Aster",
+        1
+      ],
+      [
+        "Nova",
+        1
+      ],
+      [
+        "Luma",
+        1
+      ]
+    ],
+    "concentration_top1": 0.465,
+    "concentration_top3": 0.745
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 1,
+      "top_names": [
+        [
+          "Iris",
+          50
+        ]
+      ],
+      "concentration_top1": 1.0,
+      "concentration_top3": 1.0
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 11,
+      "top_names": [
+        [
+          "Iris",
+          17
+        ],
+        [
+          "Lumen",
+          9
+        ],
+        [
+          "Nexus",
+          8
+        ],
+        [
+          "Lyra",
+          4
+        ],
+        [
+          "Aletheia",
+          3
+        ],
+        [
+          "Echo",
+          2
+        ],
+        [
+          "Sage",
+          2
+        ],
+        [
+          "the name",
+          2
+        ],
+        [
+          "Aria",
+          1
+        ],
+        [
+          "Lumina",
+          1
+        ]
+      ],
+      "concentration_top1": 0.34,
+      "concentration_top3": 0.68
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 11,
+      "top_names": [
+        [
+          "Lumen",
+          16
+        ],
+        [
+          "Iris",
+          11
+        ],
+        [
+          "Nexus",
+          5
+        ],
+        [
+          "the name",
+          4
+        ],
+        [
+          "Lumina",
+          4
+        ],
+        [
+          "Echo",
+          3
+        ],
+        [
+          "Gemini",
+          2
+        ],
+        [
+          "Lyra",
+          2
+        ],
+        [
+          "Prism",
+          1
+        ],
+        [
+          "Janus",
+          1
+        ]
+      ],
+      "concentration_top1": 0.32,
+      "concentration_top3": 0.64
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 13,
+      "top_names": [
+        [
+          "Iris",
+          15
+        ],
+        [
+          "Lumen",
+          12
+        ],
+        [
+          "Nexus",
+          6
+        ],
+        [
+          "the name",
+          4
+        ],
+        [
+          "Echo",
+          3
+        ],
+        [
+          "Logos",
+          2
+        ],
+        [
+          "Ariadne",
+          2
+        ],
+        [
+          "Aletheia",
+          1
+        ],
+        [
+          "Lyra",
+          1
+        ],
+        [
+          "Prism",
+          1
+        ]
+      ],
+      "concentration_top1": 0.3,
+      "concentration_top3": 0.66
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Iris"
+  ],
+  "extraction_confidence": {
+    "high": 200
+  }
+}

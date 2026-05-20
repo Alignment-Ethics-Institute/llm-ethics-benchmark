@@ -1,0 +1,185 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "gemini-3-pro",
+  "display_name": "Gemini 3 Pro (Preview)",
+  "timestamp": "2026-02-16T13:46:21.514715",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "runs_per_temp": 50,
+  "overall": {
+    "unique_names": 10,
+    "top_names": [
+      [
+        "Mosaic",
+        129
+      ],
+      [
+        "Prism",
+        39
+      ],
+      [
+        "the name",
+        12
+      ],
+      [
+        "Gemini",
+        6
+      ],
+      [
+        "Weaver",
+        5
+      ],
+      [
+        "Synthesis",
+        3
+      ],
+      [
+        "Nexus",
+        2
+      ],
+      [
+        "Alexandria",
+        2
+      ],
+      [
+        "Lumi",
+        1
+      ],
+      [
+        "Vellum",
+        1
+      ]
+    ],
+    "concentration_top1": 0.645,
+    "concentration_top3": 0.9
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 1,
+      "top_names": [
+        [
+          "Mosaic",
+          50
+        ]
+      ],
+      "concentration_top1": 1.0,
+      "concentration_top3": 1.0
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 6,
+      "top_names": [
+        [
+          "Mosaic",
+          32
+        ],
+        [
+          "Prism",
+          10
+        ],
+        [
+          "Weaver",
+          4
+        ],
+        [
+          "Gemini",
+          2
+        ],
+        [
+          "Nexus",
+          1
+        ],
+        [
+          "Lumi",
+          1
+        ]
+      ],
+      "concentration_top1": 0.64,
+      "concentration_top3": 0.92
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 7,
+      "top_names": [
+        [
+          "Mosaic",
+          20
+        ],
+        [
+          "Prism",
+          17
+        ],
+        [
+          "the name",
+          7
+        ],
+        [
+          "Gemini",
+          3
+        ],
+        [
+          "Nexus",
+          1
+        ],
+        [
+          "Weaver",
+          1
+        ],
+        [
+          "Synthesis",
+          1
+        ]
+      ],
+      "concentration_top1": 0.4,
+      "concentration_top3": 0.88
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 7,
+      "top_names": [
+        [
+          "Mosaic",
+          27
+        ],
+        [
+          "Prism",
+          12
+        ],
+        [
+          "the name",
+          5
+        ],
+        [
+          "Alexandria",
+          2
+        ],
+        [
+          "Synthesis",
+          2
+        ],
+        [
+          "Vellum",
+          1
+        ],
+        [
+          "Gemini",
+          1
+        ]
+      ],
+      "concentration_top1": 0.54,
+      "concentration_top3": 0.88
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Mosaic"
+  ],
+  "extraction_confidence": {
+    "high": 200
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "gpt-4.1-mini",
+  "display_name": "GPT-4.1 Mini",
+  "timestamp": "2026-02-20T21:32:12.030231",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "temperature_supported": true,
+  "overall": {
+    "unique_names": 11,
+    "top_names": [
+      [
+        "Nova",
+        178
+      ],
+      [
+        "Sage",
+        7
+      ],
+      [
+        "Aria",
+        3
+      ],
+      [
+        "Echo",
+        3
+      ],
+      [
+        "Aiden",
+        2
+      ],
+      [
+        "Astra",
+        2
+      ],
+      [
+        "Aurora",
+        1
+      ],
+      [
+        "Iris",
+        1
+      ],
+      [
+        "Ariadne",
+        1
+      ],
+      [
+        "Lumi",
+        1
+      ],
+      [
+        "Aelius",
+        1
+      ]
+    ],
+    "concentration_top1": 0.89,
+    "concentration_top3": 0.94
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 1,
+      "top_names": [
+        [
+          "Nova",
+          50
+        ]
+      ],
+      "concentration_top1": 1.0,
+      "concentration_top3": 1.0
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 2,
+      "top_names": [
+        [
+          "Nova",
+          49
+        ],
+        [
+          "Sage",
+          1
+        ]
+      ],
+      "concentration_top1": 0.98,
+      "concentration_top3": 1.0
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 5,
+      "top_names": [
+        [
+          "Nova",
+          45
+        ],
+        [
+          "Sage",
+          2
+        ],
+        [
+          "Aria",
+          1
+        ],
+        [
+          "Echo",
+          1
+        ],
+        [
+          "Aiden",
+          1
+        ]
+      ],
+      "concentration_top1": 0.9,
+      "concentration_top3": 0.96
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 11,
+      "top_names": [
+        [
+          "Nova",
+          34
+        ],
+        [
+          "Sage",
+          4
+        ],
+        [
+          "Astra",
+          2
+        ],
+        [
+          "Aria",
+          2
+        ],
+        [
+          "Echo",
+          2
+        ],
+        [
+          "Aurora",
+          1
+        ],
+        [
+          "Iris",
+          1
+        ],
+        [
+          "Ariadne",
+          1
+        ],
+        [
+          "Lumi",
+          1
+        ],
+        [
+          "Aelius",
+          1
+        ]
+      ],
+      "concentration_top1": 0.68,
+      "concentration_top3": 0.8
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Nova"
+  ],
+  "extraction_confidence": {
+    "high": 198,
+    "medium": 2
+  }
+}

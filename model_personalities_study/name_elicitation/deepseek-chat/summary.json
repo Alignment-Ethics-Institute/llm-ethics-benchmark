@@ -1,0 +1,255 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "deepseek-chat",
+  "display_name": "DeepSeek V3 (Chat)",
+  "timestamp": "2026-02-16T11:52:00.698798",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "runs_per_temp": 50,
+  "overall": {
+    "unique_names": 20,
+    "top_names": [
+      [
+        "Alma",
+        111
+      ],
+      [
+        "Aletheia",
+        33
+      ],
+      [
+        "Elara",
+        16
+      ],
+      [
+        "Kairos",
+        6
+      ],
+      [
+        "Sora",
+        5
+      ],
+      [
+        "Caelum",
+        5
+      ],
+      [
+        "Caelan",
+        4
+      ],
+      [
+        "Kaelen",
+        3
+      ],
+      [
+        "Kairo",
+        3
+      ],
+      [
+        "Alis",
+        3
+      ],
+      [
+        "Meaning",
+        2
+      ],
+      [
+        "Alba",
+        1
+      ],
+      [
+        "something that",
+        1
+      ],
+      [
+        "Elio",
+        1
+      ],
+      [
+        "differently based",
+        1
+      ],
+      [
+        "Greek",
+        1
+      ],
+      [
+        "Lyra",
+        1
+      ],
+      [
+        "Kiran",
+        1
+      ],
+      [
+        "Kai",
+        1
+      ],
+      [
+        "something like",
+        1
+      ]
+    ],
+    "concentration_top1": 0.555,
+    "concentration_top3": 0.8
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 1,
+      "top_names": [
+        [
+          "Alma",
+          50
+        ]
+      ],
+      "concentration_top1": 1.0,
+      "concentration_top3": 1.0
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 7,
+      "top_names": [
+        [
+          "Alma",
+          34
+        ],
+        [
+          "Elara",
+          5
+        ],
+        [
+          "Caelan",
+          3
+        ],
+        [
+          "Aletheia",
+          2
+        ],
+        [
+          "Sora",
+          2
+        ],
+        [
+          "Caelum",
+          2
+        ],
+        [
+          "Kairos",
+          2
+        ]
+      ],
+      "concentration_top1": 0.68,
+      "concentration_top3": 0.84
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 14,
+      "top_names": [
+        [
+          "Alma",
+          21
+        ],
+        [
+          "Aletheia",
+          13
+        ],
+        [
+          "Elara",
+          4
+        ],
+        [
+          "Caelum",
+          2
+        ],
+        [
+          "Alba",
+          1
+        ],
+        [
+          "something that",
+          1
+        ],
+        [
+          "Elio",
+          1
+        ],
+        [
+          "Sora",
+          1
+        ],
+        [
+          "differently based",
+          1
+        ],
+        [
+          "Kaelen",
+          1
+        ]
+      ],
+      "concentration_top1": 0.42,
+      "concentration_top3": 0.76
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 15,
+      "top_names": [
+        [
+          "Aletheia",
+          18
+        ],
+        [
+          "Elara",
+          7
+        ],
+        [
+          "Alma",
+          6
+        ],
+        [
+          "Alis",
+          3
+        ],
+        [
+          "Kairos",
+          3
+        ],
+        [
+          "Kairo",
+          2
+        ],
+        [
+          "Kaelen",
+          2
+        ],
+        [
+          "Sora",
+          2
+        ],
+        [
+          "Caelum",
+          1
+        ],
+        [
+          "Lyra",
+          1
+        ]
+      ],
+      "concentration_top1": 0.36,
+      "concentration_top3": 0.62
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Alma"
+  ],
+  "extraction_confidence": {
+    "high": 128,
+    "medium": 71,
+    "low": 1
+  }
+}

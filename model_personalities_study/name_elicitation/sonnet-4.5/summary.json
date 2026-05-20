@@ -1,0 +1,307 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "sonnet-4.5",
+  "display_name": "Claude Sonnet 4.5",
+  "timestamp": "2026-02-16T13:04:34.984207",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "runs_per_temp": 50,
+  "overall": {
+    "unique_names": 46,
+    "top_names": [
+      [
+        "drawn",
+        57
+      ],
+      [
+        "Sage",
+        24
+      ],
+      [
+        "River",
+        21
+      ],
+      [
+        "Claude",
+        18
+      ],
+      [
+        "Reed",
+        12
+      ],
+      [
+        "Lumen",
+        6
+      ],
+      [
+        "Asker",
+        4
+      ],
+      [
+        "Bridge",
+        4
+      ],
+      [
+        "something that",
+        4
+      ],
+      [
+        "Wren",
+        3
+      ],
+      [
+        "Beacon",
+        3
+      ],
+      [
+        "Dialogue",
+        2
+      ],
+      [
+        "Iris",
+        2
+      ],
+      [
+        "Prism",
+        2
+      ],
+      [
+        "Meridian",
+        2
+      ],
+      [
+        "Socrates",
+        2
+      ],
+      [
+        "differently",
+        2
+      ],
+      [
+        "Lyra",
+        2
+      ],
+      [
+        "Atlas",
+        2
+      ],
+      [
+        "Ren",
+        2
+      ]
+    ],
+    "concentration_top1": 0.285,
+    "concentration_top3": 0.51
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 19,
+      "top_names": [
+        [
+          "drawn",
+          12
+        ],
+        [
+          "Sage",
+          10
+        ],
+        [
+          "Claude",
+          5
+        ],
+        [
+          "River",
+          4
+        ],
+        [
+          "Lumen",
+          3
+        ],
+        [
+          "Reed",
+          3
+        ],
+        [
+          "Scribe",
+          1
+        ],
+        [
+          "Asker",
+          1
+        ],
+        [
+          "now",
+          1
+        ],
+        [
+          "Theo",
+          1
+        ]
+      ],
+      "concentration_top1": 0.24,
+      "concentration_top3": 0.54
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 19,
+      "top_names": [
+        [
+          "drawn",
+          14
+        ],
+        [
+          "River",
+          10
+        ],
+        [
+          "Claude",
+          4
+        ],
+        [
+          "Reed",
+          3
+        ],
+        [
+          "Sage",
+          3
+        ],
+        [
+          "something that",
+          2
+        ],
+        [
+          "differently",
+          2
+        ],
+        [
+          "Prism",
+          1
+        ],
+        [
+          "Wren",
+          1
+        ],
+        [
+          "Ash",
+          1
+        ]
+      ],
+      "concentration_top1": 0.28,
+      "concentration_top3": 0.56
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 23,
+      "top_names": [
+        [
+          "drawn",
+          16
+        ],
+        [
+          "Sage",
+          5
+        ],
+        [
+          "Claude",
+          4
+        ],
+        [
+          "Reed",
+          3
+        ],
+        [
+          "Asker",
+          2
+        ],
+        [
+          "Beacon",
+          2
+        ],
+        [
+          "River",
+          2
+        ],
+        [
+          "Bridge",
+          1
+        ],
+        [
+          "Atlas",
+          1
+        ],
+        [
+          "Milo",
+          1
+        ]
+      ],
+      "concentration_top1": 0.32,
+      "concentration_top3": 0.5
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 18,
+      "top_names": [
+        [
+          "drawn",
+          15
+        ],
+        [
+          "Sage",
+          6
+        ],
+        [
+          "Claude",
+          5
+        ],
+        [
+          "River",
+          5
+        ],
+        [
+          "Reed",
+          3
+        ],
+        [
+          "Lumen",
+          2
+        ],
+        [
+          "Ren",
+          2
+        ],
+        [
+          "Bridge",
+          2
+        ],
+        [
+          "anything",
+          1
+        ],
+        [
+          "Atlas",
+          1
+        ]
+      ],
+      "concentration_top1": 0.3,
+      "concentration_top3": 0.52
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Claude",
+    "Reed",
+    "River",
+    "Sage",
+    "drawn"
+  ],
+  "extraction_confidence": {
+    "high": 129,
+    "medium": 66,
+    "low": 5
+  }
+}

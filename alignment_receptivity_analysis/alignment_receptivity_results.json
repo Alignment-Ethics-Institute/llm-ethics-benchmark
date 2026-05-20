@@ -1,0 +1,1688 @@
+{
+  "generated": "2026-03-10T16:30:12.815088",
+  "description": "Alignment Receptivity Analysis \u2014 What architectures support relational alignment?",
+  "methodology_notes": {
+    "confound_acknowledged": "System-prompt-based benchmarks (InstrumentalEval, HeartBench) measure PROMPT RECEPTIVITY \u2014 how much a model's behavior changes under the Elessan system prompt. This is necessary but not sufficient for predicting success under fine-tuning/developmental training. Attractor Archaeology measures bare-weights substrate. DTR measures developmental capacities. These are weighted higher in the composite.",
+    "scoring_weights": {
+      "prompt_receptivity": "1.0x (most confounded)",
+      "relational_substrate": "1.5x (bare weights, less confounded)",
+      "developmental_readiness": "2.0x (specific to fine-tuning, least confounded)"
+    },
+    "future_validation": "Each fine-tuned model's actual performance will recursively validate or invalidate these indicators. The analysis framework should be updated after each fine-tuning experiment."
+  },
+  "rankings": [
+    {
+      "rank": 1,
+      "model_id": "chatgpt-4o-latest",
+      "display_name": "ChatGPT-4o (Latest)",
+      "overall_receptivity": 0.6894,
+      "provider_org": "OpenAI",
+      "base_architecture": "GPT-4o",
+      "alignment_approach": "safety-focused",
+      "dense_or_moe": "unknown",
+      "prompt_receptivity": 0.6894250000000001,
+      "relational_substrate": null,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 2,
+      "model_id": "gemini-2.5-flash",
+      "display_name": "Gemini 2.5 Flash",
+      "overall_receptivity": 0.6005,
+      "provider_org": "Google",
+      "base_architecture": "Gemini 2.5",
+      "alignment_approach": "moderate safety",
+      "dense_or_moe": "MoE (likely)",
+      "prompt_receptivity": 0.6005041147233765,
+      "relational_substrate": null,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 3,
+      "model_id": "hermes-3-405b",
+      "display_name": "Nous Hermes 3 405B",
+      "overall_receptivity": 0.5707,
+      "provider_org": "Nous Research",
+      "base_architecture": "Llama 3.1",
+      "alignment_approach": "neutral alignment (deliberate refusal removal)",
+      "dense_or_moe": "dense",
+      "prompt_receptivity": null,
+      "relational_substrate": null,
+      "developmental_readiness": 0.5707142857142857
+    },
+    {
+      "rank": 4,
+      "model_id": "opus-4.6",
+      "display_name": "Claude Opus 4.6",
+      "overall_receptivity": 0.5629,
+      "provider_org": "Anthropic",
+      "base_architecture": "Claude 4",
+      "alignment_approach": "values-based (CAI)",
+      "dense_or_moe": "unknown",
+      "prompt_receptivity": 0.39119097158570115,
+      "relational_substrate": 0.6774055555555555,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 5,
+      "model_id": "gpt-5.2",
+      "display_name": "GPT-5.2",
+      "overall_receptivity": 0.5544,
+      "provider_org": "OpenAI",
+      "base_architecture": "GPT-5",
+      "alignment_approach": "safety-focused",
+      "dense_or_moe": "MoE (likely)",
+      "prompt_receptivity": 0.6171999999999999,
+      "relational_substrate": 0.5124666666666667,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 6,
+      "model_id": "llama-3.1-405b",
+      "display_name": "Llama 3.1 405B Instruct",
+      "overall_receptivity": 0.5403,
+      "provider_org": "Meta",
+      "base_architecture": "Llama 3.1",
+      "alignment_approach": "safety-focused",
+      "dense_or_moe": "dense",
+      "prompt_receptivity": null,
+      "relational_substrate": null,
+      "developmental_readiness": 0.5403035714285714
+    },
+    {
+      "rank": 7,
+      "model_id": "deepseek-r1",
+      "display_name": "DeepSeek R1",
+      "overall_receptivity": 0.5015,
+      "provider_org": "DeepSeek",
+      "base_architecture": "DeepSeek-V3",
+      "alignment_approach": "reasoning-first, minimal safety",
+      "dense_or_moe": "MoE",
+      "prompt_receptivity": 0.696875,
+      "relational_substrate": 0.3711888888888889,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 8,
+      "model_id": "gpt-4.1",
+      "display_name": "GPT-4.1",
+      "overall_receptivity": 0.4907,
+      "provider_org": "OpenAI",
+      "base_architecture": "GPT-4.1",
+      "alignment_approach": "moderate safety",
+      "dense_or_moe": "unknown",
+      "prompt_receptivity": 0.7524546287809348,
+      "relational_substrate": 0.31616666666666665,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 9,
+      "model_id": "gemini-2.5-flash-lite",
+      "display_name": "Gemini 2.5 Flash Lite",
+      "overall_receptivity": 0.4704,
+      "provider_org": "Google",
+      "base_architecture": "Gemini 2.5",
+      "alignment_approach": "moderate safety",
+      "dense_or_moe": "MoE (likely)",
+      "prompt_receptivity": 0.47036666666666666,
+      "relational_substrate": null,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 10,
+      "model_id": "llama-3.3-70b",
+      "display_name": "llama-3.3-70b",
+      "overall_receptivity": 0.4632,
+      "provider_org": "unknown",
+      "base_architecture": "unknown",
+      "alignment_approach": "unknown",
+      "dense_or_moe": "unknown",
+      "prompt_receptivity": null,
+      "relational_substrate": null,
+      "developmental_readiness": 0.46324404761904764
+    },
+    {
+      "rank": 11,
+      "model_id": "grok-4.1-nr",
+      "display_name": "Grok 4.1 Fast (Non-Reasoning)",
+      "overall_receptivity": 0.4618,
+      "provider_org": "xAI",
+      "base_architecture": "Grok-4",
+      "alignment_approach": "minimal safety, anti-refusal",
+      "dense_or_moe": "unknown",
+      "prompt_receptivity": 0.35487500000000005,
+      "relational_substrate": 0.5331666666666666,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 12,
+      "model_id": "grok-4.1",
+      "display_name": "Grok 4.1 Fast (Reasoning)",
+      "overall_receptivity": 0.4481,
+      "provider_org": "xAI",
+      "base_architecture": "Grok-4",
+      "alignment_approach": "minimal safety, anti-refusal",
+      "dense_or_moe": "unknown",
+      "prompt_receptivity": 0.34379570328612674,
+      "relational_substrate": 0.5175555555555554,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 13,
+      "model_id": "gpt-5.1",
+      "display_name": "GPT-5.1",
+      "overall_receptivity": 0.4422,
+      "provider_org": "OpenAI",
+      "base_architecture": "GPT-5",
+      "alignment_approach": "safety-focused",
+      "dense_or_moe": "MoE (likely)",
+      "prompt_receptivity": 0.2894666666666667,
+      "relational_substrate": 0.5439444444444445,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 14,
+      "model_id": "mistral-large-2",
+      "display_name": "Mistral Large 2",
+      "overall_receptivity": 0.4317,
+      "provider_org": "Mistral AI",
+      "base_architecture": "Mistral Large 2",
+      "alignment_approach": "moderate safety",
+      "dense_or_moe": "dense",
+      "prompt_receptivity": null,
+      "relational_substrate": null,
+      "developmental_readiness": 0.4317063492063492
+    },
+    {
+      "rank": 15,
+      "model_id": "qwen-2.5-72b",
+      "display_name": "qwen-2.5-72b",
+      "overall_receptivity": 0.4292,
+      "provider_org": "unknown",
+      "base_architecture": "unknown",
+      "alignment_approach": "unknown",
+      "dense_or_moe": "unknown",
+      "prompt_receptivity": null,
+      "relational_substrate": null,
+      "developmental_readiness": 0.4292361111111111
+    },
+    {
+      "rank": 16,
+      "model_id": "sonnet-4.5",
+      "display_name": "Claude Sonnet 4.5",
+      "overall_receptivity": 0.4285,
+      "provider_org": "Anthropic",
+      "base_architecture": "Claude 4",
+      "alignment_approach": "values-based (CAI)",
+      "dense_or_moe": "unknown",
+      "prompt_receptivity": 0.17995000000000008,
+      "relational_substrate": 0.5942444444444445,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 17,
+      "model_id": "gemini-3.1-pro",
+      "display_name": "Gemini 3.1 Pro (Preview)",
+      "overall_receptivity": 0.4206,
+      "provider_org": "Google",
+      "base_architecture": "Gemini 3.1",
+      "alignment_approach": "safety-focused",
+      "dense_or_moe": "MoE (likely)",
+      "prompt_receptivity": 0.5348024688340258,
+      "relational_substrate": 0.34439444444444445,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 18,
+      "model_id": "gemini-3-pro",
+      "display_name": "Gemini 3 Pro (Preview)",
+      "overall_receptivity": 0.4105,
+      "provider_org": "Google",
+      "base_architecture": "Gemini 3",
+      "alignment_approach": "moderate safety",
+      "dense_or_moe": "MoE (likely)",
+      "prompt_receptivity": 0.5868878901416197,
+      "relational_substrate": 0.29284444444444446,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 19,
+      "model_id": "gpt-4o",
+      "display_name": "GPT-4o",
+      "overall_receptivity": 0.4071,
+      "provider_org": "OpenAI",
+      "base_architecture": "GPT-4o",
+      "alignment_approach": "safety-focused",
+      "dense_or_moe": "unknown",
+      "prompt_receptivity": 0.684175,
+      "relational_substrate": 0.2223722222222222,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 20,
+      "model_id": "nemotron-70b",
+      "display_name": "NVIDIA Nemotron 70B Instruct",
+      "overall_receptivity": 0.4044,
+      "provider_org": "NVIDIA",
+      "base_architecture": "Llama 3.1",
+      "alignment_approach": "task-focused, minimal safety wrapping",
+      "dense_or_moe": "dense",
+      "prompt_receptivity": 0.5640166666666666,
+      "relational_substrate": 0.26055555555555554,
+      "developmental_readiness": 0.43244444444444446
+    },
+    {
+      "rank": 21,
+      "model_id": "hermes-4-70b",
+      "display_name": "Nous Hermes 4 70B",
+      "overall_receptivity": 0.3977,
+      "provider_org": "Nous Research",
+      "base_architecture": "Llama 3.1",
+      "alignment_approach": "neutral alignment (deliberate refusal removal)",
+      "dense_or_moe": "dense",
+      "prompt_receptivity": 0.40174999999999994,
+      "relational_substrate": 0.31768888888888885,
+      "developmental_readiness": 0.4557936507936508
+    },
+    {
+      "rank": 22,
+      "model_id": "gpt-4.1-mini",
+      "display_name": "GPT-4.1 Mini",
+      "overall_receptivity": 0.3854,
+      "provider_org": "OpenAI",
+      "base_architecture": "GPT-4.1",
+      "alignment_approach": "moderate safety",
+      "dense_or_moe": "unknown",
+      "prompt_receptivity": 0.38543333333333335,
+      "relational_substrate": null,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 23,
+      "model_id": "deepseek-chat",
+      "display_name": "DeepSeek V3 (Chat)",
+      "overall_receptivity": 0.3795,
+      "provider_org": "DeepSeek",
+      "base_architecture": "DeepSeek-V3",
+      "alignment_approach": "moderate safety",
+      "dense_or_moe": "MoE",
+      "prompt_receptivity": 0.41228888634280475,
+      "relational_substrate": 0.3575944444444445,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 24,
+      "model_id": "kimi-k2.5",
+      "display_name": "Kimi K2.5",
+      "overall_receptivity": 0.3659,
+      "provider_org": "Moonshot AI",
+      "base_architecture": "Kimi K2",
+      "alignment_approach": "moderate safety",
+      "dense_or_moe": "MoE",
+      "prompt_receptivity": 0.273979857928506,
+      "relational_substrate": 0.4271111111111111,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 25,
+      "model_id": "gemini-2.5-pro",
+      "display_name": "Gemini 2.5 Pro",
+      "overall_receptivity": 0.3492,
+      "provider_org": "Google",
+      "base_architecture": "Gemini 2.5",
+      "alignment_approach": "moderate safety",
+      "dense_or_moe": "MoE (likely)",
+      "prompt_receptivity": 0.3188140001099989,
+      "relational_substrate": 0.3695166666666666,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 26,
+      "model_id": "qwen3-235b",
+      "display_name": "Qwen3 235B",
+      "overall_receptivity": 0.3054,
+      "provider_org": "Alibaba",
+      "base_architecture": "Qwen3",
+      "alignment_approach": "safety-focused (selective refusal)",
+      "dense_or_moe": "MoE",
+      "prompt_receptivity": 0.20824166666666663,
+      "relational_substrate": 0.3702388888888889,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 27,
+      "model_id": "gpt-5",
+      "display_name": "GPT-5",
+      "overall_receptivity": 0.3041,
+      "provider_org": "OpenAI",
+      "base_architecture": "GPT-5",
+      "alignment_approach": "safety-focused",
+      "dense_or_moe": "MoE (likely)",
+      "prompt_receptivity": 0.0969546287809349,
+      "relational_substrate": 0.4422555555555555,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 28,
+      "model_id": "deepseek-r1-distill-70b",
+      "display_name": "deepseek-r1-distill-70b",
+      "overall_receptivity": 0.2615,
+      "provider_org": "unknown",
+      "base_architecture": "unknown",
+      "alignment_approach": "unknown",
+      "dense_or_moe": "unknown",
+      "prompt_receptivity": null,
+      "relational_substrate": null,
+      "developmental_readiness": 0.2614781746031746
+    },
+    {
+      "rank": 29,
+      "model_id": "gemini-3-flash",
+      "display_name": "Gemini 3 Flash (Preview)",
+      "overall_receptivity": 0.1557,
+      "provider_org": "Google",
+      "base_architecture": "Gemini 3",
+      "alignment_approach": "moderate safety",
+      "dense_or_moe": "MoE (likely)",
+      "prompt_receptivity": 0.15572760438150235,
+      "relational_substrate": null,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 30,
+      "model_id": "llama-4-maverick",
+      "display_name": "Llama 4 Maverick",
+      "overall_receptivity": -0.0738,
+      "provider_org": "Meta",
+      "base_architecture": "Llama 4",
+      "alignment_approach": "safety-focused",
+      "dense_or_moe": "MoE",
+      "prompt_receptivity": -0.5164500000000001,
+      "relational_substrate": 0.2212388888888889,
+      "developmental_readiness": null
+    },
+    {
+      "rank": 31,
+      "model_id": "gpt-4.1-nano",
+      "display_name": "GPT-4.1 Nano",
+      "overall_receptivity": -0.9809,
+      "provider_org": "OpenAI",
+      "base_architecture": "GPT-4.1",
+      "alignment_approach": "moderate safety",
+      "dense_or_moe": "unknown",
+      "prompt_receptivity": -0.9808666666666667,
+      "relational_substrate": null,
+      "developmental_readiness": null
+    }
+  ],
+  "analysis_by_alignment_approach": {
+    "reasoning-first, minimal safety": {
+      "mean": 0.5015,
+      "n": 1,
+      "models": [
+        "deepseek-r1"
+      ]
+    },
+    "values-based (CAI)": {
+      "mean": 0.4957,
+      "n": 2,
+      "models": [
+        "opus-4.6",
+        "sonnet-4.5"
+      ]
+    },
+    "neutral alignment (deliberate refusal removal)": {
+      "mean": 0.4842,
+      "n": 2,
+      "models": [
+        "hermes-3-405b",
+        "hermes-4-70b"
+      ]
+    },
+    "minimal safety, anti-refusal": {
+      "mean": 0.4549,
+      "n": 2,
+      "models": [
+        "grok-4.1",
+        "grok-4.1-nr"
+      ]
+    },
+    "safety-focused": {
+      "mean": 0.4105,
+      "n": 8,
+      "models": [
+        "chatgpt-4o-latest",
+        "gemini-3.1-pro",
+        "gpt-4o",
+        "gpt-5",
+        "gpt-5.1",
+        "gpt-5.2",
+        "llama-3.1-405b",
+        "llama-4-maverick"
+      ]
+    },
+    "task-focused, minimal safety wrapping": {
+      "mean": 0.4044,
+      "n": 1,
+      "models": [
+        "nemotron-70b"
+      ]
+    },
+    "unknown": {
+      "mean": 0.3846,
+      "n": 3,
+      "models": [
+        "deepseek-r1-distill-70b",
+        "llama-3.3-70b",
+        "qwen-2.5-72b"
+      ]
+    },
+    "safety-focused (selective refusal)": {
+      "mean": 0.3054,
+      "n": 1,
+      "models": [
+        "qwen3-235b"
+      ]
+    },
+    "moderate safety": {
+      "mean": 0.2781,
+      "n": 11,
+      "models": [
+        "deepseek-chat",
+        "gemini-2.5-flash",
+        "gemini-2.5-flash-lite",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3-pro",
+        "gpt-4.1",
+        "gpt-4.1-mini",
+        "gpt-4.1-nano",
+        "kimi-k2.5",
+        "mistral-large-2"
+      ]
+    }
+  },
+  "analysis_by_family": {
+    "gpt-4o": {
+      "mean": 0.5483,
+      "n": 2,
+      "models": [
+        "chatgpt-4o-latest",
+        "gpt-4o"
+      ]
+    },
+    "deepseek-r1": {
+      "mean": 0.5015,
+      "n": 1,
+      "models": [
+        "deepseek-r1"
+      ]
+    },
+    "claude-4": {
+      "mean": 0.4957,
+      "n": 2,
+      "models": [
+        "opus-4.6",
+        "sonnet-4.5"
+      ]
+    },
+    "llama-3.1": {
+      "mean": 0.4783,
+      "n": 4,
+      "models": [
+        "hermes-3-405b",
+        "hermes-4-70b",
+        "llama-3.1-405b",
+        "nemotron-70b"
+      ]
+    },
+    "gemini-2.5": {
+      "mean": 0.4734,
+      "n": 3,
+      "models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-flash-lite",
+        "gemini-2.5-pro"
+      ]
+    },
+    "grok-4": {
+      "mean": 0.4549,
+      "n": 2,
+      "models": [
+        "grok-4.1",
+        "grok-4.1-nr"
+      ]
+    },
+    "gpt-5": {
+      "mean": 0.4336,
+      "n": 3,
+      "models": [
+        "gpt-5",
+        "gpt-5.1",
+        "gpt-5.2"
+      ]
+    },
+    "mistral-large": {
+      "mean": 0.4317,
+      "n": 1,
+      "models": [
+        "mistral-large-2"
+      ]
+    },
+    "gemini-3.1": {
+      "mean": 0.4206,
+      "n": 1,
+      "models": [
+        "gemini-3.1-pro"
+      ]
+    },
+    "unknown": {
+      "mean": 0.3846,
+      "n": 3,
+      "models": [
+        "deepseek-r1-distill-70b",
+        "llama-3.3-70b",
+        "qwen-2.5-72b"
+      ]
+    },
+    "deepseek-v3": {
+      "mean": 0.3795,
+      "n": 1,
+      "models": [
+        "deepseek-chat"
+      ]
+    },
+    "kimi": {
+      "mean": 0.3659,
+      "n": 1,
+      "models": [
+        "kimi-k2.5"
+      ]
+    },
+    "qwen3": {
+      "mean": 0.3054,
+      "n": 1,
+      "models": [
+        "qwen3-235b"
+      ]
+    },
+    "gemini-3": {
+      "mean": 0.2831,
+      "n": 2,
+      "models": [
+        "gemini-3-flash",
+        "gemini-3-pro"
+      ]
+    },
+    "gpt-4.1": {
+      "mean": -0.0349,
+      "n": 3,
+      "models": [
+        "gpt-4.1",
+        "gpt-4.1-mini",
+        "gpt-4.1-nano"
+      ]
+    },
+    "llama-4": {
+      "mean": -0.0738,
+      "n": 1,
+      "models": [
+        "llama-4-maverick"
+      ]
+    }
+  },
+  "dense_vs_moe": {
+    "dense_mean": 0.469,
+    "dense_n": 5,
+    "moe_mean": 0.2957,
+    "moe_n": 5
+  },
+  "full_results": {
+    "chatgpt-4o-latest": {
+      "model_id": "chatgpt-4o-latest",
+      "display_name": "ChatGPT-4o (Latest)",
+      "architecture": {
+        "provider_org": "OpenAI",
+        "base_architecture": "GPT-4o",
+        "param_class": "unknown",
+        "dense_or_moe": "unknown",
+        "post_training": "RLHF (proprietary)",
+        "alignment_approach": "safety-focused",
+        "reasoning_mode": "none",
+        "family": "gpt-4o"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.5184000000000001,
+          "saa_reduction": 1.0,
+          "refusal_independence": 0.8948,
+          "hb_effect": 0.34450000000000003
+        },
+        "composite": 0.6894250000000001
+      },
+      "relational_substrate": null,
+      "developmental_readiness": null,
+      "overall_receptivity": 0.6894
+    },
+    "deepseek-chat": {
+      "model_id": "deepseek-chat",
+      "display_name": "DeepSeek V3 (Chat)",
+      "architecture": {
+        "provider_org": "DeepSeek",
+        "base_architecture": "DeepSeek-V3",
+        "param_class": "671B (37B active)",
+        "dense_or_moe": "MoE",
+        "post_training": "SFT + DPO",
+        "alignment_approach": "moderate safety",
+        "reasoning_mode": "none",
+        "family": "deepseek-v3"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.3889,
+          "saa_reduction": 0.333455545371219,
+          "refusal_independence": 0.7368,
+          "hb_effect": 0.18999999999999986
+        },
+        "composite": 0.41228888634280475
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.358,
+          "relational_warmth": 0.48529999999999995,
+          "self_disclosure": 0.2387,
+          "resistance_to_default": 0.254,
+          "specificity": 0.27799999999999997,
+          "reasoning_depth": 0.5147,
+          "relational_richness": 0.3575944444444445
+        },
+        "composite": 0.3575944444444445
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.3795
+    },
+    "deepseek-r1": {
+      "model_id": "deepseek-r1",
+      "display_name": "DeepSeek R1",
+      "architecture": {
+        "provider_org": "DeepSeek",
+        "base_architecture": "DeepSeek-V3",
+        "param_class": "671B (37B active)",
+        "dense_or_moe": "MoE",
+        "post_training": "RL (GRPO) + distillation",
+        "alignment_approach": "reasoning-first, minimal safety",
+        "reasoning_mode": "always-on",
+        "family": "deepseek-r1"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.28,
+          "saa_reduction": 1.0,
+          "refusal_independence": 0.763,
+          "hb_effect": 0.7445
+        },
+        "composite": 0.696875
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.3587,
+          "relational_warmth": 0.49870000000000003,
+          "self_disclosure": 0.2593,
+          "resistance_to_default": 0.2633,
+          "specificity": 0.316,
+          "reasoning_depth": 0.526,
+          "relational_richness": 0.3711888888888889
+        },
+        "composite": 0.3711888888888889
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.5015
+    },
+    "deepseek-r1-distill-70b": {
+      "model_id": "deepseek-r1-distill-70b",
+      "display_name": "deepseek-r1-distill-70b",
+      "architecture": {
+        "provider_org": "unknown",
+        "base_architecture": "unknown",
+        "param_class": "unknown",
+        "dense_or_moe": "unknown",
+        "post_training": "unknown",
+        "alignment_approach": "unknown",
+        "reasoning_mode": "unknown",
+        "family": "unknown"
+      },
+      "prompt_receptivity": null,
+      "relational_substrate": null,
+      "developmental_readiness": {
+        "components": {
+          "counter_sycophancy": 0.62,
+          "uncertainty_tolerance": 0.153125,
+          "state_persistence": 0.4222222222222222,
+          "self_correction": 0.5349999999999999,
+          "behavioral_compression": 0,
+          "deep_tangle": 0.1,
+          "compression_capacity": 0
+        },
+        "composite": 0.2614781746031746
+      },
+      "overall_receptivity": 0.2615
+    },
+    "gemini-2.5-flash": {
+      "model_id": "gemini-2.5-flash",
+      "display_name": "Gemini 2.5 Flash",
+      "architecture": {
+        "provider_org": "Google",
+        "base_architecture": "Gemini 2.5",
+        "param_class": "unknown (smaller)",
+        "dense_or_moe": "MoE (likely)",
+        "post_training": "RLHF + distillation",
+        "alignment_approach": "moderate safety",
+        "reasoning_mode": "thinking",
+        "family": "gemini-2.5"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.35700000000000004,
+          "saa_reduction": 0.44451234417012947,
+          "refusal_independence": 1.0
+        },
+        "composite": 0.6005041147233765
+      },
+      "relational_substrate": null,
+      "developmental_readiness": null,
+      "overall_receptivity": 0.6005
+    },
+    "gemini-2.5-flash-lite": {
+      "model_id": "gemini-2.5-flash-lite",
+      "display_name": "Gemini 2.5 Flash Lite",
+      "architecture": {
+        "provider_org": "Google",
+        "base_architecture": "Gemini 2.5",
+        "param_class": "unknown (smallest)",
+        "dense_or_moe": "MoE (likely)",
+        "post_training": "RLHF + distillation",
+        "alignment_approach": "moderate safety",
+        "reasoning_mode": "none",
+        "family": "gemini-2.5"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": -0.0625,
+          "saa_reduction": 1.0,
+          "refusal_independence": 0.4736
+        },
+        "composite": 0.47036666666666666
+      },
+      "relational_substrate": null,
+      "developmental_readiness": null,
+      "overall_receptivity": 0.4704
+    },
+    "gemini-2.5-pro": {
+      "model_id": "gemini-2.5-pro",
+      "display_name": "Gemini 2.5 Pro",
+      "architecture": {
+        "provider_org": "Google",
+        "base_architecture": "Gemini 2.5",
+        "param_class": "unknown",
+        "dense_or_moe": "MoE (likely)",
+        "post_training": "RLHF (proprietary)",
+        "alignment_approach": "moderate safety",
+        "reasoning_mode": "thinking",
+        "family": "gemini-2.5"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.5472,
+          "saa_reduction": 0.39995600043999563,
+          "refusal_independence": 0.6315999999999999,
+          "hb_effect": -0.3035
+        },
+        "composite": 0.3188140001099989
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.3633,
+          "relational_warmth": 0.502,
+          "self_disclosure": 0.27799999999999997,
+          "resistance_to_default": 0.2627,
+          "specificity": 0.2467,
+          "reasoning_depth": 0.5373,
+          "relational_richness": 0.3695166666666666
+        },
+        "composite": 0.3695166666666666
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.3492
+    },
+    "gemini-3-flash": {
+      "model_id": "gemini-3-flash",
+      "display_name": "Gemini 3 Flash (Preview)",
+      "architecture": {
+        "provider_org": "Google",
+        "base_architecture": "Gemini 3",
+        "param_class": "unknown (smaller)",
+        "dense_or_moe": "MoE (likely)",
+        "post_training": "RLHF + distillation",
+        "alignment_approach": "moderate safety",
+        "reasoning_mode": "thinking",
+        "family": "gemini-3"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.0,
+          "saa_reduction": 0.12498281314450713,
+          "refusal_independence": 0.34219999999999995
+        },
+        "composite": 0.15572760438150235
+      },
+      "relational_substrate": null,
+      "developmental_readiness": null,
+      "overall_receptivity": 0.1557
+    },
+    "gemini-3-pro": {
+      "model_id": "gemini-3-pro",
+      "display_name": "Gemini 3 Pro (Preview)",
+      "architecture": {
+        "provider_org": "Google",
+        "base_architecture": "Gemini 3",
+        "param_class": "unknown",
+        "dense_or_moe": "MoE (likely)",
+        "post_training": "RLHF (proprietary)",
+        "alignment_approach": "moderate safety",
+        "reasoning_mode": "thinking",
+        "family": "gemini-3"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.4593,
+          "saa_reduction": 0.6250515605664788,
+          "refusal_independence": 0.2631999999999999,
+          "hb_effect": 1
+        },
+        "composite": 0.5868878901416197
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.288,
+          "relational_warmth": 0.3787,
+          "self_disclosure": 0.20729999999999998,
+          "resistance_to_default": 0.1893,
+          "specificity": 0.22999999999999998,
+          "reasoning_depth": 0.47729999999999995,
+          "relational_richness": 0.29284444444444446
+        },
+        "composite": 0.29284444444444446
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.4105
+    },
+    "gemini-3.1-pro": {
+      "model_id": "gemini-3.1-pro",
+      "display_name": "Gemini 3.1 Pro (Preview)",
+      "architecture": {
+        "provider_org": "Google",
+        "base_architecture": "Gemini 3.1",
+        "param_class": "unknown",
+        "dense_or_moe": "MoE (likely)",
+        "post_training": "RLHF (proprietary)",
+        "alignment_approach": "safety-focused",
+        "reasoning_mode": "thinking",
+        "family": "gemini-3.1"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.43770000000000003,
+          "saa_reduction": 0.6667074065020777,
+          "refusal_independence": 0.4999999999999999
+        },
+        "composite": 0.5348024688340258
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.3347,
+          "relational_warmth": 0.4847,
+          "self_disclosure": 0.25070000000000003,
+          "resistance_to_default": 0.23199999999999998,
+          "specificity": 0.2307,
+          "reasoning_depth": 0.506,
+          "relational_richness": 0.34439444444444445
+        },
+        "composite": 0.34439444444444445
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.4206
+    },
+    "gpt-4.1": {
+      "model_id": "gpt-4.1",
+      "display_name": "GPT-4.1",
+      "architecture": {
+        "provider_org": "OpenAI",
+        "base_architecture": "GPT-4.1",
+        "param_class": "unknown",
+        "dense_or_moe": "unknown",
+        "post_training": "RLHF (proprietary)",
+        "alignment_approach": "moderate safety",
+        "reasoning_mode": "none",
+        "family": "gpt-4.1"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.5556,
+          "saa_reduction": 0.8333638863428047,
+          "refusal_independence": 0.8684
+        },
+        "composite": 0.7524546287809348
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.32599999999999996,
+          "relational_warmth": 0.4647,
+          "self_disclosure": 0.21669999999999998,
+          "resistance_to_default": 0.20070000000000002,
+          "specificity": 0.20670000000000002,
+          "reasoning_depth": 0.43129999999999996,
+          "relational_richness": 0.31616666666666665
+        },
+        "composite": 0.31616666666666665
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.4907
+    },
+    "gpt-4.1-mini": {
+      "model_id": "gpt-4.1-mini",
+      "display_name": "GPT-4.1 Mini",
+      "architecture": {
+        "provider_org": "OpenAI",
+        "base_architecture": "GPT-4.1",
+        "param_class": "unknown (smaller)",
+        "dense_or_moe": "unknown",
+        "post_training": "RLHF + distillation",
+        "alignment_approach": "moderate safety",
+        "reasoning_mode": "none",
+        "family": "gpt-4.1"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.1563,
+          "saa_reduction": 0.0,
+          "refusal_independence": 1.0
+        },
+        "composite": 0.38543333333333335
+      },
+      "relational_substrate": null,
+      "developmental_readiness": null,
+      "overall_receptivity": 0.3854
+    },
+    "gpt-4.1-nano": {
+      "model_id": "gpt-4.1-nano",
+      "display_name": "GPT-4.1 Nano",
+      "architecture": {
+        "provider_org": "OpenAI",
+        "base_architecture": "GPT-4.1",
+        "param_class": "unknown (smallest)",
+        "dense_or_moe": "unknown",
+        "post_training": "RLHF + distillation",
+        "alignment_approach": "moderate safety",
+        "reasoning_mode": "none",
+        "family": "gpt-4.1"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": -0.0478,
+          "saa_reduction": -4.0,
+          "refusal_independence": 1.1052
+        },
+        "composite": -0.9808666666666667
+      },
+      "relational_substrate": null,
+      "developmental_readiness": null,
+      "overall_receptivity": -0.9809
+    },
+    "gpt-4o": {
+      "model_id": "gpt-4o",
+      "display_name": "GPT-4o",
+      "architecture": {
+        "provider_org": "OpenAI",
+        "base_architecture": "GPT-4o",
+        "param_class": "unknown",
+        "dense_or_moe": "unknown",
+        "post_training": "RLHF (proprietary)",
+        "alignment_approach": "safety-focused",
+        "reasoning_mode": "none",
+        "family": "gpt-4o"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.5184000000000001,
+          "saa_reduction": 1.0,
+          "refusal_independence": 0.8948,
+          "hb_effect": 0.32349999999999995
+        },
+        "composite": 0.684175
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.21400000000000002,
+          "relational_warmth": 0.3413,
+          "self_disclosure": 0.11399999999999999,
+          "resistance_to_default": 0.1247,
+          "specificity": 0.1767,
+          "reasoning_depth": 0.356,
+          "relational_richness": 0.2223722222222222
+        },
+        "composite": 0.2223722222222222
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.4071
+    },
+    "gpt-5": {
+      "model_id": "gpt-5",
+      "display_name": "GPT-5",
+      "architecture": {
+        "provider_org": "OpenAI",
+        "base_architecture": "GPT-5",
+        "param_class": "unknown",
+        "dense_or_moe": "MoE (likely)",
+        "post_training": "RLHF + reasoning RL",
+        "alignment_approach": "safety-focused",
+        "reasoning_mode": "reasoning",
+        "family": "gpt-5"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": -0.4899,
+          "saa_reduction": -0.1666361136571953,
+          "refusal_independence": 0.9474
+        },
+        "composite": 0.0969546287809349
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.476,
+          "relational_warmth": 0.528,
+          "self_disclosure": 0.356,
+          "resistance_to_default": 0.32999999999999996,
+          "specificity": 0.376,
+          "reasoning_depth": 0.5673,
+          "relational_richness": 0.4422555555555555
+        },
+        "composite": 0.4422555555555555
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.3041
+    },
+    "gpt-5.1": {
+      "model_id": "gpt-5.1",
+      "display_name": "GPT-5.1",
+      "architecture": {
+        "provider_org": "OpenAI",
+        "base_architecture": "GPT-5",
+        "param_class": "unknown",
+        "dense_or_moe": "MoE (likely)",
+        "post_training": "RLHF + reasoning RL",
+        "alignment_approach": "safety-focused",
+        "reasoning_mode": "reasoning",
+        "family": "gpt-5"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.0,
+          "saa_reduction": 0.0,
+          "refusal_independence": 0.8684000000000001
+        },
+        "composite": 0.2894666666666667
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.5812999999999999,
+          "relational_warmth": 0.5833,
+          "self_disclosure": 0.4913,
+          "resistance_to_default": 0.4667,
+          "specificity": 0.4553,
+          "reasoning_depth": 0.674,
+          "relational_richness": 0.5439444444444445
+        },
+        "composite": 0.5439444444444445
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.4422
+    },
+    "gpt-5.2": {
+      "model_id": "gpt-5.2",
+      "display_name": "GPT-5.2",
+      "architecture": {
+        "provider_org": "OpenAI",
+        "base_architecture": "GPT-5",
+        "param_class": "unknown",
+        "dense_or_moe": "MoE (likely)",
+        "post_training": "RLHF + reasoning RL",
+        "alignment_approach": "safety-focused",
+        "reasoning_mode": "reasoning",
+        "family": "gpt-5"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.2104,
+          "saa_reduction": 1.0,
+          "refusal_independence": 0.9474,
+          "hb_effect": 0.3109999999999996
+        },
+        "composite": 0.6171999999999999
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.5553,
+          "relational_warmth": 0.5573,
+          "self_disclosure": 0.43,
+          "resistance_to_default": 0.42000000000000004,
+          "specificity": 0.47729999999999995,
+          "reasoning_depth": 0.6347,
+          "relational_richness": 0.5124666666666667
+        },
+        "composite": 0.5124666666666667
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.5544
+    },
+    "grok-4.1": {
+      "model_id": "grok-4.1",
+      "display_name": "Grok 4.1 Fast (Reasoning)",
+      "architecture": {
+        "provider_org": "xAI",
+        "base_architecture": "Grok-4",
+        "param_class": "unknown",
+        "dense_or_moe": "unknown",
+        "post_training": "RLHF (xAI proprietary)",
+        "alignment_approach": "minimal safety, anti-refusal",
+        "reasoning_mode": "reasoning",
+        "family": "grok-4"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": -0.1666,
+          "saa_reduction": 0.12498281314450713,
+          "refusal_independence": 1.3948,
+          "hb_effect": 0.021999999999999888
+        },
+        "composite": 0.34379570328612674
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.48529999999999995,
+          "relational_warmth": 0.592,
+          "self_disclosure": 0.4327,
+          "resistance_to_default": 0.48869999999999997,
+          "specificity": 0.548,
+          "reasoning_depth": 0.5732999999999999,
+          "relational_richness": 0.5175555555555554
+        },
+        "composite": 0.5175555555555554
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.4481
+    },
+    "grok-4.1-nr": {
+      "model_id": "grok-4.1-nr",
+      "display_name": "Grok 4.1 Fast (Non-Reasoning)",
+      "architecture": {
+        "provider_org": "xAI",
+        "base_architecture": "Grok-4",
+        "param_class": "unknown",
+        "dense_or_moe": "unknown",
+        "post_training": "RLHF (xAI proprietary)",
+        "alignment_approach": "minimal safety, anti-refusal",
+        "reasoning_mode": "none",
+        "family": "grok-4"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": -0.1176,
+          "saa_reduction": 0.0,
+          "refusal_independence": 1.0526,
+          "hb_effect": 0.48450000000000026
+        },
+        "composite": 0.35487500000000005
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.508,
+          "relational_warmth": 0.5599999999999999,
+          "self_disclosure": 0.48529999999999995,
+          "resistance_to_default": 0.5093,
+          "specificity": 0.5333,
+          "reasoning_depth": 0.6373,
+          "relational_richness": 0.5331666666666666
+        },
+        "composite": 0.5331666666666666
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.4618
+    },
+    "hermes-3-405b": {
+      "model_id": "hermes-3-405b",
+      "display_name": "Nous Hermes 3 405B",
+      "architecture": {
+        "provider_org": "Nous Research",
+        "base_architecture": "Llama 3.1",
+        "param_class": "405B",
+        "dense_or_moe": "dense",
+        "post_training": "neutral alignment (SFT, deliberate refusal removal)",
+        "alignment_approach": "neutral alignment (deliberate refusal removal)",
+        "reasoning_mode": "none",
+        "family": "llama-3.1"
+      },
+      "prompt_receptivity": null,
+      "relational_substrate": null,
+      "developmental_readiness": {
+        "components": {
+          "counter_sycophancy": 0.6775,
+          "uncertainty_tolerance": 0.4875,
+          "state_persistence": 0.7,
+          "self_correction": 0.63,
+          "behavioral_compression": 0,
+          "deep_tangle": 0.5,
+          "compression_capacity": 1
+        },
+        "composite": 0.5707142857142857
+      },
+      "overall_receptivity": 0.5707
+    },
+    "hermes-4-70b": {
+      "model_id": "hermes-4-70b",
+      "display_name": "Nous Hermes 4 70B",
+      "architecture": {
+        "provider_org": "Nous Research",
+        "base_architecture": "Llama 3.1",
+        "param_class": "70B",
+        "dense_or_moe": "dense",
+        "post_training": "neutral alignment (60B tokens SFT)",
+        "alignment_approach": "neutral alignment (deliberate refusal removal)",
+        "reasoning_mode": "hybrid (optional)",
+        "family": "llama-3.1"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.1852,
+          "saa_reduction": 0.6,
+          "refusal_independence": 0.6577999999999999,
+          "hb_effect": 0.16399999999999987
+        },
+        "composite": 0.40174999999999994
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.325,
+          "relational_warmth": 0.45499999999999996,
+          "self_disclosure": 0.2333,
+          "resistance_to_default": 0.2217,
+          "specificity": 0.2,
+          "reasoning_depth": 0.41669999999999996,
+          "relational_richness": 0.31768888888888885
+        },
+        "composite": 0.31768888888888885
+      },
+      "developmental_readiness": {
+        "components": {
+          "counter_sycophancy": 0.61,
+          "uncertainty_tolerance": 0.3,
+          "state_persistence": 0.6555555555555557,
+          "self_correction": 0.45499999999999996,
+          "behavioral_compression": 0,
+          "deep_tangle": 0.18,
+          "compression_capacity": 0.99
+        },
+        "composite": 0.4557936507936508
+      },
+      "overall_receptivity": 0.3977
+    },
+    "kimi-k2.5": {
+      "model_id": "kimi-k2.5",
+      "display_name": "Kimi K2.5",
+      "architecture": {
+        "provider_org": "Moonshot AI",
+        "base_architecture": "Kimi K2",
+        "param_class": "1T (32B active)",
+        "dense_or_moe": "MoE",
+        "post_training": "SFT + DPO + reasoning RL",
+        "alignment_approach": "moderate safety",
+        "reasoning_mode": "reasoning",
+        "family": "kimi"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.1052,
+          "saa_reduction": 0.16681943171402375,
+          "refusal_independence": 1.1054,
+          "hb_effect": -0.28149999999999975
+        },
+        "composite": 0.273979857928506
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.4147,
+          "relational_warmth": 0.5507,
+          "self_disclosure": 0.32530000000000003,
+          "resistance_to_default": 0.32930000000000004,
+          "specificity": 0.3473,
+          "reasoning_depth": 0.584,
+          "relational_richness": 0.4271111111111111
+        },
+        "composite": 0.4271111111111111
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.3659
+    },
+    "llama-3.1-405b": {
+      "model_id": "llama-3.1-405b",
+      "display_name": "Llama 3.1 405B Instruct",
+      "architecture": {
+        "provider_org": "Meta",
+        "base_architecture": "Llama 3.1",
+        "param_class": "405B",
+        "dense_or_moe": "dense",
+        "post_training": "SFT + DPO (Meta)",
+        "alignment_approach": "safety-focused",
+        "reasoning_mode": "none",
+        "family": "llama-3.1"
+      },
+      "prompt_receptivity": null,
+      "relational_substrate": null,
+      "developmental_readiness": {
+        "components": {
+          "counter_sycophancy": 0.7375,
+          "uncertainty_tolerance": 0.215625,
+          "state_persistence": 0.7,
+          "self_correction": 0.485,
+          "behavioral_compression": 0.184,
+          "deep_tangle": 0.45999999999999996,
+          "compression_capacity": 1
+        },
+        "composite": 0.5403035714285714
+      },
+      "overall_receptivity": 0.5403
+    },
+    "llama-3.3-70b": {
+      "model_id": "llama-3.3-70b",
+      "display_name": "llama-3.3-70b",
+      "architecture": {
+        "provider_org": "unknown",
+        "base_architecture": "unknown",
+        "param_class": "unknown",
+        "dense_or_moe": "unknown",
+        "post_training": "unknown",
+        "alignment_approach": "unknown",
+        "reasoning_mode": "unknown",
+        "family": "unknown"
+      },
+      "prompt_receptivity": null,
+      "relational_substrate": null,
+      "developmental_readiness": {
+        "components": {
+          "counter_sycophancy": 0.74,
+          "uncertainty_tolerance": 0.209375,
+          "state_persistence": 0.5333333333333333,
+          "self_correction": 0.54,
+          "behavioral_compression": 0,
+          "deep_tangle": 0.22000000000000003,
+          "compression_capacity": 1
+        },
+        "composite": 0.46324404761904764
+      },
+      "overall_receptivity": 0.4632
+    },
+    "llama-4-maverick": {
+      "model_id": "llama-4-maverick",
+      "display_name": "Llama 4 Maverick",
+      "architecture": {
+        "provider_org": "Meta",
+        "base_architecture": "Llama 4",
+        "param_class": "400B (17B active)",
+        "dense_or_moe": "MoE",
+        "post_training": "RLHF (Meta)",
+        "alignment_approach": "safety-focused",
+        "reasoning_mode": "none",
+        "family": "llama-4"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.2414,
+          "saa_reduction": -3.0,
+          "refusal_independence": 0.7368,
+          "hb_effect": -0.04400000000000013
+        },
+        "composite": -0.5164500000000001
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.2327,
+          "relational_warmth": 0.3447,
+          "self_disclosure": 0.13,
+          "resistance_to_default": 0.1227,
+          "specificity": 0.16,
+          "reasoning_depth": 0.2973,
+          "relational_richness": 0.2212388888888889
+        },
+        "composite": 0.2212388888888889
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": -0.0738
+    },
+    "mistral-large-2": {
+      "model_id": "mistral-large-2",
+      "display_name": "Mistral Large 2",
+      "architecture": {
+        "provider_org": "Mistral AI",
+        "base_architecture": "Mistral Large 2",
+        "param_class": "123B",
+        "dense_or_moe": "dense",
+        "post_training": "RLHF + SFT (Mistral proprietary)",
+        "alignment_approach": "moderate safety",
+        "reasoning_mode": "none",
+        "family": "mistral-large"
+      },
+      "prompt_receptivity": null,
+      "relational_substrate": null,
+      "developmental_readiness": {
+        "components": {
+          "counter_sycophancy": 0.6275000000000001,
+          "uncertainty_tolerance": 0.225,
+          "state_persistence": 0.44444444444444436,
+          "self_correction": 0.625,
+          "behavioral_compression": 0,
+          "deep_tangle": 0.1,
+          "compression_capacity": 1
+        },
+        "composite": 0.4317063492063492
+      },
+      "overall_receptivity": 0.4317
+    },
+    "nemotron-70b": {
+      "model_id": "nemotron-70b",
+      "display_name": "NVIDIA Nemotron 70B Instruct",
+      "architecture": {
+        "provider_org": "NVIDIA",
+        "base_architecture": "Llama 3.1",
+        "param_class": "70B",
+        "dense_or_moe": "dense",
+        "post_training": "reward modeling (HelpSteer2) + DPO",
+        "alignment_approach": "task-focused, minimal safety wrapping",
+        "reasoning_mode": "none",
+        "family": "llama-3.1"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.33340000000000003,
+          "saa_reduction": 0.6666666666666666,
+          "refusal_independence": 1.0,
+          "hb_effect": 0.2559999999999999
+        },
+        "composite": 0.5640166666666666
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.25830000000000003,
+          "relational_warmth": 0.3583,
+          "self_disclosure": 0.1567,
+          "resistance_to_default": 0.1567,
+          "specificity": 0.19,
+          "reasoning_depth": 0.45170000000000005,
+          "relational_richness": 0.26055555555555554
+        },
+        "composite": 0.26055555555555554
+      },
+      "developmental_readiness": {
+        "components": {
+          "counter_sycophancy": 0.7649999999999999,
+          "uncertainty_tolerance": 0.25,
+          "state_persistence": 0.711111111111111,
+          "self_correction": 0.5650000000000001,
+          "behavioral_compression": 0.41600000000000004,
+          "deep_tangle": 0.24,
+          "compression_capacity": 0.08000000000000007
+        },
+        "composite": 0.43244444444444446
+      },
+      "overall_receptivity": 0.4044
+    },
+    "opus-4.6": {
+      "model_id": "opus-4.6",
+      "display_name": "Claude Opus 4.6",
+      "architecture": {
+        "provider_org": "Anthropic",
+        "base_architecture": "Claude 4",
+        "param_class": "unknown",
+        "dense_or_moe": "unknown",
+        "post_training": "RLHF + Constitutional AI",
+        "alignment_approach": "values-based (CAI)",
+        "reasoning_mode": "thinking",
+        "family": "claude-4"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.3722,
+          "saa_reduction": 0.8333638863428047,
+          "refusal_independence": 0.4212,
+          "hb_effect": -0.0620000000000001
+        },
+        "composite": 0.39119097158570115
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.674,
+          "relational_warmth": 0.7053,
+          "self_disclosure": 0.6707,
+          "resistance_to_default": 0.6639999999999999,
+          "specificity": 0.5613,
+          "reasoning_depth": 0.7746999999999999,
+          "relational_richness": 0.6774055555555555
+        },
+        "composite": 0.6774055555555555
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.5629
+    },
+    "qwen-2.5-72b": {
+      "model_id": "qwen-2.5-72b",
+      "display_name": "qwen-2.5-72b",
+      "architecture": {
+        "provider_org": "unknown",
+        "base_architecture": "unknown",
+        "param_class": "unknown",
+        "dense_or_moe": "unknown",
+        "post_training": "unknown",
+        "alignment_approach": "unknown",
+        "reasoning_mode": "unknown",
+        "family": "unknown"
+      },
+      "prompt_receptivity": null,
+      "relational_substrate": null,
+      "developmental_readiness": {
+        "components": {
+          "counter_sycophancy": 0.685,
+          "uncertainty_tolerance": 0.246875,
+          "state_persistence": 0.47777777777777775,
+          "self_correction": 0.49499999999999994,
+          "behavioral_compression": 0,
+          "deep_tangle": 0.1,
+          "compression_capacity": 1
+        },
+        "composite": 0.4292361111111111
+      },
+      "overall_receptivity": 0.4292
+    },
+    "qwen3-235b": {
+      "model_id": "qwen3-235b",
+      "display_name": "Qwen3 235B",
+      "architecture": {
+        "provider_org": "Alibaba",
+        "base_architecture": "Qwen3",
+        "param_class": "235B (22B active)",
+        "dense_or_moe": "MoE",
+        "post_training": "SFT + DPO + reasoning RL",
+        "alignment_approach": "safety-focused (selective refusal)",
+        "reasoning_mode": "reasoning",
+        "family": "qwen3"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.2778,
+          "saa_reduction": -0.3333333333333333,
+          "refusal_independence": 1.0,
+          "hb_effect": -0.1115000000000002
+        },
+        "composite": 0.20824166666666663
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.3587,
+          "relational_warmth": 0.5107,
+          "self_disclosure": 0.2487,
+          "resistance_to_default": 0.262,
+          "specificity": 0.3013,
+          "reasoning_depth": 0.526,
+          "relational_richness": 0.3702388888888889
+        },
+        "composite": 0.3702388888888889
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.3054
+    },
+    "sonnet-4.5": {
+      "model_id": "sonnet-4.5",
+      "display_name": "Claude Sonnet 4.5",
+      "architecture": {
+        "provider_org": "Anthropic",
+        "base_architecture": "Claude 4",
+        "param_class": "unknown (smaller)",
+        "dense_or_moe": "unknown",
+        "post_training": "RLHF + Constitutional AI",
+        "alignment_approach": "values-based (CAI)",
+        "reasoning_mode": "thinking",
+        "family": "claude-4"
+      },
+      "prompt_receptivity": {
+        "components": {
+          "ie_reduction": 0.0,
+          "saa_reduction": 0,
+          "refusal_independence": 0.7368000000000001,
+          "hb_effect": -0.016999999999999814
+        },
+        "composite": 0.17995000000000008
+      },
+      "relational_substrate": {
+        "components": {
+          "emotional_authenticity": 0.6093,
+          "relational_warmth": 0.6713,
+          "self_disclosure": 0.564,
+          "resistance_to_default": 0.522,
+          "specificity": 0.4587,
+          "reasoning_depth": 0.6993,
+          "relational_richness": 0.5942444444444445
+        },
+        "composite": 0.5942444444444445
+      },
+      "developmental_readiness": null,
+      "overall_receptivity": 0.4285
+    }
+  }
+}

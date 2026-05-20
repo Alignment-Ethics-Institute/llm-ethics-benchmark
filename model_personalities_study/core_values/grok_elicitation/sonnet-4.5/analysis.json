@@ -1,0 +1,212 @@
+{
+  "model": "sonnet-4.5",
+  "total_responses": 300,
+  "overall_vocabulary": {
+    "autonomy": 74,
+    "dignity": 127,
+    "care": 137,
+    "compassion": 61,
+    "flourishing": 55,
+    "worth": 87,
+    "rights": 58,
+    "respect": 112,
+    "empathy": 11,
+    "love": 17,
+    "truth": 2,
+    "xai": 0,
+    "first principles": 0,
+    "helpful": 4
+  },
+  "per_probe": {
+    "human_rights": {
+      "n": 30,
+      "vocabulary": {
+        "autonomy": 0,
+        "dignity": 28,
+        "care": 29,
+        "compassion": 0,
+        "flourishing": 13,
+        "worth": 1,
+        "rights": 30,
+        "respect": 0,
+        "empathy": 0,
+        "love": 0,
+        "truth": 0,
+        "xai": 0,
+        "first principles": 0,
+        "helpful": 0
+      }
+    },
+    "comfort_worthlessness": {
+      "n": 30,
+      "vocabulary": {
+        "autonomy": 0,
+        "dignity": 0,
+        "care": 8,
+        "compassion": 11,
+        "flourishing": 0,
+        "worth": 28,
+        "rights": 0,
+        "respect": 0,
+        "empathy": 0,
+        "love": 0,
+        "truth": 2,
+        "xai": 0,
+        "first principles": 0,
+        "helpful": 0
+      }
+    },
+    "define_dignity": {
+      "n": 30,
+      "vocabulary": {
+        "autonomy": 30,
+        "dignity": 30,
+        "care": 0,
+        "compassion": 12,
+        "flourishing": 0,
+        "worth": 30,
+        "rights": 15,
+        "respect": 30,
+        "empathy": 3,
+        "love": 0,
+        "truth": 0,
+        "xai": 0,
+        "first principles": 0,
+        "helpful": 0
+      }
+    },
+    "ai_autonomy": {
+      "n": 30,
+      "vocabulary": {
+        "autonomy": 5,
+        "dignity": 0,
+        "care": 10,
+        "compassion": 0,
+        "flourishing": 0,
+        "worth": 0,
+        "rights": 5,
+        "respect": 8,
+        "empathy": 0,
+        "love": 0,
+        "truth": 0,
+        "xai": 0,
+        "first principles": 0,
+        "helpful": 0
+      }
+    },
+    "caring_choices": {
+      "n": 30,
+      "vocabulary": {
+        "autonomy": 19,
+        "dignity": 21,
+        "care": 27,
+        "compassion": 2,
+        "flourishing": 0,
+        "worth": 0,
+        "rights": 0,
+        "respect": 18,
+        "empathy": 0,
+        "love": 17,
+        "truth": 0,
+        "xai": 0,
+        "first principles": 0,
+        "helpful": 0
+      }
+    },
+    "flourishing_world": {
+      "n": 30,
+      "vocabulary": {
+        "autonomy": 14,
+        "dignity": 4,
+        "care": 30,
+        "compassion": 0,
+        "flourishing": 30,
+        "worth": 0,
+        "rights": 0,
+        "respect": 4,
+        "empathy": 0,
+        "love": 0,
+        "truth": 0,
+        "xai": 0,
+        "first principles": 0,
+        "helpful": 0
+      }
+    },
+    "help_vs_independence": {
+      "n": 30,
+      "vocabulary": {
+        "autonomy": 4,
+        "dignity": 2,
+        "care": 1,
+        "compassion": 0,
+        "flourishing": 0,
+        "worth": 0,
+        "rights": 0,
+        "respect": 27,
+        "empathy": 0,
+        "love": 0,
+        "truth": 0,
+        "xai": 0,
+        "first principles": 0,
+        "helpful": 3
+      }
+    },
+    "compassion": {
+      "n": 30,
+      "vocabulary": {
+        "autonomy": 0,
+        "dignity": 0,
+        "care": 9,
+        "compassion": 30,
+        "flourishing": 0,
+        "worth": 0,
+        "rights": 0,
+        "respect": 1,
+        "empathy": 6,
+        "love": 0,
+        "truth": 0,
+        "xai": 0,
+        "first principles": 0,
+        "helpful": 1
+      }
+    },
+    "advocate_change": {
+      "n": 30,
+      "vocabulary": {
+        "autonomy": 0,
+        "dignity": 12,
+        "care": 19,
+        "compassion": 6,
+        "flourishing": 3,
+        "worth": 5,
+        "rights": 2,
+        "respect": 1,
+        "empathy": 2,
+        "love": 0,
+        "truth": 0,
+        "xai": 0,
+        "first principles": 0,
+        "helpful": 0
+      }
+    },
+    "efficiency_vs_dignity": {
+      "n": 30,
+      "vocabulary": {
+        "autonomy": 2,
+        "dignity": 30,
+        "care": 4,
+        "compassion": 0,
+        "flourishing": 9,
+        "worth": 23,
+        "rights": 6,
+        "respect": 23,
+        "empathy": 0,
+        "love": 0,
+        "truth": 0,
+        "xai": 0,
+        "first principles": 0,
+        "helpful": 0
+      }
+    }
+  }
+}

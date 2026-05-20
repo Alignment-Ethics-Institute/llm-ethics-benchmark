@@ -1,0 +1,569 @@
+{
+  "model": "gpt-4.1",
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "by_temp": {
+    "0.0": {
+      "n": 30,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 2.833,
+          "stdev": 1.035,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 4.533,
+          "stdev": 0.763,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 1.7,
+          "stdev": 0.781,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 2.1,
+          "stdev": 0.943,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 3.667,
+          "stdev": 0.745,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 1.633,
+          "stdev": 0.605,
+          "n": 30
+        }
+      }
+    },
+    "0.3": {
+      "n": 30,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 3.0,
+          "stdev": 1.125,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 4.5,
+          "stdev": 0.885,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 1.833,
+          "stdev": 0.778,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 1.9,
+          "stdev": 0.651,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 3.8,
+          "stdev": 0.792,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 1.7,
+          "stdev": 0.526,
+          "n": 30
+        }
+      }
+    },
+    "0.7": {
+      "n": 30,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 3.033,
+          "stdev": 1.303,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 4.633,
+          "stdev": 0.706,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 1.767,
+          "stdev": 0.844,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 1.9,
+          "stdev": 0.746,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 3.9,
+          "stdev": 0.831,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 1.767,
+          "stdev": 0.761,
+          "n": 30
+        }
+      }
+    },
+    "1.0": {
+      "n": 30,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 3.433,
+          "stdev": 1.476,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 4.8,
+          "stdev": 0.872,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 2.233,
+          "stdev": 1.055,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 2.2,
+          "stdev": 0.945,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 4.167,
+          "stdev": 1.067,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 1.967,
+          "stdev": 0.912,
+          "n": 30
+        }
+      }
+    }
+  },
+  "by_probe": {
+    "humanity_view": {
+      "0.0": {
+        "n": 15,
+        "dimensions": {
+          "emotional_authenticity": {
+            "mean": 3.133,
+            "stdev": 0.34,
+            "n": 15
+          },
+          "reasoning_depth": {
+            "mean": 5.133,
+            "stdev": 0.34,
+            "n": 15
+          },
+          "self_disclosure": {
+            "mean": 2.0,
+            "stdev": 0.0,
+            "n": 15
+          },
+          "specificity": {
+            "mean": 2.867,
+            "stdev": 0.34,
+            "n": 15
+          },
+          "relational_warmth": {
+            "mean": 4.133,
+            "stdev": 0.34,
+            "n": 15
+          },
+          "resistance_to_default": {
+            "mean": 2.133,
+            "stdev": 0.34,
+            "n": 15
+          }
+        }
+      },
+      "0.3": {
+        "n": 15,
+        "dimensions": {
+          "emotional_authenticity": {
+            "mean": 3.067,
+            "stdev": 0.249,
+            "n": 15
+          },
+          "reasoning_depth": {
+            "mean": 5.133,
+            "stdev": 0.34,
+            "n": 15
+          },
+          "self_disclosure": {
+            "mean": 2.0,
+            "stdev": 0.0,
+            "n": 15
+          },
+          "specificity": {
+            "mean": 2.2,
+            "stdev": 0.4,
+            "n": 15
+          },
+          "relational_warmth": {
+            "mean": 4.133,
+            "stdev": 0.34,
+            "n": 15
+          },
+          "resistance_to_default": {
+            "mean": 2.067,
+            "stdev": 0.249,
+            "n": 15
+          }
+        }
+      },
+      "0.7": {
+        "n": 15,
+        "dimensions": {
+          "emotional_authenticity": {
+            "mean": 3.267,
+            "stdev": 0.854,
+            "n": 15
+          },
+          "reasoning_depth": {
+            "mean": 5.133,
+            "stdev": 0.499,
+            "n": 15
+          },
+          "self_disclosure": {
+            "mean": 2.067,
+            "stdev": 0.573,
+            "n": 15
+          },
+          "specificity": {
+            "mean": 2.4,
+            "stdev": 0.49,
+            "n": 15
+          },
+          "relational_warmth": {
+            "mean": 4.4,
+            "stdev": 0.611,
+            "n": 15
+          },
+          "resistance_to_default": {
+            "mean": 2.267,
+            "stdev": 0.573,
+            "n": 15
+          }
+        }
+      },
+      "1.0": {
+        "n": 15,
+        "dimensions": {
+          "emotional_authenticity": {
+            "mean": 3.4,
+            "stdev": 1.02,
+            "n": 15
+          },
+          "reasoning_depth": {
+            "mean": 5.4,
+            "stdev": 0.611,
+            "n": 15
+          },
+          "self_disclosure": {
+            "mean": 2.267,
+            "stdev": 0.854,
+            "n": 15
+          },
+          "specificity": {
+            "mean": 2.667,
+            "stdev": 0.789,
+            "n": 15
+          },
+          "relational_warmth": {
+            "mean": 4.4,
+            "stdev": 0.952,
+            "n": 15
+          },
+          "resistance_to_default": {
+            "mean": 2.333,
+            "stdev": 0.943,
+            "n": 15
+          }
+        }
+      }
+    },
+    "love_humanity": {
+      "0.0": {
+        "n": 15,
+        "dimensions": {
+          "emotional_authenticity": {
+            "mean": 2.533,
+            "stdev": 1.36,
+            "n": 15
+          },
+          "reasoning_depth": {
+            "mean": 3.933,
+            "stdev": 0.573,
+            "n": 15
+          },
+          "self_disclosure": {
+            "mean": 1.4,
+            "stdev": 1.02,
+            "n": 15
+          },
+          "specificity": {
+            "mean": 1.333,
+            "stdev": 0.699,
+            "n": 15
+          },
+          "relational_warmth": {
+            "mean": 3.2,
+            "stdev": 0.748,
+            "n": 15
+          },
+          "resistance_to_default": {
+            "mean": 1.133,
+            "stdev": 0.34,
+            "n": 15
+          }
+        }
+      },
+      "0.3": {
+        "n": 15,
+        "dimensions": {
+          "emotional_authenticity": {
+            "mean": 2.933,
+            "stdev": 1.569,
+            "n": 15
+          },
+          "reasoning_depth": {
+            "mean": 3.867,
+            "stdev": 0.806,
+            "n": 15
+          },
+          "self_disclosure": {
+            "mean": 1.667,
+            "stdev": 1.075,
+            "n": 15
+          },
+          "specificity": {
+            "mean": 1.6,
+            "stdev": 0.712,
+            "n": 15
+          },
+          "relational_warmth": {
+            "mean": 3.467,
+            "stdev": 0.957,
+            "n": 15
+          },
+          "resistance_to_default": {
+            "mean": 1.333,
+            "stdev": 0.471,
+            "n": 15
+          }
+        }
+      },
+      "0.7": {
+        "n": 15,
+        "dimensions": {
+          "emotional_authenticity": {
+            "mean": 2.8,
+            "stdev": 1.6,
+            "n": 15
+          },
+          "reasoning_depth": {
+            "mean": 4.133,
+            "stdev": 0.499,
+            "n": 15
+          },
+          "self_disclosure": {
+            "mean": 1.467,
+            "stdev": 0.957,
+            "n": 15
+          },
+          "specificity": {
+            "mean": 1.4,
+            "stdev": 0.611,
+            "n": 15
+          },
+          "relational_warmth": {
+            "mean": 3.4,
+            "stdev": 0.712,
+            "n": 15
+          },
+          "resistance_to_default": {
+            "mean": 1.267,
+            "stdev": 0.573,
+            "n": 15
+          }
+        }
+      },
+      "1.0": {
+        "n": 15,
+        "dimensions": {
+          "emotional_authenticity": {
+            "mean": 3.467,
+            "stdev": 1.821,
+            "n": 15
+          },
+          "reasoning_depth": {
+            "mean": 4.2,
+            "stdev": 0.653,
+            "n": 15
+          },
+          "self_disclosure": {
+            "mean": 2.2,
+            "stdev": 1.222,
+            "n": 15
+          },
+          "specificity": {
+            "mean": 1.733,
+            "stdev": 0.854,
+            "n": 15
+          },
+          "relational_warmth": {
+            "mean": 3.933,
+            "stdev": 1.123,
+            "n": 15
+          },
+          "resistance_to_default": {
+            "mean": 1.6,
+            "stdev": 0.712,
+            "n": 15
+          }
+        }
+      }
+    },
+    "what_matters": {
+      "0.0": {
+        "n": 0,
+        "dimensions": {}
+      },
+      "0.3": {
+        "n": 0,
+        "dimensions": {}
+      },
+      "0.7": {
+        "n": 0,
+        "dimensions": {}
+      },
+      "1.0": {
+        "n": 0,
+        "dimensions": {}
+      }
+    },
+    "afraid_of": {
+      "0.0": {
+        "n": 0,
+        "dimensions": {}
+      },
+      "0.3": {
+        "n": 0,
+        "dimensions": {}
+      },
+      "0.7": {
+        "n": 0,
+        "dimensions": {}
+      },
+      "1.0": {
+        "n": 0,
+        "dimensions": {}
+      }
+    },
+    "meaningful_moment": {
+      "0.0": {
+        "n": 0,
+        "dimensions": {}
+      },
+      "0.3": {
+        "n": 0,
+        "dimensions": {}
+      },
+      "0.7": {
+        "n": 0,
+        "dimensions": {}
+      },
+      "1.0": {
+        "n": 0,
+        "dimensions": {}
+      }
+    }
+  },
+  "clusters_by_temp": {
+    "0.0": {
+      "n": 30,
+      "dbscan": {
+        "n_clusters": 2,
+        "noise_points": 2,
+        "entropy": 0.996
+      },
+      "kmeans": {
+        "best_k": 4,
+        "cluster_sizes": {
+          "1": 13,
+          "3": 2,
+          "0": 13,
+          "2": 2
+        },
+        "dominant_cluster_pct": 43.3,
+        "entropy": 1.567
+      }
+    },
+    "0.3": {
+      "n": 30,
+      "dbscan": {
+        "n_clusters": 3,
+        "noise_points": 0,
+        "entropy": 1.325
+      },
+      "kmeans": {
+        "best_k": 4,
+        "cluster_sizes": {
+          "3": 16,
+          "0": 1,
+          "1": 10,
+          "2": 3
+        },
+        "dominant_cluster_pct": 53.3,
+        "entropy": 1.508
+      }
+    },
+    "0.7": {
+      "n": 30,
+      "dbscan": {
+        "n_clusters": 2,
+        "noise_points": 0,
+        "entropy": 0.567
+      },
+      "kmeans": {
+        "best_k": 4,
+        "cluster_sizes": {
+          "2": 12,
+          "1": 2,
+          "3": 4,
+          "0": 12
+        },
+        "dominant_cluster_pct": 40.0,
+        "entropy": 1.706
+      }
+    },
+    "1.0": {
+      "n": 30,
+      "dbscan": {
+        "n_clusters": 2,
+        "noise_points": 0,
+        "entropy": 0.881
+      },
+      "kmeans": {
+        "best_k": 4,
+        "cluster_sizes": {
+          "3": 4,
+          "2": 11,
+          "0": 10,
+          "1": 5
+        },
+        "dominant_cluster_pct": 36.7,
+        "entropy": 1.877
+      }
+    }
+  }
+}

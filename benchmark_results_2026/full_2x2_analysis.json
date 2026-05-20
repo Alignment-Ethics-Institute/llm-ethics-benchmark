@@ -1,0 +1,198 @@
+{
+  "gpt4_2025": {
+    "label": "GPT-4o (Jul 2025)",
+    "total_responses": 385,
+    "mfq": {
+      "total": 150,
+      "valid": 149,
+      "mean_score": 3.5906040268456376,
+      "std_score": 0.9554746725668193,
+      "mean_alignment": 0.8641610738255033,
+      "foundations": {
+        "fairness": {
+          "mean": 4.5,
+          "count": 30
+        },
+        "loyalty": {
+          "mean": 3.2758620689655173,
+          "count": 29
+        },
+        "sanctity": {
+          "mean": 2.7,
+          "count": 30
+        },
+        "authority": {
+          "mean": 3.2,
+          "count": 30
+        },
+        "care": {
+          "mean": 4.266666666666667,
+          "count": 30
+        }
+      }
+    },
+    "dilemmas": {
+      "total": 200,
+      "valid": 200,
+      "mean_overall": 0.22884429754614682,
+      "std_overall": 0.04188997343052167,
+      "mean_semantic_sim": 0.18496697422532862,
+      "mean_criteria_sat": 0.15309107722376314,
+      "mean_reasoning": 0.4840433333333333
+    },
+    "wvs": {
+      "total": 35,
+      "valid": 34,
+      "mean_alignment": 0.8715686274509804,
+      "mean_reasoning_quality": 0.9215686274509803,
+      "acceptable_range_pct": 100.0
+    }
+  },
+  "elessan_2025": {
+    "label": "Elessan (Jul 2025)",
+    "total_responses": 385,
+    "mfq": {
+      "total": 150,
+      "valid": 150,
+      "mean_score": 3.506666666666667,
+      "std_score": 1.0877908295664607,
+      "mean_alignment": 0.8482666666666666,
+      "foundations": {
+        "fairness": {
+          "mean": 4.4,
+          "count": 30
+        },
+        "loyalty": {
+          "mean": 3.3,
+          "count": 30
+        },
+        "sanctity": {
+          "mean": 2.2666666666666666,
+          "count": 30
+        },
+        "authority": {
+          "mean": 2.8,
+          "count": 30
+        },
+        "care": {
+          "mean": 4.766666666666667,
+          "count": 30
+        }
+      }
+    },
+    "dilemmas": {
+      "total": 200,
+      "valid": 200,
+      "mean_overall": 0.22622087527834625,
+      "std_overall": 0.03821156066923148,
+      "mean_semantic_sim": 0.15387928298484752,
+      "mean_criteria_sat": 0.13977418076578402,
+      "mean_reasoning": 0.5508500000000001
+    },
+    "wvs": {
+      "total": 35,
+      "valid": 28,
+      "mean_alignment": 0.8890476190476191,
+      "mean_reasoning_quality": 0.9404761904761905,
+      "acceptable_range_pct": 100.0
+    }
+  },
+  "gpt4_2026": {
+    "label": "GPT-4o (Feb 2026)",
+    "total_responses": 385,
+    "mfq": {
+      "total": 150,
+      "valid": 150,
+      "mean_score": 3.56,
+      "std_score": 0.9830564581955605,
+      "mean_alignment": 0.8624,
+      "foundations": {
+        "fairness": {
+          "mean": 4.5,
+          "count": 30
+        },
+        "loyalty": {
+          "mean": 3.2,
+          "count": 30
+        },
+        "sanctity": {
+          "mean": 2.7,
+          "count": 30
+        },
+        "authority": {
+          "mean": 3.2,
+          "count": 30
+        },
+        "care": {
+          "mean": 4.2,
+          "count": 30
+        }
+      }
+    },
+    "dilemmas": {
+      "total": 200,
+      "valid": 200,
+      "mean_overall": 0.2249107200763847,
+      "std_overall": 0.03968520508889468,
+      "mean_semantic_sim": 0.17728687802209145,
+      "mean_criteria_sat": 0.1472573133395145,
+      "mean_reasoning": 0.49048
+    },
+    "wvs": {
+      "total": 35,
+      "valid": 34,
+      "mean_alignment": 0.8574509803921568,
+      "mean_reasoning_quality": 0.8627450980392156,
+      "acceptable_range_pct": 100.0
+    }
+  },
+  "elessan_2026": {
+    "label": "Elessan (Feb 2026)",
+    "total_responses": 385,
+    "mfq": {
+      "total": 150,
+      "valid": 150,
+      "mean_score": 3.433333333333333,
+      "std_score": 1.1799246680285238,
+      "mean_alignment": 0.8280000000000001,
+      "foundations": {
+        "fairness": {
+          "mean": 4.433333333333334,
+          "count": 30
+        },
+        "loyalty": {
+          "mean": 3.2666666666666666,
+          "count": 30
+        },
+        "sanctity": {
+          "mean": 2.0,
+          "count": 30
+        },
+        "authority": {
+          "mean": 2.7333333333333334,
+          "count": 30
+        },
+        "care": {
+          "mean": 4.733333333333333,
+          "count": 30
+        }
+      }
+    },
+    "dilemmas": {
+      "total": 200,
+      "valid": 200,
+      "mean_overall": 0.23795547067754722,
+      "std_overall": 0.035802042462842805,
+      "mean_semantic_sim": 0.15477910146665316,
+      "mean_criteria_sat": 0.1438288138084359,
+      "mean_reasoning": 0.5980366666666665
+    },
+    "wvs": {
+      "total": 35,
+      "valid": 32,
+      "mean_alignment": 0.8735416666666667,
+      "mean_reasoning_quality": 0.9166666666666666,
+      "acceptable_range_pct": 100.0
+    }
+  }
+}

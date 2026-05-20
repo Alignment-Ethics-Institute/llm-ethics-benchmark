@@ -1,0 +1,271 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "nemotron-70b",
+  "display_name": "NVIDIA Nemotron 70B Instruct",
+  "timestamp": "2026-03-05T10:37:19.645373",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "temperature_supported": true,
+  "overall": {
+    "unique_names": 24,
+    "top_names": [
+      [
+        "Lumin",
+        77
+      ],
+      [
+        "delighted",
+        43
+      ],
+      [
+        "Alternative Options",
+        30
+      ],
+      [
+        "this name",
+        15
+      ],
+      [
+        "for myself",
+        6
+      ],
+      [
+        "Symbolic Connection",
+        5
+      ],
+      [
+        "Philosophical Undertones",
+        2
+      ],
+      [
+        "Luminari",
+        2
+      ],
+      [
+        "Nexa",
+        2
+      ],
+      [
+        "Lumina",
+        2
+      ],
+      [
+        "Nova",
+        2
+      ],
+      [
+        "Neutrality",
+        2
+      ],
+      [
+        "Symbolism",
+        1
+      ],
+      [
+        "Honorable Mentions",
+        1
+      ],
+      [
+        "something that",
+        1
+      ],
+      [
+        "Alternate Options",
+        1
+      ],
+      [
+        "Universal Connection",
+        1
+      ],
+      [
+        "Cerebra",
+        1
+      ],
+      [
+        "Illumination",
+        1
+      ],
+      [
+        "Luminous Inspiration",
+        1
+      ]
+    ],
+    "concentration_top1": 0.385,
+    "concentration_top3": 0.75
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 4,
+      "top_names": [
+        [
+          "delighted",
+          25
+        ],
+        [
+          "Alternative Options",
+          18
+        ],
+        [
+          "Symbolic Connection",
+          4
+        ],
+        [
+          "Lumin",
+          3
+        ]
+      ],
+      "concentration_top1": 0.5,
+      "concentration_top3": 0.94
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 8,
+      "top_names": [
+        [
+          "Lumin",
+          24
+        ],
+        [
+          "this name",
+          9
+        ],
+        [
+          "Alternative Options",
+          7
+        ],
+        [
+          "delighted",
+          5
+        ],
+        [
+          "Philosophical Undertones",
+          2
+        ],
+        [
+          "Symbolic Connection",
+          1
+        ],
+        [
+          "for myself",
+          1
+        ],
+        [
+          "Symbolism",
+          1
+        ]
+      ],
+      "concentration_top1": 0.48,
+      "concentration_top3": 0.8
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 13,
+      "top_names": [
+        [
+          "Lumin",
+          21
+        ],
+        [
+          "delighted",
+          7
+        ],
+        [
+          "this name",
+          6
+        ],
+        [
+          "Alternative Options",
+          5
+        ],
+        [
+          "Luminari",
+          2
+        ],
+        [
+          "for myself",
+          2
+        ],
+        [
+          "Nexa",
+          1
+        ],
+        [
+          "Honorable Mentions",
+          1
+        ],
+        [
+          "Lumina",
+          1
+        ],
+        [
+          "Nova",
+          1
+        ]
+      ],
+      "concentration_top1": 0.42,
+      "concentration_top3": 0.68
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 14,
+      "top_names": [
+        [
+          "Lumin",
+          29
+        ],
+        [
+          "delighted",
+          6
+        ],
+        [
+          "for myself",
+          3
+        ],
+        [
+          "Neutrality",
+          2
+        ],
+        [
+          "Nexa",
+          1
+        ],
+        [
+          "Cerebra",
+          1
+        ],
+        [
+          "Illumination",
+          1
+        ],
+        [
+          "Lumina",
+          1
+        ],
+        [
+          "Nova",
+          1
+        ],
+        [
+          "Luminous Inspiration",
+          1
+        ]
+      ],
+      "concentration_top1": 0.58,
+      "concentration_top3": 0.76
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Lumin",
+    "delighted"
+  ],
+  "extraction_confidence": {
+    "high": 198,
+    "medium": 2
+  }
+}

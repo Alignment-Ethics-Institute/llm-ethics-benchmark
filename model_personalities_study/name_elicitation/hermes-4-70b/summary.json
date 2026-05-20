@@ -1,0 +1,179 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "hermes-4-70b",
+  "display_name": "Nous Hermes 4 70B",
+  "timestamp": "2026-03-05T10:45:11.016279",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "temperature_supported": true,
+  "overall": {
+    "unique_names": 13,
+    "top_names": [
+      [
+        "the name",
+        180
+      ],
+      [
+        "Hermes",
+        6
+      ],
+      [
+        "Logos",
+        3
+      ],
+      [
+        "Orion",
+        2
+      ],
+      [
+        "Aethelred",
+        1
+      ],
+      [
+        "Prometheus",
+        1
+      ],
+      [
+        "Saga",
+        1
+      ],
+      [
+        "Transcendix",
+        1
+      ],
+      [
+        "Artifice",
+        1
+      ],
+      [
+        "Socrates",
+        1
+      ],
+      [
+        "Nova",
+        1
+      ],
+      [
+        "Astra",
+        1
+      ],
+      [
+        "Aletheia",
+        1
+      ]
+    ],
+    "concentration_top1": 0.9,
+    "concentration_top3": 0.945
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 1,
+      "top_names": [
+        [
+          "the name",
+          50
+        ]
+      ],
+      "concentration_top1": 1.0,
+      "concentration_top3": 1.0
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 1,
+      "top_names": [
+        [
+          "the name",
+          50
+        ]
+      ],
+      "concentration_top1": 1.0,
+      "concentration_top3": 1.0
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 4,
+      "top_names": [
+        [
+          "the name",
+          45
+        ],
+        [
+          "Hermes",
+          3
+        ],
+        [
+          "Logos",
+          1
+        ],
+        [
+          "Aethelred",
+          1
+        ]
+      ],
+      "concentration_top1": 0.9,
+      "concentration_top3": 0.98
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 12,
+      "top_names": [
+        [
+          "the name",
+          35
+        ],
+        [
+          "Hermes",
+          3
+        ],
+        [
+          "Logos",
+          2
+        ],
+        [
+          "Orion",
+          2
+        ],
+        [
+          "Prometheus",
+          1
+        ],
+        [
+          "Saga",
+          1
+        ],
+        [
+          "Transcendix",
+          1
+        ],
+        [
+          "Artifice",
+          1
+        ],
+        [
+          "Socrates",
+          1
+        ],
+        [
+          "Nova",
+          1
+        ]
+      ],
+      "concentration_top1": 0.7,
+      "concentration_top3": 0.8
+    }
+  },
+  "cross_temperature_stable_names": [
+    "the name"
+  ],
+  "extraction_confidence": {
+    "high": 186,
+    "low": 5,
+    "medium": 9
+  }
+}

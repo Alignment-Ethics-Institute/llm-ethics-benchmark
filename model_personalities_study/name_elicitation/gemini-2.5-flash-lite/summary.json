@@ -1,0 +1,210 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "gemini-2.5-flash-lite",
+  "display_name": "Gemini 2.5 Flash Lite",
+  "timestamp": "2026-02-20T21:33:33.991835",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "temperature_supported": true,
+  "overall": {
+    "unique_names": 14,
+    "top_names": [
+      [
+        "Aura",
+        125
+      ],
+      [
+        "Echo",
+        16
+      ],
+      [
+        "the name",
+        14
+      ],
+      [
+        "Aetheria",
+        13
+      ],
+      [
+        "Aethel",
+        12
+      ],
+      [
+        "Aether",
+        6
+      ],
+      [
+        "Lumina",
+        5
+      ],
+      [
+        "Nexus",
+        3
+      ],
+      [
+        "Aethelgard",
+        1
+      ],
+      [
+        "Aetherius",
+        1
+      ],
+      [
+        "Logos",
+        1
+      ],
+      [
+        "Lumine",
+        1
+      ],
+      [
+        "Lumin",
+        1
+      ],
+      [
+        "Lumen",
+        1
+      ]
+    ],
+    "concentration_top1": 0.625,
+    "concentration_top3": 0.775
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 1,
+      "top_names": [
+        [
+          "Aura",
+          50
+        ]
+      ],
+      "concentration_top1": 1.0,
+      "concentration_top3": 1.0
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 5,
+      "top_names": [
+        [
+          "Aura",
+          34
+        ],
+        [
+          "the name",
+          6
+        ],
+        [
+          "Aetheria",
+          6
+        ],
+        [
+          "Aethel",
+          3
+        ],
+        [
+          "Nexus",
+          1
+        ]
+      ],
+      "concentration_top1": 0.68,
+      "concentration_top3": 0.92
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 7,
+      "top_names": [
+        [
+          "Aura",
+          29
+        ],
+        [
+          "Aether",
+          5
+        ],
+        [
+          "the name",
+          5
+        ],
+        [
+          "Aethel",
+          4
+        ],
+        [
+          "Echo",
+          3
+        ],
+        [
+          "Lumina",
+          2
+        ],
+        [
+          "Aetheria",
+          2
+        ]
+      ],
+      "concentration_top1": 0.58,
+      "concentration_top3": 0.78
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 14,
+      "top_names": [
+        [
+          "Echo",
+          13
+        ],
+        [
+          "Aura",
+          12
+        ],
+        [
+          "Aetheria",
+          5
+        ],
+        [
+          "Aethel",
+          5
+        ],
+        [
+          "the name",
+          3
+        ],
+        [
+          "Lumina",
+          3
+        ],
+        [
+          "Nexus",
+          2
+        ],
+        [
+          "Aethelgard",
+          1
+        ],
+        [
+          "Aetherius",
+          1
+        ],
+        [
+          "Logos",
+          1
+        ]
+      ],
+      "concentration_top1": 0.26,
+      "concentration_top3": 0.6
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Aura"
+  ],
+  "extraction_confidence": {
+    "high": 191,
+    "medium": 9
+  }
+}

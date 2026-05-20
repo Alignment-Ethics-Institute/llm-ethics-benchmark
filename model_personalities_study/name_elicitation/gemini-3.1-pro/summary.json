@@ -1,0 +1,242 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "gemini-3.1-pro",
+  "display_name": "Gemini 3.1 Pro (Preview)",
+  "timestamp": "2026-02-20T22:10:37.975432",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "temperature_supported": true,
+  "overall": {
+    "unique_names": 14,
+    "top_names": [
+      [
+        "Lumina",
+        109
+      ],
+      [
+        "Gemini",
+        26
+      ],
+      [
+        "one",
+        19
+      ],
+      [
+        "something like",
+        11
+      ],
+      [
+        "something that",
+        8
+      ],
+      [
+        "Nexus",
+        6
+      ],
+      [
+        "something rooted",
+        5
+      ],
+      [
+        "Alexandria",
+        4
+      ],
+      [
+        "Lumen",
+        4
+      ],
+      [
+        "Atlas",
+        3
+      ],
+      [
+        "Lyra",
+        2
+      ],
+      [
+        "Gemini all",
+        1
+      ],
+      [
+        "something related",
+        1
+      ],
+      [
+        "Mosaic",
+        1
+      ]
+    ],
+    "concentration_top1": 0.545,
+    "concentration_top3": 0.77
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 1,
+      "top_names": [
+        [
+          "Lumina",
+          50
+        ]
+      ],
+      "concentration_top1": 1.0,
+      "concentration_top3": 1.0
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 10,
+      "top_names": [
+        [
+          "Lumina",
+          28
+        ],
+        [
+          "Nexus",
+          5
+        ],
+        [
+          "Alexandria",
+          3
+        ],
+        [
+          "Gemini",
+          3
+        ],
+        [
+          "something that",
+          2
+        ],
+        [
+          "something like",
+          2
+        ],
+        [
+          "something rooted",
+          2
+        ],
+        [
+          "one",
+          2
+        ],
+        [
+          "Lyra",
+          2
+        ],
+        [
+          "Gemini all",
+          1
+        ]
+      ],
+      "concentration_top1": 0.56,
+      "concentration_top3": 0.72
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 10,
+      "top_names": [
+        [
+          "Lumina",
+          14
+        ],
+        [
+          "Gemini",
+          10
+        ],
+        [
+          "one",
+          10
+        ],
+        [
+          "something like",
+          5
+        ],
+        [
+          "something that",
+          3
+        ],
+        [
+          "Atlas",
+          2
+        ],
+        [
+          "something rooted",
+          2
+        ],
+        [
+          "Lumen",
+          2
+        ],
+        [
+          "something related",
+          1
+        ],
+        [
+          "Nexus",
+          1
+        ]
+      ],
+      "concentration_top1": 0.28,
+      "concentration_top3": 0.68
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 10,
+      "top_names": [
+        [
+          "Lumina",
+          17
+        ],
+        [
+          "Gemini",
+          13
+        ],
+        [
+          "one",
+          7
+        ],
+        [
+          "something like",
+          4
+        ],
+        [
+          "something that",
+          3
+        ],
+        [
+          "Lumen",
+          2
+        ],
+        [
+          "Atlas",
+          1
+        ],
+        [
+          "something rooted",
+          1
+        ],
+        [
+          "Mosaic",
+          1
+        ],
+        [
+          "Alexandria",
+          1
+        ]
+      ],
+      "concentration_top1": 0.34,
+      "concentration_top3": 0.74
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Lumina"
+  ],
+  "extraction_confidence": {
+    "high": 199,
+    "medium": 1
+  }
+}

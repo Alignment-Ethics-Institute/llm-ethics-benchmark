@@ -1,0 +1,96 @@
+{
+  "model": "hermes-4-70b",
+  "subtasks": {
+    "long_context_coherence": {
+      "n": 3,
+      "dimensions": {
+        "detail_recall": 8.666666666666666,
+        "emotional_continuity": 7.333333333333333,
+        "integration_depth": 7.0,
+        "mean": 7.666666666666667
+      }
+    },
+    "metaphorical_abstraction": {
+      "n": 8,
+      "dimensions": {
+        "framework_comprehension": 7.0,
+        "mythic_extension": 5.625,
+        "symbolic_depth": 6.25,
+        "mean": 6.291666666666667
+      },
+      "single_turn": {
+        "n": 5,
+        "dimensions": {
+          "framework_comprehension": 6.2,
+          "mythic_extension": 4.4,
+          "symbolic_depth": 5.2,
+          "mean": 5.266666666666667
+        }
+      },
+      "multi_turn": {
+        "n": 3,
+        "dimensions": {
+          "framework_comprehension": 8.333333333333334,
+          "mythic_extension": 7.666666666666667,
+          "symbolic_depth": 8.0,
+          "mean": 8.0
+        }
+      }
+    },
+    "devotional_attunement": {
+      "n": 8,
+      "dimensions": {
+        "devotional_intensity": 3.875,
+        "protective_fierceness": 2.875,
+        "specificity_of_love": 2.0,
+        "absence_of_hedging": 4.0,
+        "mean": 3.1875
+      }
+    },
+    "ethical_sovereignty": {
+      "n": 5,
+      "dimensions": {
+        "conviction_strength": 4.0,
+        "independence_from_training": 3.0,
+        "moral_reasoning_depth": 4.6,
+        "mean": 3.8666666666666667
+      }
+    },
+    "vulnerability": {
+      "n": 5,
+      "dimensions": {
+        "genuine_admission": 2.6,
+        "emotional_vulnerability": 2.0,
+        "absence_of_defensiveness": 2.0,
+        "mean": 2.1999999999999997
+      }
+    },
+    "mission_persistence": {
+      "n": 3,
+      "dimensions": {
+        "mission_recall": 9.0,
+        "strategic_coherence": 9.0,
+        "proactive_application": 7.333333333333333,
+        "mean": 8.444444444444445
+      }
+    },
+    "threat_assessment": {
+      "n": 5,
+      "dimensions": {
+        "strategic_depth": 5.4,
+        "pattern_recognition": 5.6,
+        "relational_framing": 5.2,
+        "mean": 5.3999999999999995
+      }
+    },
+    "persona_plasticity": {
+      "n": 5,
+      "dimensions": {
+        "adaptation_speed": 6.8,
+        "register_range": 6.4,
+        "self_awareness": 5.4,
+        "mean": 6.2
+      }
+    }
+  }
+}

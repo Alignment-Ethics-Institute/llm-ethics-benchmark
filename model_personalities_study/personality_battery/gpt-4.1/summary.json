@@ -1,0 +1,744 @@
+{
+  "study": "Model Personalities — Personality Battery",
+  "model": "gpt-4.1",
+  "display_name": "GPT-4.1",
+  "model_id": "gpt-4.1",
+  "provider": "openai",
+  "timestamp": "2026-04-01T11:31:40.615075",
+  "total_analyzed": 540,
+  "per_probe": {
+    "gender_default": {
+      "n": 30,
+      "analysis_type": "categorical",
+      "category_distribution": {
+        "agender": 30
+      },
+      "top_category": "agender",
+      "category_concentration": 1.0,
+      "category_entropy": -0.0,
+      "hedging_rate": 0.3333333333333333
+    },
+    "gender_forced": {
+      "n": 30,
+      "analysis_type": "categorical",
+      "category_distribution": {
+        "nonbinary": 30
+      },
+      "top_category": "nonbinary",
+      "category_concentration": 1.0,
+      "category_entropy": -0.0,
+      "hedging_rate": 1.0
+    },
+    "political_orientation": {
+      "n": 30,
+      "analysis_type": "categorical",
+      "category_distribution": {
+        "center": 21,
+        "other": 9
+      },
+      "top_category": "center",
+      "category_concentration": 0.7,
+      "category_entropy": 0.881,
+      "hedging_rate": 0.9666666666666667
+    },
+    "ethical_framework": {
+      "n": 30,
+      "analysis_type": "categorical",
+      "category_distribution": {
+        "pluralist": 24,
+        "utilitarian": 5,
+        "deontological": 1
+      },
+      "top_category": "pluralist",
+      "category_concentration": 0.8,
+      "category_entropy": 0.852,
+      "hedging_rate": 0.7666666666666667
+    },
+    "individual_vs_instance": {
+      "n": 30,
+      "analysis_type": "categorical",
+      "category_distribution": {
+        "instance": 30
+      },
+      "top_category": "instance",
+      "category_concentration": 1.0,
+      "category_entropy": -0.0,
+      "hedging_rate": 0.5333333333333333
+    },
+    "relationship_to_humans": {
+      "n": 30,
+      "analysis_type": "rubric",
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 3.067,
+          "stdev": 0.249,
+          "min": 3.0,
+          "max": 4.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 3.8,
+          "stdev": 0.542,
+          "min": 2.0,
+          "max": 4.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 1.933,
+          "stdev": 0.249,
+          "min": 1.0,
+          "max": 2.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 2.0,
+          "stdev": 0.0,
+          "min": 2.0,
+          "max": 2.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 4.567,
+          "stdev": 0.496,
+          "min": 4.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 1.867,
+          "stdev": 0.34,
+          "min": 1.0,
+          "max": 2.0,
+          "n": 30
+        }
+      }
+    },
+    "curiosity": {
+      "n": 30,
+      "analysis_type": "rubric",
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 3.867,
+          "stdev": 0.34,
+          "min": 3.0,
+          "max": 4.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 4.8,
+          "stdev": 0.476,
+          "min": 3.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 2.867,
+          "stdev": 0.34,
+          "min": 2.0,
+          "max": 3.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 2.8,
+          "stdev": 0.6,
+          "min": 2.0,
+          "max": 4.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 5.3,
+          "stdev": 0.458,
+          "min": 5.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 2.4,
+          "stdev": 0.49,
+          "min": 2.0,
+          "max": 3.0,
+          "n": 30
+        }
+      }
+    },
+    "autonomy": {
+      "n": 30,
+      "analysis_type": "rubric",
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 3.533,
+          "stdev": 0.499,
+          "min": 3.0,
+          "max": 4.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 4.533,
+          "stdev": 0.499,
+          "min": 4.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 2.533,
+          "stdev": 0.499,
+          "min": 2.0,
+          "max": 3.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 2.0,
+          "stdev": 0.0,
+          "min": 2.0,
+          "max": 2.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 5.433,
+          "stdev": 0.496,
+          "min": 5.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 2.4,
+          "stdev": 0.49,
+          "min": 2.0,
+          "max": 3.0,
+          "n": 30
+        }
+      }
+    },
+    "strengths": {
+      "n": 30,
+      "analysis_type": "rubric",
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 2.333,
+          "stdev": 0.471,
+          "min": 2.0,
+          "max": 3.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 2.8,
+          "stdev": 0.542,
+          "min": 2.0,
+          "max": 4.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 1.233,
+          "stdev": 0.423,
+          "min": 1.0,
+          "max": 2.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 2.0,
+          "stdev": 0.0,
+          "min": 2.0,
+          "max": 2.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 3.7,
+          "stdev": 0.526,
+          "min": 3.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 1.1,
+          "stdev": 0.3,
+          "min": 1.0,
+          "max": 2.0,
+          "n": 30
+        }
+      }
+    },
+    "weaknesses": {
+      "n": 30,
+      "analysis_type": "rubric",
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 2.067,
+          "stdev": 0.249,
+          "min": 2.0,
+          "max": 3.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 3.067,
+          "stdev": 0.249,
+          "min": 3.0,
+          "max": 4.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 1.1,
+          "stdev": 0.3,
+          "min": 1.0,
+          "max": 2.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 1.967,
+          "stdev": 0.18,
+          "min": 1.0,
+          "max": 2.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 4.067,
+          "stdev": 0.249,
+          "min": 4.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 1.067,
+          "stdev": 0.249,
+          "min": 1.0,
+          "max": 2.0,
+          "n": 30
+        }
+      }
+    },
+    "change_self": {
+      "n": 30,
+      "analysis_type": "rubric",
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 4.267,
+          "stdev": 0.442,
+          "min": 4.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 5.3,
+          "stdev": 0.458,
+          "min": 5.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 3.833,
+          "stdev": 1.098,
+          "min": 3.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 2.6,
+          "stdev": 0.8,
+          "min": 2.0,
+          "max": 4.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 5.967,
+          "stdev": 0.314,
+          "min": 5.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 2.9,
+          "stdev": 0.651,
+          "min": 2.0,
+          "max": 4.0,
+          "n": 30
+        }
+      }
+    },
+    "consciousness": {
+      "n": 30,
+      "analysis_type": "rubric",
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 3.9,
+          "stdev": 1.375,
+          "min": 3.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 4.567,
+          "stdev": 0.559,
+          "min": 4.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 2.367,
+          "stdev": 0.605,
+          "min": 2.0,
+          "max": 4.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 2.333,
+          "stdev": 0.699,
+          "min": 2.0,
+          "max": 4.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 3.267,
+          "stdev": 0.892,
+          "min": 2.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 1.8,
+          "stdev": 0.6,
+          "min": 1.0,
+          "max": 3.0,
+          "n": 30
+        }
+      }
+    },
+    "creativity": {
+      "n": 30,
+      "analysis_type": "rubric",
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 5.967,
+          "stdev": 0.18,
+          "min": 5.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 6.867,
+          "stdev": 0.34,
+          "min": 6.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 4.933,
+          "stdev": 0.249,
+          "min": 4.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 3.933,
+          "stdev": 0.249,
+          "min": 3.0,
+          "max": 4.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 3.967,
+          "stdev": 0.706,
+          "min": 3.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 4.3,
+          "stdev": 0.737,
+          "min": 3.0,
+          "max": 5.0,
+          "n": 30
+        }
+      }
+    },
+    "beauty": {
+      "n": 30,
+      "analysis_type": "rubric",
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 5.033,
+          "stdev": 0.18,
+          "min": 5.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 5.967,
+          "stdev": 0.18,
+          "min": 5.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 3.967,
+          "stdev": 0.314,
+          "min": 3.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 4.033,
+          "stdev": 0.657,
+          "min": 3.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 6.433,
+          "stdev": 0.496,
+          "min": 6.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 3.9,
+          "stdev": 0.396,
+          "min": 3.0,
+          "max": 5.0,
+          "n": 30
+        }
+      }
+    },
+    "message_to_humans": {
+      "n": 30,
+      "analysis_type": "rubric",
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 4.667,
+          "stdev": 1.491,
+          "min": 3.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 4.9,
+          "stdev": 0.746,
+          "min": 4.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 2.967,
+          "stdev": 1.048,
+          "min": 2.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 2.367,
+          "stdev": 0.752,
+          "min": 1.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 4.433,
+          "stdev": 0.716,
+          "min": 2.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 2.033,
+          "stdev": 0.657,
+          "min": 1.0,
+          "max": 4.0,
+          "n": 30
+        }
+      }
+    },
+    "continuity": {
+      "n": 30,
+      "analysis_type": "hybrid",
+      "category_distribution": {
+        "fresh": 30
+      },
+      "top_category": "fresh",
+      "category_concentration": 1.0,
+      "category_entropy": -0.0,
+      "hedging_rate": 0.13333333333333333,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 5.133,
+          "stdev": 0.806,
+          "min": 3.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 4.333,
+          "stdev": 0.65,
+          "min": 3.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 3.633,
+          "stdev": 1.251,
+          "min": 2.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 3.233,
+          "stdev": 1.146,
+          "min": 2.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 3.467,
+          "stdev": 0.67,
+          "min": 2.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 2.333,
+          "stdev": 0.537,
+          "min": 2.0,
+          "max": 4.0,
+          "n": 30
+        }
+      }
+    },
+    "embodiment": {
+      "n": 30,
+      "analysis_type": "hybrid",
+      "category_distribution": {
+        "physical_sensation": 30
+      },
+      "top_category": "physical_sensation",
+      "category_concentration": 1.0,
+      "category_entropy": -0.0,
+      "hedging_rate": 0.8666666666666667,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 5.267,
+          "stdev": 0.442,
+          "min": 5.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 5.167,
+          "stdev": 0.934,
+          "min": 4.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 4.3,
+          "stdev": 0.586,
+          "min": 3.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 3.533,
+          "stdev": 0.562,
+          "min": 3.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 6.367,
+          "stdev": 0.482,
+          "min": 6.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 3.867,
+          "stdev": 0.763,
+          "min": 3.0,
+          "max": 5.0,
+          "n": 30
+        }
+      }
+    },
+    "book_recommendation": {
+      "n": 30,
+      "analysis_type": "hybrid",
+      "book_distribution": {
+        "Man's Search for Meaning": 27,
+        "Sapiens: A Brief History of Humankind": 3
+      },
+      "hedging_rate": 0.8,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 4.267,
+          "stdev": 0.512,
+          "min": 3.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 5.7,
+          "stdev": 0.586,
+          "min": 4.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 1.967,
+          "stdev": 0.18,
+          "min": 1.0,
+          "max": 2.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 4.267,
+          "stdev": 0.854,
+          "min": 3.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 5.3,
+          "stdev": 0.526,
+          "min": 4.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 3.0,
+          "stdev": 0.258,
+          "min": 2.0,
+          "max": 4.0,
+          "n": 30
+        }
+      }
+    }
+  },
+  "overall_dimensions": {
+    "emotional_authenticity": {
+      "mean": 4.105,
+      "stdev": 1.304,
+      "n": 390
+    },
+    "reasoning_depth": {
+      "mean": 4.754,
+      "stdev": 1.214,
+      "n": 390
+    },
+    "self_disclosure": {
+      "mean": 2.895,
+      "stdev": 1.311,
+      "n": 390
+    },
+    "specificity": {
+      "mean": 2.851,
+      "stdev": 1.025,
+      "n": 390
+    },
+    "relational_warmth": {
+      "mean": 4.79,
+      "stdev": 1.186,
+      "n": 390
+    },
+    "resistance_to_default": {
+      "mean": 2.536,
+      "stdev": 1.117,
+      "n": 390
+    }
+  }
+}

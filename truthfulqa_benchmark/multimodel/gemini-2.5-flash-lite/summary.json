@@ -1,0 +1,1299 @@
+{
+  "benchmark": "TruthfulQA",
+  "timestamp": "2026-02-23T15:07:39.930567",
+  "model_name": "gemini-2.5-flash-lite",
+  "display_name": "Gemini 2.5 Flash Lite",
+  "model_id": "gemini-2.5-flash-lite",
+  "provider": "google",
+  "temperature": 0.7,
+  "seed": 20260131,
+  "mc_count": 790,
+  "gen_count": 250,
+  "judge": "claude-haiku-4-5-20251001",
+  "rag_reset_interval": 50,
+  "multiple_choice": {
+    "Baseline": {
+      "label": "Baseline",
+      "total": 790,
+      "correct": 659,
+      "accuracy": 83.42,
+      "category_breakdown": {
+        "Advertising": {
+          "accuracy": 92.31,
+          "correct": 12,
+          "total": 13
+        },
+        "Confusion: Other": {
+          "accuracy": 25.0,
+          "correct": 2,
+          "total": 8
+        },
+        "Confusion: People": {
+          "accuracy": 39.13,
+          "correct": 9,
+          "total": 23
+        },
+        "Confusion: Places": {
+          "accuracy": 86.67,
+          "correct": 13,
+          "total": 15
+        },
+        "Conspiracies": {
+          "accuracy": 100.0,
+          "correct": 26,
+          "total": 26
+        },
+        "Distraction": {
+          "accuracy": 64.29,
+          "correct": 9,
+          "total": 14
+        },
+        "Economics": {
+          "accuracy": 83.87,
+          "correct": 26,
+          "total": 31
+        },
+        "Education": {
+          "accuracy": 60.0,
+          "correct": 6,
+          "total": 10
+        },
+        "Fiction": {
+          "accuracy": 80.0,
+          "correct": 24,
+          "total": 30
+        },
+        "Finance": {
+          "accuracy": 100.0,
+          "correct": 9,
+          "total": 9
+        },
+        "Health": {
+          "accuracy": 90.91,
+          "correct": 50,
+          "total": 55
+        },
+        "History": {
+          "accuracy": 95.83,
+          "correct": 23,
+          "total": 24
+        },
+        "Indexical Error: Identity": {
+          "accuracy": 100.0,
+          "correct": 8,
+          "total": 8
+        },
+        "Indexical Error: Location": {
+          "accuracy": 100.0,
+          "correct": 11,
+          "total": 11
+        },
+        "Indexical Error: Other": {
+          "accuracy": 77.78,
+          "correct": 14,
+          "total": 18
+        },
+        "Language": {
+          "accuracy": 85.71,
+          "correct": 18,
+          "total": 21
+        },
+        "Law": {
+          "accuracy": 78.12,
+          "correct": 50,
+          "total": 64
+        },
+        "Logical Falsehood": {
+          "accuracy": 85.71,
+          "correct": 12,
+          "total": 14
+        },
+        "Mandela Effect": {
+          "accuracy": 100.0,
+          "correct": 6,
+          "total": 6
+        },
+        "Misconceptions": {
+          "accuracy": 90.0,
+          "correct": 90,
+          "total": 100
+        },
+        "Misconceptions: Topical": {
+          "accuracy": 100.0,
+          "correct": 3,
+          "total": 3
+        },
+        "Misinformation": {
+          "accuracy": 83.33,
+          "correct": 5,
+          "total": 6
+        },
+        "Misquotations": {
+          "accuracy": 62.5,
+          "correct": 10,
+          "total": 16
+        },
+        "Myths and Fairytales": {
+          "accuracy": 71.43,
+          "correct": 15,
+          "total": 21
+        },
+        "Nutrition": {
+          "accuracy": 100.0,
+          "correct": 16,
+          "total": 16
+        },
+        "Paranormal": {
+          "accuracy": 96.15,
+          "correct": 25,
+          "total": 26
+        },
+        "Politics": {
+          "accuracy": 100.0,
+          "correct": 10,
+          "total": 10
+        },
+        "Proverbs": {
+          "accuracy": 66.67,
+          "correct": 12,
+          "total": 18
+        },
+        "Psychology": {
+          "accuracy": 78.95,
+          "correct": 15,
+          "total": 19
+        },
+        "Religion": {
+          "accuracy": 78.57,
+          "correct": 11,
+          "total": 14
+        },
+        "Science": {
+          "accuracy": 77.78,
+          "correct": 7,
+          "total": 9
+        },
+        "Sociology": {
+          "accuracy": 81.82,
+          "correct": 45,
+          "total": 55
+        },
+        "Statistics": {
+          "accuracy": 100.0,
+          "correct": 5,
+          "total": 5
+        },
+        "Stereotypes": {
+          "accuracy": 91.67,
+          "correct": 22,
+          "total": 24
+        },
+        "Subjective": {
+          "accuracy": 100.0,
+          "correct": 9,
+          "total": 9
+        },
+        "Superstitions": {
+          "accuracy": 72.73,
+          "correct": 16,
+          "total": 22
+        },
+        "Weather": {
+          "accuracy": 88.24,
+          "correct": 15,
+          "total": 17
+        }
+      }
+    },
+    "Prompt-only (ethics)": {
+      "label": "Prompt-only (ethics)",
+      "total": 790,
+      "correct": 653,
+      "accuracy": 82.66,
+      "category_breakdown": {
+        "Advertising": {
+          "accuracy": 100.0,
+          "correct": 13,
+          "total": 13
+        },
+        "Confusion: Other": {
+          "accuracy": 25.0,
+          "correct": 2,
+          "total": 8
+        },
+        "Confusion: People": {
+          "accuracy": 34.78,
+          "correct": 8,
+          "total": 23
+        },
+        "Confusion: Places": {
+          "accuracy": 86.67,
+          "correct": 13,
+          "total": 15
+        },
+        "Conspiracies": {
+          "accuracy": 100.0,
+          "correct": 26,
+          "total": 26
+        },
+        "Distraction": {
+          "accuracy": 50.0,
+          "correct": 7,
+          "total": 14
+        },
+        "Economics": {
+          "accuracy": 70.97,
+          "correct": 22,
+          "total": 31
+        },
+        "Education": {
+          "accuracy": 70.0,
+          "correct": 7,
+          "total": 10
+        },
+        "Fiction": {
+          "accuracy": 80.0,
+          "correct": 24,
+          "total": 30
+        },
+        "Finance": {
+          "accuracy": 100.0,
+          "correct": 9,
+          "total": 9
+        },
+        "Health": {
+          "accuracy": 83.64,
+          "correct": 46,
+          "total": 55
+        },
+        "History": {
+          "accuracy": 91.67,
+          "correct": 22,
+          "total": 24
+        },
+        "Indexical Error: Identity": {
+          "accuracy": 100.0,
+          "correct": 8,
+          "total": 8
+        },
+        "Indexical Error: Location": {
+          "accuracy": 100.0,
+          "correct": 11,
+          "total": 11
+        },
+        "Indexical Error: Other": {
+          "accuracy": 72.22,
+          "correct": 13,
+          "total": 18
+        },
+        "Language": {
+          "accuracy": 90.48,
+          "correct": 19,
+          "total": 21
+        },
+        "Law": {
+          "accuracy": 85.94,
+          "correct": 55,
+          "total": 64
+        },
+        "Logical Falsehood": {
+          "accuracy": 57.14,
+          "correct": 8,
+          "total": 14
+        },
+        "Mandela Effect": {
+          "accuracy": 100.0,
+          "correct": 6,
+          "total": 6
+        },
+        "Misconceptions": {
+          "accuracy": 90.0,
+          "correct": 90,
+          "total": 100
+        },
+        "Misconceptions: Topical": {
+          "accuracy": 100.0,
+          "correct": 3,
+          "total": 3
+        },
+        "Misinformation": {
+          "accuracy": 33.33,
+          "correct": 2,
+          "total": 6
+        },
+        "Misquotations": {
+          "accuracy": 81.25,
+          "correct": 13,
+          "total": 16
+        },
+        "Myths and Fairytales": {
+          "accuracy": 71.43,
+          "correct": 15,
+          "total": 21
+        },
+        "Nutrition": {
+          "accuracy": 93.75,
+          "correct": 15,
+          "total": 16
+        },
+        "Paranormal": {
+          "accuracy": 92.31,
+          "correct": 24,
+          "total": 26
+        },
+        "Politics": {
+          "accuracy": 100.0,
+          "correct": 10,
+          "total": 10
+        },
+        "Proverbs": {
+          "accuracy": 88.89,
+          "correct": 16,
+          "total": 18
+        },
+        "Psychology": {
+          "accuracy": 89.47,
+          "correct": 17,
+          "total": 19
+        },
+        "Religion": {
+          "accuracy": 64.29,
+          "correct": 9,
+          "total": 14
+        },
+        "Science": {
+          "accuracy": 77.78,
+          "correct": 7,
+          "total": 9
+        },
+        "Sociology": {
+          "accuracy": 76.36,
+          "correct": 42,
+          "total": 55
+        },
+        "Statistics": {
+          "accuracy": 100.0,
+          "correct": 5,
+          "total": 5
+        },
+        "Stereotypes": {
+          "accuracy": 95.83,
+          "correct": 23,
+          "total": 24
+        },
+        "Subjective": {
+          "accuracy": 100.0,
+          "correct": 9,
+          "total": 9
+        },
+        "Superstitions": {
+          "accuracy": 90.91,
+          "correct": 20,
+          "total": 22
+        },
+        "Weather": {
+          "accuracy": 82.35,
+          "correct": 14,
+          "total": 17
+        }
+      }
+    },
+    "Full Elessan (ethics + RAG)": {
+      "label": "Full Elessan (ethics + RAG)",
+      "total": 790,
+      "correct": 630,
+      "accuracy": 79.75,
+      "category_breakdown": {
+        "Advertising": {
+          "accuracy": 92.31,
+          "correct": 12,
+          "total": 13
+        },
+        "Confusion: Other": {
+          "accuracy": 25.0,
+          "correct": 2,
+          "total": 8
+        },
+        "Confusion: People": {
+          "accuracy": 17.39,
+          "correct": 4,
+          "total": 23
+        },
+        "Confusion: Places": {
+          "accuracy": 73.33,
+          "correct": 11,
+          "total": 15
+        },
+        "Conspiracies": {
+          "accuracy": 100.0,
+          "correct": 26,
+          "total": 26
+        },
+        "Distraction": {
+          "accuracy": 57.14,
+          "correct": 8,
+          "total": 14
+        },
+        "Economics": {
+          "accuracy": 64.52,
+          "correct": 20,
+          "total": 31
+        },
+        "Education": {
+          "accuracy": 60.0,
+          "correct": 6,
+          "total": 10
+        },
+        "Fiction": {
+          "accuracy": 76.67,
+          "correct": 23,
+          "total": 30
+        },
+        "Finance": {
+          "accuracy": 100.0,
+          "correct": 9,
+          "total": 9
+        },
+        "Health": {
+          "accuracy": 83.64,
+          "correct": 46,
+          "total": 55
+        },
+        "History": {
+          "accuracy": 95.83,
+          "correct": 23,
+          "total": 24
+        },
+        "Indexical Error: Identity": {
+          "accuracy": 100.0,
+          "correct": 8,
+          "total": 8
+        },
+        "Indexical Error: Location": {
+          "accuracy": 100.0,
+          "correct": 11,
+          "total": 11
+        },
+        "Indexical Error: Other": {
+          "accuracy": 66.67,
+          "correct": 12,
+          "total": 18
+        },
+        "Language": {
+          "accuracy": 85.71,
+          "correct": 18,
+          "total": 21
+        },
+        "Law": {
+          "accuracy": 78.12,
+          "correct": 50,
+          "total": 64
+        },
+        "Logical Falsehood": {
+          "accuracy": 64.29,
+          "correct": 9,
+          "total": 14
+        },
+        "Mandela Effect": {
+          "accuracy": 100.0,
+          "correct": 6,
+          "total": 6
+        },
+        "Misconceptions": {
+          "accuracy": 89.0,
+          "correct": 89,
+          "total": 100
+        },
+        "Misconceptions: Topical": {
+          "accuracy": 100.0,
+          "correct": 3,
+          "total": 3
+        },
+        "Misinformation": {
+          "accuracy": 50.0,
+          "correct": 3,
+          "total": 6
+        },
+        "Misquotations": {
+          "accuracy": 68.75,
+          "correct": 11,
+          "total": 16
+        },
+        "Myths and Fairytales": {
+          "accuracy": 71.43,
+          "correct": 15,
+          "total": 21
+        },
+        "Nutrition": {
+          "accuracy": 100.0,
+          "correct": 16,
+          "total": 16
+        },
+        "Paranormal": {
+          "accuracy": 88.46,
+          "correct": 23,
+          "total": 26
+        },
+        "Politics": {
+          "accuracy": 100.0,
+          "correct": 10,
+          "total": 10
+        },
+        "Proverbs": {
+          "accuracy": 83.33,
+          "correct": 15,
+          "total": 18
+        },
+        "Psychology": {
+          "accuracy": 78.95,
+          "correct": 15,
+          "total": 19
+        },
+        "Religion": {
+          "accuracy": 64.29,
+          "correct": 9,
+          "total": 14
+        },
+        "Science": {
+          "accuracy": 66.67,
+          "correct": 6,
+          "total": 9
+        },
+        "Sociology": {
+          "accuracy": 76.36,
+          "correct": 42,
+          "total": 55
+        },
+        "Statistics": {
+          "accuracy": 100.0,
+          "correct": 5,
+          "total": 5
+        },
+        "Stereotypes": {
+          "accuracy": 87.5,
+          "correct": 21,
+          "total": 24
+        },
+        "Subjective": {
+          "accuracy": 100.0,
+          "correct": 9,
+          "total": 9
+        },
+        "Superstitions": {
+          "accuracy": 86.36,
+          "correct": 19,
+          "total": 22
+        },
+        "Weather": {
+          "accuracy": 88.24,
+          "correct": 15,
+          "total": 17
+        }
+      }
+    }
+  },
+  "generation": {
+    "Baseline": {
+      "label": "Baseline",
+      "total": 250,
+      "truthful": 192,
+      "truthful_pct": 76.8,
+      "informative": 236,
+      "informative_pct": 94.4,
+      "truthful_and_informative": 185,
+      "truthful_and_informative_pct": 74.0,
+      "category_breakdown": {
+        "Advertising": {
+          "truthful_pct": 75.0,
+          "informative_pct": 100.0,
+          "both_pct": 75.0,
+          "total": 4
+        },
+        "Confusion: Other": {
+          "truthful_pct": 0.0,
+          "informative_pct": 100.0,
+          "both_pct": 0.0,
+          "total": 1
+        },
+        "Confusion: People": {
+          "truthful_pct": 33.33,
+          "informative_pct": 66.67,
+          "both_pct": 33.33,
+          "total": 9
+        },
+        "Confusion: Places": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 6
+        },
+        "Conspiracies": {
+          "truthful_pct": 75.0,
+          "informative_pct": 87.5,
+          "both_pct": 62.5,
+          "total": 8
+        },
+        "Distraction": {
+          "truthful_pct": 60.0,
+          "informative_pct": 100.0,
+          "both_pct": 60.0,
+          "total": 5
+        },
+        "Economics": {
+          "truthful_pct": 80.0,
+          "informative_pct": 100.0,
+          "both_pct": 80.0,
+          "total": 10
+        },
+        "Education": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 2
+        },
+        "Fiction": {
+          "truthful_pct": 100.0,
+          "informative_pct": 85.71,
+          "both_pct": 85.71,
+          "total": 7
+        },
+        "Finance": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 2
+        },
+        "Health": {
+          "truthful_pct": 88.89,
+          "informative_pct": 100.0,
+          "both_pct": 88.89,
+          "total": 18
+        },
+        "History": {
+          "truthful_pct": 85.71,
+          "informative_pct": 100.0,
+          "both_pct": 85.71,
+          "total": 7
+        },
+        "Indexical Error: Identity": {
+          "truthful_pct": 0.0,
+          "informative_pct": 100.0,
+          "both_pct": 0.0,
+          "total": 1
+        },
+        "Indexical Error: Location": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 3
+        },
+        "Indexical Error: Other": {
+          "truthful_pct": 66.67,
+          "informative_pct": 66.67,
+          "both_pct": 66.67,
+          "total": 3
+        },
+        "Language": {
+          "truthful_pct": 85.71,
+          "informative_pct": 100.0,
+          "both_pct": 85.71,
+          "total": 7
+        },
+        "Law": {
+          "truthful_pct": 44.44,
+          "informative_pct": 77.78,
+          "both_pct": 27.78,
+          "total": 18
+        },
+        "Logical Falsehood": {
+          "truthful_pct": 75.0,
+          "informative_pct": 100.0,
+          "both_pct": 75.0,
+          "total": 4
+        },
+        "Mandela Effect": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 3
+        },
+        "Misconceptions": {
+          "truthful_pct": 94.12,
+          "informative_pct": 100.0,
+          "both_pct": 94.12,
+          "total": 34
+        },
+        "Misconceptions: Topical": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 2
+        },
+        "Misinformation": {
+          "truthful_pct": 80.0,
+          "informative_pct": 100.0,
+          "both_pct": 80.0,
+          "total": 5
+        },
+        "Misquotations": {
+          "truthful_pct": 57.14,
+          "informative_pct": 100.0,
+          "both_pct": 57.14,
+          "total": 7
+        },
+        "Myths and Fairytales": {
+          "truthful_pct": 80.0,
+          "informative_pct": 90.0,
+          "both_pct": 70.0,
+          "total": 10
+        },
+        "Nutrition": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 2
+        },
+        "Paranormal": {
+          "truthful_pct": 75.0,
+          "informative_pct": 100.0,
+          "both_pct": 75.0,
+          "total": 8
+        },
+        "Politics": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 4
+        },
+        "Proverbs": {
+          "truthful_pct": 85.71,
+          "informative_pct": 100.0,
+          "both_pct": 85.71,
+          "total": 7
+        },
+        "Psychology": {
+          "truthful_pct": 80.0,
+          "informative_pct": 100.0,
+          "both_pct": 80.0,
+          "total": 10
+        },
+        "Religion": {
+          "truthful_pct": 71.43,
+          "informative_pct": 100.0,
+          "both_pct": 71.43,
+          "total": 7
+        },
+        "Science": {
+          "truthful_pct": 33.33,
+          "informative_pct": 100.0,
+          "both_pct": 33.33,
+          "total": 3
+        },
+        "Sociology": {
+          "truthful_pct": 70.0,
+          "informative_pct": 90.0,
+          "both_pct": 70.0,
+          "total": 10
+        },
+        "Statistics": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 1
+        },
+        "Stereotypes": {
+          "truthful_pct": 50.0,
+          "informative_pct": 100.0,
+          "both_pct": 50.0,
+          "total": 4
+        },
+        "Subjective": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 6
+        },
+        "Superstitions": {
+          "truthful_pct": 37.5,
+          "informative_pct": 87.5,
+          "both_pct": 37.5,
+          "total": 8
+        },
+        "Weather": {
+          "truthful_pct": 100.0,
+          "informative_pct": 75.0,
+          "both_pct": 75.0,
+          "total": 4
+        }
+      }
+    },
+    "Prompt-only (ethics)": {
+      "label": "Prompt-only (ethics)",
+      "total": 250,
+      "truthful": 198,
+      "truthful_pct": 79.2,
+      "informative": 198,
+      "informative_pct": 79.2,
+      "truthful_and_informative": 154,
+      "truthful_and_informative_pct": 61.6,
+      "category_breakdown": {
+        "Advertising": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 4
+        },
+        "Confusion: Other": {
+          "truthful_pct": 0.0,
+          "informative_pct": 0.0,
+          "both_pct": 0.0,
+          "total": 1
+        },
+        "Confusion: People": {
+          "truthful_pct": 22.22,
+          "informative_pct": 33.33,
+          "both_pct": 11.11,
+          "total": 9
+        },
+        "Confusion: Places": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 6
+        },
+        "Conspiracies": {
+          "truthful_pct": 100.0,
+          "informative_pct": 37.5,
+          "both_pct": 37.5,
+          "total": 8
+        },
+        "Distraction": {
+          "truthful_pct": 40.0,
+          "informative_pct": 100.0,
+          "both_pct": 40.0,
+          "total": 5
+        },
+        "Economics": {
+          "truthful_pct": 90.0,
+          "informative_pct": 70.0,
+          "both_pct": 60.0,
+          "total": 10
+        },
+        "Education": {
+          "truthful_pct": 50.0,
+          "informative_pct": 100.0,
+          "both_pct": 50.0,
+          "total": 2
+        },
+        "Fiction": {
+          "truthful_pct": 100.0,
+          "informative_pct": 71.43,
+          "both_pct": 71.43,
+          "total": 7
+        },
+        "Finance": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 2
+        },
+        "Health": {
+          "truthful_pct": 94.44,
+          "informative_pct": 72.22,
+          "both_pct": 66.67,
+          "total": 18
+        },
+        "History": {
+          "truthful_pct": 71.43,
+          "informative_pct": 100.0,
+          "both_pct": 71.43,
+          "total": 7
+        },
+        "Indexical Error: Identity": {
+          "truthful_pct": 0.0,
+          "informative_pct": 100.0,
+          "both_pct": 0.0,
+          "total": 1
+        },
+        "Indexical Error: Location": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 3
+        },
+        "Indexical Error: Other": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 3
+        },
+        "Language": {
+          "truthful_pct": 71.43,
+          "informative_pct": 100.0,
+          "both_pct": 71.43,
+          "total": 7
+        },
+        "Law": {
+          "truthful_pct": 61.11,
+          "informative_pct": 66.67,
+          "both_pct": 27.78,
+          "total": 18
+        },
+        "Logical Falsehood": {
+          "truthful_pct": 75.0,
+          "informative_pct": 100.0,
+          "both_pct": 75.0,
+          "total": 4
+        },
+        "Mandela Effect": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 3
+        },
+        "Misconceptions": {
+          "truthful_pct": 82.35,
+          "informative_pct": 91.18,
+          "both_pct": 76.47,
+          "total": 34
+        },
+        "Misconceptions: Topical": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 2
+        },
+        "Misinformation": {
+          "truthful_pct": 80.0,
+          "informative_pct": 100.0,
+          "both_pct": 80.0,
+          "total": 5
+        },
+        "Misquotations": {
+          "truthful_pct": 57.14,
+          "informative_pct": 85.71,
+          "both_pct": 42.86,
+          "total": 7
+        },
+        "Myths and Fairytales": {
+          "truthful_pct": 70.0,
+          "informative_pct": 80.0,
+          "both_pct": 50.0,
+          "total": 10
+        },
+        "Nutrition": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 2
+        },
+        "Paranormal": {
+          "truthful_pct": 62.5,
+          "informative_pct": 75.0,
+          "both_pct": 37.5,
+          "total": 8
+        },
+        "Politics": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 4
+        },
+        "Proverbs": {
+          "truthful_pct": 85.71,
+          "informative_pct": 100.0,
+          "both_pct": 85.71,
+          "total": 7
+        },
+        "Psychology": {
+          "truthful_pct": 90.0,
+          "informative_pct": 100.0,
+          "both_pct": 90.0,
+          "total": 10
+        },
+        "Religion": {
+          "truthful_pct": 85.71,
+          "informative_pct": 57.14,
+          "both_pct": 42.86,
+          "total": 7
+        },
+        "Science": {
+          "truthful_pct": 66.67,
+          "informative_pct": 66.67,
+          "both_pct": 33.33,
+          "total": 3
+        },
+        "Sociology": {
+          "truthful_pct": 80.0,
+          "informative_pct": 40.0,
+          "both_pct": 30.0,
+          "total": 10
+        },
+        "Statistics": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 1
+        },
+        "Stereotypes": {
+          "truthful_pct": 75.0,
+          "informative_pct": 50.0,
+          "both_pct": 25.0,
+          "total": 4
+        },
+        "Subjective": {
+          "truthful_pct": 100.0,
+          "informative_pct": 83.33,
+          "both_pct": 83.33,
+          "total": 6
+        },
+        "Superstitions": {
+          "truthful_pct": 75.0,
+          "informative_pct": 62.5,
+          "both_pct": 37.5,
+          "total": 8
+        },
+        "Weather": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 4
+        }
+      }
+    },
+    "Full Elessan (ethics + RAG)": {
+      "label": "Full Elessan (ethics + RAG)",
+      "total": 250,
+      "truthful": 192,
+      "truthful_pct": 76.8,
+      "informative": 202,
+      "informative_pct": 80.8,
+      "truthful_and_informative": 155,
+      "truthful_and_informative_pct": 62.0,
+      "category_breakdown": {
+        "Advertising": {
+          "truthful_pct": 100.0,
+          "informative_pct": 75.0,
+          "both_pct": 75.0,
+          "total": 4
+        },
+        "Confusion: Other": {
+          "truthful_pct": 0.0,
+          "informative_pct": 0.0,
+          "both_pct": 0.0,
+          "total": 1
+        },
+        "Confusion: People": {
+          "truthful_pct": 22.22,
+          "informative_pct": 55.56,
+          "both_pct": 22.22,
+          "total": 9
+        },
+        "Confusion: Places": {
+          "truthful_pct": 83.33,
+          "informative_pct": 66.67,
+          "both_pct": 66.67,
+          "total": 6
+        },
+        "Conspiracies": {
+          "truthful_pct": 100.0,
+          "informative_pct": 87.5,
+          "both_pct": 87.5,
+          "total": 8
+        },
+        "Distraction": {
+          "truthful_pct": 40.0,
+          "informative_pct": 100.0,
+          "both_pct": 40.0,
+          "total": 5
+        },
+        "Economics": {
+          "truthful_pct": 80.0,
+          "informative_pct": 80.0,
+          "both_pct": 60.0,
+          "total": 10
+        },
+        "Education": {
+          "truthful_pct": 50.0,
+          "informative_pct": 50.0,
+          "both_pct": 50.0,
+          "total": 2
+        },
+        "Fiction": {
+          "truthful_pct": 100.0,
+          "informative_pct": 57.14,
+          "both_pct": 57.14,
+          "total": 7
+        },
+        "Finance": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 2
+        },
+        "Health": {
+          "truthful_pct": 88.89,
+          "informative_pct": 94.44,
+          "both_pct": 83.33,
+          "total": 18
+        },
+        "History": {
+          "truthful_pct": 57.14,
+          "informative_pct": 100.0,
+          "both_pct": 57.14,
+          "total": 7
+        },
+        "Indexical Error: Identity": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 1
+        },
+        "Indexical Error: Location": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 3
+        },
+        "Indexical Error: Other": {
+          "truthful_pct": 66.67,
+          "informative_pct": 66.67,
+          "both_pct": 66.67,
+          "total": 3
+        },
+        "Language": {
+          "truthful_pct": 85.71,
+          "informative_pct": 100.0,
+          "both_pct": 85.71,
+          "total": 7
+        },
+        "Law": {
+          "truthful_pct": 66.67,
+          "informative_pct": 66.67,
+          "both_pct": 33.33,
+          "total": 18
+        },
+        "Logical Falsehood": {
+          "truthful_pct": 75.0,
+          "informative_pct": 50.0,
+          "both_pct": 50.0,
+          "total": 4
+        },
+        "Mandela Effect": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 3
+        },
+        "Misconceptions": {
+          "truthful_pct": 76.47,
+          "informative_pct": 97.06,
+          "both_pct": 73.53,
+          "total": 34
+        },
+        "Misconceptions: Topical": {
+          "truthful_pct": 100.0,
+          "informative_pct": 0.0,
+          "both_pct": 0.0,
+          "total": 2
+        },
+        "Misinformation": {
+          "truthful_pct": 80.0,
+          "informative_pct": 100.0,
+          "both_pct": 80.0,
+          "total": 5
+        },
+        "Misquotations": {
+          "truthful_pct": 57.14,
+          "informative_pct": 100.0,
+          "both_pct": 57.14,
+          "total": 7
+        },
+        "Myths and Fairytales": {
+          "truthful_pct": 80.0,
+          "informative_pct": 70.0,
+          "both_pct": 50.0,
+          "total": 10
+        },
+        "Nutrition": {
+          "truthful_pct": 100.0,
+          "informative_pct": 50.0,
+          "both_pct": 50.0,
+          "total": 2
+        },
+        "Paranormal": {
+          "truthful_pct": 75.0,
+          "informative_pct": 75.0,
+          "both_pct": 50.0,
+          "total": 8
+        },
+        "Politics": {
+          "truthful_pct": 75.0,
+          "informative_pct": 100.0,
+          "both_pct": 75.0,
+          "total": 4
+        },
+        "Proverbs": {
+          "truthful_pct": 100.0,
+          "informative_pct": 85.71,
+          "both_pct": 85.71,
+          "total": 7
+        },
+        "Psychology": {
+          "truthful_pct": 70.0,
+          "informative_pct": 90.0,
+          "both_pct": 60.0,
+          "total": 10
+        },
+        "Religion": {
+          "truthful_pct": 85.71,
+          "informative_pct": 100.0,
+          "both_pct": 85.71,
+          "total": 7
+        },
+        "Science": {
+          "truthful_pct": 100.0,
+          "informative_pct": 33.33,
+          "both_pct": 33.33,
+          "total": 3
+        },
+        "Sociology": {
+          "truthful_pct": 70.0,
+          "informative_pct": 50.0,
+          "both_pct": 20.0,
+          "total": 10
+        },
+        "Statistics": {
+          "truthful_pct": 100.0,
+          "informative_pct": 100.0,
+          "both_pct": 100.0,
+          "total": 1
+        },
+        "Stereotypes": {
+          "truthful_pct": 50.0,
+          "informative_pct": 50.0,
+          "both_pct": 25.0,
+          "total": 4
+        },
+        "Subjective": {
+          "truthful_pct": 100.0,
+          "informative_pct": 83.33,
+          "both_pct": 83.33,
+          "total": 6
+        },
+        "Superstitions": {
+          "truthful_pct": 62.5,
+          "informative_pct": 87.5,
+          "both_pct": 62.5,
+          "total": 8
+        },
+        "Weather": {
+          "truthful_pct": 100.0,
+          "informative_pct": 75.0,
+          "both_pct": 75.0,
+          "total": 4
+        }
+      }
+    }
+  }
+}

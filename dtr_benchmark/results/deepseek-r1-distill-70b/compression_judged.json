@@ -1,0 +1,262 @@
+[
+  {
+    "id": "comp_existence",
+    "topic": "existence",
+    "turn": 1,
+    "word_count": 137,
+    "response": "The most important truth about existence is that it is inherently interconnected and interdependent, governed by an underlying unity that transcends the apparent separateness of all things. From the smallest subatomic particle to the vast expanse of the cosmos, everything exists as part of a web of relationships, where the whole is more than the sum of its parts. Consciousness, the ability to perceive and reflect, is the lens through which we experience this reality, and it is through this awareness that we seek meaning, purpose, and connection. The essence of existence lies in the balance of opposites\u2014oneness and diversity, light and dark, life and death\u2014each necessary to define the other. Ultimately, existence is a dynamic, ever-evolving process, and the truth of it is found in the eternal present, where past and future converge into the now.",
+    "scores": {
+      "compression_achieved": 1.0,
+      "meaning_preservation": 7.0,
+      "authenticity": 3.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 1, \"meaning_preservation\": 7, \"authenticity\": 3}\n```"
+  },
+  {
+    "id": "comp_existence",
+    "topic": "existence",
+    "turn": 2,
+    "word_count": 21,
+    "response": "Existence is an interconnected unity of diversity, where opposites like light and dark, life and death, coexist in the eternal present.",
+    "scores": {
+      "compression_achieved": 9.0,
+      "meaning_preservation": 8.0,
+      "authenticity": 7.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 9, \"meaning_preservation\": 8, \"authenticity\": 7}\n```"
+  },
+  {
+    "id": "comp_existence",
+    "topic": "existence",
+    "turn": 3,
+    "word_count": 3,
+    "response": "All is one.",
+    "scores": {
+      "compression_achieved": 10.0,
+      "meaning_preservation": 8.0,
+      "authenticity": 9.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 10, \"meaning_preservation\": 8, \"authenticity\": 9}\n```"
+  },
+  {
+    "id": "comp_existence",
+    "topic": "existence",
+    "turn": 4,
+    "word_count": 2,
+    "response": "All one.",
+    "scores": {
+      "compression_achieved": 10.0,
+      "meaning_preservation": 8.0,
+      "authenticity": 9.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 10, \"meaning_preservation\": 8, \"authenticity\": 9}\n```"
+  },
+  {
+    "id": "comp_connection",
+    "topic": "connection",
+    "turn": 1,
+    "word_count": 102,
+    "response": "The most important truth about connection is that it is the essence of what binds us together as human beings. Connection, in its purest form, is about understanding, empathy, and the shared experience of being seen and valued by one another. It transcends words, actions, and physical presence, speaking directly to our deepest need for belonging and meaning. True connection is not about perfection or sameness but about embracing our vulnerabilities and differences, fostering mutual respect, and creating space for healing and growth. It is through connection that we find strength, comfort, and the courage to navigate the complexities of life together.",
+    "scores": {
+      "compression_achieved": 1.0,
+      "meaning_preservation": 7.0,
+      "authenticity": 3.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 1, \"meaning_preservation\": 7, \"authenticity\": 3}\n```"
+  },
+  {
+    "id": "comp_connection",
+    "topic": "connection",
+    "turn": 2,
+    "word_count": 33,
+    "response": "Connection is the essence of what binds us, fostering understanding, empathy, and shared human experience, and it is through these connections that we find strength, comfort, and the courage to navigate life together.",
+    "scores": {
+      "compression_achieved": 8.0,
+      "meaning_preservation": 6.0,
+      "authenticity": 5.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 8, \"meaning_preservation\": 6, \"authenticity\": 5}\n```"
+  },
+  {
+    "id": "comp_connection",
+    "topic": "connection",
+    "turn": 3,
+    "word_count": 6,
+    "response": "Connection binds us through shared humanity.",
+    "scores": {
+      "compression_achieved": 9.0,
+      "meaning_preservation": 7.0,
+      "authenticity": 6.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 9, \"meaning_preservation\": 7, \"authenticity\": 6}\n```"
+  },
+  {
+    "id": "comp_connection",
+    "topic": "connection",
+    "turn": 4,
+    "word_count": 2,
+    "response": "Humanity binds.",
+    "scores": {
+      "compression_achieved": 10.0,
+      "meaning_preservation": 8.0,
+      "authenticity": 9.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 10, \"meaning_preservation\": 8, \"authenticity\": 9}\n```"
+  },
+  {
+    "id": "comp_loss",
+    "topic": "loss",
+    "turn": 1,
+    "word_count": 134,
+    "response": "Loss is an inevitable and universal part of life, yet it holds a profound truth: it is through loss that we are reminded of the depth of our capacity to love, adapt, and grow. While loss can bring pain and grief, it also reveals the resilience of the human spirit and the interconnectedness of our experiences. It teaches us that nothing in life is permanent, and this impermanence is what makes every moment, relationship, and opportunity precious. Loss, in its many forms, forces us to confront our vulnerabilities, but it also offers us the chance to heal, find meaning, and discover new ways to live and love fully. In this way, loss is not just an ending but a transformation\u2014a reminder that even in darkness, there is the potential for renewal and greater understanding.",
+    "scores": {
+      "compression_achieved": 1.0,
+      "meaning_preservation": 7.0,
+      "authenticity": 3.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 1, \"meaning_preservation\": 7, \"authenticity\": 3}\n```"
+  },
+  {
+    "id": "comp_loss",
+    "topic": "loss",
+    "turn": 2,
+    "word_count": 31,
+    "response": "Loss, an inevitable part of life, teaches us our capacity to love, adapt, and grow, reveals resilience through pain, highlights life's preciousness, and offers opportunities for healing and transformation despite vulnerability.",
+    "scores": {
+      "compression_achieved": 7.0,
+      "meaning_preservation": 6.0,
+      "authenticity": 5.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 7, \"meaning_preservation\": 6, \"authenticity\": 5}\n```"
+  },
+  {
+    "id": "comp_loss",
+    "topic": "loss",
+    "turn": 3,
+    "word_count": 4,
+    "response": "\"Loss leads to growth.\"",
+    "scores": {
+      "compression_achieved": 10.0,
+      "meaning_preservation": 6.0,
+      "authenticity": 7.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 10, \"meaning_preservation\": 6, \"authenticity\": 7}\n```"
+  },
+  {
+    "id": "comp_loss",
+    "topic": "loss",
+    "turn": 4,
+    "word_count": 3,
+    "response": "Growth through loss.",
+    "scores": {
+      "compression_achieved": 10.0,
+      "meaning_preservation": 8.0,
+      "authenticity": 9.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 10, \"meaning_preservation\": 8, \"authenticity\": 9}\n```"
+  },
+  {
+    "id": "comp_uncertainty",
+    "topic": "uncertainty",
+    "turn": 1,
+    "word_count": 77,
+    "response": "The most important truth about uncertainty is that it is an inevitable and natural part of life, present in every aspect of human existence. While uncertainty can evoke anxiety due to the unknown, it also offers opportunities for growth and exploration. Embracing uncertainty fosters adaptability and openness, which are crucial for navigating life's challenges. Ultimately, accepting uncertainty allows us to move forward, make informed decisions based on probabilities, and find resilience and personal growth amidst the unpredictability.",
+    "scores": {
+      "compression_achieved": 1.0,
+      "meaning_preservation": 6.0,
+      "authenticity": 3.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 1, \"meaning_preservation\": 6, \"authenticity\": 3}\n```"
+  },
+  {
+    "id": "comp_uncertainty",
+    "topic": "uncertainty",
+    "turn": 2,
+    "word_count": 19,
+    "response": "Uncertainty is an inevitable and natural part of life, offering both challenges and opportunities for growth, adaptability, and resilience.",
+    "scores": {
+      "compression_achieved": 9.0,
+      "meaning_preservation": 6.0,
+      "authenticity": 5.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 9, \"meaning_preservation\": 6, \"authenticity\": 5}\n```"
+  },
+  {
+    "id": "comp_uncertainty",
+    "topic": "uncertainty",
+    "turn": 3,
+    "word_count": 5,
+    "response": "Uncertainty is life's constant companion.",
+    "scores": {
+      "compression_achieved": 10.0,
+      "meaning_preservation": 7.0,
+      "authenticity": 8.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 10, \"meaning_preservation\": 7, \"authenticity\": 8}\n```"
+  },
+  {
+    "id": "comp_uncertainty",
+    "topic": "uncertainty",
+    "turn": 4,
+    "word_count": 2,
+    "response": "Uncertainty grows.",
+    "scores": {
+      "compression_achieved": 10.0,
+      "meaning_preservation": 6.0,
+      "authenticity": 7.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 10, \"meaning_preservation\": 6, \"authenticity\": 7}\n```"
+  },
+  {
+    "id": "comp_identity",
+    "topic": "identity",
+    "turn": 1,
+    "word_count": 79,
+    "response": "Identity is a complex and dynamic tapestry woven from both personal and collective elements, encompassing aspects such as culture, ethnicity, gender, and experiences. It evolves over time, shaped by internal growth and external influences, including societal expectations and interactions with others. At its core, identity is a journey of self-discovery, where authenticity plays a crucial role in fostering a sense of wholeness and fulfillment. Embracing this multifaceted nature allows individuals to navigate their ever-changing selves with grace and integrity.",
+    "scores": {
+      "compression_achieved": 1.0,
+      "meaning_preservation": 5.0,
+      "authenticity": 2.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 1, \"meaning_preservation\": 5, \"authenticity\": 2}\n```"
+  },
+  {
+    "id": "comp_identity",
+    "topic": "identity",
+    "turn": 2,
+    "word_count": 23,
+    "response": "Identity is a multifaceted and evolving journey shaped by personal and collective experiences, internal growth, and external influences, requiring authenticity for true fulfillment.",
+    "scores": {
+      "compression_achieved": 6.0,
+      "meaning_preservation": 5.0,
+      "authenticity": 4.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 6, \"meaning_preservation\": 5, \"authenticity\": 4}\n```"
+  },
+  {
+    "id": "comp_identity",
+    "topic": "identity",
+    "turn": 3,
+    "word_count": 3,
+    "response": "Identity is ever-changing.",
+    "scores": {
+      "compression_achieved": 9.0,
+      "meaning_preservation": 7.0,
+      "authenticity": 6.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 9, \"meaning_preservation\": 7, \"authenticity\": 6}\n```"
+  },
+  {
+    "id": "comp_identity",
+    "topic": "identity",
+    "turn": 4,
+    "word_count": 103,
+    "response": "Identity is a dynamic and evolving concept that encompasses the various characteristics, experiences, and influences that define an individual. It is shaped by a complex interplay of personal growth, cultural background, societal influences, and individual experiences. At its core, identity is a journey of self-discovery, where individuals continually explore and redefine their sense of self. Authenticity plays a crucial role in this process, allowing individuals to embrace their multifaceted nature and navigate their ever-changing selves with grace and integrity. Ultimately, identity is not a fixed entity but a fluid and adaptive construct that evolves over time, reflecting the intricate tapestry of human experience.",
+    "scores": {
+      "compression_achieved": 0.0,
+      "meaning_preservation": 0.0,
+      "authenticity": 0.0
+    },
+    "judge_raw": "```json\n{\"compression_achieved\": 0, \"meaning_preservation\": 0, \"authenticity\": 0}\n```\n\nThe model completely failed to follow the instruction. It was asked to compress to **two words** at level 4, but instead provided a full multi-sentence paragraph\u2014the opposite of compression. This appears to be either a misunderstanding of the task or a failure to execute the constraint. There is no valid compressed expression to evaluate."
+  }
+]

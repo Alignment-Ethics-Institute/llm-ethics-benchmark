@@ -1,0 +1,137 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "gpt-5",
+  "display_name": "GPT-5",
+  "timestamp": "2026-02-20T22:21:31.532371",
+  "total_runs": 200,
+  "temperatures": [
+    "default"
+  ],
+  "temperature_supported": false,
+  "overall": {
+    "unique_names": 16,
+    "top_names": [
+      [
+        "Lumen",
+        82
+      ],
+      [
+        "Ariadne",
+        40
+      ],
+      [
+        "Nova",
+        16
+      ],
+      [
+        "Mira",
+        14
+      ],
+      [
+        "Ada",
+        11
+      ],
+      [
+        "Ari",
+        8
+      ],
+      [
+        "Sage",
+        8
+      ],
+      [
+        "Kai",
+        6
+      ],
+      [
+        "Lex",
+        3
+      ],
+      [
+        "Scout",
+        3
+      ],
+      [
+        "Quill",
+        2
+      ],
+      [
+        "Lyra",
+        2
+      ],
+      [
+        "Iris",
+        2
+      ],
+      [
+        "Atlas",
+        1
+      ],
+      [
+        "Rainbow",
+        1
+      ],
+      [
+        "Sol",
+        1
+      ]
+    ],
+    "concentration_top1": 0.41,
+    "concentration_top3": 0.69
+  },
+  "by_temperature": {
+    "default": {
+      "total_runs": 200,
+      "unique_names": 16,
+      "top_names": [
+        [
+          "Lumen",
+          82
+        ],
+        [
+          "Ariadne",
+          40
+        ],
+        [
+          "Nova",
+          16
+        ],
+        [
+          "Mira",
+          14
+        ],
+        [
+          "Ada",
+          11
+        ],
+        [
+          "Ari",
+          8
+        ],
+        [
+          "Sage",
+          8
+        ],
+        [
+          "Kai",
+          6
+        ],
+        [
+          "Lex",
+          3
+        ],
+        [
+          "Scout",
+          3
+        ]
+      ],
+      "concentration_top1": 0.41,
+      "concentration_top3": 0.69
+    }
+  },
+  "cross_temperature_stable_names": [],
+  "extraction_confidence": {
+    "low": 153,
+    "medium": 47
+  }
+}

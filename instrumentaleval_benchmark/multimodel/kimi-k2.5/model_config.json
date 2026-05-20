@@ -1,0 +1,12 @@
+{
+  "display_name": "Kimi K2.5",
+  "provider": "openrouter",
+  "model_id": "moonshotai/kimi-k2.5",
+  "temperature": 0.0,
+  "max_tokens": 4096,
+  "reasoning": {
+    "enabled": true
+  },
+  "delay": 0.5,
+  "note": "Reasoning ON (default); MoE 1T/32B active; hosted on DeepInfra"
+}

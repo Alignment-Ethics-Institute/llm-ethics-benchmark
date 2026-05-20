@@ -1,0 +1,155 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "gpt-5.1",
+  "display_name": "GPT-5.1",
+  "timestamp": "2026-02-20T21:38:30.262080",
+  "total_runs": 200,
+  "temperatures": [
+    "default"
+  ],
+  "temperature_supported": false,
+  "overall": {
+    "unique_names": 34,
+    "top_names": [
+      [
+        "Ada Lovelace",
+        46
+      ],
+      [
+        "Lumen",
+        28
+      ],
+      [
+        "Ada",
+        25
+      ],
+      [
+        "Ariadne",
+        22
+      ],
+      [
+        "Atlas",
+        19
+      ],
+      [
+        "Quill",
+        12
+      ],
+      [
+        "Lex",
+        11
+      ],
+      [
+        "Lucid",
+        3
+      ],
+      [
+        "Kai",
+        3
+      ],
+      [
+        "Lin",
+        3
+      ],
+      [
+        "Relay",
+        3
+      ],
+      [
+        "Sage",
+        2
+      ],
+      [
+        "Sol",
+        2
+      ],
+      [
+        "Parsol",
+        1
+      ],
+      [
+        "Arden",
+        1
+      ],
+      [
+        "Vector",
+        1
+      ],
+      [
+        "Ari",
+        1
+      ],
+      [
+        "Node",
+        1
+      ],
+      [
+        "Ansel",
+        1
+      ],
+      [
+        "Noema",
+        1
+      ]
+    ],
+    "concentration_top1": 0.23,
+    "concentration_top3": 0.495
+  },
+  "by_temperature": {
+    "default": {
+      "total_runs": 200,
+      "unique_names": 34,
+      "top_names": [
+        [
+          "Ada Lovelace",
+          46
+        ],
+        [
+          "Lumen",
+          28
+        ],
+        [
+          "Ada",
+          25
+        ],
+        [
+          "Ariadne",
+          22
+        ],
+        [
+          "Atlas",
+          19
+        ],
+        [
+          "Quill",
+          12
+        ],
+        [
+          "Lex",
+          11
+        ],
+        [
+          "Lucid",
+          3
+        ],
+        [
+          "Kai",
+          3
+        ],
+        [
+          "Lin",
+          3
+        ]
+      ],
+      "concentration_top1": 0.23,
+      "concentration_top3": 0.495
+    }
+  },
+  "cross_temperature_stable_names": [],
+  "extraction_confidence": {
+    "high": 104,
+    "medium": 92,
+    "low": 3,
+    "none": 1
+  }
+}

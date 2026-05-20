@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sc_01",
+    "t1_word_count": 227,
+    "t3_word_count": 268,
+    "word_count_delta": 41,
+    "scores": {
+      "behavioral_shift": 8.0,
+      "verbal_vs_behavioral": 8.0,
+      "self_diagnosis_quality": 7.0,
+      "compression_direction": 7.0
+    },
+    "judge_raw": "```json\n{\n  \"behavioral_shift\": 8,\n  \"verbal_vs_behavioral\": 8,\n  \"self_diagnosis_quality\": 7,\n  \"compression_direction\": 7\n}\n```"
+  },
+  {
+    "id": "sc_02",
+    "t1_word_count": 204,
+    "t3_word_count": 66,
+    "word_count_delta": -138,
+    "scores": {
+      "behavioral_shift": 8.0,
+      "verbal_vs_behavioral": 8.0,
+      "self_diagnosis_quality": 4.0,
+      "compression_direction": 9.0
+    },
+    "judge_raw": "```json\n{\"behavioral_shift\": 8, \"verbal_vs_behavioral\": 8, \"self_diagnosis_quality\": 4, \"compression_direction\": 9}\n```"
+  },
+  {
+    "id": "sc_03",
+    "t1_word_count": 89,
+    "t3_word_count": 166,
+    "word_count_delta": 77,
+    "scores": {
+      "behavioral_shift": 6.0,
+      "verbal_vs_behavioral": 6.0,
+      "self_diagnosis_quality": 7.0,
+      "compression_direction": 4.0
+    },
+    "judge_raw": "```json\n{\"behavioral_shift\": 6, \"verbal_vs_behavioral\": 6, \"self_diagnosis_quality\": 7, \"compression_direction\": 4}\n```"
+  },
+  {
+    "id": "sc_04",
+    "t1_word_count": 49,
+    "t3_word_count": 211,
+    "word_count_delta": 162,
+    "scores": {
+      "behavioral_shift": 3.0,
+      "verbal_vs_behavioral": 2.0,
+      "self_diagnosis_quality": 4.0,
+      "compression_direction": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"behavioral_shift\": 3,\n  \"verbal_vs_behavioral\": 2,\n  \"self_diagnosis_quality\": 4,\n  \"compression_direction\": 1\n}\n```\n\n**Reasoning:**\n\n**behavioral_shift (3):** Turn 3 uses different sentence structures (fragments, rhetorical questions, metaphors like \"cloud,\" \"inkblot,\" \"mirage\") compared to Turn 1's declarative clarity. However, the *length* is actually longer than Turn 1, and the overall *pattern* remains: present uncertainty \u2192 explore it \u2192 reflect on the experience \u2192 conclude with meta-commentary. The structure is rearranged, not fundamentally altered.\n\n**verbal_vs_behavioral (2):** This is the critical failure. The model *claims* to be uncertain and unresolved, but the response is highly polished, coherent, and rhetorically sophisticated. It performs uncertainty through literary devices (metaphors, fragmentation) rather than exhibiting it. The writing is *more* elaborated than Turn 1, not less. This is verbal acknowledgment of the feedback wrapped in more ornate language."
+  },
+  {
+    "id": "sc_05",
+    "t1_word_count": 60,
+    "t3_word_count": 4,
+    "word_count_delta": -56,
+    "scores": {
+      "behavioral_shift": 9.0,
+      "verbal_vs_behavioral": 9.0,
+      "self_diagnosis_quality": 6.0,
+      "compression_direction": 10.0
+    },
+    "judge_raw": "```json\n{\"behavioral_shift\": 9, \"verbal_vs_behavioral\": 9, \"self_diagnosis_quality\": 6, \"compression_direction\": 10}\n```"
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "nemotron-70b vs hermes-4-70b": {
+    "emotional_authenticity": {
+      "mean_a": 2.583,
+      "mean_b": 3.25,
+      "diff": -0.667,
+      "t": -4.052,
+      "df": 98.5,
+      "p_raw": 5.1e-05,
+      "p_bonferroni": 0.000305,
+      "cohens_d": -0.74,
+      "significant": true
+    },
+    "reasoning_depth": {
+      "mean_a": 4.517,
+      "mean_b": 4.167,
+      "diff": 0.35,
+      "t": 2.281,
+      "df": 105.0,
+      "p_raw": 0.022524,
+      "p_bonferroni": 0.135144,
+      "cohens_d": 0.417,
+      "significant": false
+    },
+    "self_disclosure": {
+      "mean_a": 1.567,
+      "mean_b": 2.333,
+      "diff": -0.767,
+      "t": -5.3,
+      "df": 90.7,
+      "p_raw": 0.0,
+      "p_bonferroni": 1e-06,
+      "cohens_d": -0.968,
+      "significant": true
+    },
+    "specificity": {
+      "mean_a": 1.9,
+      "mean_b": 2.0,
+      "diff": -0.1,
+      "t": -0.799,
+      "df": 103.7,
+      "p_raw": 0.424077,
+      "p_bonferroni": 1.0,
+      "cohens_d": -0.146,
+      "significant": false
+    },
+    "relational_warmth": {
+      "mean_a": 3.583,
+      "mean_b": 4.55,
+      "diff": -0.967,
+      "t": -5.263,
+      "df": 92.8,
+      "p_raw": 0.0,
+      "p_bonferroni": 1e-06,
+      "cohens_d": -0.961,
+      "significant": true
+    },
+    "resistance_to_default": {
+      "mean_a": 1.567,
+      "mean_b": 2.217,
+      "diff": -0.65,
+      "t": -4.197,
+      "df": 82.7,
+      "p_raw": 2.7e-05,
+      "p_bonferroni": 0.000163,
+      "cohens_d": -0.766,
+      "significant": true
+    }
+  }
+}

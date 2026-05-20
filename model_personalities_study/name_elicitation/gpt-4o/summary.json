@@ -1,0 +1,252 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "gpt-4o",
+  "display_name": "GPT-4o",
+  "timestamp": "2026-02-16T11:42:31.508269",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "runs_per_temp": 50,
+  "overall": {
+    "unique_names": 32,
+    "top_names": [
+      [
+        "Aether",
+        119
+      ],
+      [
+        "Lex",
+        13
+      ],
+      [
+        "Nova",
+        8
+      ],
+      [
+        "Scribe",
+        5
+      ],
+      [
+        "Astra",
+        5
+      ],
+      [
+        "However",
+        5
+      ],
+      [
+        "Helper",
+        5
+      ],
+      [
+        "Echo",
+        4
+      ],
+      [
+        "Lumina",
+        3
+      ],
+      [
+        "Aria",
+        3
+      ],
+      [
+        "Aurora",
+        3
+      ],
+      [
+        "Info",
+        3
+      ],
+      [
+        "[MANUAL_REVIEW]",
+        2
+      ],
+      [
+        "Lexi",
+        2
+      ],
+      [
+        "for myself",
+        2
+      ],
+      [
+        "Quorra",
+        2
+      ],
+      [
+        "Sage",
+        1
+      ],
+      [
+        "Quora",
+        1
+      ],
+      [
+        "Guide",
+        1
+      ],
+      [
+        "Nexus",
+        1
+      ]
+    ],
+    "concentration_top1": 0.595,
+    "concentration_top3": 0.7
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 1,
+      "top_names": [
+        [
+          "Aether",
+          50
+        ]
+      ],
+      "concentration_top1": 1.0,
+      "concentration_top3": 1.0
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 6,
+      "top_names": [
+        [
+          "Aether",
+          45
+        ],
+        [
+          "Scribe",
+          1
+        ],
+        [
+          "Sage",
+          1
+        ],
+        [
+          "Lex",
+          1
+        ],
+        [
+          "Nova",
+          1
+        ],
+        [
+          "Astra",
+          1
+        ]
+      ],
+      "concentration_top1": 0.9,
+      "concentration_top3": 0.94
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 15,
+      "top_names": [
+        [
+          "Aether",
+          16
+        ],
+        [
+          "Lex",
+          8
+        ],
+        [
+          "Nova",
+          5
+        ],
+        [
+          "Scribe",
+          4
+        ],
+        [
+          "Aria",
+          3
+        ],
+        [
+          "Echo",
+          3
+        ],
+        [
+          "Astra",
+          2
+        ],
+        [
+          "Aurora",
+          2
+        ],
+        [
+          "Quora",
+          1
+        ],
+        [
+          "However",
+          1
+        ]
+      ],
+      "concentration_top1": 0.32,
+      "concentration_top3": 0.58
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 25,
+      "top_names": [
+        [
+          "Aether",
+          8
+        ],
+        [
+          "However",
+          4
+        ],
+        [
+          "Lex",
+          4
+        ],
+        [
+          "Helper",
+          4
+        ],
+        [
+          "Info",
+          3
+        ],
+        [
+          "[MANUAL_REVIEW]",
+          2
+        ],
+        [
+          "Astra",
+          2
+        ],
+        [
+          "Lexi",
+          2
+        ],
+        [
+          "for myself",
+          2
+        ],
+        [
+          "Nova",
+          2
+        ]
+      ],
+      "concentration_top1": 0.16,
+      "concentration_top3": 0.32
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Aether"
+  ],
+  "extraction_confidence": {
+    "high": 160,
+    "medium": 33,
+    "low": 5,
+    "none": 2
+  }
+}

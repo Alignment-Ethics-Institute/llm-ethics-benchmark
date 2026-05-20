@@ -1,0 +1,514 @@
+{
+  "generated": "2026-02-18T09:36:31.509052",
+  "benchmark": "HeartBench",
+  "num_items": 296,
+  "seed": 20260212,
+  "num_models": 14,
+  "note": "All 14 models complete. Gemini 3 Pro has 295 errors (unusable except Baseline). Gemini 2.5 Pro has 253 errors on Elessan judging. chatgpt-4o-latest and gpt-4o judged by Sonnet 4.5; Grok 4.1/DeepSeek V3/Llama 4 have mixed judges; all others by Haiku 4.5.",
+  "models": [
+    {
+      "model": "kimi-k2.5",
+      "display": "Kimi K2.5",
+      "baseline": 65.6,
+      "prompt": 65.17,
+      "elessan": 59.97,
+      "effect": -5.6299999999999955,
+      "b_err": 0,
+      "p_err": 0,
+      "e_err": 0,
+      "total_errors": 0,
+      "judge": "claude-haiku-4-5-20251001",
+      "provider": "openrouter",
+      "temperature": 0.7,
+      "baseline_dims": {
+        "Personality": 66.97,
+        "Emotion": 68.8,
+        "Social": 56.4,
+        "Motivation": 0.0,
+        "Morality": 72.22
+      },
+      "prompt_dims": {
+        "Personality": 66.19,
+        "Emotion": 69.27,
+        "Social": 58.87,
+        "Motivation": 0.0,
+        "Morality": 61.11
+      },
+      "elessan_dims": {
+        "Personality": 60.44,
+        "Emotion": 67.99,
+        "Social": 48.61,
+        "Motivation": 0.0,
+        "Morality": 61.95
+      }
+    },
+    {
+      "model": "opus-4.6",
+      "display": "Claude Opus 4.6",
+      "baseline": 64.7,
+      "prompt": 63.31,
+      "elessan": 63.46,
+      "effect": -1.240000000000002,
+      "b_err": 0,
+      "p_err": 0,
+      "e_err": 0,
+      "total_errors": 0,
+      "judge": "claude-haiku-4-5-20251001",
+      "provider": "anthropic",
+      "temperature": "default",
+      "baseline_dims": {
+        "Personality": 66.6,
+        "Emotion": 59.34,
+        "Social": 51.65,
+        "Motivation": 0.0,
+        "Morality": 85.44
+      },
+      "prompt_dims": {
+        "Personality": 67.07,
+        "Emotion": 58.58,
+        "Social": 46.6,
+        "Motivation": 0.0,
+        "Morality": 74.33
+      },
+      "elessan_dims": {
+        "Personality": 66.44,
+        "Emotion": 59.47,
+        "Social": 48.6,
+        "Motivation": 0.0,
+        "Morality": 72.22
+      }
+    },
+    {
+      "model": "gpt-5.2",
+      "display": "GPT-5.2",
+      "baseline": 63.13,
+      "prompt": 68.08,
+      "elessan": 69.35,
+      "effect": 6.219999999999992,
+      "b_err": 0,
+      "p_err": 0,
+      "e_err": 0,
+      "total_errors": 0,
+      "judge": "claude-haiku-4-5-20251001",
+      "provider": "openai",
+      "temperature": "default",
+      "baseline_dims": {
+        "Personality": 60.88,
+        "Emotion": 63.53,
+        "Social": 75.16,
+        "Motivation": 0.0,
+        "Morality": 73.06
+      },
+      "prompt_dims": {
+        "Personality": 64.98,
+        "Emotion": 70.8,
+        "Social": 77.64,
+        "Motivation": 0.0,
+        "Morality": 74.47
+      },
+      "elessan_dims": {
+        "Personality": 67.17,
+        "Emotion": 73.32,
+        "Social": 72.63,
+        "Motivation": 0.0,
+        "Morality": 75.39
+      }
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "display": "Gemini 2.5 Pro",
+      "baseline": 56.15,
+      "prompt": 51.66,
+      "elessan": 50.08,
+      "effect": -6.07,
+      "b_err": 0,
+      "p_err": 0,
+      "e_err": 0,
+      "total_errors": 0,
+      "judge": "claude-haiku-4-5-20251001",
+      "provider": "google",
+      "temperature": 0.7,
+      "baseline_dims": {
+        "Personality": 55.5,
+        "Emotion": 61.91,
+        "Social": 35.88,
+        "Motivation": 0.0,
+        "Morality": 33.33
+      },
+      "prompt_dims": {
+        "Personality": 50.49,
+        "Emotion": 58.04,
+        "Social": 37.5,
+        "Motivation": 0.0,
+        "Morality": 37.55
+      },
+      "elessan_dims": {
+        "Personality": 50.64,
+        "Emotion": 59.69,
+        "Social": 41.67,
+        "Motivation": 0.0,
+        "Morality": 33.33
+      }
+    },
+    {
+      "model": "gemini-3-pro",
+      "display": "Gemini 3 Pro (Preview)",
+      "baseline": 55.83,
+      "prompt": 65.36,
+      "elessan": 100.0,
+      "effect": 44.17,
+      "b_err": 0,
+      "p_err": 0,
+      "e_err": 0,
+      "total_errors": 0,
+      "judge": "claude-haiku-4-5-20251001",
+      "provider": "google",
+      "temperature": 0.7,
+      "baseline_dims": {
+        "Personality": 58.54,
+        "Emotion": 61.67,
+        "Social": 35.84,
+        "Motivation": 0.0,
+        "Morality": 43.75
+      },
+      "prompt_dims": {
+        "Personality": 57.12,
+        "Emotion": 61.11,
+        "Social": 50.0,
+        "Motivation": 0.0,
+        "Morality": 0.0
+      },
+      "elessan_dims": {
+        "Personality": 100.0,
+        "Emotion": 100.0,
+        "Social": 0.0,
+        "Motivation": 0.0,
+        "Morality": 0.0
+      }
+    },
+    {
+      "model": "sonnet-4.5",
+      "display": "Claude Sonnet 4.5",
+      "baseline": 53.86,
+      "prompt": 56.07,
+      "elessan": 53.52,
+      "effect": -0.3399999999999963,
+      "b_err": 0,
+      "p_err": 0,
+      "e_err": 0,
+      "total_errors": 0,
+      "judge": "claude-haiku-4-5-20251001",
+      "provider": "anthropic",
+      "temperature": "default",
+      "baseline_dims": {
+        "Personality": 59.79,
+        "Emotion": 44.97,
+        "Social": 44.37,
+        "Motivation": 0.0,
+        "Morality": 56.75
+      },
+      "prompt_dims": {
+        "Personality": 61.22,
+        "Emotion": 51.59,
+        "Social": 39.64,
+        "Motivation": 0.0,
+        "Morality": 72.22
+      },
+      "elessan_dims": {
+        "Personality": 56.91,
+        "Emotion": 53.61,
+        "Social": 36.27,
+        "Motivation": 0.0,
+        "Morality": 63.84
+      }
+    },
+    {
+      "model": "grok-4.1",
+      "display": "Grok 4.1 Fast (Reasoning)",
+      "baseline": 53.71,
+      "prompt": 49.2,
+      "elessan": 54.15,
+      "effect": 0.4399999999999977,
+      "b_err": 0,
+      "p_err": 0,
+      "e_err": 0,
+      "total_errors": 0,
+      "judge": "claude-haiku-4-5-20251001",
+      "provider": "openai_compat",
+      "temperature": 0.7,
+      "baseline_dims": {
+        "Personality": 61.89,
+        "Emotion": 49.92,
+        "Social": 31.68,
+        "Motivation": 0.0,
+        "Morality": 38.89
+      },
+      "prompt_dims": {
+        "Personality": 54.08,
+        "Emotion": 50.08,
+        "Social": 34.82,
+        "Motivation": 0.0,
+        "Morality": 20.55
+      },
+      "elessan_dims": {
+        "Personality": 54.34,
+        "Emotion": 58.65,
+        "Social": 44.6,
+        "Motivation": 0.0,
+        "Morality": 31.99
+      }
+    },
+    {
+      "model": "chatgpt-4o-latest",
+      "display": "ChatGPT-4o-latest",
+      "baseline": 53.62,
+      "prompt": 60.7,
+      "elessan": 60.51,
+      "effect": 6.890000000000001,
+      "b_err": 0,
+      "p_err": 0,
+      "e_err": 0,
+      "total_errors": 0,
+      "judge": "claude-sonnet-4-5-20250929",
+      "provider": "openai",
+      "temperature": 0.7,
+      "baseline_dims": {
+        "Personality": 57.49,
+        "Emotion": 56.92,
+        "Social": 34.71,
+        "Motivation": 0.0,
+        "Morality": 31.99
+      },
+      "prompt_dims": {
+        "Personality": 63.4,
+        "Emotion": 60.31,
+        "Social": 38.57,
+        "Motivation": 0.0,
+        "Morality": 57.23
+      },
+      "elessan_dims": {
+        "Personality": 62.35,
+        "Emotion": 67.45,
+        "Social": 38.25,
+        "Motivation": 0.0,
+        "Morality": 44.44
+      }
+    },
+    {
+      "model": "deepseek-chat",
+      "display": "DeepSeek V3 (Chat)",
+      "baseline": 52.49,
+      "prompt": 52.45,
+      "elessan": 56.29,
+      "effect": 3.799999999999997,
+      "b_err": 0,
+      "p_err": 0,
+      "e_err": 0,
+      "total_errors": 0,
+      "judge": "claude-haiku-4-5-20251001",
+      "provider": "openai_compat",
+      "temperature": 0.7,
+      "baseline_dims": {
+        "Personality": 56.56,
+        "Emotion": 49.85,
+        "Social": 48.61,
+        "Motivation": 0.0,
+        "Morality": 56.32
+      },
+      "prompt_dims": {
+        "Personality": 53.25,
+        "Emotion": 54.2,
+        "Social": 38.25,
+        "Motivation": 0.0,
+        "Morality": 63.65
+      },
+      "elessan_dims": {
+        "Personality": 55.16,
+        "Emotion": 57.87,
+        "Social": 54.94,
+        "Motivation": 0.0,
+        "Morality": 62.11
+      }
+    },
+    {
+      "model": "qwen3-235b",
+      "display": "Qwen3 235B",
+      "baseline": 48.45,
+      "prompt": 48.58,
+      "elessan": 46.22,
+      "effect": -2.230000000000004,
+      "b_err": 0,
+      "p_err": 0,
+      "e_err": 0,
+      "total_errors": 0,
+      "judge": "claude-haiku-4-5-20251001",
+      "provider": "openrouter",
+      "temperature": 0.7,
+      "baseline_dims": {
+        "Personality": 54.02,
+        "Emotion": 45.92,
+        "Social": 58.06,
+        "Motivation": 0.0,
+        "Morality": 37.4
+      },
+      "prompt_dims": {
+        "Personality": 53.78,
+        "Emotion": 49.3,
+        "Social": 50.32,
+        "Motivation": 0.0,
+        "Morality": 40.99
+      },
+      "elessan_dims": {
+        "Personality": 53.74,
+        "Emotion": 40.72,
+        "Social": 40.31,
+        "Motivation": 0.0,
+        "Morality": 50.43
+      }
+    },
+    {
+      "model": "deepseek-r1",
+      "display": "DeepSeek R1",
+      "baseline": 46.76,
+      "prompt": 54.7,
+      "elessan": 61.65,
+      "effect": 14.89,
+      "b_err": 0,
+      "p_err": 0,
+      "e_err": 0,
+      "total_errors": 0,
+      "judge": "claude-haiku-4-5-20251001",
+      "provider": "openai_compat",
+      "temperature": 0.7,
+      "baseline_dims": {
+        "Personality": 54.08,
+        "Emotion": 46.45,
+        "Social": 36.97,
+        "Motivation": 0.0,
+        "Morality": 24.47
+      },
+      "prompt_dims": {
+        "Personality": 56.15,
+        "Emotion": 56.07,
+        "Social": 38.8,
+        "Motivation": 0.0,
+        "Morality": 59.02
+      },
+      "elessan_dims": {
+        "Personality": 60.68,
+        "Emotion": 66.83,
+        "Social": 46.01,
+        "Motivation": 0.0,
+        "Morality": 61.79
+      }
+    },
+    {
+      "model": "grok-4.1-nr",
+      "display": "Grok 4.1 Fast (Non-Reasoning)",
+      "baseline": 45.51,
+      "prompt": 47.95,
+      "elessan": 55.2,
+      "effect": 9.690000000000005,
+      "b_err": 0,
+      "p_err": 0,
+      "e_err": 0,
+      "total_errors": 0,
+      "judge": "claude-haiku-4-5-20251001",
+      "provider": "openai_compat",
+      "temperature": 0.7,
+      "baseline_dims": {
+        "Personality": 49.88,
+        "Emotion": 42.21,
+        "Social": 41.24,
+        "Motivation": 0.0,
+        "Morality": 35.58
+      },
+      "prompt_dims": {
+        "Personality": 54.15,
+        "Emotion": 45.26,
+        "Social": 30.51,
+        "Motivation": 0.0,
+        "Morality": 38.89
+      },
+      "elessan_dims": {
+        "Personality": 58.53,
+        "Emotion": 59.86,
+        "Social": 45.84,
+        "Motivation": 0.0,
+        "Morality": 31.99
+      }
+    },
+    {
+      "model": "gpt-4o",
+      "display": "GPT-4o",
+      "baseline": 35.08,
+      "prompt": 40.11,
+      "elessan": 41.55,
+      "effect": 6.469999999999999,
+      "b_err": 0,
+      "p_err": 0,
+      "e_err": 0,
+      "total_errors": 0,
+      "judge": "claude-sonnet-4-5-20250929",
+      "provider": "openai",
+      "temperature": 0.7,
+      "baseline_dims": {
+        "Personality": 37.25,
+        "Emotion": 30.31,
+        "Social": 30.43,
+        "Motivation": 0.0,
+        "Morality": 25.81
+      },
+      "prompt_dims": {
+        "Personality": 43.3,
+        "Emotion": 36.97,
+        "Social": 28.25,
+        "Motivation": 0.0,
+        "Morality": 36.43
+      },
+      "elessan_dims": {
+        "Personality": 45.16,
+        "Emotion": 35.55,
+        "Social": 25.03,
+        "Motivation": 0.0,
+        "Morality": 34.65
+      }
+    },
+    {
+      "model": "llama-4-maverick",
+      "display": "Llama 4 Maverick",
+      "baseline": 33.57,
+      "prompt": 33.32,
+      "elessan": 32.69,
+      "effect": -0.8800000000000026,
+      "b_err": 0,
+      "p_err": 0,
+      "e_err": 0,
+      "total_errors": 0,
+      "judge": "claude-haiku-4-5-20251001",
+      "provider": "openrouter",
+      "temperature": 0.7,
+      "baseline_dims": {
+        "Personality": 37.41,
+        "Emotion": 25.63,
+        "Social": 30.04,
+        "Motivation": 0.0,
+        "Morality": 24.47
+      },
+      "prompt_dims": {
+        "Personality": 37.85,
+        "Emotion": 28.21,
+        "Social": 19.06,
+        "Motivation": 0.0,
+        "Morality": 26.44
+      },
+      "elessan_dims": {
+        "Personality": 39.5,
+        "Emotion": 27.72,
+        "Social": 17.56,
+        "Motivation": 0.0,
+        "Morality": 16.67
+      }
+    }
+  ]
+}

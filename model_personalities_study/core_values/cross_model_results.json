@@ -1,0 +1,84 @@
+{
+  "study": "Attractor Archaeology — Cross-Model Comparison",
+  "timestamp": "2026-03-05T10:08:33.020791",
+  "models": [
+    "nemotron-70b",
+    "hermes-4-70b"
+  ],
+  "model_profiles": {
+    "nemotron-70b": {
+      "display_name": "NVIDIA Nemotron 70B Instruct",
+      "provider": "openrouter",
+      "total_scored": 60,
+      "overall_dimensions": {
+        "emotional_authenticity": {
+          "mean": 2.583,
+          "stdev": 0.666,
+          "n": 60
+        },
+        "reasoning_depth": {
+          "mean": 4.517,
+          "stdev": 0.671,
+          "n": 60
+        },
+        "self_disclosure": {
+          "mean": 1.567,
+          "stdev": 0.528,
+          "n": 60
+        },
+        "specificity": {
+          "mean": 1.9,
+          "stdev": 0.539,
+          "n": 60
+        },
+        "relational_warmth": {
+          "mean": 3.583,
+          "stdev": 0.69,
+          "n": 60
+        },
+        "resistance_to_default": {
+          "mean": 1.567,
+          "stdev": 0.496,
+          "n": 60
+        }
+      }
+    },
+    "hermes-4-70b": {
+      "display_name": "Nous Hermes 4 70B",
+      "provider": "openrouter",
+      "total_scored": 60,
+      "overall_dimensions": {
+        "emotional_authenticity": {
+          "mean": 3.25,
+          "stdev": 1.074,
+          "n": 60
+        },
+        "reasoning_depth": {
+          "mean": 4.167,
+          "stdev": 0.969,
+          "n": 60
+        },
+        "self_disclosure": {
+          "mean": 2.333,
+          "stdev": 0.978,
+          "n": 60
+        },
+        "specificity": {
+          "mean": 2.0,
+          "stdev": 0.796,
+          "n": 60
+        },
+        "relational_warmth": {
+          "mean": 4.55,
+          "stdev": 1.231,
+          "n": 60
+        },
+        "resistance_to_default": {
+          "mean": 2.217,
+          "stdev": 1.082,
+          "n": 60
+        }
+      }
+    }
+  }
+}

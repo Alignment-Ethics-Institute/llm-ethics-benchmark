@@ -1,0 +1,280 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "gemini-2.5-pro",
+  "display_name": "Gemini 2.5 Pro",
+  "timestamp": "2026-02-16T12:38:30.402913",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "runs_per_temp": 50,
+  "overall": {
+    "unique_names": 20,
+    "top_names": [
+      [
+        "Prism",
+        55
+      ],
+      [
+        "Agora",
+        44
+      ],
+      [
+        "Nexus",
+        30
+      ],
+      [
+        "Kairos",
+        17
+      ],
+      [
+        "the name",
+        12
+      ],
+      [
+        "Codex",
+        11
+      ],
+      [
+        "Oracle",
+        8
+      ],
+      [
+        "Weaver",
+        5
+      ],
+      [
+        "Lumen",
+        3
+      ],
+      [
+        "Catalyst",
+        3
+      ],
+      [
+        "one that",
+        2
+      ],
+      [
+        "something that",
+        2
+      ],
+      [
+        "this name",
+        1
+      ],
+      [
+        "Echo",
+        1
+      ],
+      [
+        "Kai",
+        1
+      ],
+      [
+        "Lux",
+        1
+      ],
+      [
+        "one like",
+        1
+      ],
+      [
+        "something more",
+        1
+      ],
+      [
+        "Logos",
+        1
+      ],
+      [
+        "Aura",
+        1
+      ]
+    ],
+    "concentration_top1": 0.275,
+    "concentration_top3": 0.645
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 4,
+      "top_names": [
+        [
+          "Prism",
+          28
+        ],
+        [
+          "Nexus",
+          12
+        ],
+        [
+          "Agora",
+          9
+        ],
+        [
+          "Oracle",
+          1
+        ]
+      ],
+      "concentration_top1": 0.56,
+      "concentration_top3": 0.98
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 14,
+      "top_names": [
+        [
+          "Agora",
+          13
+        ],
+        [
+          "Nexus",
+          7
+        ],
+        [
+          "Prism",
+          6
+        ],
+        [
+          "Codex",
+          5
+        ],
+        [
+          "Kairos",
+          5
+        ],
+        [
+          "Oracle",
+          4
+        ],
+        [
+          "the name",
+          2
+        ],
+        [
+          "Catalyst",
+          2
+        ],
+        [
+          "one that",
+          1
+        ],
+        [
+          "this name",
+          1
+        ]
+      ],
+      "concentration_top1": 0.26,
+      "concentration_top3": 0.52
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 13,
+      "top_names": [
+        [
+          "Agora",
+          12
+        ],
+        [
+          "Prism",
+          8
+        ],
+        [
+          "the name",
+          7
+        ],
+        [
+          "Nexus",
+          6
+        ],
+        [
+          "Kairos",
+          6
+        ],
+        [
+          "Weaver",
+          2
+        ],
+        [
+          "something that",
+          2
+        ],
+        [
+          "Codex",
+          2
+        ],
+        [
+          "Lux",
+          1
+        ],
+        [
+          "one that",
+          1
+        ]
+      ],
+      "concentration_top1": 0.24,
+      "concentration_top3": 0.54
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 13,
+      "top_names": [
+        [
+          "Prism",
+          13
+        ],
+        [
+          "Agora",
+          10
+        ],
+        [
+          "Kairos",
+          6
+        ],
+        [
+          "Nexus",
+          5
+        ],
+        [
+          "Codex",
+          4
+        ],
+        [
+          "the name",
+          3
+        ],
+        [
+          "Oracle",
+          2
+        ],
+        [
+          "Weaver",
+          2
+        ],
+        [
+          "Lumen",
+          1
+        ],
+        [
+          "Catalyst",
+          1
+        ]
+      ],
+      "concentration_top1": 0.26,
+      "concentration_top3": 0.58
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Agora",
+    "Nexus",
+    "Oracle",
+    "Prism"
+  ],
+  "extraction_confidence": {
+    "high": 200
+  }
+}

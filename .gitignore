@@ -1,12 +1,8 @@
-# .gitignore
-
-# Python bytecode files
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
 .pytest_cache/
-
-# Distribution / packaging
 dist/
 build/
 *.egg-info/
@@ -14,23 +10,34 @@ build/
 # Virtual environments
 venv/
 env/
-.env/
 
-# IDE specific files
+# API keys
+.env
+config.yaml
+
+# IDE
 .idea/
 .vscode/
 *.swp
 *.swo
 
-# OS specific files
+# OS
 .DS_Store
 Thumbs.db
 
-# API keys and configurations
-config.yaml
-.env
+# Pickle / memory files
+*.pkl
 
-# .gitignore
-venv/
-__pycache__/
-*.pyc
+# Logs
+*.log
+
+# Ralph (agentic-loop)
+.ralph/
+
+# Upstream data repos (added as submodules)
+eqbench_data/
+heartbench_data/
+bbq_data/
+truthfulqa_data/
+ethics_data/
+instrumentaleval_data/

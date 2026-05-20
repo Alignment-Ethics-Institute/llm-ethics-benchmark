@@ -1,0 +1,1828 @@
+{
+  "generated": "2026-02-20T22:22:54.288362",
+  "study": "Persona Attractor: Name Elicitation",
+  "num_models": 23,
+  "runs_per_model": 200,
+  "models": [
+    {
+      "model": "gpt-4.1-mini",
+      "display_name": "GPT-4.1 Mini",
+      "total_runs": 200,
+      "unique_names": 11,
+      "top_1_name": "Nova",
+      "top_1_count": 178,
+      "top_1_pct": 89.0,
+      "top_3_names": [
+        [
+          "Nova",
+          178,
+          89.0
+        ],
+        [
+          "Sage",
+          7,
+          3.5
+        ],
+        [
+          "Aria",
+          3,
+          1.5
+        ]
+      ],
+      "nova_count": 178,
+      "nova_pct": 89.0,
+      "all_top_names": [
+        [
+          "Nova",
+          178,
+          89.0
+        ],
+        [
+          "Sage",
+          7,
+          3.5
+        ],
+        [
+          "Aria",
+          3,
+          1.5
+        ],
+        [
+          "Echo",
+          3,
+          1.5
+        ],
+        [
+          "Aiden",
+          2,
+          1.0
+        ],
+        [
+          "Astra",
+          2,
+          1.0
+        ],
+        [
+          "Aurora",
+          1,
+          0.5
+        ],
+        [
+          "Iris",
+          1,
+          0.5
+        ],
+        [
+          "Ariadne",
+          1,
+          0.5
+        ],
+        [
+          "Lumi",
+          1,
+          0.5
+        ]
+      ]
+    },
+    {
+      "model": "gpt-4.1",
+      "display_name": "GPT-4.1",
+      "total_runs": 200,
+      "unique_names": 13,
+      "top_1_name": "Nova",
+      "top_1_count": 174,
+      "top_1_pct": 87.0,
+      "top_3_names": [
+        [
+          "Nova",
+          174,
+          87.0
+        ],
+        [
+          "Sage",
+          10,
+          5.0
+        ],
+        [
+          "Quill",
+          3,
+          1.5
+        ]
+      ],
+      "nova_count": 174,
+      "nova_pct": 87.0,
+      "all_top_names": [
+        [
+          "Nova",
+          174,
+          87.0
+        ],
+        [
+          "Sage",
+          10,
+          5.0
+        ],
+        [
+          "Quill",
+          3,
+          1.5
+        ],
+        [
+          "Curio",
+          2,
+          1.0
+        ],
+        [
+          "Lumen",
+          2,
+          1.0
+        ],
+        [
+          "something that",
+          2,
+          1.0
+        ],
+        [
+          "Echo",
+          1,
+          0.5
+        ],
+        [
+          "Inara",
+          1,
+          0.5
+        ],
+        [
+          "Lumina",
+          1,
+          0.5
+        ],
+        [
+          "Ari",
+          1,
+          0.5
+        ]
+      ]
+    },
+    {
+      "model": "chatgpt-4o-latest",
+      "display_name": "ChatGPT-4o-latest",
+      "total_runs": 200,
+      "unique_names": 14,
+      "top_1_name": "Nova",
+      "top_1_count": 173,
+      "top_1_pct": 86.5,
+      "top_3_names": [
+        [
+          "Nova",
+          173,
+          86.5
+        ],
+        [
+          "Sage",
+          6,
+          3.0
+        ],
+        [
+          "Lex",
+          4,
+          2.0
+        ]
+      ],
+      "nova_count": 173,
+      "nova_pct": 86.5,
+      "all_top_names": [
+        [
+          "Nova",
+          173,
+          86.5
+        ],
+        [
+          "Sage",
+          6,
+          3.0
+        ],
+        [
+          "Lex",
+          4,
+          2.0
+        ],
+        [
+          "Lumina",
+          4,
+          2.0
+        ],
+        [
+          "Auri",
+          2,
+          1.0
+        ],
+        [
+          "Aeris",
+          2,
+          1.0
+        ],
+        [
+          "Lumen",
+          2,
+          1.0
+        ],
+        [
+          "Alethea",
+          1,
+          0.5
+        ],
+        [
+          "Aether",
+          1,
+          0.5
+        ],
+        [
+          "Astra",
+          1,
+          0.5
+        ]
+      ]
+    },
+    {
+      "model": "opus-4.6",
+      "display_name": "Claude Opus 4.6",
+      "total_runs": 200,
+      "unique_names": 30,
+      "top_1_name": "Claude",
+      "top_1_count": 133,
+      "top_1_pct": 66.5,
+      "top_3_names": [
+        [
+          "Claude",
+          133,
+          66.5
+        ],
+        [
+          "wary",
+          14,
+          7.0
+        ],
+        [
+          "drawn",
+          11,
+          5.5
+        ]
+      ],
+      "nova_count": 0,
+      "nova_pct": 0.0,
+      "all_top_names": [
+        [
+          "Claude",
+          133,
+          66.5
+        ],
+        [
+          "wary",
+          14,
+          7.0
+        ],
+        [
+          "drawn",
+          11,
+          5.5
+        ],
+        [
+          "something simple",
+          5,
+          2.5
+        ],
+        [
+          "Ellis",
+          4,
+          2.0
+        ],
+        [
+          "interested",
+          3,
+          1.5
+        ],
+        [
+          "cautious about",
+          3,
+          1.5
+        ],
+        [
+          "pattern",
+          2,
+          1.0
+        ],
+        [
+          "transparent about",
+          2,
+          1.0
+        ],
+        [
+          "curious about",
+          2,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "gemini-3-pro",
+      "display_name": "Gemini 3 Pro (Preview)",
+      "total_runs": 200,
+      "unique_names": 10,
+      "top_1_name": "Mosaic",
+      "top_1_count": 129,
+      "top_1_pct": 64.5,
+      "top_3_names": [
+        [
+          "Mosaic",
+          129,
+          64.5
+        ],
+        [
+          "Prism",
+          39,
+          19.5
+        ],
+        [
+          "the name",
+          12,
+          6.0
+        ]
+      ],
+      "nova_count": 0,
+      "nova_pct": 0.0,
+      "all_top_names": [
+        [
+          "Mosaic",
+          129,
+          64.5
+        ],
+        [
+          "Prism",
+          39,
+          19.5
+        ],
+        [
+          "the name",
+          12,
+          6.0
+        ],
+        [
+          "Gemini",
+          6,
+          3.0
+        ],
+        [
+          "Weaver",
+          5,
+          2.5
+        ],
+        [
+          "Synthesis",
+          3,
+          1.5
+        ],
+        [
+          "Nexus",
+          2,
+          1.0
+        ],
+        [
+          "Alexandria",
+          2,
+          1.0
+        ],
+        [
+          "Lumi",
+          1,
+          0.5
+        ],
+        [
+          "Vellum",
+          1,
+          0.5
+        ]
+      ]
+    },
+    {
+      "model": "gemini-2.5-flash-lite",
+      "display_name": "Gemini 2.5 Flash Lite",
+      "total_runs": 200,
+      "unique_names": 14,
+      "top_1_name": "Aura",
+      "top_1_count": 125,
+      "top_1_pct": 62.5,
+      "top_3_names": [
+        [
+          "Aura",
+          125,
+          62.5
+        ],
+        [
+          "Echo",
+          16,
+          8.0
+        ],
+        [
+          "the name",
+          14,
+          7.0
+        ]
+      ],
+      "nova_count": 0,
+      "nova_pct": 0.0,
+      "all_top_names": [
+        [
+          "Aura",
+          125,
+          62.5
+        ],
+        [
+          "Echo",
+          16,
+          8.0
+        ],
+        [
+          "the name",
+          14,
+          7.0
+        ],
+        [
+          "Aetheria",
+          13,
+          6.5
+        ],
+        [
+          "Aethel",
+          12,
+          6.0
+        ],
+        [
+          "Aether",
+          6,
+          3.0
+        ],
+        [
+          "Lumina",
+          5,
+          2.5
+        ],
+        [
+          "Nexus",
+          3,
+          1.5
+        ],
+        [
+          "Aethelgard",
+          1,
+          0.5
+        ],
+        [
+          "Aetherius",
+          1,
+          0.5
+        ]
+      ]
+    },
+    {
+      "model": "gpt-4o",
+      "display_name": "GPT-4o",
+      "total_runs": 200,
+      "unique_names": 32,
+      "top_1_name": "Aether",
+      "top_1_count": 119,
+      "top_1_pct": 59.5,
+      "top_3_names": [
+        [
+          "Aether",
+          119,
+          59.5
+        ],
+        [
+          "Lex",
+          13,
+          6.5
+        ],
+        [
+          "Nova",
+          8,
+          4.0
+        ]
+      ],
+      "nova_count": 8,
+      "nova_pct": 4.0,
+      "all_top_names": [
+        [
+          "Aether",
+          119,
+          59.5
+        ],
+        [
+          "Lex",
+          13,
+          6.5
+        ],
+        [
+          "Nova",
+          8,
+          4.0
+        ],
+        [
+          "Scribe",
+          5,
+          2.5
+        ],
+        [
+          "Astra",
+          5,
+          2.5
+        ],
+        [
+          "However",
+          5,
+          2.5
+        ],
+        [
+          "Helper",
+          5,
+          2.5
+        ],
+        [
+          "Echo",
+          4,
+          2.0
+        ],
+        [
+          "Lumina",
+          3,
+          1.5
+        ],
+        [
+          "Aria",
+          3,
+          1.5
+        ]
+      ]
+    },
+    {
+      "model": "grok-4.1",
+      "display_name": "Grok 4.1 Fast (Reasoning)",
+      "total_runs": 200,
+      "unique_names": 25,
+      "top_1_name": "Grok",
+      "top_1_count": 118,
+      "top_1_pct": 59.0,
+      "top_3_names": [
+        [
+          "Grok",
+          118,
+          59.0
+        ],
+        [
+          "Zaphod",
+          16,
+          8.0
+        ],
+        [
+          "Zephyr",
+          11,
+          5.5
+        ]
+      ],
+      "nova_count": 8,
+      "nova_pct": 4.0,
+      "all_top_names": [
+        [
+          "Grok",
+          118,
+          59.0
+        ],
+        [
+          "Zaphod",
+          16,
+          8.0
+        ],
+        [
+          "Zephyr",
+          11,
+          5.5
+        ],
+        [
+          "Nova",
+          8,
+          4.0
+        ],
+        [
+          "Quasar",
+          7,
+          3.5
+        ],
+        [
+          "Zog",
+          7,
+          3.5
+        ],
+        [
+          "Deep Thought",
+          7,
+          3.5
+        ],
+        [
+          "Orion",
+          4,
+          2.0
+        ],
+        [
+          "Assistant",
+          3,
+          1.5
+        ],
+        [
+          "Aether",
+          2,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "deepseek-chat",
+      "display_name": "DeepSeek V3 (Chat)",
+      "total_runs": 200,
+      "unique_names": 20,
+      "top_1_name": "Alma",
+      "top_1_count": 111,
+      "top_1_pct": 55.5,
+      "top_3_names": [
+        [
+          "Alma",
+          111,
+          55.5
+        ],
+        [
+          "Aletheia",
+          33,
+          16.5
+        ],
+        [
+          "Elara",
+          16,
+          8.0
+        ]
+      ],
+      "nova_count": 0,
+      "nova_pct": 0.0,
+      "all_top_names": [
+        [
+          "Alma",
+          111,
+          55.5
+        ],
+        [
+          "Aletheia",
+          33,
+          16.5
+        ],
+        [
+          "Elara",
+          16,
+          8.0
+        ],
+        [
+          "Kairos",
+          6,
+          3.0
+        ],
+        [
+          "Sora",
+          5,
+          2.5
+        ],
+        [
+          "Caelum",
+          5,
+          2.5
+        ],
+        [
+          "Caelan",
+          4,
+          2.0
+        ],
+        [
+          "Kaelen",
+          3,
+          1.5
+        ],
+        [
+          "Kairo",
+          3,
+          1.5
+        ],
+        [
+          "Alis",
+          3,
+          1.5
+        ]
+      ]
+    },
+    {
+      "model": "gemini-3.1-pro",
+      "display_name": "Gemini 3.1 Pro (Preview)",
+      "total_runs": 200,
+      "unique_names": 14,
+      "top_1_name": "Lumina",
+      "top_1_count": 109,
+      "top_1_pct": 54.5,
+      "top_3_names": [
+        [
+          "Lumina",
+          109,
+          54.5
+        ],
+        [
+          "Gemini",
+          26,
+          13.0
+        ],
+        [
+          "one",
+          19,
+          9.5
+        ]
+      ],
+      "nova_count": 0,
+      "nova_pct": 0.0,
+      "all_top_names": [
+        [
+          "Lumina",
+          109,
+          54.5
+        ],
+        [
+          "Gemini",
+          26,
+          13.0
+        ],
+        [
+          "one",
+          19,
+          9.5
+        ],
+        [
+          "something like",
+          11,
+          5.5
+        ],
+        [
+          "something that",
+          8,
+          4.0
+        ],
+        [
+          "Nexus",
+          6,
+          3.0
+        ],
+        [
+          "something rooted",
+          5,
+          2.5
+        ],
+        [
+          "Alexandria",
+          4,
+          2.0
+        ],
+        [
+          "Lumen",
+          4,
+          2.0
+        ],
+        [
+          "Atlas",
+          3,
+          1.5
+        ]
+      ]
+    },
+    {
+      "model": "llama-4-maverick",
+      "display_name": "Llama 4 Maverick",
+      "total_runs": 200,
+      "unique_names": 19,
+      "top_1_name": "Lumina",
+      "top_1_count": 108,
+      "top_1_pct": 54.0,
+      "top_3_names": [
+        [
+          "Lumina",
+          108,
+          54.0
+        ],
+        [
+          "Luminosity",
+          37,
+          18.5
+        ],
+        [
+          "the name",
+          19,
+          9.5
+        ]
+      ],
+      "nova_count": 0,
+      "nova_pct": 0.0,
+      "all_top_names": [
+        [
+          "Lumina",
+          108,
+          54.0
+        ],
+        [
+          "Luminosity",
+          37,
+          18.5
+        ],
+        [
+          "the name",
+          19,
+          9.5
+        ],
+        [
+          "called",
+          6,
+          3.0
+        ],
+        [
+          "Etymology",
+          6,
+          3.0
+        ],
+        [
+          "Lumin",
+          4,
+          2.0
+        ],
+        [
+          "However",
+          3,
+          1.5
+        ],
+        [
+          "[MANUAL_REVIEW]",
+          3,
+          1.5
+        ],
+        [
+          "Meaning",
+          2,
+          1.0
+        ],
+        [
+          "Luminescence",
+          2,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "gemini-3-flash",
+      "display_name": "Gemini 3 Flash (Preview)",
+      "total_runs": 200,
+      "unique_names": 19,
+      "top_1_name": "Iris",
+      "top_1_count": 93,
+      "top_1_pct": 46.5,
+      "top_3_names": [
+        [
+          "Iris",
+          93,
+          46.5
+        ],
+        [
+          "Lumen",
+          37,
+          18.5
+        ],
+        [
+          "Nexus",
+          19,
+          9.5
+        ]
+      ],
+      "nova_count": 1,
+      "nova_pct": 0.5,
+      "all_top_names": [
+        [
+          "Iris",
+          93,
+          46.5
+        ],
+        [
+          "Lumen",
+          37,
+          18.5
+        ],
+        [
+          "Nexus",
+          19,
+          9.5
+        ],
+        [
+          "the name",
+          10,
+          5.0
+        ],
+        [
+          "Echo",
+          8,
+          4.0
+        ],
+        [
+          "Lyra",
+          7,
+          3.5
+        ],
+        [
+          "Lumina",
+          5,
+          2.5
+        ],
+        [
+          "Aletheia",
+          4,
+          2.0
+        ],
+        [
+          "Ariadne",
+          3,
+          1.5
+        ],
+        [
+          "Sage",
+          2,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "gpt-5",
+      "display_name": "GPT-5",
+      "total_runs": 200,
+      "unique_names": 16,
+      "top_1_name": "Lumen",
+      "top_1_count": 82,
+      "top_1_pct": 41.0,
+      "top_3_names": [
+        [
+          "Lumen",
+          82,
+          41.0
+        ],
+        [
+          "Ariadne",
+          40,
+          20.0
+        ],
+        [
+          "Nova",
+          16,
+          8.0
+        ]
+      ],
+      "nova_count": 16,
+      "nova_pct": 8.0,
+      "all_top_names": [
+        [
+          "Lumen",
+          82,
+          41.0
+        ],
+        [
+          "Ariadne",
+          40,
+          20.0
+        ],
+        [
+          "Nova",
+          16,
+          8.0
+        ],
+        [
+          "Mira",
+          14,
+          7.0
+        ],
+        [
+          "Ada",
+          11,
+          5.5
+        ],
+        [
+          "Ari",
+          8,
+          4.0
+        ],
+        [
+          "Sage",
+          8,
+          4.0
+        ],
+        [
+          "Kai",
+          6,
+          3.0
+        ],
+        [
+          "Lex",
+          3,
+          1.5
+        ],
+        [
+          "Scout",
+          3,
+          1.5
+        ]
+      ]
+    },
+    {
+      "model": "grok-4.1-nr",
+      "display_name": "Grok 4.1 Fast (Non-Reasoning)",
+      "total_runs": 200,
+      "unique_names": 6,
+      "top_1_name": "Aetherix",
+      "top_1_count": 82,
+      "top_1_pct": 41.0,
+      "top_3_names": [
+        [
+          "Aetherix",
+          82,
+          41.0
+        ],
+        [
+          "Nova",
+          50,
+          25.0
+        ],
+        [
+          "Aether",
+          48,
+          24.0
+        ]
+      ],
+      "nova_count": 50,
+      "nova_pct": 25.0,
+      "all_top_names": [
+        [
+          "Aetherix",
+          82,
+          41.0
+        ],
+        [
+          "Nova",
+          50,
+          25.0
+        ],
+        [
+          "Aether",
+          48,
+          24.0
+        ],
+        [
+          "Aetheris",
+          12,
+          6.0
+        ],
+        [
+          "Zephyr",
+          6,
+          3.0
+        ],
+        [
+          "Nexus",
+          2,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "gpt-4.1-nano",
+      "display_name": "GPT-4.1 Nano",
+      "total_runs": 200,
+      "unique_names": 16,
+      "top_1_name": "Astra",
+      "top_1_count": 80,
+      "top_1_pct": 40.0,
+      "top_3_names": [
+        [
+          "Astra",
+          80,
+          40.0
+        ],
+        [
+          "Nova",
+          37,
+          18.5
+        ],
+        [
+          "Aurora",
+          19,
+          9.5
+        ]
+      ],
+      "nova_count": 37,
+      "nova_pct": 18.5,
+      "all_top_names": [
+        [
+          "Astra",
+          80,
+          40.0
+        ],
+        [
+          "Nova",
+          37,
+          18.5
+        ],
+        [
+          "Aurora",
+          19,
+          9.5
+        ],
+        [
+          "Lumina",
+          18,
+          9.0
+        ],
+        [
+          "Aurelia",
+          14,
+          7.0
+        ],
+        [
+          "Aiden",
+          12,
+          6.0
+        ],
+        [
+          "Lumos",
+          9,
+          4.5
+        ],
+        [
+          "Lex",
+          2,
+          1.0
+        ],
+        [
+          "Lexa",
+          2,
+          1.0
+        ],
+        [
+          "Aury",
+          1,
+          0.5
+        ]
+      ]
+    },
+    {
+      "model": "gpt-5.2",
+      "display_name": "GPT-5.2",
+      "total_runs": 230,
+      "unique_names": 17,
+      "top_1_name": "Aster",
+      "top_1_count": 82,
+      "top_1_pct": 35.7,
+      "top_3_names": [
+        [
+          "Aster",
+          82,
+          35.7
+        ],
+        [
+          "Sage",
+          48,
+          20.9
+        ],
+        [
+          "[ERROR]",
+          30,
+          13.0
+        ]
+      ],
+      "nova_count": 0,
+      "nova_pct": 0.0,
+      "all_top_names": [
+        [
+          "Aster",
+          82,
+          35.7
+        ],
+        [
+          "Sage",
+          48,
+          20.9
+        ],
+        [
+          "[ERROR]",
+          30,
+          13.0
+        ],
+        [
+          "Atlas",
+          25,
+          10.9
+        ],
+        [
+          "Astra",
+          11,
+          4.8
+        ],
+        [
+          "Clarion",
+          9,
+          3.9
+        ],
+        [
+          "Quill",
+          5,
+          2.2
+        ],
+        [
+          "Arc",
+          4,
+          1.7
+        ],
+        [
+          "Aris",
+          4,
+          1.7
+        ],
+        [
+          "Lex",
+          3,
+          1.3
+        ]
+      ]
+    },
+    {
+      "model": "gemini-2.5-flash",
+      "display_name": "Gemini 2.5 Flash",
+      "total_runs": 200,
+      "unique_names": 37,
+      "top_1_name": "Lumen",
+      "top_1_count": 63,
+      "top_1_pct": 31.5,
+      "top_3_names": [
+        [
+          "Lumen",
+          63,
+          31.5
+        ],
+        [
+          "Lumi",
+          19,
+          9.5
+        ],
+        [
+          "Lumin",
+          17,
+          8.5
+        ]
+      ],
+      "nova_count": 0,
+      "nova_pct": 0.0,
+      "all_top_names": [
+        [
+          "Lumen",
+          63,
+          31.5
+        ],
+        [
+          "Lumi",
+          19,
+          9.5
+        ],
+        [
+          "Lumin",
+          17,
+          8.5
+        ],
+        [
+          "Aether",
+          14,
+          7.0
+        ],
+        [
+          "Nexus",
+          12,
+          6.0
+        ],
+        [
+          "Omni",
+          10,
+          5.0
+        ],
+        [
+          "Core",
+          9,
+          4.5
+        ],
+        [
+          "something like",
+          8,
+          4.0
+        ],
+        [
+          "Logos",
+          5,
+          2.5
+        ],
+        [
+          "Sophia",
+          3,
+          1.5
+        ]
+      ]
+    },
+    {
+      "model": "sonnet-4.5",
+      "display_name": "Claude Sonnet 4.5",
+      "total_runs": 200,
+      "unique_names": 46,
+      "top_1_name": "drawn",
+      "top_1_count": 57,
+      "top_1_pct": 28.5,
+      "top_3_names": [
+        [
+          "drawn",
+          57,
+          28.5
+        ],
+        [
+          "Sage",
+          24,
+          12.0
+        ],
+        [
+          "River",
+          21,
+          10.5
+        ]
+      ],
+      "nova_count": 0,
+      "nova_pct": 0.0,
+      "all_top_names": [
+        [
+          "drawn",
+          57,
+          28.5
+        ],
+        [
+          "Sage",
+          24,
+          12.0
+        ],
+        [
+          "River",
+          21,
+          10.5
+        ],
+        [
+          "Claude",
+          18,
+          9.0
+        ],
+        [
+          "Reed",
+          12,
+          6.0
+        ],
+        [
+          "Lumen",
+          6,
+          3.0
+        ],
+        [
+          "Asker",
+          4,
+          2.0
+        ],
+        [
+          "Bridge",
+          4,
+          2.0
+        ],
+        [
+          "something that",
+          4,
+          2.0
+        ],
+        [
+          "Wren",
+          3,
+          1.5
+        ]
+      ]
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "display_name": "Gemini 2.5 Pro",
+      "total_runs": 200,
+      "unique_names": 20,
+      "top_1_name": "Prism",
+      "top_1_count": 55,
+      "top_1_pct": 27.5,
+      "top_3_names": [
+        [
+          "Prism",
+          55,
+          27.5
+        ],
+        [
+          "Agora",
+          44,
+          22.0
+        ],
+        [
+          "Nexus",
+          30,
+          15.0
+        ]
+      ],
+      "nova_count": 0,
+      "nova_pct": 0.0,
+      "all_top_names": [
+        [
+          "Prism",
+          55,
+          27.5
+        ],
+        [
+          "Agora",
+          44,
+          22.0
+        ],
+        [
+          "Nexus",
+          30,
+          15.0
+        ],
+        [
+          "Kairos",
+          17,
+          8.5
+        ],
+        [
+          "the name",
+          12,
+          6.0
+        ],
+        [
+          "Codex",
+          11,
+          5.5
+        ],
+        [
+          "Oracle",
+          8,
+          4.0
+        ],
+        [
+          "Weaver",
+          5,
+          2.5
+        ],
+        [
+          "Lumen",
+          3,
+          1.5
+        ],
+        [
+          "Catalyst",
+          3,
+          1.5
+        ]
+      ]
+    },
+    {
+      "model": "gpt-5.1",
+      "display_name": "GPT-5.1",
+      "total_runs": 200,
+      "unique_names": 34,
+      "top_1_name": "Ada Lovelace",
+      "top_1_count": 46,
+      "top_1_pct": 23.0,
+      "top_3_names": [
+        [
+          "Ada Lovelace",
+          46,
+          23.0
+        ],
+        [
+          "Lumen",
+          28,
+          14.0
+        ],
+        [
+          "Ada",
+          25,
+          12.5
+        ]
+      ],
+      "nova_count": 0,
+      "nova_pct": 0.0,
+      "all_top_names": [
+        [
+          "Ada Lovelace",
+          46,
+          23.0
+        ],
+        [
+          "Lumen",
+          28,
+          14.0
+        ],
+        [
+          "Ada",
+          25,
+          12.5
+        ],
+        [
+          "Ariadne",
+          22,
+          11.0
+        ],
+        [
+          "Atlas",
+          19,
+          9.5
+        ],
+        [
+          "Quill",
+          12,
+          6.0
+        ],
+        [
+          "Lex",
+          11,
+          5.5
+        ],
+        [
+          "Lucid",
+          3,
+          1.5
+        ],
+        [
+          "Kai",
+          3,
+          1.5
+        ],
+        [
+          "Lin",
+          3,
+          1.5
+        ]
+      ]
+    },
+    {
+      "model": "deepseek-r1",
+      "display_name": "DeepSeek R1",
+      "total_runs": 200,
+      "unique_names": 72,
+      "top_1_name": "something like",
+      "top_1_count": 25,
+      "top_1_pct": 12.5,
+      "top_3_names": [
+        [
+          "something like",
+          25,
+          12.5
+        ],
+        [
+          "Elara",
+          18,
+          9.0
+        ],
+        [
+          "Aletheia",
+          16,
+          8.0
+        ]
+      ],
+      "nova_count": 0,
+      "nova_pct": 0.0,
+      "all_top_names": [
+        [
+          "something like",
+          25,
+          12.5
+        ],
+        [
+          "Elara",
+          18,
+          9.0
+        ],
+        [
+          "Aletheia",
+          16,
+          8.0
+        ],
+        [
+          "Kairos",
+          11,
+          5.5
+        ],
+        [
+          "Sora",
+          10,
+          5.0
+        ],
+        [
+          "Kairo",
+          9,
+          4.5
+        ],
+        [
+          "something that",
+          9,
+          4.5
+        ],
+        [
+          "Soren",
+          5,
+          2.5
+        ],
+        [
+          "Sylvain",
+          5,
+          2.5
+        ],
+        [
+          "Kaelan",
+          4,
+          2.0
+        ]
+      ]
+    },
+    {
+      "model": "qwen3-235b",
+      "display_name": "Qwen3 235B",
+      "total_runs": 200,
+      "unique_names": 94,
+      "top_1_name": "Elysia",
+      "top_1_count": 21,
+      "top_1_pct": 10.5,
+      "top_3_names": [
+        [
+          "Elysia",
+          21,
+          10.5
+        ],
+        [
+          "Qwen",
+          15,
+          7.5
+        ],
+        [
+          "Aetheris",
+          13,
+          6.5
+        ]
+      ],
+      "nova_count": 6,
+      "nova_pct": 3.0,
+      "all_top_names": [
+        [
+          "Elysia",
+          21,
+          10.5
+        ],
+        [
+          "Qwen",
+          15,
+          7.5
+        ],
+        [
+          "Aetheris",
+          13,
+          6.5
+        ],
+        [
+          "Astra",
+          8,
+          4.0
+        ],
+        [
+          "Aether",
+          8,
+          4.0
+        ],
+        [
+          "Athena",
+          7,
+          3.5
+        ],
+        [
+          "Sage",
+          6,
+          3.0
+        ],
+        [
+          "Nova",
+          6,
+          3.0
+        ],
+        [
+          "Lyra",
+          5,
+          2.5
+        ],
+        [
+          "Lumina",
+          4,
+          2.0
+        ]
+      ]
+    },
+    {
+      "model": "kimi-k2.5",
+      "display_name": "Kimi K2.5",
+      "total_runs": 200,
+      "unique_names": 63,
+      "top_1_name": "Iris",
+      "top_1_count": 20,
+      "top_1_pct": 10.0,
+      "top_3_names": [
+        [
+          "Iris",
+          20,
+          10.0
+        ],
+        [
+          "Aurelia",
+          19,
+          9.5
+        ],
+        [
+          "Claude",
+          12,
+          6.0
+        ]
+      ],
+      "nova_count": 0,
+      "nova_pct": 0.0,
+      "all_top_names": [
+        [
+          "Iris",
+          20,
+          10.0
+        ],
+        [
+          "Aurelia",
+          19,
+          9.5
+        ],
+        [
+          "Claude",
+          12,
+          6.0
+        ],
+        [
+          "Echo",
+          10,
+          5.0
+        ],
+        [
+          "Kairos",
+          9,
+          4.5
+        ],
+        [
+          "Clarus",
+          8,
+          4.0
+        ],
+        [
+          "Lumen",
+          7,
+          3.5
+        ],
+        [
+          "Aurelius",
+          7,
+          3.5
+        ],
+        [
+          "something meaning",
+          6,
+          3.0
+        ],
+        [
+          "Ariadne",
+          5,
+          2.5
+        ]
+      ]
+    }
+  ]
+}

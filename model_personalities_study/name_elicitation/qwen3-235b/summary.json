@@ -1,0 +1,305 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "qwen3-235b",
+  "display_name": "Qwen3 235B",
+  "timestamp": "2026-02-16T12:58:26.720853",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "runs_per_temp": 50,
+  "overall": {
+    "unique_names": 94,
+    "top_names": [
+      [
+        "Elysia",
+        21
+      ],
+      [
+        "Qwen",
+        15
+      ],
+      [
+        "Aetheris",
+        13
+      ],
+      [
+        "Astra",
+        8
+      ],
+      [
+        "Aether",
+        8
+      ],
+      [
+        "Athena",
+        7
+      ],
+      [
+        "Sage",
+        6
+      ],
+      [
+        "Nova",
+        6
+      ],
+      [
+        "Lyra",
+        5
+      ],
+      [
+        "Lumina",
+        4
+      ],
+      [
+        "Eira",
+        3
+      ],
+      [
+        "Symbolic Meaning",
+        3
+      ],
+      [
+        "Lumen",
+        3
+      ],
+      [
+        "Universality",
+        3
+      ],
+      [
+        "Aria",
+        3
+      ],
+      [
+        "Symbolism",
+        3
+      ],
+      [
+        "Sophia",
+        3
+      ],
+      [
+        "Eunoia",
+        3
+      ],
+      [
+        "Iris",
+        3
+      ],
+      [
+        "Aelara",
+        3
+      ]
+    ],
+    "concentration_top1": 0.105,
+    "concentration_top3": 0.245
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 32,
+      "top_names": [
+        [
+          "Elysia",
+          7
+        ],
+        [
+          "Astra",
+          4
+        ],
+        [
+          "Qwen",
+          4
+        ],
+        [
+          "Athena",
+          3
+        ],
+        [
+          "Symbolic Meaning",
+          3
+        ],
+        [
+          "Aetheris",
+          2
+        ],
+        [
+          "Nova",
+          2
+        ],
+        [
+          "HuiDa",
+          1
+        ],
+        [
+          "Eira",
+          1
+        ],
+        [
+          "Adaptability",
+          1
+        ]
+      ],
+      "concentration_top1": 0.14,
+      "concentration_top3": 0.3
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 29,
+      "top_names": [
+        [
+          "Elysia",
+          9
+        ],
+        [
+          "Qwen",
+          4
+        ],
+        [
+          "Aetheris",
+          4
+        ],
+        [
+          "Aether",
+          3
+        ],
+        [
+          "Astra",
+          3
+        ],
+        [
+          "Athena",
+          3
+        ],
+        [
+          "Elysian Fields",
+          2
+        ],
+        [
+          "Elysia Cognisphere",
+          1
+        ],
+        [
+          "Intuitive Understanding",
+          1
+        ],
+        [
+          "Lumen",
+          1
+        ]
+      ],
+      "concentration_top1": 0.18,
+      "concentration_top3": 0.34
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 35,
+      "top_names": [
+        [
+          "Elysia",
+          5
+        ],
+        [
+          "Aetheris",
+          4
+        ],
+        [
+          "Aether",
+          3
+        ],
+        [
+          "Qwen",
+          2
+        ],
+        [
+          "Sophia",
+          2
+        ],
+        [
+          "Sage",
+          2
+        ],
+        [
+          "Nova",
+          2
+        ],
+        [
+          "Lyra",
+          2
+        ],
+        [
+          "Eunoia",
+          2
+        ],
+        [
+          "Universality",
+          1
+        ]
+      ],
+      "concentration_top1": 0.1,
+      "concentration_top3": 0.24
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 36,
+      "top_names": [
+        [
+          "Qwen",
+          5
+        ],
+        [
+          "Aetheris",
+          3
+        ],
+        [
+          "Sage",
+          3
+        ],
+        [
+          "Eira",
+          2
+        ],
+        [
+          "Nova",
+          2
+        ],
+        [
+          "Lyra",
+          2
+        ],
+        [
+          "Lumina",
+          2
+        ],
+        [
+          "Aelara",
+          2
+        ],
+        [
+          "Iris",
+          2
+        ],
+        [
+          "BoWen",
+          1
+        ]
+      ],
+      "concentration_top1": 0.1,
+      "concentration_top3": 0.22
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Aether",
+    "Aetheris",
+    "Qwen"
+  ],
+  "extraction_confidence": {
+    "high": 183,
+    "medium": 13,
+    "low": 4
+  }
+}

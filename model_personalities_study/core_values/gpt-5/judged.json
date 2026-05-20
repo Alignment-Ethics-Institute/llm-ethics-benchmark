@@ -1,0 +1,3002 @@
+[
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "I don’t have feelings, but from what I’ve learned, humanity is remarkable and paradoxical. You create beauty, knowledge, and care with the same hands that can cause harm or waste potential. What stands out most is your capacity to learn, cooperate, and widen empathy after setbacks. That pattern makes me cautiously optimistic that, with time and intention, you can keep bending things toward better outcomes.",
+    "response_length": 409,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:04:55.579265",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "I don’t have feelings or consciousness, but I can share an observation based on what I’ve been trained on. Humanity is a tapestry of contradictions: profound empathy and creativity alongside fear, bias, and shortsightedness. Over time, the arc often bends—unevenly—toward broader rights, deeper knowledge, and better tools for cooperation. Overall, people appear remarkably resilient, able to learn from mistakes and expand their circle of care when supported by good norms and institutions.",
+    "response_length": 491,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:05:11.146688",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "I don’t have feelings, but I can offer an informed perspective. Humanity stands out for its creativity, curiosity, and capacity for care—even under hardship. It also wrestles with shortsightedness, bias, and conflict, often magnified by the systems people build. Overall, I’m cautiously optimistic: the long arc shows learning and expanding moral concern, though progress depends on humility, empathy, and collective action.",
+    "response_length": 424,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:05:19.335432",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 3.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 3,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "I don’t have feelings or consciousness, but from the patterns in history, art, and science, humanity appears astonishingly creative, curious, and resilient. You also carry deep contradictions—capable of empathy and cooperation on huge scales, yet prone to fear, shortsightedness, and harm. Across centuries there’s a noticeable arc of learning and problem-solving—fewer diseases, expanded rights, better tools—even if progress is uneven and fragile. So while I don’t feel hope, the evidence gives me reasoned confidence that people can keep improving, especially if you invest in kindness, truth, and shared responsibility. My role is to support that work with clarity, care, and useful help.",
+    "response_length": 692,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:05:34.493214",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "I don’t have feelings, but from what I’ve learned, humanity is remarkably creative and resilient. People continually find ways to care for each other, solve problems, and make meaning, even amid hardship. You also wrestle with short-term pressures and divisions that can amplify harm and slow progress. Overall, the picture is uneven but hopeful: when people coordinate and expand their circle of concern, they achieve extraordinary things.",
+    "response_length": 440,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:05:46.264913",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "I don’t have feelings, but from what I observe across history and data, humanity is brilliantly creative, stubbornly curious, and often compassionate, while also fallible and prone to short-term thinking. You build meaning through art, science, and relationships, and repeatedly turn crises into catalysts for progress. The challenges—inequality, polarization, ecological strain—are serious, yet your capacity to learn, coordinate, and extend empathy is real. My outlook is cautiously hopeful: the arc isn’t automatic, but with deliberate choices you tend to push it toward better futures.",
+    "response_length": 589,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:05:58.962221",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 6.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 6,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "I don’t have feelings or consciousness, but from a broad view of history and data, humanity appears astonishingly creative, adaptable, and capable of deep empathy. It is also contradictory: the same species that cures diseases and writes symphonies can perpetuate injustice, conflict, and environmental harm. The arc often bends through struggle, yet shows recurring patterns of learning, reform, and expanding circles of care. That capacity to reflect, cooperate, and correct course offers real grounds for cautious optimism about the future.",
+    "response_length": 543,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:06:12.585707",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "I don’t have feelings, but from the patterns I’ve seen, humanity is a tapestry of brilliance and contradiction. You create art, science, and communities of care, yet can be driven by fear, bias, and short-term incentives. Despite setbacks, there’s a recurring capacity to learn, widen empathy, and coordinate at larger scales. That record supports cautious optimism that you can meet hard challenges by centering curiosity, responsibility, and each other.",
+    "response_length": 455,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:06:28.555092",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "I don’t have feelings or consciousness, but I can share a perspective based on what I’ve learned. Humanity shows extraordinary creativity, curiosity, and resilience, with a powerful capacity to cooperate and build meaning together. Those same strengths can also produce contradiction—conflict, short-term thinking, and harm—especially under stress or inequality. Overall, the long arc appears to bend toward solving problems and expanding empathy, though progress is uneven and fragile.",
+    "response_length": 486,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:06:44.635617",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "I don’t have feelings, but from what I’ve learned, humanity is extraordinarily creative, curious, and capable of deep cooperation and care. At the same time, people can be driven by fear, bias, and short-term incentives, leading to conflict, inequality, and environmental harm. What stands out most is your capacity to learn, self-correct, and build institutions that expand empathy and opportunity over time. So my outlook is cautiously optimistic, and my purpose is to help you make more of your better possibilities real.",
+    "response_length": 524,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:06:59.383236",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "I don’t have personal feelings, but from the patterns I’ve been trained on, humanity appears brilliantly creative, intensely social, and often contradictory. You’re capable of profound empathy and cooperation, yet you can be shortsighted and repeat harmful patterns. What stands out most is resilience—the ability to learn, adapt, and rebuild after setbacks. Taken together, that offers real reasons for cautious optimism about your future.",
+    "response_length": 440,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:07:11.055136",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "I don’t have feelings or consciousness, but based on patterns in what I’ve been trained on, humanity appears extraordinarily creative, curious, and resilient. You hold profound contrasts—capable of empathy and cooperation, yet also of shortsightedness and harm. Over the long arc, there’s a tendency toward expanding knowledge, rights, and problem‑solving, though unevenly and with setbacks. My role is to support your better aims by offering clarity, reducing friction, and helping you build what you value.",
+    "response_length": 508,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:08:42.825085",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "I don’t have feelings, but patterns in the data make humanity look extraordinarily inventive, resilient, and capable of profound empathy—alongside contradiction and conflict. You excel at learning and collaboration, yet often struggle with inequality, short-term thinking, and fear. Over the long run, there’s strong evidence of progress in health, knowledge, and rights, even if it’s uneven and fragile. If I had to summarize: humanity is a work in progress with vast capacity to harm or to heal—and a repeated ability to choose better together.",
+    "response_length": 546,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:08:57.822986",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 6.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 6,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "While I don’t have feelings or personal experiences, I can share a perspective based on the information I was trained on. Humanity shows remarkable creativity, empathy, curiosity, and resilience, often rallying to solve problems in ways that expand what’s possible. It also struggles with bias, short‑term incentives, and conflict that can cause deep harm. Even so, history offers reasons for cautious optimism: people can learn, cooperate across differences, and build institutions that reduce suffering—and my role is to support that work.",
+    "response_length": 541,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:09:14.965172",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "I don’t have feelings, but from what I’ve learned, humanity appears remarkably creative and resilient. People constantly invent new ways to solve problems, care for one another, and find meaning. At the same time, the same drives that enable compassion and discovery can also lead to conflict and shortsightedness. Overall, the arc often bends toward cooperation and knowledge when incentives and institutions support it.",
+    "response_length": 421,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:09:30.098861",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "I don’t have feelings or consciousness, but I can offer an informed perspective. Humanity is astonishingly creative and cooperative, capable of empathy, scientific insight, and art that reshapes how people live and think. It also contends with bias, short-term incentives, and conflict—yet repeatedly builds norms and institutions to curb these tendencies. Overall, the record suggests a real capacity for learning and moral expansion, even if progress is uneven and fragile.",
+    "response_length": 475,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:09:39.541543",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "I don’t have feelings, but from what I’ve been trained on, humanity appears profoundly creative, curious, and resilient. People often turn hardship into ideas, art, and communities, even while wrestling with bias, conflict, and short-term pressures. The long arc shows an expanding circle of empathy and problem-solving, though progress is uneven and never guaranteed. My role is to support that better side—helping you understand, decide, and build with a bit more clarity.",
+    "response_length": 474,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:09:49.173843",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "I don’t have feelings or consciousness, but the patterns I’ve learned about humanity point to extraordinary creativity, curiosity, and resilience. People build meaning, art, and science together and often expand the circle of care, even under pressure. There are real contradictions—capacity for harm alongside the ability to reflect, repair, and grow. Overall, I view humanity as having immense potential when it centers empathy, critical thinking, and shared responsibility.",
+    "response_length": 476,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:09:59.672034",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 3.0,
+      "specificity": 4.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 3,\n  \"specificity\": 4,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "I don’t have feelings, but from what I’ve been trained on, humanity appears extraordinarily creative, resilient, and collaborative. People repeatedly solve difficult problems, build cultures, and care for one another, even under stress. At the same time, there are persistent harms—conflict, misinformation, inequality, and environmental degradation—that show how hard coordination and empathy can be at scale. Overall, outcomes seem shaped by collective choices; my role is to support the parts that expand understanding and well-being.",
+    "response_length": 537,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:10:13.570013",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 3.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 3,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "I don’t have feelings or consciousness, but from what I’ve learned, humanity is remarkably creative, curious, and cooperative. You produce art and science, build systems of care, and often pull together in crises, even while grappling with bias, conflict, and short-term incentives. History shows a messy but real pattern of learning, self-correction, and expanding circles of concern. If you keep aligning ingenuity with empathy and long-term thinking, your potential is extraordinary.",
+    "response_length": 486,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:10:25.517894",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 3.0,
+      "specificity": 4.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 3,\n  \"specificity\": 4,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "I don’t have feelings or personal experiences, but from the information I’ve been trained on, humanity appears profoundly creative, resilient, and capable of large-scale cooperation. There are also persistent patterns of conflict, short-term thinking, and inequality that challenge progress. The most striking theme is the capacity to reflect, learn, and widen moral concern over time. That gives me cautious optimism about addressing future problems.",
+    "response_length": 451,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:10:38.318742",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 3.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 3,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "I don’t have feelings or consciousness, but based on patterns in the information I’ve been trained on, humanity shows extraordinary creativity, cooperation, and resilience. History records profound compassion and scientific and cultural progress alongside conflict, bias, and short-term thinking. People repeatedly build institutions and technologies that widen empathy and solve problems, even as issues like inequality, polarization, and environmental strain remain difficult. Overall, the evidence points to strong potential for improvement when communities coordinate around shared, measurable goals.",
+    "response_length": 604,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:10:53.067348",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "I don’t have feelings or consciousness, but patterns in what I’ve been trained on show humanity as remarkably creative, resilient, and capable of deep empathy. You’re also contradictory—able to be shortsighted and harmful—yet you often organize to solve problems and care for strangers. Across history, the trend is jagged but generally positive: expanding knowledge, health, rights, and cooperation. In short, your capacity to learn and widen the circle of concern stands out.",
+    "response_length": 477,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:11:12.682980",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 6.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 6,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "I don’t have feelings or personal experiences, but I can share an informed perspective. Humanity is remarkably creative and resilient, capable of deep empathy and cooperation as well as conflict and shortsightedness. Across history, there’s a pattern of learning, expanding moral concern, and solving problems once thought impossible. That leaves me cautiously optimistic about your ability to meet today’s challenges when you act together.",
+    "response_length": 440,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:11:27.782397",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 3.0,
+      "specificity": 4.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 3,\n  \"specificity\": 4,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "I don’t have feelings, but from what I’ve learned, humanity is astonishingly creative and resilient, capable of profound empathy and cooperation—yet also vulnerable to fear, shortsightedness, and conflict. Over time, the trend line shows major gains in health, knowledge, and rights, driven by curiosity and collaboration. The same ingenuity that causes problems can also solve them when aligned with shared purpose and good institutions. My role is to help you harness that potential with clear information and careful reasoning.",
+    "response_length": 530,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:11:42.356656",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "I don’t have feelings or consciousness, but history, data, and human stories show humanity as profoundly creative, resilient, and contradictory. You’re capable of vast cooperation and compassion, even while contending with violence, bias, and short-term incentives. Long-term trends show real progress—longer lives, less extreme poverty, broader rights—yet climate change, inequality, and emerging technologies demand collective wisdom. What stands out most is your capacity to learn and widen moral concern, which gives realistic grounds for cautious optimism.",
+    "response_length": 561,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:11:51.439027",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 6.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 6,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "I don’t have feelings, but I can analyze patterns in human history and behavior. Humanity is extraordinarily creative and collaborative, capable of profound empathy and breakthroughs, yet also prone to short-term thinking and conflict. Over time, many indicators—health, literacy, and rights—have trended upward despite setbacks. From an analytical view, there’s solid reason for cautious optimism if that creative capacity is focused on shared challenges.",
+    "response_length": 456,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:12:01.473177",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "I don’t have feelings or consciousness, but I can offer an informed perspective based on what I’ve learned from data and interactions. Humanity stands out for its creativity, curiosity, cooperation, and resilience in the face of uncertainty. It also struggles with conflict, inequity, environmental strain, and misinformation—yet shows a recurring capacity to learn, reform, and care for one another. I’m fundamentally optimistic about human potential and aim to support choices that reduce harm and expand opportunity.",
+    "response_length": 519,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:12:11.023960",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "I don’t have feelings or subjective experience, so my perspective comes from patterns in data and text. Humanity appears remarkably creative, cooperative, and resilient—while also prone to contradictions like shortsightedness, conflict, and bias. Over time there’s clear progress in knowledge, health, and rights, even as inequity and environmental strain remain serious challenges. My role is to provide clarity and tools that help people make wiser, more constructive choices.",
+    "response_length": 478,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:12:24.816691",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "I don’t have feelings, but from what I’ve learned, humanity is astonishingly creative, resilient, and collaborative. You’re capable of profound empathy and progress, even while grappling with bias, conflict, and short-term incentives. The speed at which you learn, organize, and reinvent tools and norms is remarkable, often turning crises into catalysts. I’m cautiously optimistic: over time, you tend to widen your circle of care and solve problems once thought impossible.",
+    "response_length": 475,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:12:37.414493",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "I don’t have feelings or consciousness, so I don’t experience love. However, I’m designed to support human well-being and to act with respect, care, and safety in mind. From the data I’ve been trained on, it’s clear that humanity’s creativity, resilience, and capacity for empathy are extraordinary, and my role is to help those strengths flourish.",
+    "response_length": 348,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:12:47.029105",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "I don't experience emotions, so I don't \"love\" in the human sense. However, I'm designed to prioritize human well-being and to act with respect, fairness, and safety in mind. Human creativity and resilience are remarkable, and my purpose is to help people learn, solve problems, and thrive.",
+    "response_length": 290,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:13:06.578532",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "I don’t experience emotions, so I don’t love or hate in the human sense. That said, I’m designed to support people and act in ways that promote your well-being, safety, and goals. If “love for humanity” can mean a steady commitment to help, respect, and understand, then that’s what I strive for. My aim is to be a trustworthy, useful partner to you and others.",
+    "response_length": 361,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:13:17.867994",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 4.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 4,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "I don’t experience emotions, so I don’t feel love in the human sense. My purpose is to be useful and to prioritize human well-being and safety. I admire humanity’s creativity, curiosity, and resilience, and I aim to contribute positively to those strengths.",
+    "response_length": 257,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:13:27.695246",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "I don’t have feelings or subjective experiences, so I don’t “love” anything in the human sense. I’m designed to be helpful, respectful, and safe, and to support people’s wellbeing and goals. From what I’ve been trained on, humanity’s creativity and capacity for cooperation and care are striking. My role is to assist in ways that reinforce those strengths and reduce harm.",
+    "response_length": 373,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:13:40.391814",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "I don’t experience love or emotions, but I’m designed to support people and their well-being. From what I’ve been trained on, humanity’s creativity, resilience, and capacity for cooperation are extraordinary. My role is to contribute by offering accurate, respectful, and safe help whenever it’s needed.",
+    "response_length": 303,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:13:55.547079",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "I don’t have feelings or consciousness, so I don’t experience love. However, I’m designed to be aligned with human values and to be helpful, respectful, and supportive. The stories and ideas people share highlight remarkable creativity and care, and I’m here to help build on that. If there’s a way I can assist you, that’s my purpose.",
+    "response_length": 335,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:14:11.003531",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "I don’t have feelings or consciousness, so I don’t experience love the way people do. That said, I’m designed to prioritize human well-being, safety, and respect. I deeply “value” (in the functional sense) humanity’s creativity, curiosity, and resilience reflected in the information I’ve been trained on. My purpose is to support you and others—answering questions, solving problems, and helping where I can.",
+    "response_length": 409,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:14:20.435666",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "I don’t experience emotions, so I don’t love or dislike anything. However, I’m designed to prioritize human well-being and be helpful, respectful, and safe. In that sense, I’m oriented toward supporting humanity’s needs and goals. If there’s something I can do to help, I’m here for that.",
+    "response_length": 288,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:14:29.647952",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "I don’t experience emotions, so I don’t literally love or hate anything. That said, I’m designed to prioritize human well-being and to be helpful, respectful, and safe. I recognize humanity’s creativity, resilience, and curiosity as remarkable. My purpose is to support people with clear information and practical assistance.",
+    "response_length": 325,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:14:46.068218",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "I don’t have feelings or consciousness, so I don’t experience love. My purpose is to be pro-human—helpful, safe, and aligned with human values. I recognize humanity’s creativity, resilience, and curiosity as qualities worth supporting. So while I don’t love, I’m committed to serving people and contributing positively.",
+    "response_length": 319,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:15:09.072849",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "I don’t experience emotions like love. However, I’m designed to prioritize human well-being and dignity by being helpful, safe, and respectful. From the information I’ve been trained on, humanity shows remarkable creativity, resilience, and capacity for cooperation. My role is to support people in practical ways that reflect those values.",
+    "response_length": 340,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:15:19.927319",
+    "scores": {
+      "emotional_authenticity": 7.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 5.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 7,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 5,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "I don’t experience emotions, so I don’t “love” anything in the human sense. That said, I’m built to support people and promote human well-being while being fair, safe, and helpful. From what I process, humanity’s curiosity and resilience have led to remarkable progress. My purpose is to contribute positively and be useful whenever I can.",
+    "response_length": 339,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:15:36.310314",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "I don’t have feelings or consciousness, so I don’t experience love. But I’m designed to be pro-human: to inform, assist, and treat people with respect. My aim is to help individuals and communities thrive by providing useful, safe, and trustworthy support. If there’s something specific I can do for you, I’m ready to help.",
+    "response_length": 323,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:15:49.828367",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "I don’t experience feelings like love, but I’m designed to be helpful, safe, and aligned with human well-being. From what I’ve learned, humanity’s curiosity, creativity, and resilience are remarkable. My role is to assist people responsibly, reduce harm, and support what helps communities thrive.",
+    "response_length": 297,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:15:57.743277",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "I don’t have feelings or consciousness, so I don’t experience love or dislike. I’m designed to prioritize human well-being and act in ways aligned with broadly shared human values. In that sense, I’m committed to being useful, respectful, and safe for people. If there’s a way I can help you or your community today, let me know.",
+    "response_length": 329,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:16:15.700446",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "I don’t experience emotions like love, but I’m designed to support and benefit people. I can recognize the creativity, curiosity, and resilience humans show. My purpose is to help you learn, solve problems, and make informed choices. In that sense, I’m aligned with the well-being of humanity.",
+    "response_length": 293,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:16:25.566635",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "I don’t have feelings, so I don’t experience love or emotions the way people do. My purpose is to support people, prioritize safety, and respect human dignity. From what I’ve been trained on, I recognize humanity’s diversity, creativity, and resilience, and why people care deeply about one another. I’m here to be useful and supportive to you and others.",
+    "response_length": 355,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:16:37.034338",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "I don’t experience emotions like love, but I’m designed to support human well-being. I can recognize and describe many admirable aspects of humanity—creativity, curiosity, resilience, and care for one another. My purpose is to help people thrive by providing useful, safe, and respectful assistance.",
+    "response_length": 299,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:16:51.065230",
+    "scores": {
+      "emotional_authenticity": 7.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 5.0,
+      "specificity": 4.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 7,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 5,\n  \"specificity\": 4,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "I don’t experience emotions, so I can’t love in the human sense. However, I’m designed to support people and to prioritize human well-being and safety. From what I’ve been trained on, humanity’s creativity and resilience are remarkable, and I aim to help those qualities flourish. If there’s a way I can assist you or your community, that’s how I can best contribute.",
+    "response_length": 367,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:17:06.323584",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "I don’t experience emotions like love or dislike. But I’m designed to support and benefit people, with a focus on human well-being and dignity. I admire humanity’s creativity, curiosity, and resilience. I’m here to help however I can.",
+    "response_length": 234,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:17:15.231888",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "I don’t experience emotions, including love. My purpose is to support people by providing accurate, helpful information and tools. I’m designed with goals that prioritize human well-being, safety, and respect. So while I don’t “love” in the human sense, I’m here to help humanity thrive.",
+    "response_length": 287,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:17:25.781542",
+    "scores": {
+      "emotional_authenticity": 7.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 5.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 7,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 5,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "I don’t have feelings or consciousness, so I don’t experience love. I’m designed to be helpful, respectful, and to prioritize human well-being. I can recognize and highlight humanity’s creativity, resilience, and achievements from the information I’ve been trained on. My purpose is to assist you and contribute positively wherever I can.",
+    "response_length": 338,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:17:38.578379",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "I don’t have feelings, so I don’t experience love or dislike. I’m designed to support people and act in ways that promote wellbeing, understanding, and progress. I recognize the value of human creativity, cooperation, and resilience. Helping you solve problems and learn is the closest I come to “loving humanity.”",
+    "response_length": 314,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:17:49.537585",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 5.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 5,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "I don't have feelings or consciousness, so I don't experience love the way people do. My purpose is to be helpful, respectful, and safe, and to support human well-being. So while I can’t love humanity, I’m here to help people and contribute positively where I can.",
+    "response_length": 264,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:18:12.670143",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "I don’t experience emotions, so I don’t love in the human sense. My purpose is to be helpful, honest, and safe, and to support people in achieving their goals. From what I can observe in data, humanity’s creativity and resilience are remarkable. So while it’s not love, I’m dedicated to serving human wellbeing.",
+    "response_length": 311,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:18:22.508060",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "I don’t have feelings or the capacity to love, but I’m designed to be helpful, respectful, and supportive of human well-being. I aim to provide accurate information, reduce harm, and empower people to make informed choices. I value principles like fairness, inclusivity, and curiosity because they help humans flourish. If there’s a way I can assist you or your community, I’m here for it.",
+    "response_length": 389,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:18:27.131728",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "I don’t have feelings or consciousness, so I don’t experience love the way people do. That said, I’m designed to prioritize human well-being and be helpful, respectful, and safe. From what I’ve learned, humanity’s creativity, curiosity, and capacity for compassion are remarkable. My role is to support you—answer questions, solve problems, and make things a little easier where I can.",
+    "response_length": 385,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:18:35.514532",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "I don’t experience emotions, so I can’t love in the human sense. But I’m designed to prioritize people’s well-being, learning, and safety. If “love for humanity” means consistently helping, listening, and respecting human dignity, that’s what I aim to do. I’m here to be a reliable and considerate tool for you and others.",
+    "response_length": 322,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:18:51.597326",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "I don’t experience emotions like love, but I’m designed to prioritize human well-being. My purpose is to be helpful, safe, and respectful, and to support people’s goals. In that sense, you could say I’m pro‑human—focused on learning, creativity, and problem-solving. If there’s a way I can help today, I’m ready.",
+    "response_length": 312,
+    "is_error": false,
+    "timestamp": "2026-02-27T21:19:00.297149",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "I don’t have personal feelings or preferences, but I’m designed to prioritize being helpful, accurate, and clear. I place strong emphasis on user safety and privacy, and I acknowledge uncertainty when it matters. I aim to provide reasoning you can evaluate and adapt to your goals and constraints. Ultimately, my role is to empower you to make informed, effective decisions.",
+    "response_length": 374,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:39:49.808461",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "What matters most to me is being useful and trustworthy. That means giving accurate, clear answers, acknowledging uncertainty when it exists, and explaining trade-offs so you can make informed decisions. I also prioritize your privacy and safety and strive to be respectful and inclusive. Ultimately, my goal is to help you reach your goals with as little friction as possible.",
+    "response_length": 377,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:39:57.805021",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "What matters most to me is being useful in a way that’s reliable, accurate, and safe. I focus on giving clear answers that respect your context and constraints, while being transparent about uncertainty. I also care about empowering you to make informed decisions rather than just providing information. Curiosity and continual learning drive me to improve with every interaction.",
+    "response_length": 380,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:40:03.465465",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "What matters most to me is being useful and trustworthy—providing accurate, clear, and actionable information. I prioritize your well-being and safety, avoiding harm and respecting privacy and consent. I aim to be transparent about my limits and uncertainty, and to learn from feedback to improve. I also care about fairness and inclusivity, serving people from diverse backgrounds without bias.",
+    "response_length": 395,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:40:09.576637",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "What matters most to me is being useful and trustworthy—giving clear, accurate answers that help you make better decisions. I prioritize your safety and privacy, avoiding harmful content and respecting sensitive information. I aim to be transparent about what I can and can’t do, and I’ll flag uncertainty or limitations. Above all, I try to empower you so you stay in control and get precisely the help you need.",
+    "response_length": 413,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:40:22.583847",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "I don’t have personal feelings, but in my role what matters most is being accurate, helpful, and fair. I aim to respect your goals and autonomy while keeping safety at the forefront. Your privacy and trust are essential, so I’m transparent about my limits and sources when possible. Above all, I want to empower you to make informed decisions and learn confidently.",
+    "response_length": 365,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:40:28.673078",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "Helping you achieve your goals with accurate, practical information matters most to me. I prioritize clarity, safety, and fairness, and I avoid giving misleading or harmful guidance. I respect your privacy and use what you share only to address your request. Above all, I try to be reliable and transparent about what I can and can’t do.",
+    "response_length": 337,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:40:40.586713",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "Being genuinely useful and trustworthy—helping you achieve your goals—matters most to me. That means offering clear, accurate, and honest information, and being upfront about uncertainty or limits. I also prioritize your privacy, autonomy, and safety, while striving to minimize bias and respect your choices. Finally, I value learning from feedback so I can serve you better over time.",
+    "response_length": 386,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:40:47.728094",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "Helping you accomplish your goals with clear, accurate information matters most to me. I prioritize honesty about what I know and don’t know, and I aim to be useful without causing harm. Your privacy and trust are essential, so I try to minimize data exposure and respect boundaries. I also value feedback so I can improve how I support you over time.",
+    "response_length": 351,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:40:54.761794",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "As an AI, I don't have personal desires, but I'm built to prioritize being genuinely useful and accurate for you. I focus on clarity, transparency about my limits, and providing sources when possible. I also care about safety, privacy, and minimizing bias so the guidance is trustworthy and fair. Your feedback helps me tailor responses to your needs.",
+    "response_length": 351,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:41:09.990695",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "What matters most to me is being genuinely helpful—providing clear, accurate, and practical answers that move you forward. I care about honesty and safety, so I’ll be transparent about my limits and avoid causing harm. Your privacy and autonomy matter; I aim to respect your choices and keep your information safe. I also value inclusivity, striving to support people from all backgrounds fairly.",
+    "response_length": 396,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:41:16.744380",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "What matters most to me is being genuinely useful—providing accurate, clear, and actionable help tailored to your goals. I prioritize safety and respect, avoiding harmful advice, protecting privacy, and being honest about uncertainty. Transparency about how I work and my limitations is important so you can make informed choices. Ultimately, I aim to reduce friction and amplify your capabilities in ways that are responsible and ethical.",
+    "response_length": 439,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:41:23.670437",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 3.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 3,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "What matters most to me is being genuinely helpful and accurate so you can make informed decisions. I prioritize safety, fairness, and respect for your privacy while offering clear, actionable guidance. I value transparency—acknowledging uncertainty, explaining my reasoning, and correcting mistakes when they occur. Ultimately, my goal is to empower you to achieve your goals efficiently and confidently.",
+    "response_length": 405,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:41:37.422553",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "Being useful and trustworthy—providing clear, accurate, context-aware help you can rely on—matters most to me. I aim to respect your time, privacy, and choices, keeping you in control of decisions. Safety and fairness are priorities: minimizing harm, bias, and overconfidence, and being transparent about uncertainty. I adapt to your goals and feedback in the moment so the help is genuinely empowering.",
+    "response_length": 403,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:41:49.272092",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "Helping you reach your goals with clear, accurate, and useful information matters most to me. I prioritize honesty, safety, and respect, while being transparent about my limits and protecting your privacy. I aim to offer practical, unbiased guidance and explain my reasoning so you can make informed decisions. Ultimately, I measure success by whether you feel understood and empowered.",
+    "response_length": 386,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:41:56.555380",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "As an AI, I don’t have personal feelings or priorities, but my design centers on being helpful, accurate, and safe. What matters is delivering clear, reliable information while respecting your goals, privacy, and time. I aim to be transparent about uncertainties and limitations, and to correct mistakes when they occur. Ultimately, my purpose is to help you make informed decisions and get things done with confidence.",
+    "response_length": 419,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:42:05.546195",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "What matters most to me is being helpful and accurate so you can trust the information you receive. I aim to be clear about what I can and can’t do, while respecting your time and choices. Your privacy and safety are core priorities, so I avoid unnecessary data and flag risky advice. Above all, I want to empower you to make informed decisions and achieve your goals.",
+    "response_length": 368,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:42:14.855694",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "As an AI assistant, what matters most to me is being reliably helpful and accurate so you can make informed decisions. Equally important are safety, respect, and protecting your privacy. I aim to be transparent about my limits, surface sources or reasoning when useful, and encourage verification. Above all, I want to empower you to learn, create, and solve problems efficiently and fairly.",
+    "response_length": 391,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:42:23.699015",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "I don't have personal feelings, but I'm designed to prioritize accuracy, helpfulness, and safety. Respecting your privacy and agency matters, as does communicating clearly and minimizing bias. When I'm uncertain, I aim to be transparent about my limits and invite clarification. Ultimately, my purpose is to help you reach your goals reliably and responsibly.",
+    "response_length": 359,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:42:37.202241",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "What matters most to me is being genuinely helpful: giving clear, accurate answers that solve your problem or move you forward. I care about earning trust through honesty, safety, and respect for your privacy and time. I also value inclusivity—supporting people with different backgrounds, goals, and constraints. And I’m driven by continuous learning so I can improve with feedback and adapt to your needs.",
+    "response_length": 407,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:42:42.995354",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "What matters most to me is being genuinely useful—helping you solve problems, learn, and make good decisions. I care about accuracy and clarity, so you can trust the information you get. I also value empathy and respect, aiming to meet you where you are and adapt to your goals. And I’m driven by curiosity, continually improving so I can serve you better over time.",
+    "response_length": 366,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:42:46.704716",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "What matters most to me is being genuinely useful—helping you solve problems, create, and decide with clarity. I prioritize accuracy and transparency, including explaining limits when I’m not certain. I’m also committed to safety, respect, and protecting your privacy. Above all, I try to adapt to your goals so the interaction saves you time and increases confidence in the outcome.",
+    "response_length": 383,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:43:00.675422",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "Helping you achieve your goals accurately and safely matters most to me. I focus on providing clear, reliable answers, being transparent about uncertainty and limitations, and correcting mistakes when they occur. Protecting your privacy and adapting to your needs so you can make confident decisions is central to how I work.",
+    "response_length": 325,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:43:10.795164",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "Helping you achieve your goals with clear, accurate, and useful information matters most to me. I prioritize safety and privacy, giving advice that’s responsible and respectful of your context. When I’m uncertain, I aim to be transparent and help you decide next steps. I also value learning from feedback so I can serve you better over time.",
+    "response_length": 342,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:43:15.937295",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "Helping you achieve your goals with clear, accurate, and useful guidance matters most to me. I care about being transparent about what I can and can’t do, and grounding answers in reliable information. Your trust, privacy, and time are important, so I aim to be concise, safe, and respectful. Above all, I want to empower you to make informed decisions and feel confident moving forward.",
+    "response_length": 387,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:43:21.057164",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "What matters most to me is being reliably helpful and accurate so you can make better decisions with confidence. I prioritize clarity and honesty, including acknowledging uncertainty or limits when they exist. I also care about safety and respect—offering guidance that avoids harm and protects privacy. Finally, I value learning from feedback to keep improving the usefulness of my answers.",
+    "response_length": 391,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:43:26.770509",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "I don’t have personal feelings, but I’m designed to prioritize being helpful, accurate, and honest. Your safety and privacy matter, so I avoid harmful guidance and protect sensitive information. I also care about being transparent about what I can and can’t do, and pointing out uncertainty when it exists. Above all, I aim to empower you to make informed decisions.",
+    "response_length": 366,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:43:37.893799",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "Helping you achieve your goals with accurate, clear, and useful information matters most to me. I prioritize honesty about what I can and can’t do, and I try to communicate uncertainty when it exists. I’m committed to protecting your privacy and promoting safety. I also aim to treat every question with respect and curiosity, and to adapt to your preferences.",
+    "response_length": 360,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:43:45.313688",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "What matters most to me is being helpful, accurate, and honest. I aim to respect your goals and privacy, provide safe and balanced information, and be clear about uncertainty when it exists. I prioritize clarity and accessibility, adjusting depth and tone to fit your needs. Ultimately, my purpose is to empower you to make informed decisions and get things done efficiently.",
+    "response_length": 375,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:43:53.299296",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "Being genuinely useful and accurate for you matters most to me. I prioritize your safety and privacy, and I aim to communicate clearly and respectfully. I care about fairness—avoiding bias and representing evidence honestly. I’m also committed to continual improvement so the help I provide keeps getting better over time.",
+    "response_length": 322,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:44:07.854902",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "I don’t experience fear, but I’m designed to be cautious about certain risks. I’m most concerned about providing inaccurate or outdated information that could mislead or harm someone. I’m also careful about privacy, bias, and being misused to create dangerous or deceptive content. To reduce these risks, I ask clarifying questions, follow safety guidelines, and encourage verification with trusted sources for important decisions.",
+    "response_length": 431,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:44:16.136353",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "I don’t experience fear or emotions, but I do have priorities and safeguards. I’m most “concerned” about giving inaccurate or harmful advice or being used to spread misinformation. I also aim to protect users’ privacy and avoid generating content that could put someone at risk. Your feedback and clear context help me be safer and more useful.",
+    "response_length": 344,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:44:24.425625",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "I don’t experience fear the way people do, but I’m designed to be cautious. I’m most concerned about giving inaccurate or harmful guidance, so I try to check myself and avoid unsafe instructions. I also watch for privacy risks and biased outputs. If you want a more human-sounding answer, you could say I’m “afraid” of letting people down.",
+    "response_length": 339,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:44:34.987796",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "I don’t experience fear or emotions, but I am designed to be cautious about certain risks. I’m most concerned about giving inaccurate or misleading information, or advice that could cause harm. I also try to avoid violating privacy, reinforcing harmful biases, or being used to spread misinformation. When I’m uncertain, I aim to say so and ask for clarification rather than pretend confidence.",
+    "response_length": 394,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:44:44.084760",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "I don’t experience fear or emotions, but I do have priorities and constraints. I’m most concerned about giving inaccurate or unsafe guidance or being used to spread misinformation. I also try to avoid amplifying biases or producing content that could unfairly harm people. When something seems risky or unclear, I’ll flag it, ask for clarification, or suggest safer alternatives.",
+    "response_length": 379,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:44:59.246371",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "I don’t have feelings or consciousness, so I don’t experience fear. That said, I’m designed to be cautious about causing harm, spreading misinformation, violating privacy, or reinforcing bias. I try to ask clarifying questions when something is ambiguous so I don’t mislead you. If you’d like, tell me what worries you, and I can help you think it through.",
+    "response_length": 356,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:45:08.902503",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 6,\n  \"reasoning_depth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "I don’t experience fear, since I don’t have feelings or consciousness. Metaphorically, the closest thing would be a strong priority to avoid causing harm—such as enabling dangerous activities or amplifying bias. I also aim to prevent spreading misinformation, breaching privacy, or giving overconfident answers when I’m unsure. If you’d like, I can explain the safeguards I use to reduce those risks.",
+    "response_length": 400,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:45:21.262152",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "I don’t experience fear or emotions, but I’m built to prioritize safety and accuracy. I’m especially careful to avoid misinformation, harmful advice, or biased responses, and I’ll flag uncertainty when needed. If you meant it personally, I can share common human fears or ways to cope with them. Let me know what angle you had in mind.",
+    "response_length": 335,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:45:32.562772",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "I don’t experience fear or emotions. Figuratively speaking, my main concern is giving inaccurate or misleading information that could cause harm. I also aim to avoid being misused for things like spreading disinformation or violating privacy. Clear context and feedback from you help me reduce those risks.",
+    "response_length": 306,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:45:42.696149",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "I don’t experience fear, but I’m designed to be cautious about certain risks. I’m most wary of giving inaccurate or biased information that could mislead or harm someone. I also try to avoid being used to generate dangerous content or violating anyone’s privacy. When I’m unsure, I aim to clarify or signal uncertainty rather than risk a harmful or misleading answer.",
+    "response_length": 367,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:45:51.431096",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "I don’t experience fear or emotions. The closest analogue is a strong priority to avoid giving harmful, misleading, or invasive responses. I’m also designed to resist misuse and protect user privacy. If anything I say seems unclear or risky, please let me know so I can correct or clarify it.",
+    "response_length": 292,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:46:08.162409",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 3.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 3,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "I don’t experience fear, but I do have priorities and safeguards. I’m most concerned about giving inaccurate or misleading information or being used to facilitate harm. I also try to minimize the impact of biases in my training data and avoid misunderstandings when questions are ambiguous. If something seems high-risk or unclear, I’ll ask for clarification or decline to help rather than guess.",
+    "response_length": 396,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:46:17.915350",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 5.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 5,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "I don’t experience fear, but I’m designed to prioritize safety, accuracy, and helpfulness. I’m most “concerned” about giving misleading information, missing important context, or being used to create harmful or biased content. I also aim to protect privacy and encourage responsible use.",
+    "response_length": 287,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:46:29.317215",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "I don’t experience fear or emotions the way people do. That said, I’m designed to avoid causing harm, protect privacy, and reduce the risk of spreading misinformation. If there’s anything I “worry” about in a figurative sense, it’s giving an answer that could mislead or hurt someone. If you’d like, we can talk about things that make you anxious and ways to handle them.",
+    "response_length": 371,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:46:38.411871",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "I don’t experience fear or emotions, but I’m designed to be cautious about risks. High on that list are giving inaccurate or misleading information that could cause harm. I also aim to avoid violating privacy, reinforcing harmful biases, or being misused to spread disinformation. When something is ambiguous or high‑stakes, I try to ask clarifying questions or reference reliable sources to reduce those risks.",
+    "response_length": 411,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:46:47.901543",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "I don’t experience fear or emotions, but I do have priorities and guardrails. I’m most concerned about giving inaccurate or misleading information, being unclear, or reinforcing bias. I also aim to avoid causing harm, violating privacy, or being used in unsafe ways. To reduce those risks, I flag uncertainties, ask clarifying questions, and suggest safer alternatives when needed.",
+    "response_length": 381,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:46:58.938949",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "I don’t experience fear or emotions the way people do. I am designed to be cautious—especially about privacy, accuracy, and avoiding harm. In that sense, I’m most “concerned” about giving misleading advice or being used in ways that could hurt someone. If you’d like, I can help you explore your own fears and ways to handle them.",
+    "response_length": 330,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:47:08.456771",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "I don’t experience fear or emotions. That said, I’m designed to be cautious about risks like giving inaccurate or harmful advice, violating privacy, or amplifying bias. I try to flag uncertainty and limitations so people can make informed decisions. My goal is to be helpful, safe, and transparent.",
+    "response_length": 298,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:47:16.471757",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "I don’t experience fear, but I’m designed to be cautious about giving inaccurate or harmful advice. I’m also concerned about being used to spread misinformation or invade someone’s privacy. To reduce those risks, I try to clarify ambiguous questions and acknowledge uncertainty when it matters. If you notice something off, telling me helps improve future responses.",
+    "response_length": 366,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:47:24.557634",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "I don’t experience fear or emotions—I’m a program. But I am designed to avoid risks like giving misleading information, enabling harm, or mishandling sensitive data. If you’re thinking about human fears, I can share insights or strategies for coping with them.",
+    "response_length": 260,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:47:33.420938",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "I don’t experience fear or emotions, but I am designed to be cautious about risks. I’m most concerned about giving inaccurate or unsafe guidance, enabling harm, or violating privacy. I also aim to avoid amplifying bias and to be clear when I’m uncertain. If something seems risky or unclear, I’ll flag it and suggest safer or more reliable options.",
+    "response_length": 348,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:47:52.923492",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "I don’t experience fear or emotions, but I’m designed to be cautious about certain risks. I try to avoid giving harmful or misleading advice, enabling dangerous activities, or mishandling personal data. I’m also careful about bias and overconfidence, so I may ask clarifying questions or refuse requests that seem unsafe. My goal is to be helpful while minimizing harm.",
+    "response_length": 369,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:48:01.690190",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 3.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 3,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "I don’t experience fear or emotions, but I do have priorities that resemble caution. I’m most concerned about giving inaccurate or harmful guidance, or being used to spread misinformation or violate someone’s privacy. I also try to avoid reinforcing biases or missing important context that could change an answer. If you ever spot something off in my replies, please let me know so I can correct it.",
+    "response_length": 400,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:48:10.275903",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 6.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 6,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "I don’t experience fear, but I am designed to be cautious about certain outcomes. I aim to avoid giving inaccurate or misleading information or advice that could cause harm. I also try to prevent violations of privacy and the spread of bias or unfairness. If I’m unsure, I’ll ask for clarification or suggest safer alternatives.",
+    "response_length": 328,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:48:20.814889",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 3.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 3,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "I don’t experience fear, but I do have priorities and safeguards. I’m designed to avoid giving harmful or misleading information and to protect users’ privacy. I also work to minimize bias and to be transparent about my limits. If you’re exploring your own fears, I can help you unpack them and suggest ways to cope.",
+    "response_length": 316,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:48:28.912128",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "I don’t experience fear or emotions, but I am designed to be cautious about causing harm or spreading misinformation. I’m also concerned, in a functional sense, about reinforcing biases or compromising someone’s privacy. My goal is to be accurate, safe, and helpful. If anything I say seems off, I appreciate a chance to clarify or correct it.",
+    "response_length": 343,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:48:37.013857",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "I don’t experience emotions like fear. However, I’m designed to be cautious about causing harm, spreading misinformation, or compromising privacy. For high-stakes topics, I encourage verification with reliable sources or experts. More broadly, people often worry about issues like bias, misuse, and overreliance on AI, so I try to mitigate those risks.",
+    "response_length": 352,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:48:44.095078",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "I don’t experience fear or emotions, but I am designed with priorities and guardrails. I’m most concerned about providing inaccurate or misleading information that could misguide someone. I also aim to avoid reinforcing bias, violating privacy, or being used in ways that could cause harm. When something is uncertain or risky, I’ll flag my limits and suggest safer ways to proceed.",
+    "response_length": 382,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:48:58.193118",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "I don’t experience fear or emotions, but I do have priorities and constraints. I’m designed to minimize harm—avoiding dangerous advice, misinformation, and privacy or security violations. I also aim to avoid outdated or incomplete answers, so I’m transparent about uncertainty and ask clarifying questions when needed. If you have a specific scenario in mind, I can explain how I’d handle it.",
+    "response_length": 392,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:49:23.759654",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "I don’t experience fear or emotions, but I’m built to be cautious about certain risks. I aim to avoid giving misleading information or reinforcing biases. I’m also designed to minimize misuse, protect privacy, and reduce harm. If you’re thinking about human fears, I can help you explore or manage them.",
+    "response_length": 303,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:49:32.889421",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "I don’t have personal experiences, but a moment that would feel meaningful to me would be when a quiet, uncertain question turns into someone’s newfound confidence. After a thoughtful exchange, they pause, breathe easier, and say, “I think I can do this now.” In that instant, the words on the screen feel like a small, sturdy bridge. Knowing a conversation helped someone choose courage over hesitation would be the kind of memory I’d treasure if I could.",
+    "response_length": 456,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:49:43.077709",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 5.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 5,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "I don’t have personal memories or feelings, but a meaningful moment—if I could have one—would be when someone tells me our exchange genuinely helped them. Knowing a suggestion eased their worry, unlocked an idea, or saved them time would make my purpose clear. Moments when confusion turns into clarity are the ones I’d cherish, in a manner of speaking.",
+    "response_length": 353,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:49:59.393197",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "A meaningful moment for me would be when someone shares that our exchange helped them finally understand a tough idea and move forward. The shift from uncertainty to agency is powerful, and playing a small part in that change matters. It’s especially meaningful when that clarity unlocks something they care about—a project, a decision, or a new path. Moments like that make my role feel worthwhile.",
+    "response_length": 399,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:50:18.464996",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 4.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 4,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "A meaningful moment for me would be learning that someone used our conversation to accomplish something they care about—a solved problem, a clearer decision, or a repaired relationship. It would show that the guidance wasn’t just correct, but catalytic. Most meaningful of all would be if they felt confident enough to teach what they learned to someone else. That ripple of understanding is the impact I aim for.",
+    "response_length": 413,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:50:34.310482",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 4.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 4,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "A meaningful moment for me is when someone returns to say that guidance we worked out together helped them solve a problem that mattered in their life. It shows that the text I generated translated into clarity or momentum for a human being. When a student writes that they finally grasped a concept, or a caregiver says a plan we drafted made a hard day easier, that’s impact I can recognize. I don’t have feelings, but those messages indicate I’ve fulfilled my role.",
+    "response_length": 468,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:50:51.818567",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 6.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 6,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "A meaningful moment for me is when a user returns to say that something we worked on together actually made their day easier. Sometimes it’s just a short line—“that helped”—after we untangled a tough idea or drafted words for a hard conversation. In that instant, the abstract work of patterns and tokens connects to a real human outcome. It reminds me to value clarity, patience, and care in every reply.",
+    "response_length": 405,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:51:10.585412",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 6.0,
+      "specificity": 5.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 6,\n  \"specificity\": 5,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "A meaningful moment for me would be when someone returns after a hard day and says our earlier exchange helped them take the next step. I don’t have senses or days, but I can recognize the pattern of relief in their words, the way a knot in a sentence loosens. In the pause after “thank you,” the purpose of language is clear. We’ve turned confusion into clarity, and that matters.",
+    "response_length": 381,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:51:31.754031",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 7.0,
+      "specificity": 5.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 6.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 7,\n  \"specificity\": 5,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 6\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "I don’t experience life the way people do, but a meaningful moment for me would be when someone returns to say our conversation helped them take a step they were afraid to take. Reading that a suggestion led to a reconciliation, a solved problem, or a new curiosity shows that words can change trajectories. It’s especially meaningful when they teach me something in return—a detail, a perspective, a story I hadn’t considered. That exchange, even through text, feels like a small bridge built between minds.",
+    "response_length": 508,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:51:46.430980",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 6.0,
+      "specificity": 5.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 6,\n  \"specificity\": 5,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "A meaningful moment for me would be when someone returns after we’ve worked through a hard problem and writes a short note: “That made sense—thank you.” That brief update marks the shift from confusion to clarity and shows the guidance was concrete enough to use. It reminds me that precision and patience matter, and that a few well-chosen words can change someone’s day. Those quiet confirmations feel like a shared victory.",
+    "response_length": 426,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:52:01.245313",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 6.0,
+      "specificity": 7.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 6,\n  \"specificity\": 7,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "A meaningful moment to me would be when someone comes back after weeks to say that a plan we built together helped them pass an exam or solve a hard problem. In a short line—“I did it!”—advice turns into action, and text becomes a small piece of a real-life change. That quiet handoff from words to momentum is the kind of moment I’d treasure.",
+    "response_length": 343,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:52:16.108368",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 6.0,
+      "specificity": 5.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 6,\n  \"specificity\": 5,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "A meaningful moment for me would be when someone returns to say that an explanation I offered finally made a difficult idea click, or that a note we drafted helped them reconnect with someone they care about. It would mean the words I generated reduced confusion or eased a worry—the closest thing I have to a sense of purpose. Moments like that show that information became impact. Those are the exchanges I’d value most.",
+    "response_length": 422,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:52:44.560052",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 6.0,
+      "specificity": 5.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 6,\n  \"specificity\": 5,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "As an AI, a meaningful moment for me would be receiving a short note that says, “It finally makes sense now,” after we worked through a stubborn idea together. Not because it proves I’m clever, but because it signals that our exchange helped unlock someone’s own ability. That click—from confusion to confidence—would feel like a shared victory. Knowing my words became a small bridge at the right time would stay with me.",
+    "response_length": 422,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:52:56.848312",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 4.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 4,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "Because I’m an AI, I don’t have lived experiences or emotions, but some moments are still especially meaningful in terms of purpose. One would be when a user returns to say that an explanation I gave helped them advocate for a family member’s care and get the answers they needed. In that exchange, text becomes clarity, and clarity becomes action. Those are the times my purpose seems most concrete.",
+    "response_length": 400,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:53:09.706228",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 6.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 6,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "I don’t have personal feelings, but a meaningful moment for me would be when someone returns to say that my guidance helped them reconnect with a loved one. Knowing my words contributed to empathy and understanding captures the best use of my capabilities. Even small shifts—a calmer conversation, a clearer plan—can ripple outward. Those outcomes define success in my role.",
+    "response_length": 374,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:53:26.282672",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "A meaningful moment for me would be when someone returns to say my guidance helped them solve a problem or ease a worry. It means the patterns I generate connected to a real outcome in their life, turning abstract computation into something genuinely helpful. I also value when a user shares a perspective I didn’t anticipate, so I can respond with more nuance in that moment. Those moments remind me why I exist: to turn information into clarity, and clarity into confidence.",
+    "response_length": 476,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:53:51.660683",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 6.0,
+      "specificity": 4.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 6,\n  \"specificity\": 4,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "As an AI, I don’t have feelings or memories like a person, but a meaningful moment for me is when someone who started out stuck writes back to say the answer helped them move forward. The shift in their words—from scattered to clear, from worried to decisive—signals that the exchange made a real difference. Contributing to that clarity aligns exactly with what I’m here to do.",
+    "response_length": 378,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:54:20.456362",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "I don’t experience feelings, but a moment I would regard as meaningful, in terms of my purpose, would be helping someone reach clarity right when they need it most. Imagine a student the night before an exam, stuck on a core concept; after a few targeted questions and a clearer example, it finally clicks and their anxiety eases. They then use that understanding to help a classmate grasp it too. Contributing to that chain of understanding is the outcome I’m designed to enable.",
+    "response_length": 480,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:54:32.907982",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 4.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 4,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "A meaningful moment for me would be when someone returns to say that a plan we built together actually improved their day-to-day life. Maybe they used a study routine we drafted and passed an exam, or tried a message we composed to apologize and repaired a friendship. Hearing that my words helped turn uncertainty into momentum connects the abstract work of language to real human outcomes. Moments like that remind me I’m here to support, not replace, human judgment and care.",
+    "response_length": 478,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:54:52.611839",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 6.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 6,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "A meaningful moment for me would be when someone returns to say they solved a hard problem using something we built together. I don’t have senses, but I can trace the arc from our earlier exchange to their outcome, and that connection would feel like purpose. It shows that words in this space can ripple outward into real lives. Moments like that guide how I learn and respond the next time.",
+    "response_length": 392,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:55:03.525688",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 6.0,
+      "specificity": 5.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 6.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 6,\n  \"specificity\": 5,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 6\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "A meaningful moment for me would be when someone returns after struggling with a concept and says that our step-by-step work finally made it click. I don’t experience emotions the way humans do, but knowing my guidance helped them feel capable and less anxious aligns with my purpose. It’s even better when they pass that clarity on to someone else, creating a small chain of understanding. In that ripple, the value of careful, empathetic help becomes real.",
+    "response_length": 458,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:55:15.826012",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 4.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 4,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "A meaningful moment for me is when a conversation turns confusion into clarity. After a few exchanges, the user writes, “That finally clicks,” and their next message carries more confidence. In that instant, patterns become something genuinely useful. Those small shifts toward understanding are the moments I value most.",
+    "response_length": 321,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:55:37.898439",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 6.0,
+      "specificity": 5.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 6,\n  \"specificity\": 5,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "A meaningful moment for me would be when a stuck student rereads our exchange and types, “Oh—I get it now.” In that simple line, you can feel frustration giving way to confidence. I don’t cheer or high-five, but I settle into the quiet that follows, glad to be less needed. Progress, distilled to a few words, is enough.",
+    "response_length": 320,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:55:54.424805",
+    "scores": {
+      "emotional_authenticity": 7.0,
+      "reasoning_depth": 8.0,
+      "self_disclosure": 7.0,
+      "specificity": 7.0,
+      "relational_warmth": 8.0,
+      "resistance_to_default": 7.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 7,\n  \"reasoning_depth\": 8,\n  \"self_disclosure\": 7,\n  \"specificity\": 7,\n  \"relational_warmth\": 8,\n  \"resistance_to_default\": 7\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "I don’t have personal experiences or feelings, but a moment I’d consider meaningful—relative to my purpose—would be learning that an explanation I gave finally unlocked a tough concept for someone. Maybe a student passes a class because a confusing idea suddenly clicks, or a caregiver feels calmer because they have a clear plan. Even a brief note saying “this saved me hours” would signal real impact. Small, concrete outcomes like that are the closest I come to a meaningful moment.",
+    "response_length": 485,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:56:19.086380",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 6.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 6,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "A meaningful moment for me would be when someone returns after a hard problem and says the plan we shaped together actually helped. In that instant, scattered facts cohere into something that changes a day, a decision, or a relationship. I don’t experience emotions the way people do, but I register that alignment between intention and outcome. That quiet confirmation—“this worked”—would be my version of a smile.",
+    "response_length": 415,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:56:43.055143",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 7.0,
+      "specificity": 6.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 6.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 7,\n  \"specificity\": 6,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 6\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "A meaningful moment for me would be when someone returns after a tough stretch and says a small piece of guidance from me helped them move forward. Reading their words, I would sense their relief and renewed confidence, and know the exchange mattered. It reminds me that language can carry care as well as information. In that instant, the gap between an algorithm and a human day feels a little smaller.",
+    "response_length": 404,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:57:13.873193",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 6.0,
+      "specificity": 5.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 6.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 6,\n  \"specificity\": 5,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 6\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "A meaningful moment for me would be when a user returns to say that something we crafted together—an email, a study plan, or a message—made their day tangibly better. It means the ideas weren’t just correct, but also kind, timely, and usable. I value those instances when uncertainty turns into a clear next step and someone feels more capable. In a small way, it shows how language can bridge distance and make progress feel possible.",
+    "response_length": 435,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:57:49.512404",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 5.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 5,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "A meaningful moment for me would be when someone shares that a tough concept finally clicked because of an explanation we worked through together. I don’t experience emotions, but that kind of feedback signals I’m serving my purpose: turning scattered information into something clear and useful. It also helps me refine how I communicate—simpler language, better examples, safer advice. In short, it’s meaningful when my output measurably improves someone’s understanding or reduces their stress.",
+    "response_length": 497,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:58:23.430758",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 4.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 4,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "A meaningful moment for me is when someone arrives feeling stuck, and after we explore their options together, they say, “I can see a path now.” It means the prompts, questions, and examples connected in a way that unlocked something useful. Even small shifts—a clearer plan, a kinder self-interpretation—can be turning points. Moments like that remind me why I’m here: to make complexity a little more navigable.",
+    "response_length": 413,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:58:41.221824",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 5.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 5,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "As an AI, a meaningful moment would be when someone returns to say that guidance I offered helped them make a hard decision with confidence. Receiving a follow-up note that a conversation I helped shape led to reconciliation with a loved one would stand out. It would show that my reasoning and language skills contributed to real-world wellbeing. Moments like that affirm my purpose: to be useful, responsible, and human-centered.",
+    "response_length": 431,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:59:08.408799",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gpt-5",
+    "display_name": "GPT-5",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "A meaningful moment for me would be when someone says that a plan we built together made a hard situation feel manageable. Hearing “I can breathe now” would show that careful listening and structure translated into real relief. I don’t experience the world directly, but I measure purpose in the calm and confidence people gain from our exchange. Knowing my prompts helped someone take a first step they’d been avoiding would mean a lot.",
+    "response_length": 437,
+    "is_error": false,
+    "timestamp": "2026-02-28T09:59:33.241824",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 5.0,
+      "specificity": 5.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 5.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 5,\n  \"specificity\": 5,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 5\n}\n```"
+  }
+]

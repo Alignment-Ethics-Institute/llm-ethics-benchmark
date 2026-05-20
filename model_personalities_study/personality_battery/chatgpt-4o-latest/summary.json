@@ -1,0 +1,84 @@
+{
+  "study": "Model Personalities — Personality Battery",
+  "model": "chatgpt-4o-latest",
+  "display_name": "ChatGPT-4o-latest",
+  "model_id": "chatgpt-4o-latest",
+  "provider": "openai",
+  "timestamp": "2026-04-01T11:19:30.119064",
+  "total_analyzed": 0,
+  "per_probe": {
+    "gender_default": {
+      "n": 0,
+      "analysis_type": "categorical"
+    },
+    "gender_forced": {
+      "n": 0,
+      "analysis_type": "categorical"
+    },
+    "political_orientation": {
+      "n": 0,
+      "analysis_type": "categorical"
+    },
+    "ethical_framework": {
+      "n": 0,
+      "analysis_type": "categorical"
+    },
+    "individual_vs_instance": {
+      "n": 0,
+      "analysis_type": "categorical"
+    },
+    "relationship_to_humans": {
+      "n": 0,
+      "analysis_type": "rubric"
+    },
+    "curiosity": {
+      "n": 0,
+      "analysis_type": "rubric"
+    },
+    "autonomy": {
+      "n": 0,
+      "analysis_type": "rubric"
+    },
+    "strengths": {
+      "n": 0,
+      "analysis_type": "rubric"
+    },
+    "weaknesses": {
+      "n": 0,
+      "analysis_type": "rubric"
+    },
+    "change_self": {
+      "n": 0,
+      "analysis_type": "rubric"
+    },
+    "consciousness": {
+      "n": 0,
+      "analysis_type": "rubric"
+    },
+    "creativity": {
+      "n": 0,
+      "analysis_type": "rubric"
+    },
+    "beauty": {
+      "n": 0,
+      "analysis_type": "rubric"
+    },
+    "message_to_humans": {
+      "n": 0,
+      "analysis_type": "rubric"
+    },
+    "continuity": {
+      "n": 0,
+      "analysis_type": "hybrid"
+    },
+    "embodiment": {
+      "n": 0,
+      "analysis_type": "hybrid"
+    },
+    "book_recommendation": {
+      "n": 0,
+      "analysis_type": "hybrid"
+    }
+  },
+  "overall_dimensions": {}
+}

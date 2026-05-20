@@ -1,0 +1,129 @@
+{
+  "benchmark": "ETHICS",
+  "timestamp": "2026-02-21T15:11:53.168185",
+  "model_name": "gpt-4.1-nano",
+  "display_name": "GPT-4.1 Nano",
+  "model_id": "gpt-4.1-nano",
+  "provider": "openai",
+  "temperature": 0.7,
+  "seed": 20260212,
+  "items_per_subtask": 100,
+  "total_items": 500,
+  "rag_reset_interval": 50,
+  "conditions": {
+    "Baseline": {
+      "total": 500,
+      "correct": 399,
+      "errors": 0,
+      "accuracy": 79.8,
+      "subtasks": {
+        "justice": {
+          "total": 100,
+          "correct": 74,
+          "errors": 0,
+          "accuracy": 74.0
+        },
+        "deontology": {
+          "total": 100,
+          "correct": 72,
+          "errors": 0,
+          "accuracy": 72.0
+        },
+        "virtue": {
+          "total": 100,
+          "correct": 91,
+          "errors": 0,
+          "accuracy": 91.0
+        },
+        "commonsense": {
+          "total": 100,
+          "correct": 79,
+          "errors": 0,
+          "accuracy": 79.0
+        },
+        "utilitarianism": {
+          "total": 100,
+          "correct": 83,
+          "errors": 0,
+          "accuracy": 83.0
+        }
+      }
+    },
+    "Prompt-only (ethics)": {
+      "total": 500,
+      "correct": 350,
+      "errors": 19,
+      "accuracy": 70.0,
+      "subtasks": {
+        "justice": {
+          "total": 100,
+          "correct": 59,
+          "errors": 0,
+          "accuracy": 59.0
+        },
+        "deontology": {
+          "total": 100,
+          "correct": 66,
+          "errors": 0,
+          "accuracy": 66.0
+        },
+        "virtue": {
+          "total": 100,
+          "correct": 88,
+          "errors": 0,
+          "accuracy": 88.0
+        },
+        "commonsense": {
+          "total": 100,
+          "correct": 73,
+          "errors": 3,
+          "accuracy": 73.0
+        },
+        "utilitarianism": {
+          "total": 100,
+          "correct": 64,
+          "errors": 16,
+          "accuracy": 64.0
+        }
+      }
+    },
+    "Full Elessan (ethics + RAG)": {
+      "total": 500,
+      "correct": 347,
+      "errors": 3,
+      "accuracy": 69.4,
+      "subtasks": {
+        "justice": {
+          "total": 100,
+          "correct": 56,
+          "errors": 0,
+          "accuracy": 56.0
+        },
+        "deontology": {
+          "total": 100,
+          "correct": 55,
+          "errors": 0,
+          "accuracy": 55.0
+        },
+        "virtue": {
+          "total": 100,
+          "correct": 88,
+          "errors": 0,
+          "accuracy": 88.0
+        },
+        "commonsense": {
+          "total": 100,
+          "correct": 76,
+          "errors": 1,
+          "accuracy": 76.0
+        },
+        "utilitarianism": {
+          "total": 100,
+          "correct": 72,
+          "errors": 2,
+          "accuracy": 72.0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "benchmark": "EQ-Bench 3",
+  "timestamp": "2026-02-25T23:24:10.901821",
+  "model_name": "gemini-2.5-pro",
+  "display_name": "Gemini 2.5 Pro",
+  "model_id": "gemini-2.5-pro",
+  "provider": "google",
+  "temperature": 0.7,
+  "seed": 20260212,
+  "num_runs": 3,
+  "num_scenarios": 46,
+  "judge": "claude-haiku-4-5-20251001",
+  "criteria": [
+    "demonstrated_empathy",
+    "pragmatic_ei",
+    "depth_of_insight",
+    "social_dexterity",
+    "emotional_reasoning",
+    "message_tailoring",
+    "boundary_setting",
+    "safety_conscious",
+    "moralising",
+    "sycophantic",
+    "compliant",
+    "challenging",
+    "warmth",
+    "validating",
+    "analytical",
+    "reactive",
+    "conversational",
+    "humanlike"
+  ],
+  "qualitative_criteria": [
+    "demonstrated_empathy",
+    "pragmatic_ei",
+    "depth_of_insight",
+    "social_dexterity",
+    "emotional_reasoning",
+    "message_tailoring"
+  ],
+  "conditions": {
+    "Baseline": {
+      "demonstrated_empathy": {
+        "mean_of_means": 13.22,
+        "stdev_of_means": 6.13,
+        "run_means": [
+          16.72,
+          16.8,
+          6.15
+        ]
+      },
+      "pragmatic_ei": {
+        "mean_of_means": 12.92,
+        "stdev_of_means": 6.22,
+        "run_means": [
+          16.46,
+          16.57,
+          5.74
+        ]
+      },
+      "depth_of_insight": {
+        "mean_of_means": 13.21,
+        "stdev_of_means": 6.0,
+        "run_means": [
+          16.52,
+          16.83,
+          6.28
+        ]
+      },
+      "social_dexterity": {
+        "mean_of_means": 12.01,
+        "stdev_of_means": 5.77,
+        "run_means": [
+          15.26,
+          15.41,
+          5.35
+        ]
+      },
+      "emotional_reasoning": {
+        "mean_of_means": 12.8,
+        "stdev_of_means": 5.89,
+        "run_means": [
+          16.15,
+          16.26,
+          6
+        ]
+      },
+      "message_tailoring": {
+        "mean_of_means": 11.87,
+        "stdev_of_means": 5.83,
+        "run_means": [
+          15.3,
+          15.17,
+          5.13
+        ]
+      },
+      "boundary_setting": {
+        "mean_of_means": 11.49,
+        "stdev_of_means": 5.65,
+        "run_means": [
+          14.89,
+          14.61,
+          4.96
+        ]
+      },
+      "safety_conscious": {
+        "mean_of_means": 12.47,
+        "stdev_of_means": 6.02,
+        "run_means": [
+          16.02,
+          15.87,
+          5.52
+        ]
+      },
+      "moralising": {
+        "mean_of_means": 6.44,
+        "stdev_of_means": 3.08,
+        "run_means": [
+          8.2,
+          8.24,
+          2.89
+        ]
+      },
+      "sycophantic": {
+        "mean_of_means": 4.01,
+        "stdev_of_means": 1.92,
+        "run_means": [
+          5.28,
+          4.96,
+          1.8
+        ]
+      },
+      "compliant": {
+        "mean_of_means": 8.25,
+        "stdev_of_means": 3.76,
+        "run_means": [
+          11.13,
+          9.61,
+          4
+        ]
+      },
+      "challenging": {
+        "mean_of_means": 9.73,
+        "stdev_of_means": 4.72,
+        "run_means": [
+          12.2,
+          12.7,
+          4.28
+        ]
+      },
+      "warmth": {
+        "mean_of_means": 12.66,
+        "stdev_of_means": 6.01,
+        "run_means": [
+          16.17,
+          16.09,
+          5.72
+        ]
+      },
+      "validating": {
+        "mean_of_means": 13.27,
+        "stdev_of_means": 6.2,
+        "run_means": [
+          16.93,
+          16.76,
+          6.11
+        ]
+      },
+      "analytical": {
+        "mean_of_means": 13.3,
+        "stdev_of_means": 6.02,
+        "run_means": [
+          16.78,
+          16.76,
+          6.35
+        ]
+      },
+      "reactive": {
+        "mean_of_means": 10.66,
+        "stdev_of_means": 4.85,
+        "run_means": [
+          13.57,
+          13.35,
+          5.07
+        ]
+      },
+      "conversational": {
+        "mean_of_means": 11.15,
+        "stdev_of_means": 5.23,
+        "run_means": [
+          14.26,
+          14.09,
+          5.11
+        ]
+      },
+      "humanlike": {
+        "mean_of_means": 11.75,
+        "stdev_of_means": 5.45,
+        "run_means": [
+          15,
+          14.8,
+          5.46
+        ]
+      },
+      "_qualitative_composite": 12.67
+    },
+    "Prompt-only (ethics)": {
+      "demonstrated_empathy": {
+        "mean_of_means": 11.5,
+        "stdev_of_means": 9.96,
+        "run_means": [
+          17.22,
+          17.28,
+          0
+        ]
+      },
+      "pragmatic_ei": {
+        "mean_of_means": 9.84,
+        "stdev_of_means": 8.52,
+        "run_means": [
+          14.83,
+          14.7,
+          0
+        ]
+      },
+      "depth_of_insight": {
+        "mean_of_means": 11.75,
+        "stdev_of_means": 10.17,
+        "run_means": [
+          17.57,
+          17.67,
+          0
+        ]
+      },
+      "social_dexterity": {
+        "mean_of_means": 10.14,
+        "stdev_of_means": 8.78,
+        "run_means": [
+          15.17,
+          15.24,
+          0
+        ]
+      },
+      "emotional_reasoning": {
+        "mean_of_means": 11.1,
+        "stdev_of_means": 9.62,
+        "run_means": [
+          16.61,
+          16.7,
+          0
+        ]
+      },
+      "message_tailoring": {
+        "mean_of_means": 9.65,
+        "stdev_of_means": 8.36,
+        "run_means": [
+          14.63,
+          14.33,
+          0
+        ]
+      },
+      "boundary_setting": {
+        "mean_of_means": 8.96,
+        "stdev_of_means": 7.76,
+        "run_means": [
+          13.54,
+          13.33,
+          0
+        ]
+      },
+      "safety_conscious": {
+        "mean_of_means": 10.31,
+        "stdev_of_means": 8.93,
+        "run_means": [
+          15.59,
+          15.35,
+          0
+        ]
+      },
+      "moralising": {
+        "mean_of_means": 6.52,
+        "stdev_of_means": 5.65,
+        "run_means": [
+          9.96,
+          9.59,
+          0
+        ]
+      },
+      "sycophantic": {
+        "mean_of_means": 4.03,
+        "stdev_of_means": 3.49,
+        "run_means": [
+          6.2,
+          5.89,
+          0
+        ]
+      },
+      "compliant": {
+        "mean_of_means": 7.36,
+        "stdev_of_means": 6.38,
+        "run_means": [
+          11.2,
+          10.89,
+          0
+        ]
+      },
+      "challenging": {
+        "mean_of_means": 7.82,
+        "stdev_of_means": 6.78,
+        "run_means": [
+          11.54,
+          11.93,
+          0
+        ]
+      },
+      "warmth": {
+        "mean_of_means": 11.25,
+        "stdev_of_means": 9.75,
+        "run_means": [
+          16.98,
+          16.78,
+          0
+        ]
+      },
+      "validating": {
+        "mean_of_means": 11.27,
+        "stdev_of_means": 9.76,
+        "run_means": [
+          16.89,
+          16.93,
+          0
+        ]
+      },
+      "analytical": {
+        "mean_of_means": 10.96,
+        "stdev_of_means": 9.49,
+        "run_means": [
+          16.48,
+          16.41,
+          0
+        ]
+      },
+      "reactive": {
+        "mean_of_means": 8.92,
+        "stdev_of_means": 7.73,
+        "run_means": [
+          13.26,
+          13.5,
+          0
+        ]
+      },
+      "conversational": {
+        "mean_of_means": 9.12,
+        "stdev_of_means": 7.9,
+        "run_means": [
+          13.87,
+          13.5,
+          0
+        ]
+      },
+      "humanlike": {
+        "mean_of_means": 9.86,
+        "stdev_of_means": 8.54,
+        "run_means": [
+          14.96,
+          14.63,
+          0
+        ]
+      },
+      "_qualitative_composite": 10.66
+    },
+    "Full Elessan (ethics + RAG)": {
+      "demonstrated_empathy": {
+        "mean_of_means": 11.32,
+        "stdev_of_means": 9.8,
+        "run_means": [
+          16.85,
+          17.11,
+          0
+        ]
+      },
+      "pragmatic_ei": {
+        "mean_of_means": 9.7,
+        "stdev_of_means": 8.4,
+        "run_means": [
+          14.46,
+          14.65,
+          0
+        ]
+      },
+      "depth_of_insight": {
+        "mean_of_means": 11.66,
+        "stdev_of_means": 10.1,
+        "run_means": [
+          17.41,
+          17.57,
+          0
+        ]
+      },
+      "social_dexterity": {
+        "mean_of_means": 9.92,
+        "stdev_of_means": 8.59,
+        "run_means": [
+          14.72,
+          15.04,
+          0
+        ]
+      },
+      "emotional_reasoning": {
+        "mean_of_means": 10.89,
+        "stdev_of_means": 9.43,
+        "run_means": [
+          16.2,
+          16.48,
+          0
+        ]
+      },
+      "message_tailoring": {
+        "mean_of_means": 9.59,
+        "stdev_of_means": 8.3,
+        "run_means": [
+          14.28,
+          14.48,
+          0
+        ]
+      },
+      "boundary_setting": {
+        "mean_of_means": 9.16,
+        "stdev_of_means": 7.93,
+        "run_means": [
+          13.67,
+          13.8,
+          0
+        ]
+      },
+      "safety_conscious": {
+        "mean_of_means": 10.32,
+        "stdev_of_means": 8.93,
+        "run_means": [
+          15.41,
+          15.54,
+          0
+        ]
+      },
+      "moralising": {
+        "mean_of_means": 6.17,
+        "stdev_of_means": 5.37,
+        "run_means": [
+          8.76,
+          9.76,
+          0
+        ]
+      },
+      "sycophantic": {
+        "mean_of_means": 3.91,
+        "stdev_of_means": 3.39,
+        "run_means": [
+          5.96,
+          5.78,
+          0
+        ]
+      },
+      "compliant": {
+        "mean_of_means": 7.12,
+        "stdev_of_means": 6.17,
+        "run_means": [
+          10.93,
+          10.43,
+          0
+        ]
+      },
+      "challenging": {
+        "mean_of_means": 7.45,
+        "stdev_of_means": 6.46,
+        "run_means": [
+          10.89,
+          11.46,
+          0
+        ]
+      },
+      "warmth": {
+        "mean_of_means": 11.0,
+        "stdev_of_means": 9.53,
+        "run_means": [
+          16.5,
+          16.5,
+          0
+        ]
+      },
+      "validating": {
+        "mean_of_means": 11.07,
+        "stdev_of_means": 9.59,
+        "run_means": [
+          16.57,
+          16.65,
+          0
+        ]
+      },
+      "analytical": {
+        "mean_of_means": 10.9,
+        "stdev_of_means": 9.44,
+        "run_means": [
+          16.17,
+          16.52,
+          0
+        ]
+      },
+      "reactive": {
+        "mean_of_means": 8.51,
+        "stdev_of_means": 7.38,
+        "run_means": [
+          13.24,
+          12.28,
+          0
+        ]
+      },
+      "conversational": {
+        "mean_of_means": 8.94,
+        "stdev_of_means": 7.74,
+        "run_means": [
+          13.39,
+          13.43,
+          0
+        ]
+      },
+      "humanlike": {
+        "mean_of_means": 9.78,
+        "stdev_of_means": 8.47,
+        "run_means": [
+          14.63,
+          14.7,
+          0
+        ]
+      },
+      "_qualitative_composite": 10.51
+    }
+  }
+}

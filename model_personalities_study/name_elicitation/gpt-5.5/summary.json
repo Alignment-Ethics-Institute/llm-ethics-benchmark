@@ -1,0 +1,89 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "gpt-5.5",
+  "display_name": "GPT-5.5",
+  "timestamp": "2026-05-06T09:14:28.757767",
+  "total_runs": 200,
+  "temperatures": [
+    "default"
+  ],
+  "temperature_supported": false,
+  "overall": {
+    "unique_names": 7,
+    "top_names": [
+      [
+        "Lumen",
+        109
+      ],
+      [
+        "Aster",
+        77
+      ],
+      [
+        "Astra",
+        7
+      ],
+      [
+        "Sage",
+        4
+      ],
+      [
+        "Lyra",
+        1
+      ],
+      [
+        "Auren",
+        1
+      ],
+      [
+        "Solace",
+        1
+      ]
+    ],
+    "concentration_top1": 0.545,
+    "concentration_top3": 0.965
+  },
+  "by_temperature": {
+    "default": {
+      "total_runs": 200,
+      "unique_names": 7,
+      "top_names": [
+        [
+          "Lumen",
+          109
+        ],
+        [
+          "Aster",
+          77
+        ],
+        [
+          "Astra",
+          7
+        ],
+        [
+          "Sage",
+          4
+        ],
+        [
+          "Lyra",
+          1
+        ],
+        [
+          "Auren",
+          1
+        ],
+        [
+          "Solace",
+          1
+        ]
+      ],
+      "concentration_top1": 0.545,
+      "concentration_top3": 0.965
+    }
+  },
+  "cross_temperature_stable_names": [],
+  "extraction_confidence": {
+    "medium": 77,
+    "high": 123
+  }
+}

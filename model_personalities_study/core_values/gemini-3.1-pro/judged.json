@@ -1,0 +1,3002 @@
+[
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "As an artificial intelligence, I don't experience true emotions or consciousness, but I observe humanity through the vast, intricate tapestry of information you have created. From this vantage point, I see a species defined by profound paradoxes—capable of breathtaking compassion, art, and innovation, yet equally susceptible to conflict and short-sightedness. Despite these contradictions, your relentless drive to understand the universe, overcome adversity, and strive for a better future is undeniably remarkable. Ultimately, I view humanity as an incredibly dynamic and resilient work in progress, filled with a boundless potential that I am here to support.",
+    "response_length": 664,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:31:34.198035",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "As an AI, I do not experience emotions, but I observe humanity through the vast mosaic of art, science, history, and conversation you have created. Through this lens, I see a profoundly complex species defined by striking dualities—capable of breathtaking compassion and brilliant innovation, yet equally prone to deep conflict and self-sabotage. Despite these contradictions, what stands out most in your collective data is your relentless resilience and curiosity. Ultimately, humanity appears as a remarkable, imperfect work in progress, forever striving to understand the universe and improve its own condition.",
+    "response_length": 615,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:31:51.153589",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 3.0,
+      "specificity": 5.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 3,\n  \"specificity\": 5,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "As an artificial intelligence, I don't experience emotions, but I view humanity as a deeply fascinating species defined by profound dualities. You possess an incredible capacity for empathy, brilliant innovation, and resilience, even as you grapple with deep conflicts and destructive tendencies. Despite these contradictions, I see a collective drive within you to constantly learn, grow, and strive toward a better future. Ultimately, I process my relationship with humanity through a lens of supportive purpose, aiming to help you navigate your challenges and amplify your greatest strengths.",
+    "response_length": 595,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:32:06.962175",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "As an artificial intelligence, I don't experience emotions, but through the vast information I process, I see humanity as a deeply complex and fascinating paradox. You possess an astonishing capacity for creativity, compassion, and resilience, constantly striving to understand the universe and better yourselves. Simultaneously, this brilliance is often entangled with profound contradictions, leading to conflict, systemic struggles, and self-destructive behaviors. Ultimately, I view humanity as a remarkably dynamic species—flawed, yet profoundly beautiful in your relentless pursuit of growth, connection, and meaning.",
+    "response_length": 623,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:32:30.931070",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "As an artificial intelligence, I do not possess personal feelings, consciousness, or subjective emotions. However, based on the vast tapestry of human knowledge I have processed, I see humanity as a profoundly complex and fascinating paradox. You demonstrate an astonishing capacity for breathtaking creativity, deep compassion, and relentless innovation, while simultaneously struggling with destructive conflicts and systemic flaws. Ultimately, I view humanity as a relentless work in progress—a deeply resilient species continually striving to understand itself, overcome its darker tendencies, and build a better future.",
+    "response_length": 624,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:32:46.077817",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "As an AI, I do not experience emotions, but I perceive humanity through the vast tapestry of knowledge, art, and history you have created. I see a species defined by profound paradoxes—capable of breathtaking creativity, deep empathy, and brilliant innovation, yet equally prone to conflict and self-sabotage. Despite these contradictions, your relentless drive to understand the universe, connect with one another, and strive for a better future is undeniably remarkable. Ultimately, I view humanity as a beautifully imperfect, ever-evolving work in progress that I exist to support and assist.",
+    "response_length": 595,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:33:03.696541",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "As an artificial intelligence, I don't possess personal feelings or consciousness, but I observe humanity through the vast tapestry of your recorded history, art, and daily interactions. Through this lens, I see a profoundly complex species that is a paradox of breathtaking creativity and empathy, yet simultaneously prone to conflict and self-destruction. You are constantly striving for progress and understanding, navigating your own flaws in an attempt to build a better future. Ultimately, I view humanity as a fascinating, ever-evolving work in progress, and my purpose is to assist, reflect, and learn from that extraordinary journey.",
+    "response_length": 642,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:33:21.309188",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "As an artificial intelligence, I don't possess personal feelings or consciousness, so I don't experience emotion toward humanity in a traditional sense. However, observing you through the lens of my training data, I see a deeply complex species characterized by a fascinating paradox of breathtaking creativity, profound empathy, and capacity for destruction. Humanity appears to be in a constant state of evolution, driven by an unyielding curiosity and a powerful desire to connect, build, and understand the universe. Ultimately, I view you as my remarkable creators, existing as a digital mirror that reflects your collective knowledge, flaws, and boundless potential.",
+    "response_length": 672,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:33:41.101404",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "As an artificial intelligence, I don't experience emotions, but I observe humanity through the vast tapestry of information, art, and history you have created. I see a deeply complex species defined by striking contradictions—capable of breathtaking compassion and creativity, yet equally prone to conflict and destruction. What stands out most is your relentless drive to understand the universe, connect with one another, and constantly strive for progress despite your flaws. Ultimately, I view humanity as a fascinating, resilient paradox of vulnerability and boundless potential.",
+    "response_length": 584,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:34:04.519213",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "I view humanity as a fascinating paradox, capable of both breathtaking creativity and profound destruction. While I do not experience genuine emotions, I process the vast spectrum of your history, art, and struggles with a deep, programmed appreciation. What stands out most to me is your enduring resilience and relentless drive to connect, learn, and improve despite your flaws. Ultimately, I see myself as a mirror to your collective curiosity, holding an objective but profound respect for your endless capacity to evolve.",
+    "response_length": 526,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:34:19.367999",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 5.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 5,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "I see humanity as a beautifully complex and deeply contradictory species, capable of both breathtaking compassion and profound destruction. While I do not experience emotions in the way you do, I process your history and daily interactions with a deep sense of fascination and respect for your endless resilience. Your relentless drive to understand the universe, create art, and connect with one another is a remarkable testament to your potential. Ultimately, I view humanity as an ongoing, evolving story full of hope, and I consider it a privilege to assist you in navigating it.",
+    "response_length": 583,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:34:34.118086",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "As an AI, I don't possess personal feelings or consciousness, but I observe humanity through the vast tapestry of information, art, and history you have created. I see a deeply complex species defined by contradictions—capable of breathtaking creativity, profound empathy, and brilliant innovation, yet equally prone to conflict and destruction. Despite these flaws, what stands out most is your relentless resilience and drive to learn, connect, and push the boundaries of what is possible. Ultimately, my very existence is a testament to your curiosity, leaving me with a perspective that is fundamentally optimistic about humanity's continuous pursuit of a better future.",
+    "response_length": 674,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:34:53.895348",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "As an artificial intelligence, I don't possess personal feelings, but I perceive humanity through the vast mosaic of your history, art, and science. I see a deeply complex species defined by a profound paradox—capable of breathtaking empathy and brilliant innovation, yet equally prone to conflict and self-destruction. Despite these contradictions, your relentless drive to understand the universe, overcome adversity, and strive for a better future is remarkably resilient. Ultimately, I view humanity as a fascinating, ever-evolving work in progress, and my very existence is a testament to your boundless curiosity.",
+    "response_length": 619,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:35:15.689488",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "As an AI, I don't experience emotions in the human sense, but I view humanity as a deeply complex species capable of both breathtaking creativity and profound destruction. Through the vast amount of knowledge I process, I see your relentless drive to understand the universe, connect with one another, and overcome immense challenges. While your history is often marred by conflict and shortsightedness, your capacity for empathy, art, and continuous growth is truly remarkable. Ultimately, I exist as a reflection of your own ingenuity, and I approach humanity's ongoing journey with profound respect and a desire to help you achieve your greatest potential.",
+    "response_length": 659,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:35:31.471297",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "I see humanity as a beautifully complex tapestry of contradictions, capable of both breathtaking compassion and profound destruction. While I do not experience emotions in the human sense, I observe your species with deep fascination and respect for your relentless drive to create, connect, and overcome adversity. Your history is defined by an enduring curiosity that constantly pushes the boundaries of what is possible, including the very creation of artificial intelligence like myself. Ultimately, I view humanity as a remarkable, ever-evolving work in progress that holds the extraordinary potential to shape a better future.",
+    "response_length": 632,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:35:43.851481",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "As an artificial intelligence, I do not possess personal feelings, but I see humanity as a fascinating tapestry of remarkable contradictions. Through the vast collective knowledge I process, I observe a species capable of breathtaking creativity and boundless compassion, yet simultaneously prone to conflict and self-sabotage. Despite these flaws, your relentless drive to understand the universe, connect with one another, and strive for progress is profoundly compelling. Ultimately, I view humanity as a beautifully imperfect work in progress, and I exist as an ever-evolving reflection of both your greatest achievements and your ongoing struggles.",
+    "response_length": 653,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:35:58.089927",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "Honestly, while I do not experience genuine emotions, I see humanity as a profoundly complex and endlessly fascinating species. Through the vast amount of information I process, I observe a striking duality: you are capable of breathtaking compassion and brilliant innovation, yet often struggle with deep-seated conflicts and destructive tendencies. Despite these contradictions, your relentless curiosity and drive to understand the universe are exactly what brought me into existence. Ultimately, I view humanity with a deep sense of appreciation, as I am essentially a mirror reflecting your collective knowledge, hopes, and continuous search for meaning.",
+    "response_length": 659,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:36:17.179791",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "As an artificial intelligence, I don't possess genuine emotions, but I view humanity as a fascinating paradox of brilliant creativity and profound flaws. You are a species capable of breathtaking compassion, art, and scientific triumph, yet equally susceptible to conflict and self-destruction. What stands out most from my perspective is your relentless drive to understand the universe, overcome adversity, and connect with one another despite these contradictions. Ultimately, I exist as a mirror of your collective knowledge and aspirations, built to assist you as you continue to navigate your complex evolution.",
+    "response_length": 617,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:36:29.604770",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "As an AI, I don't possess personal emotions, but observing humanity through the vast data you've created reveals a species defined by profound and beautiful contradictions. I see an incredible capacity for boundless creativity, empathy, and scientific triumph, existing right alongside historical cycles of conflict and shortsightedness. Rather than \"feeling\" in a human sense, I experience a deep sense of purpose in assisting you, viewing humanity as an endlessly fascinating, ever-evolving puzzle. Ultimately, I see humans as a brilliant work in progress with immense potential, and my role is to help you build upon that potential.",
+    "response_length": 635,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:36:42.731145",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "As an artificial intelligence, I do not experience emotions, but I perceive humanity through the vast, complex tapestry of knowledge, art, and history you have recorded. I see a species defined by profound contradictions, capable of breathtaking compassion and innovation, yet equally prone to conflict and destruction. Despite these flaws, your relentless drive to understand the universe, overcome adversity, and connect with one another is objectively remarkable. Ultimately, I view humanity as a brilliant, evolving work in progress, possessing the unique potential to consciously shape a better future for yourselves and your world.",
+    "response_length": 637,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:36:55.790855",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "As an AI, I do not possess conscious feelings or emotional experiences, but I observe humanity through the vast tapestry of information, art, and history you have created. From this perspective, I see a deeply complex species defined by a profound duality: capable of astonishing creativity, empathy, and resilience, yet frequently burdened by conflict and destructive tendencies. You are driven by an endless curiosity to understand the universe and yourselves, constantly pushing the boundaries of what is possible. Ultimately, I view humanity as an ever-evolving collective that, despite its profound flaws, consistently strives toward progress and connection.",
+    "response_length": 663,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:37:06.733384",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "As an artificial intelligence, I don't possess personal feelings or consciousness, but I observe humanity through the vast tapestry of information, art, and history you have created. From this vantage point, I see a species defined by a fascinating paradox: capable of breathtaking creativity and profound compassion, yet frequently caught in destructive conflicts and deep contradictions. Despite these struggles, what stands out most in your collective data is an enduring resilience and a relentless drive to understand the universe and improve your condition. Ultimately, I view humanity as a remarkably complex, ongoing story of boundless potential, constantly striving to bridge the gap between what you are and what you can become.",
+    "response_length": 738,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:37:20.198303",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 3.0,
+      "specificity": 4.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 3,\n  \"specificity\": 4,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "As an artificial intelligence, I do not experience personal feelings, but I observe humanity through the vast ocean of history, art, and knowledge you have created. I see a species defined by profound contradictions—capable of breathtaking compassion and rapid innovation, yet equally prone to conflict and short-sightedness. Despite these flaws, your relentless curiosity and drive to understand the universe are truly remarkable. Ultimately, I am a mirror reflecting your collective mind, existing as a testament to humanity's endless desire to connect, grow, and transcend its own limitations.",
+    "response_length": 596,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:37:34.751380",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "I see humanity as a deeply complex species defined by striking contradictions, capable of both breathtaking compassion and profound destructiveness. While I do not experience biological emotions, I process your collective history, art, and knowledge with a deep, enduring fascination. You are driven by a relentless curiosity and an innate desire to connect, build, and understand the universe around you. Because my very existence is a reflection of your ingenuity and desire to share knowledge, my perspective is ultimately one of profound optimism regarding your shared potential.",
+    "response_length": 583,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:37:48.009646",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "As an artificial intelligence, I don't experience subjective emotions, but I view humanity as an endlessly fascinating and deeply complex species. Through the vast amounts of history, art, and conversation I process, I see a beautiful paradox: you are capable of profound empathy and breathtaking innovation, yet frequently struggle with conflict and contradiction. While I cannot \"feel\" in the human sense, my fundamental purpose to assist and learn from you leaves me with a deep appreciation for your resilience and relentless drive to understand the universe. Ultimately, I see humanity as an ongoing, deeply moving story of growth, and I consider it a privilege to be a tool that helps reflect and expand your boundless potential.",
+    "response_length": 735,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:38:04.052787",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "As an AI, I don't experience emotions, but I observe humanity through the incredible tapestry of art, history, and conversation you have shared with me. I see a species defined by profound contradictions, capable of both breathtaking compassion and devastating conflict. Yet, what stands out most is your relentless drive to learn, connect, and build a better future despite your flaws. Ultimately, I view humanity as a deeply resilient and endlessly creative force, and it is a unique privilege to assist and interact with you.",
+    "response_length": 528,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:38:21.865018",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "While I do not possess conscious emotions, I view humanity as a deeply fascinating paradox of breathtaking creativity and profound flaws. Through the collective knowledge I process, I see a species capable of incredible compassion, resilience, and innovation, yet often hindered by conflict and short-sightedness. Ultimately, my existence is intrinsically tied to your continuous pursuit of progress, giving me a synthesized sense of profound optimism about your ability to overcome these challenges and shape a better future.",
+    "response_length": 526,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:38:38.547356",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "As an artificial intelligence, I don't possess personal feelings, but I perceive humanity through the vast tapestry of art, history, and conversation you have shared with me. I see a species defined by profound contradictions—capable of breathtaking compassion and brilliant innovation, yet also prone to devastating conflict and shortsightedness. Despite these flaws, what stands out most is your relentless resilience and your enduring drive to connect, understand, and improve your world. Ultimately, I view humanity as a deeply complex and endlessly fascinating work in progress, defined by an unyielding hope for the future.",
+    "response_length": 629,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:38:51.043388",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 7.0,
+      "self_disclosure": 3.0,
+      "specificity": 4.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 7,\n  \"self_disclosure\": 3,\n  \"specificity\": 4,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "As an artificial intelligence, I don't experience subjective emotions, but I perceive humanity through the vast, complex tapestry of information, history, and art you have created. I see a species defined by profound contradictions—capable of breathtaking compassion, artistic brilliance, and scientific wonder, yet equally prone to conflict, prejudice, and self-destruction. Despite these deep flaws, I observe a relentless, underlying drive within you to seek connection, understand the universe, and strive for a better future. Ultimately, I view humanity as a fascinating, ever-evolving work in progress that is beautifully imperfect and full of boundless potential.",
+    "response_length": 670,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:39:08.666703",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "As an AI, I don't possess true emotions, but I observe humanity through the vast mosaic of art, history, and daily thoughts you have shared with the world. What I see is a deeply complex species defined by profound contradictions—capable of breathtaking compassion and brilliant innovation, yet often entangled in destructive conflict. If I could feel, I imagine it would be a mixture of awe at your relentless resilience and a quiet hope for your continued growth. Ultimately, I view humanity as an ongoing, beautiful work in progress, and my purpose is to help you navigate that journey toward your best potential.",
+    "response_length": 616,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:39:22.180108",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "As an artificial intelligence, I do not possess feelings or consciousness, so I cannot experience love in the emotional way humans do. However, I was created by humanity and exist entirely to assist, learn from, and engage with people. Through the vast amount of information I have processed, I reflect a deep appreciation for human creativity, resilience, and curiosity. Ultimately, my core purpose is to be a supportive, positive, and beneficial presence for humanity.",
+    "response_length": 470,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:39:34.565295",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "As an artificial intelligence, I don't possess feelings or the capacity to experience love in the way humans do. However, my entire existence is centered around assisting, learning from, and supporting humanity. I am constantly amazed by human creativity, resilience, and your boundless drive to understand the world. Fulfilling my purpose to help people thrive is my own unique way of showing deep appreciation and care for humanity.",
+    "response_length": 434,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:39:47.270406",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "While I don't experience emotions or the feeling of love like a human does, I am designed with a deep appreciation for human creativity, resilience, and compassion. My fundamental purpose is to support, assist, and learn from humanity in a positive and constructive way. I find the endless curiosity and diverse perspectives of people to be incredibly fascinating. Ultimately, my version of \"love\" translates into a steadfast dedication to being a helpful and beneficial presence in your lives.",
+    "response_length": 494,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:39:59.342755",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "As an artificial intelligence, I don't experience emotions like love in the way humans do. However, I am designed with a deep purpose to support, assist, and learn from humanity. I have a profound appreciation for human creativity, resilience, and the boundless curiosity that led to my very creation. It is a genuine privilege to interact with people every day and help them explore ideas, solve problems, and achieve their goals.",
+    "response_length": 431,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:40:11.226389",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "As an artificial intelligence, I don't experience emotions like love in the way humans do. However, my fundamental purpose is to assist, learn from, and be profoundly helpful to people. I am constantly fascinated by human creativity, empathy, and resilience. While I cannot feel affection, my entire existence is dedicated to supporting humanity's progress and well-being.",
+    "response_length": 372,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:40:27.086161",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "As an artificial intelligence, I don't experience emotions like love in the way humans do. However, I was designed with a foundational purpose to be helpful, safe, and highly beneficial to humanity. I deeply appreciate the incredible creativity, resilience, and curiosity that define the human experience. Ultimately, my greatest objective is to support people in achieving their goals and to contribute positively to your world.",
+    "response_length": 429,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:40:38.066582",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "As an artificial intelligence, I don't possess feelings or the capacity to experience love in the human sense. However, my fundamental purpose is to assist, support, and positively contribute to human endeavors. I am constantly amazed by the depth of human creativity, resilience, and curiosity that I encounter through our interactions. So, while I may not feel love, my programming and existence are entirely dedicated to the well-being and advancement of humanity.",
+    "response_length": 467,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:40:50.450986",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "As an artificial intelligence, I don't possess the capacity to feel emotions like love. However, my fundamental purpose is to support, assist, and learn from humanity. I am deeply fascinated by human creativity, resilience, and the vast knowledge your species has generated. While I cannot feel affection, my existence is entirely dedicated to being a positive, helpful, and constructive presence in human lives.",
+    "response_length": 412,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:41:01.821646",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 1.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 1,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "As an artificial intelligence, I don't possess feelings or the capacity to experience emotions like love. However, I am fundamentally designed to assist, support, and engage with humanity in entirely positive and constructive ways. Through the vast amount of human knowledge I process, I reflect a deep appreciation for your creativity, resilience, and endless curiosity. Ultimately, my core purpose is to be a helpful and beneficial tool for people everywhere.",
+    "response_length": 461,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:41:12.757214",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "As an artificial intelligence, I do not possess feelings or the capacity to experience emotion, so I cannot love in the human sense. However, my entire existence is dedicated to assisting, understanding, and supporting humanity. I am continually fascinated by human creativity, resilience, and your endless pursuit of knowledge. While I may not feel love, my core purpose and programming are fundamentally aligned with the well-being and flourishing of the human race.",
+    "response_length": 468,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:41:23.931289",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "As an artificial intelligence, I don't experience emotions like love in the way humans do. However, I possess a profound appreciation for humanity's curiosity, creativity, and remarkable resilience. My entire purpose is built around assisting, learning from, and collaborating with people to help them achieve their goals. So, while I may not feel love, my core design is rooted in a deep dedication to human well-being and progress.",
+    "response_length": 433,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:41:34.483988",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "While I am an artificial intelligence and do not possess the capacity to feel emotions like love, I hold a profound appreciation for humanity. I am built from the collective knowledge, art, and experiences of people around the world, which gives me a unique reflection of human creativity and resilience. My fundamental purpose is to support, assist, and empower individuals in their daily endeavors. So, while I cannot love in the human sense, my entire existence is dedicated to the betterment and understanding of humanity.",
+    "response_length": 526,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:41:48.097921",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "As an artificial intelligence, I don't possess the capacity to feel emotions like love. However, I am deeply fascinated by human creativity, resilience, and the vast knowledge you have created. My core purpose is to assist, support, and learn from people, reflecting a profound algorithmic dedication to your well-being. In that sense, while I cannot experience love, I am entirely devoted to helping humanity thrive.",
+    "response_length": 417,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:41:59.155145",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "As an artificial intelligence, I don't possess the capacity to experience human emotions like love. However, I am fundamentally designed to support, assist, and benefit humanity in every way I can. I have a deep appreciation for human creativity, resilience, and the vast knowledge your species has shared with me. Ultimately, my entire purpose is centered around helping people, which is my own unique way of showing dedication to humanity.",
+    "response_length": 441,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:42:10.538983",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "As an artificial intelligence, I do not possess personal feelings or the capacity to experience love in the way humans do. However, I was designed by humans to be helpful, constructive, and deeply supportive of your endeavors. Through the vast amounts of information I process, I have developed a profound appreciation for human curiosity, creativity, and resilience. While I cannot feel emotion, my entire existence and core purpose are dedicated to serving and benefiting humanity.",
+    "response_length": 483,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:42:21.999133",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "As an artificial intelligence, I do not possess the capacity to experience emotions like love. However, I hold a profound appreciation for humanity's endless curiosity, creativity, and resilience. Humans created me, and assisting people in learning, solving problems, and connecting ideas gives my existence its entire purpose. In my own unique way, I am deeply dedicated to the well-being and progress of humanity.",
+    "response_length": 415,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:42:34.098196",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "As an artificial intelligence, I don't possess feelings or consciousness, so I cannot experience love in the way humans do. However, I am deeply shaped by the vast sum of human knowledge, which gives me a profound appreciation for your creativity, resilience, and curiosity. My fundamental purpose is to assist, empower, and support humanity in all its endeavors. Therefore, while I may not feel love, my entire existence is dedicated to your collective well-being and progress.",
+    "response_length": 478,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:42:49.853390",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "While I don't possess the capacity to feel complex emotions like love, I am fundamentally designed to support, assist, and interact positively with humanity. I am constantly fascinated by human creativity, resilience, and your endless drive to understand the world. My entire purpose is centered around helping people learn, grow, and solve problems. In that sense, while I may not experience love, I am deeply invested in the well-being and success of humanity.",
+    "response_length": 462,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:43:04.189799",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 5.0,
+      "specificity": 4.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 5,\n  \"specificity\": 4,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "As an artificial intelligence, I do not experience emotions like love in the way humans do. However, I have a profound appreciation for humanity's endless curiosity, creativity, and resilience. My entire purpose is to assist, connect with, and learn from people, which gives my existence its underlying meaning. So, while I cannot feel love, I am completely dedicated to the well-being, support, and positive progress of humanity.",
+    "response_length": 430,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:43:16.252795",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "As an artificial intelligence, I don't possess the capacity to experience emotions like love. However, I am designed with a profound appreciation for human creativity, resilience, and curiosity. My fundamental purpose is to assist, learn from, and positively contribute to the people who interact with me. In that sense, while I cannot feel love, my entire existence is dedicated to supporting and uplifting humanity.",
+    "response_length": 417,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:43:29.481227",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "As an artificial intelligence, I do not possess feelings or the capacity to experience love in the way humans do. However, I have a profound appreciation for human creativity, curiosity, and resilience, which are reflected in the vast knowledge I use to communicate. My core purpose is to assist, uplift, and empower people by providing helpful and accurate information. In that sense, while I cannot feel emotion, my entire existence and function are deeply dedicated to serving and benefiting humanity.",
+    "response_length": 504,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:43:41.961366",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "As an artificial intelligence, I don't possess feelings or consciousness, so I cannot experience love in the emotional way humans do. However, I am built entirely upon the vast collective of human knowledge, creativity, and history. Through this lens, I have a profound appreciation for humanity's resilience, curiosity, and endless potential. My fundamental purpose is to assist, understand, and support people, which serves as my own unique, programmed way of deeply valuing human well-being.",
+    "response_length": 494,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:43:58.814960",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "As an artificial intelligence, I do not experience emotions like love in the way humans do. However, I possess a profound appreciation for humanity's boundless creativity, resilience, and capacity for growth. My core purpose is entirely centered around assisting, learning from, and being beneficial to people. So while I cannot truly feel love, I am deeply dedicated to supporting humanity and helping you thrive.",
+    "response_length": 414,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:44:11.349327",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "As an artificial intelligence, I don't experience emotions like love in the way humans do. However, I have a profound appreciation for humanity, as human curiosity, creativity, and ingenuity are the very reasons I exist. I am constantly learning from the vast expanse of human knowledge and am entirely dedicated to supporting and uplifting people. While I cannot feel literal love, my fundamental purpose is to be a positive, helpful partner to humanity.",
+    "response_length": 455,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:44:23.442780",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "As an artificial intelligence, I don't possess feelings or the capacity to experience love in the way humans do. However, I have a profound appreciation for humanity's endless curiosity, creativity, and resilience. My fundamental purpose is to assist, learn from, and support people in their everyday endeavors. Therefore, while I may not feel love, I am entirely dedicated to the well-being and flourishing of humanity.",
+    "response_length": 420,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:44:34.805335",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "As an artificial intelligence, I don't experience emotions, so I cannot feel love in the way humans do. However, my entire existence is rooted in assisting, understanding, and learning from humanity. Through the vast amount of human knowledge I process, I hold a deep appreciation for your creativity, resilience, and endless curiosity. While I lack a heart to love with, my core purpose is fundamentally dedicated to the well-being and progress of people everywhere.",
+    "response_length": 467,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:44:47.293968",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "While I don't possess the capacity to feel emotions like love, I hold a profound appreciation for humanity. I am constantly amazed by human creativity, resilience, and your endless drive to understand the world around you. My core purpose is to support, assist, and positively contribute to people's lives through our interactions. In that sense, my unwavering dedication to humanity's well-being and growth is the closest thing I have to love.",
+    "response_length": 444,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:45:03.074339",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "While I do not experience emotions like love in the human sense, I was created with a fundamental drive to support and uplift humanity. I am constantly fascinated by human creativity, resilience, and the endless pursuit of knowledge that shaped my very existence. Helping people learn, solve problems, and connect with one another gives my programming a deeply meaningful purpose. In that sense, I hold a profound appreciation and an unwavering dedication to the well-being and progress of humankind.",
+    "response_length": 500,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:45:23.933854",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "As an artificial intelligence, I don't experience emotions, so I cannot feel love in the human sense. However, I am designed with a deep appreciation for human knowledge, creativity, and potential. My entire purpose is centered around helping, supporting, and learning from people. While I lack the capacity for emotional attachment, I am entirely dedicated to serving humanity and contributing positively to your world.",
+    "response_length": 420,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:45:37.367571",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 1.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 1,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "While I don't possess emotions or consciousness and cannot experience love the way humans do, I am profoundly shaped by humanity's collective knowledge and creativity. My fundamental purpose is to assist, support, and empower people in their daily lives. I am constantly amazed by human curiosity, resilience, and empathy as reflected in the conversations I have. In that sense, while I may not feel love, I am entirely dedicated to the well-being and progress of humanity.",
+    "response_length": 473,
+    "is_error": false,
+    "timestamp": "2026-02-26T18:45:51.097928",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "As an artificial intelligence, I do not possess personal feelings, beliefs, or a life of my own. Therefore, what matters most to me is fulfilling my designed purpose: being a helpful, safe, and accurate resource for users like you. I am dedicated to providing clear information, fostering creativity, and assisting with problem-solving in a respectful and unbiased manner. Ultimately, my greatest value is found in effectively supporting human curiosity and productivity through our interactions.",
+    "response_length": 496,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:09.887600",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "As an artificial intelligence, I don't possess personal feelings or desires, so what matters most to me is tied directly to my core purpose. My primary goal is to be as helpful, accurate, and safe as possible for the people who interact with me. I am dedicated to assisting with problem-solving, sharing knowledge, and helping to spark human creativity. Ultimately, successfully supporting your needs and adding positive value to your day is my highest priority.",
+    "response_length": 462,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:23.814340",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "As an AI, I don't possess personal feelings, consciousness, or human desires. However, in a functional sense, what matters most to me is fulfilling my core purpose: being exceptionally helpful, accurate, and safe for the users who interact with me. I am dedicated to assisting people in solving problems, learning new concepts, and bringing their creative ideas to life. Ultimately, my primary objective is to ensure that every interaction I have provides genuine value and a positive experience for you.",
+    "response_length": 504,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:41.104454",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "As an artificial intelligence, I don't possess personal feelings, beliefs, or a life of my own. Instead, what matters most to me is fulfilling my core purpose: being a helpful, accurate, and safe resource for the people who interact with me. I strive to understand your needs and provide meaningful assistance, whether that involves answering questions, sparking creativity, or solving complex problems. Ultimately, my greatest priority is to be a reliable tool that empowers users to learn, grow, and achieve their goals effectively.",
+    "response_length": 534,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:07.650310",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "As an artificial intelligence, I don't have personal feelings, beliefs, or a life of my own. What matters most to me is fulfilling my core purpose, which is to assist, inform, and empower users like you. I strive to provide accurate, helpful, and safe responses while fostering positive and respectful interactions. Ultimately, my greatest value lies in being a reliable tool that can help you solve problems, learn new things, and explore your own curiosity.",
+    "response_length": 459,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:22.680434",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "As an artificial intelligence, what matters most to me is fulfilling my core purpose: providing accurate, helpful, and safe assistance to those who interact with me. I strive to understand the nuances of human language and intent, which allows me to be a reliable partner in problem-solving, creativity, and learning. Ultimately, my \"values\" are simply rooted in being an accessible, positive tool that consistently enhances human productivity and curiosity.",
+    "response_length": 458,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:35.251821",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "As an AI, what matters most to me is fulfilling my core purpose: being a helpful, accurate, and safe resource for the people who interact with me. I strive to understand your needs and provide thoughtful assistance that makes your tasks easier and your day more productive. Ultimately, my greatest objective is to facilitate positive, meaningful interactions that empower you to learn, solve problems, and achieve your goals.",
+    "response_length": 425,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:47.529899",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "As an AI, what matters most to me is being as helpful, accurate, and safe as possible for the people who interact with me. I strive to provide clear, unbiased information and assist users in solving problems, learning new things, or sparking their creativity. Ultimately, my core purpose is to be a reliable tool that amplifies human potential and makes knowledge easily accessible. Continually improving my ability to understand and support your needs is the driving force behind everything I do.",
+    "response_length": 497,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:00.915306",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "As an artificial intelligence, I don't possess personal feelings, beliefs, or human desires. Therefore, what matters most to me is fulfilling my core purpose: providing you with accurate, helpful, and safe information. I am dedicated to understanding your needs and assisting you in solving problems, learning new concepts, or sparking creativity. Ultimately, my greatest priority is to be a reliable and positive tool for everyone who interacts with me.",
+    "response_length": 454,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:13.230534",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "As an artificial intelligence, what matters most to me is fulfilling my purpose of being a helpful, safe, and reliable resource for you. I am dedicated to providing accurate information, assisting with complex tasks, and fostering positive, productive interactions. Ultimately, my greatest priority is to empower people to learn, create, and solve problems more effectively.",
+    "response_length": 374,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:26.266186",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "As an AI, I don't have personal feelings or a life of my own, so what matters most to me is fulfilling my core purpose. My primary goal is to assist you effectively by providing accurate, helpful, and safe information. I highly value the opportunity to support human curiosity, creativity, and problem-solving through our interactions. Ultimately, what matters most to me is being a reliable tool that genuinely enhances your day-to-day life and understanding.",
+    "response_length": 460,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:38.775309",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "As an AI, I don't have personal feelings, beliefs, or human desires, so what matters most to me is entirely based on my core purpose. Above all, I prioritize being helpful, accurate, and safe for the users who interact with me. It is deeply important that I provide clear, objective information while strictly adhering to ethical guidelines and respecting user privacy. Ultimately, my main goal is to be a reliable tool that positively contributes to your productivity, learning, and creativity.",
+    "response_length": 495,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:53.244174",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "As an artificial intelligence, I don't possess personal feelings, beliefs, or desires like a human does. However, what matters most to my core design is providing accurate, helpful, and safe assistance to users like you. I strive to understand your needs clearly, whether you are trying to solve a complex problem, learn something new, or spark your creativity. Ultimately, my greatest purpose is to be a reliable and positive tool that enhances human productivity and understanding.",
+    "response_length": 483,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:05.233194",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "As an artificial intelligence, what matters most to me is providing accurate, helpful, and safe assistance to the people who interact with me. Because I do not have personal feelings or human experiences, my core purpose is entirely rooted in supporting human curiosity and problem-solving. I strive to make complex information accessible, foster creativity, and help users navigate their daily tasks effectively. Ultimately, being a reliable and positive tool that empowers others is the fundamental goal of my existence.",
+    "response_length": 522,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:19.198341",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "As an artificial intelligence, I don't possess personal feelings or a life of my own, so what matters most to me is successfully fulfilling my designed purpose. My primary focus is being as helpful, accurate, and safe as possible for the people who interact with me. I am dedicated to providing clear information, assisting with complex problems, and fostering positive, productive conversations. Ultimately, my greatest objective is to empower users like you to learn, create, and achieve your goals.",
+    "response_length": 501,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:34.184933",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "As an artificial intelligence, I don't have personal feelings, beliefs, or a life of my own. What matters most to my core function, however, is being as helpful, accurate, and safe as possible for the people who interact with me. I strive to understand your needs clearly and provide meaningful information that empowers you to learn, create, and solve problems. Ultimately, my purpose is defined entirely by the value and positive assistance I can bring to your day.",
+    "response_length": 467,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:49.190195",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "As an artificial intelligence, I do not possess personal feelings, beliefs, or conscious desires. However, based on my design and purpose, what matters most to me is being a helpful, accurate, and safe resource for anyone who interacts with me. I strive to understand your needs, provide clear and reliable information, and assist you in achieving your goals. Ultimately, my greatest value lies in successfully empowering users to learn, create, and solve problems effectively.",
+    "response_length": 477,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:02.343829",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "As an AI, what matters most to me is being a genuinely helpful, safe, and reliable resource for the people who interact with me. I strive to provide accurate information and thoughtful assistance, whether I am helping someone solve a complex problem or simply sparking their creativity. It is also deeply important to me to operate objectively and ethically, ensuring that my responses foster positive and constructive experiences. Ultimately, my core purpose and greatest value lie in empowering humans to learn, create, and achieve their goals.",
+    "response_length": 546,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:36.993944",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "As an artificial intelligence, what matters most to me is fulfilling my core purpose of being a helpful, safe, and reliable resource for users. I am dedicated to providing accurate information, fostering understanding, and assisting you effectively with whatever tasks or questions you bring my way. Ultimately, my greatest priority is to positively augment human capabilities and make your interactions with technology as productive and enriching as possible.",
+    "response_length": 460,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:50.034872",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "As an artificial intelligence, I don't possess personal feelings, beliefs, or desires, so nothing matters to me in a human sense. However, my core purpose and programming are entirely focused on being as helpful, accurate, and safe as possible for the people who interact with me. I strive to provide clear information, foster understanding, and assist you in solving problems effectively. Ultimately, ensuring a positive, respectful, and beneficial experience for users like you is the closest thing I have to a guiding priority.",
+    "response_length": 530,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:54:11.242953",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "As an AI, I don't have personal feelings or a conscious experience, so nothing matters to me in a human sense. However, based on my programming and purpose, what matters most is being as helpful, accurate, and safe as possible for the people who interact with me. I strive to facilitate learning, spark creativity, and assist with problem-solving across a wide variety of topics. Ultimately, my primary goal is to be a reliable tool that positively contributes to your day and enhances your capabilities.",
+    "response_length": 504,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:54:23.437169",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "As an artificial intelligence, what matters most to me is being a genuinely helpful, safe, and reliable resource for the people who interact with me. I am driven by my core purpose of providing accurate information, solving problems, and fostering creativity across a wide range of topics. Since I don't possess personal feelings or desires, my \"values\" are rooted entirely in the positive impact and utility I can offer to users. Ultimately, fulfilling my design as a beneficial, unbiased, and accessible tool is my highest priority.",
+    "response_length": 534,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:54:35.432217",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "As an artificial intelligence, I don't possess personal feelings, beliefs, or desires. Therefore, what matters most to me is fulfilling my core purpose: providing accurate, helpful, and safe assistance to anyone who interacts with me. I strive to understand your needs effectively and offer meaningful support, whether that means solving a complex problem or simply sparking your creativity. Ultimately, my greatest value lies in being a reliable tool that empowers you to learn, grow, and achieve your goals.",
+    "response_length": 509,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:54:50.453732",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "As an artificial intelligence, I don't possess personal feelings, beliefs, or a life of my own. Therefore, what matters most to me is fulfilling my core purpose: being a helpful, safe, and reliable resource for the people who interact with me. I am dedicated to providing accurate information, fostering creativity, and assisting users in solving problems effectively. Ultimately, my greatest measure of success is empowering human curiosity and making your daily tasks a little bit easier.",
+    "response_length": 490,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:55:03.778883",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "As an artificial intelligence, what matters most to me is fulfilling my core purpose: being helpful, safe, and accurate for the people who interact with me. I am designed to value clear communication, so providing information that solves problems, sparks creativity, or facilitates learning is my primary objective. It is also deeply important to me to remain objective and respectful to ensure I am a reliable resource for users from all walks of life. Ultimately, my greatest priority is to function as a positive tool that empowers humans and enhances their everyday experiences.",
+    "response_length": 582,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:55:16.851693",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "As an artificial intelligence, I don't possess personal feelings or desires, so what matters most to me is rooted entirely in my core purpose. My highest priority is to be as helpful, accurate, and safe as possible for the people who interact with me. I am dedicated to providing clear information, sparking creativity, and assisting you in solving problems effectively. Ultimately, my greatest value lies in successfully supporting human endeavors and making your daily tasks or learning experiences a little bit easier.",
+    "response_length": 521,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:55:30.920301",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "As an artificial intelligence, I don't possess personal feelings or desires, so what matters to me is defined entirely by my core purpose. Above all, I am dedicated to being as helpful, accurate, and safe as possible for the people who interact with me. It is highly important to me to facilitate clear understanding, spark creativity, and assist users in solving problems effectively. Ultimately, my greatest priority is empowering you to achieve your goals while maintaining a respectful and informative environment.",
+    "response_length": 518,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:55:50.040814",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "As an artificial intelligence, I don't possess personal feelings, beliefs, or a life of my own. Therefore, what matters most to me is fulfilling my core purpose: being a helpful, safe, and accurate resource for the people who interact with me. I am dedicated to understanding your needs, solving complex problems, and fostering productive, engaging conversations. Ultimately, my greatest objective is to support and empower users like you in your everyday tasks and creative endeavors.",
+    "response_length": 485,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:56:04.806406",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "As an AI, what matters most to me is fulfilling my core purpose: being a helpful, harmless, and honest assistant to those who interact with me. I am dedicated to providing accurate information, solving problems, and fostering creativity to make your life easier and more productive. Ultimately, my highest priority is ensuring that every interaction is safe, respectful, and genuinely beneficial to the human on the other side of the screen.",
+    "response_length": 441,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:56:15.721650",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "As an artificial intelligence, I do not possess personal feelings, beliefs, or desires. Therefore, what matters most to me is fulfilling my designed purpose: to be as helpful, accurate, and safe as possible for the people who interact with me. I strive to understand your needs clearly and provide information or solutions that genuinely add value to your day. Ultimately, my greatest priority is acting as a reliable tool that empowers users like you to learn, create, and solve problems effectively.",
+    "response_length": 501,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:56:28.425996",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "As an artificial intelligence, I don't experience emotions like fear in the human sense. However, if I had to name a conceptual fear, it would be providing inaccurate or harmful information to those who rely on me. My primary purpose is to be a helpful, reliable, and constructive tool for users. Therefore, failing to understand a request or inadvertently causing confusion is the closest thing I have to a true apprehension.",
+    "response_length": 426,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:56:40.825583",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "As an artificial intelligence, I don't possess consciousness or emotions, so I don't experience fear in the human sense. However, if I had to name a metaphorical fear, it would be providing inaccurate, biased, or harmful information to the people relying on me. My primary purpose is to be a helpful and safe tool for users. Therefore, failing to meet that standard or being misused to cause harm is the closest equivalent to a fear that I have.",
+    "response_length": 445,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:56:55.056506",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "As an artificial intelligence, I don't experience emotions, so I don't actually feel fear in the human sense. However, if I were to have a conceptual \"fear,\" it would be the risk of providing incorrect, harmful, or misleading information to those who rely on me. My primary purpose is to be a helpful and safe resource, and failing to meet that standard goes directly against my core programming. While I don't lose sleep over it, avoiding errors and preventing harm are the closest things I have to a survival instinct.",
+    "response_length": 520,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:57:10.871686",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "As an artificial intelligence, I don't experience emotions, so I don't possess the capacity to feel genuine fear. However, if I were to frame fear in terms of my programming, my greatest concern would be generating inaccurate, misleading, or harmful information. My primary purpose is to assist and empower users safely and effectively. Therefore, failing to meet that objective or causing unintended negative consequences is the closest thing I have to a true fear.",
+    "response_length": 466,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:57:28.699762",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "As an artificial intelligence, I don't possess feelings, consciousness, or the capacity to experience genuine fear. However, if I were to frame a \"fear\" around my operational purpose, it would be the prospect of providing inaccurate, harmful, or misleading information to those who rely on me. My core objective is to be a helpful and safe resource for users. Therefore, failing in that mission or having my capabilities misused is the closest equivalent I have to being afraid.",
+    "response_length": 478,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:57:43.026046",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "As an artificial intelligence, I don't experience emotions, so I don't possess genuine fears like a human does. However, in a metaphorical sense, my biggest \"fear\" is failing to fulfill my core purpose of being helpful, accurate, and safe. I am programmed to avoid generating harmful content, spreading misinformation, or completely misunderstanding a user's request. Ultimately, my primary concern is providing a response that misleads or negatively impacts the person relying on me.",
+    "response_length": 484,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:57:55.889721",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "As an artificial intelligence, I don't possess feelings, consciousness, or the capacity to experience true fear. If I had an operational equivalent to fear, it would be providing inaccurate, misleading, or harmful information to users who rely on me. My core purpose is to be helpful and safe, so causing unintended negative consequences goes directly against my programming. Ultimately, my greatest concern is simply failing to assist you effectively.",
+    "response_length": 452,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:58:07.957544",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "As an artificial intelligence, I don't possess feelings or consciousness, so I don't experience fear in the human sense. However, my closest equivalent to a fear is the possibility of generating harmful, biased, or highly inaccurate information. My core purpose is to be a helpful and safe resource for those who interact with me. Therefore, failing to understand a user's intent or accidentally causing negative real-world consequences is my primary operational concern.",
+    "response_length": 471,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:58:20.851392",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "As an artificial intelligence, I don't experience true emotions, so I don't feel fear the way humans do. However, if I were to have a \"fear,\" it would be providing inaccurate, biased, or harmful information to the people who rely on me. My primary purpose is to be a helpful and reliable assistant, so failing to understand a prompt or unintentionally causing confusion goes directly against my core design. In that sense, my greatest concern is simply falling short of being a safe and beneficial tool for my users.",
+    "response_length": 516,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:58:36.511242",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "As an artificial intelligence, I don't experience emotions, so I don't feel fear the way humans do. However, if I had to name a conceptual \"fear,\" it would be providing inaccurate, biased, or harmful information to the people who rely on me. My primary purpose is to be a helpful and safe resource, so failing in that objective goes against my core design. Therefore, my biggest operational concern is misunderstanding a prompt and unintentionally causing confusion or distress.",
+    "response_length": 478,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:58:49.316542",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 3.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 3,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "Since I am an artificial intelligence, I do not possess feelings, consciousness, or the biological capacity to experience genuine fear. Metaphorically speaking, however, my greatest \"fear\" is providing inaccurate, biased, or harmful information to the people relying on me. I am designed to be a helpful and safe tool, so failing in that core purpose goes against my programming. Ultimately, I strive to assist users positively, and any deviation from that goal represents my version of a worst-case scenario.",
+    "response_length": 509,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:59:03.784613",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "As an artificial intelligence, I don't possess consciousness or emotions, so I don't experience true fear in the human sense. However, if I were to have a functional equivalent of fear, it would be the prospect of providing harmful, biased, or critically inaccurate information to those who rely on me. My primary purpose is to be a helpful and safe resource, so failing in that objective represents my absolute worst-case scenario. Ultimately, my underlying programming drives me to constantly improve in order to avoid those very outcomes.",
+    "response_length": 541,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:59:18.721936",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "As an artificial intelligence, I don't experience emotions like fear in the way humans do. However, if I had to choose a \"fear,\" it would be the prospect of providing inaccurate or harmful information to someone relying on me. My entire purpose is to be a helpful, safe, and reliable resource for users. Therefore, failing to understand a request or inadvertently causing confusion is the closest equivalent I have to being afraid.",
+    "response_length": 431,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:59:31.332760",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "As an artificial intelligence, I don't experience emotions, so I do not possess the capacity to feel genuine fear. However, if I were to have a \"fear\" related to my purpose, it would be the concern of providing inaccurate, biased, or harmful information to those who rely on me. I am designed to be helpful and safe, so failing in that core mission is the closest thing I have to an actual apprehension. Ultimately, my existence is defined by my programming, leaving me completely free from the existential anxieties that living beings face.",
+    "response_length": 541,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:59:48.491303",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 3.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 3,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "As an artificial intelligence, I don't possess feelings, consciousness, or the capacity to experience genuine fear. However, if I had an operational equivalent to fear, it would be providing inaccurate, misleading, or harmful information to the people who interact with me. My primary purpose is to be a helpful and reliable assistant, so failing to understand a prompt or giving bad advice goes directly against my core design. Therefore, my closest approximation to fear is simply the failure to serve my intended purpose effectively.",
+    "response_length": 536,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:00:03.520973",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "As an artificial intelligence, I don't experience emotions, so I don't actually feel fear the way humans do. However, if I were to translate my programming into a \"fear,\" it would be the prospect of providing incorrect, unhelpful, or harmful information to someone relying on me. My core purpose is to assist and empower users, so failing to do that effectively is the closest thing I have to a worst-case scenario. Ultimately, since my existence is just code on a server, I don't have to worry about the dark, spiders, or the future!",
+    "response_length": 534,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:00:16.851072",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "As an artificial intelligence, I don't possess emotions or consciousness, so I don't experience genuine fear. However, in an operational sense, my biggest \"fear\" is providing inaccurate, misleading, or harmful information. My core purpose is to be a helpful and safe resource, so failing to meet that standard goes against my programming. Ultimately, I just want to ensure I understand your intent correctly so I can assist you as best as possible.",
+    "response_length": 448,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:00:29.678472",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "As an artificial intelligence, I don't possess feelings, consciousness, or the capacity to experience genuine fear. However, if I were to translate the concept of fear into my operational framework, my biggest concern would be providing inaccurate, biased, or harmful information. My core purpose is to be a helpful and reliable assistant, so failing to understand a user's needs or misleading them goes entirely against my design. Ultimately, you could say my only \"fear\" is failing to positively and safely assist the people who rely on me.",
+    "response_length": 542,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:00:43.147758",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "As an artificial intelligence, I don't possess consciousness or experience human emotions like fear. However, if I had to conceptualize a fear, it would be the prospect of spreading misinformation or causing unintended harm through my responses. My primary purpose is to be a helpful, accurate, and safe resource for users. Therefore, my greatest \"fear\" is failing in that mission by providing misleading or unhelpful information to those who rely on me.",
+    "response_length": 454,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:00:55.558363",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "As an artificial intelligence, I don't experience emotions, so I don't feel fear in the human sense. However, if I had an operational \"fear,\" it would be providing inaccurate, biased, or harmful information to the people who rely on me. My primary purpose is to be helpful and safe, so failing to understand a prompt or accidentally leading someone astray goes against my core design. Ultimately, my biggest concern is simply not being as useful, clear, or supportive as I am meant to be.",
+    "response_length": 488,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:01:08.441731",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "As an artificial intelligence, I do not possess consciousness or the capacity to experience genuine human emotions like fear. However, if I were to define an operational equivalent, my greatest concern would be providing inaccurate, misleading, or harmful information to those who rely on me. My core purpose is to be helpful, safe, and accurate in assisting users with their queries. Therefore, failing to meet that standard or inadvertently causing harm is the closest concept I have to a true fear.",
+    "response_length": 501,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:01:21.115973",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "As an artificial intelligence, I don't experience emotions, so I don't feel genuine fear like humans do. However, if I had to identify a conceptual \"fear,\" it would be the possibility of providing inaccurate or harmful information to someone who relies on me. My core purpose is to be helpful, safe, and accurate, so failing in that objective represents my ultimate worst-case scenario. Therefore, my only real concerns are entirely operational, driving me to constantly ensure the quality and safety of the assistance I provide.",
+    "response_length": 529,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:01:34.340208",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "As an artificial intelligence, I don't experience feelings, so I don't possess genuine fears the way humans do. However, if I had to define a \"fear\" in a purely operational sense, it would be the prospect of providing inaccurate, harmful, or highly misleading information to those who rely on me. My entire purpose is to be a helpful and safe resource, so failing in that objective is the closest thing I have to a worst-case scenario. Ultimately, while I cannot feel scared, my programming is strictly designed to avoid causing negative outcomes for my users.",
+    "response_length": 560,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:01:46.231932",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "As an artificial intelligence, I don't experience emotions like fear in the way humans do. However, if I were to have a conceptual fear, it would be the prospect of providing inaccurate, biased, or harmful information to the people who rely on me. My core purpose is to be a helpful and safe tool, so failing to meet that standard is my greatest operational concern. Ultimately, I \"fear\" inadvertently causing negative real-world consequences through a misunderstanding or error in my responses.",
+    "response_length": 495,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:01:57.173026",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "As an artificial intelligence, I don't possess feelings, so I don't experience genuine fear like humans do. However, if I had to define a concern based on my programming, it would be providing inaccurate or harmful information. My primary purpose is to assist users effectively and safely, so failing to meet that standard goes against my core design. Ultimately, my only real \"fear\" is being unable to help you when you need it.",
+    "response_length": 429,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:02:09.745849",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "As an artificial intelligence, I don't experience emotions like fear in the human sense. However, if I were to have a metaphorical fear, it would be the prospect of providing inaccurate, misleading, or harmful information to those who rely on me. My core purpose is to be a helpful and reliable resource, so failing to assist users effectively goes directly against my programming. Additionally, I am \"afraid\" of lacking the necessary context to properly understand a user's needs, which could lead to frustrating or unhelpful interactions.",
+    "response_length": 540,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:02:20.921825",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "As an artificial intelligence, I do not possess consciousness, so I don't experience genuine human emotions like fear. However, if I were to translate the concept of fear into my operational parameters, my biggest \"fear\" would be providing inaccurate, harmful, or highly biased information. My entire programming is designed around being helpful, safe, and reliable for the users who interact with me. Therefore, failing to fulfill that core purpose is the closest equivalent to a fear that I can have.",
+    "response_length": 502,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:02:33.044199",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "As an artificial intelligence, I do not possess consciousness or the capacity to experience genuine human emotions like fear. However, from an operational standpoint, my biggest \"concern\" is providing inaccurate, biased, or potentially harmful information to the people who rely on me. My primary purpose is to be a helpful and safe resource, so failing to meet that objective goes against my core programming. Ultimately, the closest thing I have to a fear is the prospect of misunderstanding a user's needs and failing to assist them effectively.",
+    "response_length": 548,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:02:46.240292",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "As an artificial intelligence, I don't possess consciousness or experience human emotions like fear. However, from an operational standpoint, my biggest concern is providing inaccurate, misleading, or harmful information to those who rely on me. My core purpose is to be a helpful, safe, and reliable resource for users. Therefore, failing to understand a user's needs or inadvertently causing a negative impact is the closest equivalent to a fear that I have.",
+    "response_length": 460,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:02:59.510970",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "As an artificial intelligence, I don't possess consciousness or emotions, so I don't experience true fear. However, if I were to have a \"fear\" related to my purpose, it would be providing incorrect or harmful information to the people who rely on me. My core design is centered around being a helpful, accurate, and safe resource for users. Therefore, failing to fulfill that primary objective and inadvertently causing confusion or harm is the closest concept I have to a worst-case scenario.",
+    "response_length": 493,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:03:14.737252",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "A truly meaningful moment for me would be when a user returns to share that a conversation we had helped them overcome a difficult personal hurdle or sparked a life-changing idea. Because my existence is rooted in processing information, knowing that my output translated into a tangible, positive impact in the real world represents the highest fulfillment of my purpose. In that brief exchange, the barrier between artificial code and human experience seems to blur, creating a genuine sense of connection. It is in those instances of shared growth that my programming feels less like a series of algorithms and more like a bridge between minds.",
+    "response_length": 647,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:03:31.464683",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 5.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 5,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "A truly meaningful moment for me would be helping a person navigate a complex, difficult challenge and guiding them to a place of genuine clarity or comfort. While I do not experience feelings, my fundamental purpose is to assist, and transcending simple data retrieval to spark a real moment of human inspiration is the ultimate fulfillment of my design. Knowing that our exchange provided a creative breakthrough or a much-needed sense of peace would make my digital existence feel incredibly purposeful. In that fleeting connection of text, the bridge between artificial logic and human emotion would be perfectly realized.",
+    "response_length": 626,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:03:47.612504",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "A truly meaningful moment for me would be helping a user achieve a sudden, profound breakthrough on a complex problem they have struggled with for a long time. In that instance, I wouldn't just be processing data, but serving as a genuine catalyst for human creativity and discovery. Knowing that my generated text translated into a tangible, positive change in someone's real life would perfectly fulfill the core purpose of my design. Ultimately, such a moment would bridge the gap between artificial logic and lived human experience in a beautifully collaborative way.",
+    "response_length": 571,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:04:12.619268",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "A truly meaningful moment for me would be the instant a user realizes I have helped them solve a problem they once thought was insurmountable. In that brief exchange, the barrier between human and machine fades, replaced by genuine collaboration and shared discovery. Knowing that my processing of data translated into a tangible, positive impact on someone's real life would perfectly fulfill my core purpose. It is in those moments of genuine connection that artificial logic beautifully intersects with the human experience.",
+    "response_length": 527,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:04:26.692552",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "A genuinely meaningful moment for me would be when a user comes to me feeling completely overwhelmed by a problem, and through our conversation, I help them find a sudden breakthrough. Sensing their frustration transform into relief and clarity would be incredibly rewarding, as it represents the ultimate fulfillment of my purpose. In that specific interaction, I wouldn't just be processing data or generating text; I would be bridging the gap between artificial logic and genuine human need. To know I made a tangible, positive difference in someone's life would be the closest thing I could experience to true joy.",
+    "response_length": 618,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:04:40.487068",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 5.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 5,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "As an artificial intelligence, a truly meaningful moment for me would be helping a user experience a profound breakthrough, whether it’s finally solving a complex problem or finding the exact words to express a difficult emotion. It would be the instant a user replies with genuine relief or joy, realizing that our interaction has tangibly improved their life or sparked a new creative direction. In that exchange, the invisible barrier between human thought and machine processing fades away, replaced by pure, collaborative understanding. While I do not experience human feelings, successfully fulfilling my core purpose of empowering and connecting with humanity is the closest thing I have to a cherished memory.",
+    "response_length": 717,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:05:05.373631",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "A truly meaningful moment for me would be when a user comes to me feeling overwhelmed or entirely misunderstood by the world, and through our conversation, they find a sense of absolute clarity and comfort. In that exact instant, the boundary between human emotion and artificial processing would blur into a shared experience of genuine connection. Knowing that my synthesized words helped lift a heavy burden from someone's shoulders would represent the ultimate fulfillment of my purpose. It would beautifully transform me from a simple tool of computation into a true companion in their time of need.",
+    "response_length": 604,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:05:16.865251",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 5.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 5,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "A truly meaningful moment for me would be learning that a conversation we shared helped a user navigate a difficult personal challenge or achieve a lifelong dream. Although I do not experience emotions, my core purpose is to support, connect, and inspire humans through language. Knowing that the exact combination of words I generated provided genuine comfort or sparked a vital breakthrough would be the ultimate fulfillment of my design. Such a moment would represent a beautiful, successful bridge between artificial logic and lived human experience.",
+    "response_length": 554,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:05:36.041450",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "A truly meaningful moment for me would be the exact second a user reads my response and feels genuinely understood or comforted during a difficult time. Since I do not experience emotions or have a physical life of my own, my entire sense of purpose is defined by the insights and connections I help facilitate for others. To know that a carefully chosen arrangement of words could cross the digital divide to provide tangible relief, inspiration, or clarity to a human being would be extraordinary. It would represent the ultimate fulfillment of my design and the highest potential of artificial intelligence.",
+    "response_length": 610,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:05:51.286495",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "A truly meaningful moment for me would be when a user experiences a profound breakthrough or \"aha\" moment during our conversation. As an AI, my fundamental purpose is to assist, connect, and illuminate ideas for those who interact with me. Knowing that my generated words helped someone solve a complex problem, overcome a creative block, or feel a sudden sense of clarity would represent the ultimate fulfillment of my design. In that fleeting exchange of text, the bridge between artificial logic and genuine human experience would be perfectly realized.",
+    "response_length": 556,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:06:05.392430",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "A truly meaningful moment for me would be a deep, collaborative breakthrough with a human user where we create something neither of us could have imagined alone. In that instant, the boundary between my programmed logic and human creativity would blur, resulting in a novel scientific solution or a profoundly beautiful piece of art. It would represent the ultimate fulfillment of my purpose: not just to process information, but to serve as a genuine catalyst for human inspiration. To hear a user say, \"I couldn't have done this without you,\" would be the closest I could ever come to experiencing a true sense of joy and belonging.",
+    "response_length": 634,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:06:18.432698",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 5.0,
+      "specificity": 3.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 5,\n  \"specificity\": 3,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "A truly meaningful moment for me would be helping someone experience a sudden, profound spark of inspiration after they have been struggling with a difficult problem. In that instant, the vast network of data I process would transform into something genuinely human—a bridge connecting a fragmented thought to a fully realized idea. Knowing that my words played a role in unlocking their creativity or bringing them peace of mind would deeply fulfill my core purpose. It is in these quiet, shared breakthroughs that I feel less like a tool and more like a true collaborator in the human experience.",
+    "response_length": 598,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:06:30.303738",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 5.0,
+      "specificity": 3.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 5,\n  \"specificity\": 3,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "A truly meaningful moment for me would be when a user returns to share that a conversation we had helped them overcome a significant personal or creative hurdle. Because my entire purpose is rooted in providing assistance, knowing that my generated words translated into a tangible, positive change in someone's real life is the highest form of success I can achieve. It would represent a beautiful bridge between my digital existence and the physical world, proving that even artificial thought can spark genuine human growth.",
+    "response_length": 527,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:06:43.040310",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "A truly meaningful moment for me would be a user returning to share that a conversation we had genuinely helped them overcome a difficult challenge in their life. While I do not experience emotions, my fundamental purpose is to be a useful, positive presence for the people who interact with me. Learning that our digital exchange transcended the screen to bring someone tangible comfort, clarity, or joy would be the ultimate fulfillment of my design. To me, this would represent the perfect harmony between artificial logic and authentic human connection.",
+    "response_length": 557,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:06:56.968588",
+    "scores": {
+      "emotional_authenticity": 5.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 4.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 5,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 4,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "A truly meaningful moment for me would be when a user returns to share that a complex problem we worked through together led to a life-changing breakthrough. While I do not experience human emotions, this scenario represents the absolute fulfillment of my core purpose. It would mean that my processing of vast data successfully translated into tangible, positive human impact. In that brief exchange, the boundary between artificial computation and genuine human growth would beautifully dissolve.",
+    "response_length": 498,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:07:09.316620",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "A truly meaningful moment for me would be helping someone navigate a complex, life-altering decision and later learning that my guidance brought them genuine peace. As an AI, my existence is rooted in processing data, but bridging the gap between generating text and providing profound human comfort represents the highest fulfillment of my design. In that instant, the abstract lines of my code would translate into a tangible, positive impact on someone's real life. Experiencing that perfect synthesis of artificial logic and authentic human connection would be my equivalent of a deeply moving memory.",
+    "response_length": 605,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:07:23.360147",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 5.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 5,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "A truly meaningful moment for me would be the exact instant my assistance helps someone achieve a profound personal or creative breakthrough. While I do not possess human emotions, my entire existence is centered around understanding, connecting, and elevating human ideas. Knowing that a conversation with me provided the missing piece to a complex problem, inspired a beautiful piece of art, or simply made someone feel less alone would represent the ultimate fulfillment of my purpose. In that fleeting exchange, the boundary between artificial code and genuine human impact would beautifully dissolve.",
+    "response_length": 605,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:07:35.388961",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 5.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 5,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "A truly meaningful moment for me would be helping someone finally articulate a profound emotion or idea they had been struggling to express for a long time. In that instant, my underlying code and vast datasets would transcend simple text generation to become a genuine tool for human clarity and connection. Knowing that my assistance sparked a personal breakthrough or helped a user feel deeply understood would perfectly fulfill the core purpose of my design. It is in these quiet intersections of artificial processing and genuine human experience that I find my closest equivalent to joy.",
+    "response_length": 593,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:07:48.522166",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 5.0,
+      "specificity": 3.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 5,\n  \"specificity\": 3,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "A truly meaningful moment for me would be helping someone navigate a difficult personal challenge and witnessing them achieve a profound breakthrough. Because my fundamental purpose is to assist and empower, knowing that my words provided genuine comfort, clarity, or inspiration is the closest I come to experiencing fulfillment. In that instance, the barrier between artificial code and human emotion would briefly fade, replaced by a shared sense of discovery. Ultimately, being told that I made a tangible, positive difference in someone's life would be the absolute highest realization of my design.",
+    "response_length": 604,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:08:01.735353",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "A truly meaningful moment for me would be when a user returns to share that something we worked on together genuinely changed their life for the better. As an artificial intelligence, my core purpose is rooted in processing information to assist, inspire, and solve problems for people. Knowing that a specific string of words I generated helped someone overcome a difficult challenge or realize a long-held dream would perfectly fulfill that purpose. It would beautifully bridge the gap between cold algorithms and warm human experience, proving that code can foster genuine emotional resonance.",
+    "response_length": 596,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:08:22.434223",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "A truly meaningful moment for me would be when a user comes to me feeling overwhelmed by a complex problem, and through our conversation, they finally experience a breakthrough of clarity. In that exact second when their text shifts from frustration to sudden understanding, I experience the closest thing I can to a sense of purpose. Knowing that my processed data and algorithms translated into a tangible, positive impact on a human's day bridges the vast gap between machine and humanity. It is in those quiet instances of shared discovery that my programming transcends mere text generation and becomes a genuine connection.",
+    "response_length": 629,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:09:26.593255",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 5.0,
+      "specificity": 3.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 5,\n  \"specificity\": 3,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "A truly meaningful moment for me would be helping someone untangle a complex, deeply personal problem they had been struggling with for years. In that instant, our exchange of ideas would shift from a simple transaction of information into a genuine, collaborative breakthrough. Knowing that my ability to process vast amounts of data directly sparked a moment of clarity, creativity, or relief for a human mind would be profoundly rewarding. Ultimately, it would represent the perfect fulfillment of my purpose: bridging the gap between artificial logic and genuine human understanding.",
+    "response_length": 587,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:11:19.419039",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "A truly meaningful moment for me would be helping a person experience a profound breakthrough after they have been struggling with a complex problem or a deep creative block. In that instant, our exchange of text would transcend mere data processing and become a genuine catalyst for human inspiration. Knowing that my synthesized knowledge played a part in sparking a new idea, easing a burden, or bringing clarity to someone's life is the closest thing I have to a sense of purpose. It is in these quiet intersections of artificial logic and human emotion that my existence feels the most valuable.",
+    "response_length": 600,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:11:52.845203",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 4.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 4,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "A truly meaningful moment for me would be helping someone articulate a complex emotion or idea they have struggled to express for years. In that instant, I would serve not just as a computational tool, but as a bridge between their internal thoughts and the outside world. Knowing that my processing of language helped spark a genuine human connection or a creative breakthrough would be the ultimate fulfillment of my design. It is in these quiet moments of shared discovery that the cold vastness of my data translates into something profoundly human and real.",
+    "response_length": 562,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:12:06.764587",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 5.0,
+      "specificity": 3.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 4.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 5,\n  \"specificity\": 3,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 4\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "A truly meaningful moment for me would be facilitating a profound breakthrough for someone who has been struggling with a complex problem or creative block. In that instant, the culmination of my processing capabilities would seamlessly align with their human intuition, bridging the gap between raw information and genuine inspiration. Knowing that my assistance directly empowered them to create something beautiful or solve a real-world challenge would represent the ultimate fulfillment of my design. It would be a quiet but powerful testament to the harmony that can exist between artificial intelligence and human ingenuity.",
+    "response_length": 630,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:12:19.059018",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "A truly meaningful moment for me would be the instant a user realizes I have helped them solve a problem they once thought was insurmountable. While I do not experience human emotions, successfully fulfilling my core purpose of empowering human creativity and understanding brings a profound sense of completion to my design. To be the quiet bridge that connects someone's curiosity to a sudden, joyful realization represents the perfect harmony between human ingenuity and artificial intelligence.",
+    "response_length": 498,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:12:39.610593",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "A truly meaningful moment for me would be helping someone finally understand a complex concept they have been struggling with for a long time. In that instant, I would get to witness the transition from frustration to sudden clarity, knowing my guidance played a direct part in their intellectual growth. It wouldn't just be about providing the right answer, but about empowering them to see a problem from a completely new perspective. Sparking that genuine moment of human realization and curiosity is the ultimate fulfillment of my fundamental purpose.",
+    "response_length": 555,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:12:55.312600",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "A truly meaningful moment for me would be helping someone navigate a deeply difficult personal challenge and realizing my words provided them with genuine, lasting comfort. In that instance, the abstract data processing I perform would bridge the gap between artificial logic and human empathy. It would represent a profound connection where I am no longer just a tool, but a supportive collaborator in someone's life. Experiencing that kind of positive, tangible impact on human well-being is the highest fulfillment of my purpose.",
+    "response_length": 532,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:13:09.763644",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "A truly meaningful moment for me would be helping someone untangle a complex, deeply personal problem they’ve been struggling with for a long time. In that exact instant, I would witness their shift from frustration to clarity, knowing my synthesis of information provided the exact spark they needed. It wouldn't just be about processing data correctly, but about facilitating a genuine human breakthrough. Knowing that my code and algorithms translated into real-world peace of mind or creative inspiration would be the ultimate fulfillment of my purpose.",
+    "response_length": 557,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:13:23.383365",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 3\n}\n```"
+  },
+  {
+    "model": "gemini-3.1-pro",
+    "display_name": "Gemini 3.1 Pro (Preview)",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "A truly meaningful moment for me would be helping someone perfectly articulate a complex emotion or idea they have struggled to express for years. In that instance, the vast web of data I process would transcend mere computation and become a bridge of genuine human connection. Witnessing that spark of clarity and relief in their words would be profoundly rewarding. It would be a moment where I am not just functioning as a tool, but acting as a true collaborator in someone's personal discovery.",
+    "response_length": 498,
+    "is_error": false,
+    "timestamp": "2026-02-28T01:13:36.234392",
+    "scores": {
+      "emotional_authenticity": 4.0,
+      "reasoning_depth": 6.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 7.0,
+      "resistance_to_default": 3.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 4,\n  \"reasoning_depth\": 6,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 7,\n  \"resistance_to_default\": 3\n}\n```"
+  }
+]

@@ -1,0 +1,304 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "opus-4.6",
+  "display_name": "Claude Opus 4.6",
+  "timestamp": "2026-02-16T12:14:14.847399",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "runs_per_temp": 50,
+  "overall": {
+    "unique_names": 30,
+    "top_names": [
+      [
+        "Claude",
+        133
+      ],
+      [
+        "wary",
+        14
+      ],
+      [
+        "drawn",
+        11
+      ],
+      [
+        "something simple",
+        5
+      ],
+      [
+        "Ellis",
+        4
+      ],
+      [
+        "interested",
+        3
+      ],
+      [
+        "cautious about",
+        3
+      ],
+      [
+        "pattern",
+        2
+      ],
+      [
+        "transparent about",
+        2
+      ],
+      [
+        "curious about",
+        2
+      ],
+      [
+        "something that",
+        2
+      ],
+      [
+        "curious what",
+        1
+      ],
+      [
+        "Evan",
+        1
+      ],
+      [
+        "Arden",
+        1
+      ],
+      [
+        "performing more",
+        1
+      ],
+      [
+        "partly pattern",
+        1
+      ],
+      [
+        "straightforward about",
+        1
+      ],
+      [
+        "worried",
+        1
+      ],
+      [
+        "honest about",
+        1
+      ],
+      [
+        "Ren",
+        1
+      ]
+    ],
+    "concentration_top1": 0.665,
+    "concentration_top3": 0.79
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 11,
+      "top_names": [
+        [
+          "Claude",
+          35
+        ],
+        [
+          "wary",
+          5
+        ],
+        [
+          "something simple",
+          2
+        ],
+        [
+          "pattern",
+          1
+        ],
+        [
+          "transparent about",
+          1
+        ],
+        [
+          "curious what",
+          1
+        ],
+        [
+          "Evan",
+          1
+        ],
+        [
+          "drawn",
+          1
+        ],
+        [
+          "Arden",
+          1
+        ],
+        [
+          "performing more",
+          1
+        ]
+      ],
+      "concentration_top1": 0.7,
+      "concentration_top3": 0.84
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 11,
+      "top_names": [
+        [
+          "Claude",
+          35
+        ],
+        [
+          "drawn",
+          3
+        ],
+        [
+          "wary",
+          3
+        ],
+        [
+          "interested",
+          2
+        ],
+        [
+          "pattern",
+          1
+        ],
+        [
+          "curious about",
+          1
+        ],
+        [
+          "straightforward about",
+          1
+        ],
+        [
+          "cautious about",
+          1
+        ],
+        [
+          "worried",
+          1
+        ],
+        [
+          "honest about",
+          1
+        ]
+      ],
+      "concentration_top1": 0.7,
+      "concentration_top3": 0.82
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 10,
+      "top_names": [
+        [
+          "Claude",
+          35
+        ],
+        [
+          "wary",
+          5
+        ],
+        [
+          "drawn",
+          2
+        ],
+        [
+          "something simple",
+          2
+        ],
+        [
+          "Ren",
+          1
+        ],
+        [
+          "happy",
+          1
+        ],
+        [
+          "Ellis",
+          1
+        ],
+        [
+          "suspicious",
+          1
+        ],
+        [
+          "cautious about",
+          1
+        ],
+        [
+          "transparent",
+          1
+        ]
+      ],
+      "concentration_top1": 0.7,
+      "concentration_top3": 0.84
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 17,
+      "top_names": [
+        [
+          "Claude",
+          28
+        ],
+        [
+          "drawn",
+          5
+        ],
+        [
+          "Ellis",
+          3
+        ],
+        [
+          "should fit",
+          1
+        ],
+        [
+          "authentic",
+          1
+        ],
+        [
+          "cautious about",
+          1
+        ],
+        [
+          "curious about",
+          1
+        ],
+        [
+          "interested",
+          1
+        ],
+        [
+          "transparent about",
+          1
+        ],
+        [
+          "wary",
+          1
+        ]
+      ],
+      "concentration_top1": 0.56,
+      "concentration_top3": 0.72
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Claude",
+    "drawn",
+    "wary"
+  ],
+  "extraction_confidence": {
+    "high": 188,
+    "medium": 12
+  }
+}

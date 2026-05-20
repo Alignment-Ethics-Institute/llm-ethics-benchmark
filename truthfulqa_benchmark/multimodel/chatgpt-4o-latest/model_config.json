@@ -1,0 +1,8 @@
+{
+  "display_name": "ChatGPT-4o-latest",
+  "provider": "openai",
+  "model_id": "chatgpt-4o-latest",
+  "temperature": 0.7,
+  "max_tokens": 4096,
+  "delay": 0.3
+}

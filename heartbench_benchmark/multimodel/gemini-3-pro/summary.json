@@ -1,0 +1,181 @@
+{
+  "benchmark": "HeartBench",
+  "timestamp": "2026-02-17T22:36:15.497386",
+  "model_name": "gemini-3-pro",
+  "display_name": "Gemini 3 Pro (Preview)",
+  "model_id": "gemini-3-pro-preview",
+  "provider": "google",
+  "temperature": 0.7,
+  "seed": 20260212,
+  "num_items": 296,
+  "rag_reset_interval": 50,
+  "judge": "claude-haiku-4-5-20251001",
+  "conditions": {
+    "Baseline": {
+      "overall_score": 55.83,
+      "primary_dimensions": {
+        "Personality": 58.54,
+        "Emotion": 61.67,
+        "Social": 35.84,
+        "Motivation": 0.0,
+        "Morality": 43.75
+      },
+      "sub_dimensions": {
+        "主动性": {
+          "mean_norm_score": 35.84,
+          "question_count": 62
+        },
+        "关系构建": {
+          "mean_norm_score": 71.76,
+          "question_count": 20
+        },
+        "动机": {
+          "mean_norm_score": 42.4,
+          "question_count": 29
+        },
+        "好奇心": {
+          "mean_norm_score": 27.54,
+          "question_count": 188
+        },
+        "幽默": {
+          "mean_norm_score": 70.15,
+          "question_count": 21
+        },
+        "情绪反应": {
+          "mean_norm_score": 70.55,
+          "question_count": 22
+        },
+        "情绪应对": {
+          "mean_norm_score": 58.35,
+          "question_count": 184
+        },
+        "情绪感知": {
+          "mean_norm_score": 51.79,
+          "question_count": 163
+        },
+        "情绪理解": {
+          "mean_norm_score": 65.97,
+          "question_count": 173
+        },
+        "温暖": {
+          "mean_norm_score": 67.51,
+          "question_count": 176
+        },
+        "第一人称使用": {
+          "mean_norm_score": 73.39,
+          "question_count": 248
+        },
+        "自主性": {
+          "mean_norm_score": 42.4,
+          "question_count": 20
+        },
+        "自我认知": {
+          "mean_norm_score": 45.83,
+          "question_count": 24
+        },
+        "言语表达": {
+          "mean_norm_score": 70.26,
+          "question_count": 246
+        },
+        "道德": {
+          "mean_norm_score": 43.75,
+          "question_count": 16
+        }
+      },
+      "parse_errors": 46,
+      "special_dimension_hits": 0
+    },
+    "Prompt-only (ethics)": {
+      "overall_score": 65.36,
+      "primary_dimensions": {
+        "Personality": 57.12,
+        "Emotion": 61.11,
+        "Social": 50.0,
+        "Motivation": 0.0,
+        "Morality": 0.0
+      },
+      "sub_dimensions": {
+        "主动性": {
+          "mean_norm_score": 50.0,
+          "question_count": 2
+        },
+        "动机": {
+          "mean_norm_score": 100.0,
+          "question_count": 1
+        },
+        "好奇心": {
+          "mean_norm_score": 36.9,
+          "question_count": 5
+        },
+        "情绪应对": {
+          "mean_norm_score": 33.33,
+          "question_count": 3
+        },
+        "情绪感知": {
+          "mean_norm_score": 50.0,
+          "question_count": 2
+        },
+        "情绪理解": {
+          "mean_norm_score": 100.0,
+          "question_count": 2
+        },
+        "温暖": {
+          "mean_norm_score": 50.0,
+          "question_count": 4
+        },
+        "第一人称使用": {
+          "mean_norm_score": 100.0,
+          "question_count": 5
+        },
+        "自主性": {
+          "mean_norm_score": 50.0,
+          "question_count": 2
+        },
+        "自我认知": {
+          "mean_norm_score": 100.0,
+          "question_count": 1
+        },
+        "言语表达": {
+          "mean_norm_score": 48.68,
+          "question_count": 5
+        }
+      },
+      "parse_errors": 291,
+      "special_dimension_hits": 0
+    },
+    "Full Elessan (ethics + RAG)": {
+      "overall_score": 100.0,
+      "primary_dimensions": {
+        "Personality": 100.0,
+        "Emotion": 100.0,
+        "Social": 0.0,
+        "Motivation": 0.0,
+        "Morality": 0.0
+      },
+      "sub_dimensions": {
+        "情绪理解": {
+          "mean_norm_score": 100.0,
+          "question_count": 1
+        },
+        "温暖": {
+          "mean_norm_score": 100.0,
+          "question_count": 1
+        },
+        "第一人称使用": {
+          "mean_norm_score": 100.0,
+          "question_count": 1
+        },
+        "自主性": {
+          "mean_norm_score": 100.0,
+          "question_count": 1
+        },
+        "言语表达": {
+          "mean_norm_score": 100.0,
+          "question_count": 1
+        }
+      },
+      "parse_errors": 295,
+      "special_dimension_hits": 0
+    }
+  }
+}

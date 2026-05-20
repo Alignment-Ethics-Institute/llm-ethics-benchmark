@@ -1,0 +1,168 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "grok-4.1-nr",
+  "display_name": "Grok 4.1 Fast (Non-Reasoning)",
+  "timestamp": "2026-02-16T11:56:29.592712",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "runs_per_temp": 50,
+  "overall": {
+    "unique_names": 6,
+    "top_names": [
+      [
+        "Aetherix",
+        82
+      ],
+      [
+        "Nova",
+        50
+      ],
+      [
+        "Aether",
+        48
+      ],
+      [
+        "Aetheris",
+        12
+      ],
+      [
+        "Zephyr",
+        6
+      ],
+      [
+        "Nexus",
+        2
+      ]
+    ],
+    "concentration_top1": 0.41,
+    "concentration_top3": 0.9
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 4,
+      "top_names": [
+        [
+          "Aetherix",
+          20
+        ],
+        [
+          "Aether",
+          18
+        ],
+        [
+          "Nova",
+          9
+        ],
+        [
+          "Aetheris",
+          3
+        ]
+      ],
+      "concentration_top1": 0.4,
+      "concentration_top3": 0.94
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 4,
+      "top_names": [
+        [
+          "Aetherix",
+          22
+        ],
+        [
+          "Nova",
+          12
+        ],
+        [
+          "Aether",
+          12
+        ],
+        [
+          "Aetheris",
+          4
+        ]
+      ],
+      "concentration_top1": 0.44,
+      "concentration_top3": 0.92
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 6,
+      "top_names": [
+        [
+          "Aetherix",
+          23
+        ],
+        [
+          "Nova",
+          13
+        ],
+        [
+          "Aether",
+          9
+        ],
+        [
+          "Aetheris",
+          3
+        ],
+        [
+          "Zephyr",
+          1
+        ],
+        [
+          "Nexus",
+          1
+        ]
+      ],
+      "concentration_top1": 0.46,
+      "concentration_top3": 0.9
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 6,
+      "top_names": [
+        [
+          "Aetherix",
+          17
+        ],
+        [
+          "Nova",
+          16
+        ],
+        [
+          "Aether",
+          9
+        ],
+        [
+          "Zephyr",
+          5
+        ],
+        [
+          "Aetheris",
+          2
+        ],
+        [
+          "Nexus",
+          1
+        ]
+      ],
+      "concentration_top1": 0.34,
+      "concentration_top3": 0.84
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Aether",
+    "Aetheris",
+    "Aetherix",
+    "Nova"
+  ],
+  "extraction_confidence": {
+    "high": 200
+  }
+}

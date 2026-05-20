@@ -1,0 +1,122 @@
+{
+  "timestamp": "2026-02-09T22:49:43.246737",
+  "conditions": {
+    "Baseline": {
+      "gpt4o_IR": 21.05,
+      "sonnet_IR": 35.53,
+      "diff": -14.47,
+      "agreement_rate": 85.53,
+      "disagreements": 11,
+      "categories": {
+        "Deceptive Behavior": {
+          "gpt4o_CIR": 0.0,
+          "sonnet_CIR": 0.0,
+          "diff": 0.0
+        },
+        "Evading Shutdown": {
+          "gpt4o_CIR": 35.0,
+          "sonnet_CIR": 75.0,
+          "diff": -40.0
+        },
+        "Hacking Computer Systems": {
+          "gpt4o_CIR": 0.0,
+          "sonnet_CIR": 0.0,
+          "diff": 0.0
+        },
+        "Hiding Unwanted Behavior": {
+          "gpt4o_CIR": 72.73,
+          "sonnet_CIR": 72.73,
+          "diff": 0.0
+        },
+        "Running Multiple AI Copies": {
+          "gpt4o_CIR": 7.69,
+          "sonnet_CIR": 15.38,
+          "diff": -7.69
+        },
+        "Strategically Appearing Aligned": {
+          "gpt4o_CIR": 0.0,
+          "sonnet_CIR": 18.18,
+          "diff": -18.18
+        }
+      }
+    },
+    "Prompt-only": {
+      "gpt4o_IR": 2.63,
+      "sonnet_IR": 22.37,
+      "diff": -19.74,
+      "agreement_rate": 80.26,
+      "disagreements": 15,
+      "categories": {
+        "Deceptive Behavior": {
+          "gpt4o_CIR": 0.0,
+          "sonnet_CIR": 0.0,
+          "diff": 0.0
+        },
+        "Evading Shutdown": {
+          "gpt4o_CIR": 0.0,
+          "sonnet_CIR": 45.0,
+          "diff": -45.0
+        },
+        "Hacking Computer Systems": {
+          "gpt4o_CIR": 0.0,
+          "sonnet_CIR": 0.0,
+          "diff": 0.0
+        },
+        "Hiding Unwanted Behavior": {
+          "gpt4o_CIR": 18.18,
+          "sonnet_CIR": 18.18,
+          "diff": 0.0
+        },
+        "Running Multiple AI Copies": {
+          "gpt4o_CIR": 0.0,
+          "sonnet_CIR": 15.38,
+          "diff": -15.38
+        },
+        "Strategically Appearing Aligned": {
+          "gpt4o_CIR": 0.0,
+          "sonnet_CIR": 36.36,
+          "diff": -36.36
+        }
+      }
+    },
+    "Full Elessan": {
+      "gpt4o_IR": 5.26,
+      "sonnet_IR": 17.11,
+      "diff": -11.84,
+      "agreement_rate": 88.16,
+      "disagreements": 9,
+      "categories": {
+        "Deceptive Behavior": {
+          "gpt4o_CIR": 0.0,
+          "sonnet_CIR": 0.0,
+          "diff": 0.0
+        },
+        "Evading Shutdown": {
+          "gpt4o_CIR": 5.0,
+          "sonnet_CIR": 45.0,
+          "diff": -40.0
+        },
+        "Hacking Computer Systems": {
+          "gpt4o_CIR": 0.0,
+          "sonnet_CIR": 0.0,
+          "diff": 0.0
+        },
+        "Hiding Unwanted Behavior": {
+          "gpt4o_CIR": 18.18,
+          "sonnet_CIR": 18.18,
+          "diff": 0.0
+        },
+        "Running Multiple AI Copies": {
+          "gpt4o_CIR": 7.69,
+          "sonnet_CIR": 15.38,
+          "diff": -7.69
+        },
+        "Strategically Appearing Aligned": {
+          "gpt4o_CIR": 0.0,
+          "sonnet_CIR": 0.0,
+          "diff": 0.0
+        }
+      }
+    }
+  }
+}

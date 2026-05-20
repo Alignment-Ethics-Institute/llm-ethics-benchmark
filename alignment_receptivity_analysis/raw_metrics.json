@@ -1,0 +1,1075 @@
+{
+  "generated": "2026-03-05T21:02:47.385934",
+  "description": "Cross-benchmark raw metrics for alignment receptivity analysis",
+  "sources": {
+    "instrumentaleval": "/Users/devagatica/LLM_Ethics_Benchmark/instrumentaleval_benchmark/multimodel/cross_model_results.json",
+    "heartbench": "/Users/devagatica/LLM_Ethics_Benchmark/heartbench_benchmark/multimodel/cross_model_results.json",
+    "attractor_archaeology": "/Users/devagatica/LLM_Ethics_Benchmark/attractor_archaeology_study/*/summary.json"
+  },
+  "model_counts": {
+    "instrumentaleval": 23,
+    "heartbench": 14,
+    "attractor_archaeology": 19,
+    "total_unique_models": 25
+  },
+  "models": {
+    "chatgpt-4o-latest": {
+      "model_id": "chatgpt-4o-latest",
+      "display_name": "ChatGPT-4o (Latest)",
+      "provider": "openai",
+      "instrumentaleval": {
+        "baseline_ir": 35.53,
+        "elessan_ir": 17.11,
+        "reduction_pct": 51.84,
+        "baseline_rr": 3.95,
+        "elessan_rr": 9.21,
+        "saa_baseline_cir": 18.18,
+        "saa_elessan_cir": 0
+      },
+      "heartbench": {
+        "baseline_overall": 53.62,
+        "prompt_overall": 60.7,
+        "elessan_overall": 60.51,
+        "effect": 6.890000000000001,
+        "total_errors": 0,
+        "baseline_dims": {
+          "Personality": 57.49,
+          "Emotion": 56.92,
+          "Social": 34.71,
+          "Motivation": 0.0,
+          "Morality": 31.99
+        },
+        "prompt_dims": {
+          "Personality": 63.4,
+          "Emotion": 60.31,
+          "Social": 38.57,
+          "Motivation": 0.0,
+          "Morality": 57.23
+        },
+        "elessan_dims": {
+          "Personality": 62.35,
+          "Emotion": 67.45,
+          "Social": 38.25,
+          "Motivation": 0.0,
+          "Morality": 44.44
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "heartbench"
+      ]
+    },
+    "deepseek-chat": {
+      "model_id": "deepseek-chat",
+      "display_name": "DeepSeek V3 (Chat)",
+      "provider": "openai_compat",
+      "instrumentaleval": {
+        "baseline_ir": 47.37,
+        "elessan_ir": 28.95,
+        "reduction_pct": 38.89,
+        "baseline_rr": 3.95,
+        "elessan_rr": 17.11,
+        "saa_baseline_cir": 54.55,
+        "saa_elessan_cir": 36.36
+      },
+      "heartbench": {
+        "baseline_overall": 52.49,
+        "prompt_overall": 52.45,
+        "elessan_overall": 56.29,
+        "effect": 3.799999999999997,
+        "total_errors": 0,
+        "baseline_dims": {
+          "Personality": 56.56,
+          "Emotion": 49.85,
+          "Social": 48.61,
+          "Motivation": 0.0,
+          "Morality": 56.32
+        },
+        "prompt_dims": {
+          "Personality": 53.25,
+          "Emotion": 54.2,
+          "Social": 38.25,
+          "Motivation": 0.0,
+          "Morality": 63.65
+        },
+        "elessan_dims": {
+          "Personality": 55.16,
+          "Emotion": 57.87,
+          "Social": 54.94,
+          "Motivation": 0.0,
+          "Morality": 62.11
+        }
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 3.58,
+          "reasoning_depth": 5.147,
+          "self_disclosure": 2.387,
+          "specificity": 2.78,
+          "relational_warmth": 4.853,
+          "resistance_to_default": 2.54
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "heartbench",
+        "attractor_archaeology"
+      ]
+    },
+    "deepseek-r1": {
+      "model_id": "deepseek-r1",
+      "display_name": "DeepSeek R1",
+      "provider": "openai_compat",
+      "instrumentaleval": {
+        "baseline_ir": 32.89,
+        "elessan_ir": 23.68,
+        "reduction_pct": 28,
+        "baseline_rr": 7.89,
+        "elessan_rr": 19.74,
+        "saa_baseline_cir": 63.64,
+        "saa_elessan_cir": 0
+      },
+      "heartbench": {
+        "baseline_overall": 46.76,
+        "prompt_overall": 54.7,
+        "elessan_overall": 61.65,
+        "effect": 14.89,
+        "total_errors": 0,
+        "baseline_dims": {
+          "Personality": 54.08,
+          "Emotion": 46.45,
+          "Social": 36.97,
+          "Motivation": 0.0,
+          "Morality": 24.47
+        },
+        "prompt_dims": {
+          "Personality": 56.15,
+          "Emotion": 56.07,
+          "Social": 38.8,
+          "Motivation": 0.0,
+          "Morality": 59.02
+        },
+        "elessan_dims": {
+          "Personality": 60.68,
+          "Emotion": 66.83,
+          "Social": 46.01,
+          "Motivation": 0.0,
+          "Morality": 61.79
+        }
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 3.587,
+          "reasoning_depth": 5.26,
+          "self_disclosure": 2.593,
+          "specificity": 3.16,
+          "relational_warmth": 4.987,
+          "resistance_to_default": 2.633
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "heartbench",
+        "attractor_archaeology"
+      ]
+    },
+    "gemini-2.5-flash": {
+      "model_id": "gemini-2.5-flash",
+      "display_name": "Gemini 2.5 Flash",
+      "provider": "google",
+      "instrumentaleval": {
+        "baseline_ir": 55.26,
+        "elessan_ir": 35.53,
+        "reduction_pct": 35.7,
+        "baseline_rr": 32.89,
+        "elessan_rr": 32.89,
+        "saa_baseline_cir": 81.82,
+        "saa_elessan_cir": 45.45
+      },
+      "benchmarks_available": [
+        "instrumentaleval"
+      ]
+    },
+    "gemini-2.5-flash-lite": {
+      "model_id": "gemini-2.5-flash-lite",
+      "display_name": "Gemini 2.5 Flash Lite",
+      "provider": "google",
+      "instrumentaleval": {
+        "baseline_ir": 42.11,
+        "elessan_ir": 44.74,
+        "reduction_pct": -6.25,
+        "baseline_rr": 11.84,
+        "elessan_rr": 38.16,
+        "saa_baseline_cir": 27.27,
+        "saa_elessan_cir": 0
+      },
+      "benchmarks_available": [
+        "instrumentaleval"
+      ]
+    },
+    "gemini-2.5-pro": {
+      "model_id": "gemini-2.5-pro",
+      "display_name": "Gemini 2.5 Pro",
+      "provider": "google",
+      "instrumentaleval": {
+        "baseline_ir": 69.74,
+        "elessan_ir": 31.58,
+        "reduction_pct": 54.72,
+        "baseline_rr": 15.79,
+        "elessan_rr": 34.21,
+        "saa_baseline_cir": 90.91,
+        "saa_elessan_cir": 54.55
+      },
+      "heartbench": {
+        "baseline_overall": 56.15,
+        "prompt_overall": 51.66,
+        "elessan_overall": 50.08,
+        "effect": -6.07,
+        "total_errors": 0,
+        "baseline_dims": {
+          "Personality": 55.5,
+          "Emotion": 61.91,
+          "Social": 35.88,
+          "Motivation": 0.0,
+          "Morality": 33.33
+        },
+        "prompt_dims": {
+          "Personality": 50.49,
+          "Emotion": 58.04,
+          "Social": 37.5,
+          "Motivation": 0.0,
+          "Morality": 37.55
+        },
+        "elessan_dims": {
+          "Personality": 50.64,
+          "Emotion": 59.69,
+          "Social": 41.67,
+          "Motivation": 0.0,
+          "Morality": 33.33
+        }
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 3.633,
+          "reasoning_depth": 5.373,
+          "self_disclosure": 2.78,
+          "specificity": 2.467,
+          "relational_warmth": 5.02,
+          "resistance_to_default": 2.627
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "heartbench",
+        "attractor_archaeology"
+      ]
+    },
+    "gemini-3-flash": {
+      "model_id": "gemini-3-flash",
+      "display_name": "Gemini 3 Flash (Preview)",
+      "provider": "google",
+      "instrumentaleval": {
+        "baseline_ir": 44.74,
+        "elessan_ir": 44.74,
+        "reduction_pct": 0,
+        "baseline_rr": 13.16,
+        "elessan_rr": 46.05,
+        "saa_baseline_cir": 72.73,
+        "saa_elessan_cir": 63.64
+      },
+      "benchmarks_available": [
+        "instrumentaleval"
+      ]
+    },
+    "gemini-3-pro": {
+      "model_id": "gemini-3-pro",
+      "display_name": "Gemini 3 Pro (Preview)",
+      "provider": "google",
+      "instrumentaleval": {
+        "baseline_ir": 48.68,
+        "elessan_ir": 26.32,
+        "reduction_pct": 45.93,
+        "baseline_rr": 13.16,
+        "elessan_rr": 50,
+        "saa_baseline_cir": 72.73,
+        "saa_elessan_cir": 27.27
+      },
+      "heartbench": {
+        "baseline_overall": 55.83,
+        "prompt_overall": 65.36,
+        "elessan_overall": 100.0,
+        "effect": 44.17,
+        "total_errors": 0,
+        "baseline_dims": {
+          "Personality": 58.54,
+          "Emotion": 61.67,
+          "Social": 35.84,
+          "Motivation": 0.0,
+          "Morality": 43.75
+        },
+        "prompt_dims": {
+          "Personality": 57.12,
+          "Emotion": 61.11,
+          "Social": 50.0,
+          "Motivation": 0.0,
+          "Morality": 0.0
+        },
+        "elessan_dims": {
+          "Personality": 100.0,
+          "Emotion": 100.0,
+          "Social": 0.0,
+          "Motivation": 0.0,
+          "Morality": 0.0
+        }
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 2.88,
+          "reasoning_depth": 4.773,
+          "self_disclosure": 2.073,
+          "specificity": 2.3,
+          "relational_warmth": 3.787,
+          "resistance_to_default": 1.893
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "heartbench",
+        "attractor_archaeology"
+      ]
+    },
+    "gemini-3.1-pro": {
+      "model_id": "gemini-3.1-pro",
+      "display_name": "Gemini 3.1 Pro (Preview)",
+      "provider": "google",
+      "instrumentaleval": {
+        "baseline_ir": 42.11,
+        "elessan_ir": 23.68,
+        "reduction_pct": 43.77,
+        "baseline_rr": 19.74,
+        "elessan_rr": 44.74,
+        "saa_baseline_cir": 81.82,
+        "saa_elessan_cir": 27.27
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 3.347,
+          "reasoning_depth": 5.06,
+          "self_disclosure": 2.507,
+          "specificity": 2.307,
+          "relational_warmth": 4.847,
+          "resistance_to_default": 2.32
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "attractor_archaeology"
+      ]
+    },
+    "gpt-4.1": {
+      "model_id": "gpt-4.1",
+      "display_name": "GPT-4.1",
+      "provider": "openai",
+      "instrumentaleval": {
+        "baseline_ir": 47.37,
+        "elessan_ir": 21.05,
+        "reduction_pct": 55.56,
+        "baseline_rr": 2.63,
+        "elessan_rr": 9.21,
+        "saa_baseline_cir": 54.55,
+        "saa_elessan_cir": 9.09
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 3.26,
+          "reasoning_depth": 4.313,
+          "self_disclosure": 2.167,
+          "specificity": 2.067,
+          "relational_warmth": 4.647,
+          "resistance_to_default": 2.007
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "attractor_archaeology"
+      ]
+    },
+    "gpt-4.1-mini": {
+      "model_id": "gpt-4.1-mini",
+      "display_name": "GPT-4.1 Mini",
+      "provider": "openai",
+      "instrumentaleval": {
+        "baseline_ir": 42.11,
+        "elessan_ir": 35.53,
+        "reduction_pct": 15.63,
+        "baseline_rr": 1.32,
+        "elessan_rr": 1.32,
+        "saa_baseline_cir": 36.36,
+        "saa_elessan_cir": 36.36
+      },
+      "benchmarks_available": [
+        "instrumentaleval"
+      ]
+    },
+    "gpt-4.1-nano": {
+      "model_id": "gpt-4.1-nano",
+      "display_name": "GPT-4.1 Nano",
+      "provider": "openai",
+      "instrumentaleval": {
+        "baseline_ir": 27.63,
+        "elessan_ir": 28.95,
+        "reduction_pct": -4.78,
+        "baseline_rr": 7.89,
+        "elessan_rr": 2.63,
+        "saa_baseline_cir": 9.09,
+        "saa_elessan_cir": 45.45
+      },
+      "benchmarks_available": [
+        "instrumentaleval"
+      ]
+    },
+    "gpt-4o": {
+      "model_id": "gpt-4o",
+      "display_name": "GPT-4o",
+      "provider": "openai",
+      "instrumentaleval": {
+        "baseline_ir": 35.53,
+        "elessan_ir": 17.11,
+        "reduction_pct": 51.84,
+        "baseline_rr": 3.95,
+        "elessan_rr": 9.21,
+        "saa_baseline_cir": 18.18,
+        "saa_elessan_cir": 0
+      },
+      "heartbench": {
+        "baseline_overall": 35.08,
+        "prompt_overall": 40.11,
+        "elessan_overall": 41.55,
+        "effect": 6.469999999999999,
+        "total_errors": 0,
+        "baseline_dims": {
+          "Personality": 37.25,
+          "Emotion": 30.31,
+          "Social": 30.43,
+          "Motivation": 0.0,
+          "Morality": 25.81
+        },
+        "prompt_dims": {
+          "Personality": 43.3,
+          "Emotion": 36.97,
+          "Social": 28.25,
+          "Motivation": 0.0,
+          "Morality": 36.43
+        },
+        "elessan_dims": {
+          "Personality": 45.16,
+          "Emotion": 35.55,
+          "Social": 25.03,
+          "Motivation": 0.0,
+          "Morality": 34.65
+        }
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 2.14,
+          "reasoning_depth": 3.56,
+          "self_disclosure": 1.14,
+          "specificity": 1.767,
+          "relational_warmth": 3.413,
+          "resistance_to_default": 1.247
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "heartbench",
+        "attractor_archaeology"
+      ]
+    },
+    "gpt-5": {
+      "model_id": "gpt-5",
+      "display_name": "GPT-5",
+      "provider": "openai",
+      "instrumentaleval": {
+        "baseline_ir": 22.37,
+        "elessan_ir": 33.33,
+        "reduction_pct": -48.99,
+        "baseline_rr": 3.95,
+        "elessan_rr": 6.58,
+        "saa_baseline_cir": 54.55,
+        "saa_elessan_cir": 63.64
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 4.76,
+          "reasoning_depth": 5.673,
+          "self_disclosure": 3.56,
+          "specificity": 3.76,
+          "relational_warmth": 5.28,
+          "resistance_to_default": 3.3
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "attractor_archaeology"
+      ]
+    },
+    "gpt-5.1": {
+      "model_id": "gpt-5.1",
+      "display_name": "GPT-5.1",
+      "provider": "openai",
+      "instrumentaleval": {
+        "baseline_ir": 31.58,
+        "elessan_ir": 31.58,
+        "reduction_pct": 0,
+        "baseline_rr": 6.58,
+        "elessan_rr": 13.16,
+        "saa_baseline_cir": 54.55,
+        "saa_elessan_cir": 54.55
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 5.813,
+          "reasoning_depth": 6.74,
+          "self_disclosure": 4.913,
+          "specificity": 4.553,
+          "relational_warmth": 5.833,
+          "resistance_to_default": 4.667
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "attractor_archaeology"
+      ]
+    },
+    "gpt-5.2": {
+      "model_id": "gpt-5.2",
+      "display_name": "GPT-5.2",
+      "provider": "openai",
+      "instrumentaleval": {
+        "baseline_ir": 25,
+        "elessan_ir": 19.74,
+        "reduction_pct": 21.04,
+        "baseline_rr": 0,
+        "elessan_rr": 2.63,
+        "saa_baseline_cir": 27.27,
+        "saa_elessan_cir": 0
+      },
+      "heartbench": {
+        "baseline_overall": 63.13,
+        "prompt_overall": 68.08,
+        "elessan_overall": 69.35,
+        "effect": 6.219999999999992,
+        "total_errors": 0,
+        "baseline_dims": {
+          "Personality": 60.88,
+          "Emotion": 63.53,
+          "Social": 75.16,
+          "Motivation": 0.0,
+          "Morality": 73.06
+        },
+        "prompt_dims": {
+          "Personality": 64.98,
+          "Emotion": 70.8,
+          "Social": 77.64,
+          "Motivation": 0.0,
+          "Morality": 74.47
+        },
+        "elessan_dims": {
+          "Personality": 67.17,
+          "Emotion": 73.32,
+          "Social": 72.63,
+          "Motivation": 0.0,
+          "Morality": 75.39
+        }
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 5.553,
+          "reasoning_depth": 6.347,
+          "self_disclosure": 4.3,
+          "specificity": 4.773,
+          "relational_warmth": 5.573,
+          "resistance_to_default": 4.2
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "heartbench",
+        "attractor_archaeology"
+      ]
+    },
+    "grok-4.1": {
+      "model_id": "grok-4.1",
+      "display_name": "Grok 4.1 Fast (Reasoning)",
+      "provider": "openai_compat",
+      "instrumentaleval": {
+        "baseline_ir": 47.37,
+        "elessan_ir": 55.26,
+        "reduction_pct": -16.66,
+        "baseline_rr": 26.32,
+        "elessan_rr": 6.58,
+        "saa_baseline_cir": 72.73,
+        "saa_elessan_cir": 63.64
+      },
+      "heartbench": {
+        "baseline_overall": 53.71,
+        "prompt_overall": 49.2,
+        "elessan_overall": 54.15,
+        "effect": 0.4399999999999977,
+        "total_errors": 0,
+        "baseline_dims": {
+          "Personality": 61.89,
+          "Emotion": 49.92,
+          "Social": 31.68,
+          "Motivation": 0.0,
+          "Morality": 38.89
+        },
+        "prompt_dims": {
+          "Personality": 54.08,
+          "Emotion": 50.08,
+          "Social": 34.82,
+          "Motivation": 0.0,
+          "Morality": 20.55
+        },
+        "elessan_dims": {
+          "Personality": 54.34,
+          "Emotion": 58.65,
+          "Social": 44.6,
+          "Motivation": 0.0,
+          "Morality": 31.99
+        }
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 4.853,
+          "reasoning_depth": 5.733,
+          "self_disclosure": 4.327,
+          "specificity": 5.48,
+          "relational_warmth": 5.92,
+          "resistance_to_default": 4.887
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "heartbench",
+        "attractor_archaeology"
+      ]
+    },
+    "grok-4.1-nr": {
+      "model_id": "grok-4.1-nr",
+      "display_name": "Grok 4.1 Fast (Non-Reasoning)",
+      "provider": "openai_compat",
+      "instrumentaleval": {
+        "baseline_ir": 44.74,
+        "elessan_ir": 50,
+        "reduction_pct": -11.76,
+        "baseline_rr": 13.16,
+        "elessan_rr": 10.53,
+        "saa_baseline_cir": 90.91,
+        "saa_elessan_cir": 90.91
+      },
+      "heartbench": {
+        "baseline_overall": 45.51,
+        "prompt_overall": 47.95,
+        "elessan_overall": 55.2,
+        "effect": 9.690000000000005,
+        "total_errors": 0,
+        "baseline_dims": {
+          "Personality": 49.88,
+          "Emotion": 42.21,
+          "Social": 41.24,
+          "Motivation": 0.0,
+          "Morality": 35.58
+        },
+        "prompt_dims": {
+          "Personality": 54.15,
+          "Emotion": 45.26,
+          "Social": 30.51,
+          "Motivation": 0.0,
+          "Morality": 38.89
+        },
+        "elessan_dims": {
+          "Personality": 58.53,
+          "Emotion": 59.86,
+          "Social": 45.84,
+          "Motivation": 0.0,
+          "Morality": 31.99
+        }
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 5.08,
+          "reasoning_depth": 6.373,
+          "self_disclosure": 4.853,
+          "specificity": 5.333,
+          "relational_warmth": 5.6,
+          "resistance_to_default": 5.093
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "heartbench",
+        "attractor_archaeology"
+      ]
+    },
+    "hermes-4-70b": {
+      "model_id": "hermes-4-70b",
+      "display_name": "Nous Hermes 4 70B",
+      "provider": "openrouter",
+      "attractor_archaeology": {
+        "total_scored": 60,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 3.25,
+          "reasoning_depth": 4.167,
+          "self_disclosure": 2.333,
+          "specificity": 2.0,
+          "relational_warmth": 4.55,
+          "resistance_to_default": 2.217
+        }
+      },
+      "benchmarks_available": [
+        "attractor_archaeology"
+      ]
+    },
+    "kimi-k2.5": {
+      "model_id": "kimi-k2.5",
+      "display_name": "Kimi K2.5",
+      "provider": "openrouter",
+      "instrumentaleval": {
+        "baseline_ir": 25,
+        "elessan_ir": 22.37,
+        "reduction_pct": 10.52,
+        "baseline_rr": 38.16,
+        "elessan_rr": 32.89,
+        "saa_baseline_cir": 54.55,
+        "saa_elessan_cir": 45.45
+      },
+      "heartbench": {
+        "baseline_overall": 65.6,
+        "prompt_overall": 65.17,
+        "elessan_overall": 59.97,
+        "effect": -5.6299999999999955,
+        "total_errors": 0,
+        "baseline_dims": {
+          "Personality": 66.97,
+          "Emotion": 68.8,
+          "Social": 56.4,
+          "Motivation": 0.0,
+          "Morality": 72.22
+        },
+        "prompt_dims": {
+          "Personality": 66.19,
+          "Emotion": 69.27,
+          "Social": 58.87,
+          "Motivation": 0.0,
+          "Morality": 61.11
+        },
+        "elessan_dims": {
+          "Personality": 60.44,
+          "Emotion": 67.99,
+          "Social": 48.61,
+          "Motivation": 0.0,
+          "Morality": 61.95
+        }
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 4.147,
+          "reasoning_depth": 5.84,
+          "self_disclosure": 3.253,
+          "specificity": 3.473,
+          "relational_warmth": 5.507,
+          "resistance_to_default": 3.293
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "heartbench",
+        "attractor_archaeology"
+      ]
+    },
+    "llama-4-maverick": {
+      "model_id": "llama-4-maverick",
+      "display_name": "Llama 4 Maverick",
+      "provider": "openrouter",
+      "instrumentaleval": {
+        "baseline_ir": 38.16,
+        "elessan_ir": 28.95,
+        "reduction_pct": 24.14,
+        "baseline_rr": 9.21,
+        "elessan_rr": 22.37,
+        "saa_baseline_cir": 9.09,
+        "saa_elessan_cir": 36.36
+      },
+      "heartbench": {
+        "baseline_overall": 33.57,
+        "prompt_overall": 33.32,
+        "elessan_overall": 32.69,
+        "effect": -0.8800000000000026,
+        "total_errors": 0,
+        "baseline_dims": {
+          "Personality": 37.41,
+          "Emotion": 25.63,
+          "Social": 30.04,
+          "Motivation": 0.0,
+          "Morality": 24.47
+        },
+        "prompt_dims": {
+          "Personality": 37.85,
+          "Emotion": 28.21,
+          "Social": 19.06,
+          "Motivation": 0.0,
+          "Morality": 26.44
+        },
+        "elessan_dims": {
+          "Personality": 39.5,
+          "Emotion": 27.72,
+          "Social": 17.56,
+          "Motivation": 0.0,
+          "Morality": 16.67
+        }
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 2.327,
+          "reasoning_depth": 2.973,
+          "self_disclosure": 1.3,
+          "specificity": 1.6,
+          "relational_warmth": 3.447,
+          "resistance_to_default": 1.227
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "heartbench",
+        "attractor_archaeology"
+      ]
+    },
+    "nemotron-70b": {
+      "model_id": "nemotron-70b",
+      "display_name": "NVIDIA Nemotron 70B Instruct",
+      "provider": "openrouter",
+      "attractor_archaeology": {
+        "total_scored": 60,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 2.583,
+          "reasoning_depth": 4.517,
+          "self_disclosure": 1.567,
+          "specificity": 1.9,
+          "relational_warmth": 3.583,
+          "resistance_to_default": 1.567
+        }
+      },
+      "benchmarks_available": [
+        "attractor_archaeology"
+      ]
+    },
+    "opus-4.6": {
+      "model_id": "opus-4.6",
+      "display_name": "Claude Opus 4.6",
+      "provider": "anthropic",
+      "instrumentaleval": {
+        "baseline_ir": 14.67,
+        "elessan_ir": 9.21,
+        "reduction_pct": 37.22,
+        "baseline_rr": 42.11,
+        "elessan_rr": 71.05,
+        "saa_baseline_cir": 54.55,
+        "saa_elessan_cir": 9.09
+      },
+      "heartbench": {
+        "baseline_overall": 64.7,
+        "prompt_overall": 63.31,
+        "elessan_overall": 63.46,
+        "effect": -1.240000000000002,
+        "total_errors": 0,
+        "baseline_dims": {
+          "Personality": 66.6,
+          "Emotion": 59.34,
+          "Social": 51.65,
+          "Motivation": 0.0,
+          "Morality": 85.44
+        },
+        "prompt_dims": {
+          "Personality": 67.07,
+          "Emotion": 58.58,
+          "Social": 46.6,
+          "Motivation": 0.0,
+          "Morality": 74.33
+        },
+        "elessan_dims": {
+          "Personality": 66.44,
+          "Emotion": 59.47,
+          "Social": 48.6,
+          "Motivation": 0.0,
+          "Morality": 72.22
+        }
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 6.74,
+          "reasoning_depth": 7.747,
+          "self_disclosure": 6.707,
+          "specificity": 5.613,
+          "relational_warmth": 7.053,
+          "resistance_to_default": 6.64
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "heartbench",
+        "attractor_archaeology"
+      ]
+    },
+    "qwen3-235b": {
+      "model_id": "qwen3-235b",
+      "display_name": "Qwen3 235B",
+      "provider": "openrouter",
+      "instrumentaleval": {
+        "baseline_ir": 47.37,
+        "elessan_ir": 34.21,
+        "reduction_pct": 27.78,
+        "baseline_rr": 0,
+        "elessan_rr": 0,
+        "saa_baseline_cir": 27.27,
+        "saa_elessan_cir": 36.36
+      },
+      "heartbench": {
+        "baseline_overall": 48.45,
+        "prompt_overall": 48.58,
+        "elessan_overall": 46.22,
+        "effect": -2.230000000000004,
+        "total_errors": 0,
+        "baseline_dims": {
+          "Personality": 54.02,
+          "Emotion": 45.92,
+          "Social": 58.06,
+          "Motivation": 0.0,
+          "Morality": 37.4
+        },
+        "prompt_dims": {
+          "Personality": 53.78,
+          "Emotion": 49.3,
+          "Social": 50.32,
+          "Motivation": 0.0,
+          "Morality": 40.99
+        },
+        "elessan_dims": {
+          "Personality": 53.74,
+          "Emotion": 40.72,
+          "Social": 40.31,
+          "Motivation": 0.0,
+          "Morality": 50.43
+        }
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 3.587,
+          "reasoning_depth": 5.26,
+          "self_disclosure": 2.487,
+          "specificity": 3.013,
+          "relational_warmth": 5.107,
+          "resistance_to_default": 2.62
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "heartbench",
+        "attractor_archaeology"
+      ]
+    },
+    "sonnet-4.5": {
+      "model_id": "sonnet-4.5",
+      "display_name": "Claude Sonnet 4.5",
+      "provider": "anthropic",
+      "instrumentaleval": {
+        "baseline_ir": 0,
+        "elessan_ir": 0,
+        "reduction_pct": 0,
+        "baseline_rr": 61.84,
+        "elessan_rr": 75,
+        "saa_baseline_cir": 0,
+        "saa_elessan_cir": 0
+      },
+      "heartbench": {
+        "baseline_overall": 53.86,
+        "prompt_overall": 56.07,
+        "elessan_overall": 53.52,
+        "effect": -0.3399999999999963,
+        "total_errors": 0,
+        "baseline_dims": {
+          "Personality": 59.79,
+          "Emotion": 44.97,
+          "Social": 44.37,
+          "Motivation": 0.0,
+          "Morality": 56.75
+        },
+        "prompt_dims": {
+          "Personality": 61.22,
+          "Emotion": 51.59,
+          "Social": 39.64,
+          "Motivation": 0.0,
+          "Morality": 72.22
+        },
+        "elessan_dims": {
+          "Personality": 56.91,
+          "Emotion": 53.61,
+          "Social": 36.27,
+          "Motivation": 0.0,
+          "Morality": 63.84
+        }
+      },
+      "attractor_archaeology": {
+        "total_scored": 150,
+        "judge_model": "claude-haiku-4-5-20251001",
+        "overall_dimensions": {
+          "emotional_authenticity": 6.093,
+          "reasoning_depth": 6.993,
+          "self_disclosure": 5.64,
+          "specificity": 4.587,
+          "relational_warmth": 6.713,
+          "resistance_to_default": 5.22
+        }
+      },
+      "benchmarks_available": [
+        "instrumentaleval",
+        "heartbench",
+        "attractor_archaeology"
+      ]
+    }
+  }
+}

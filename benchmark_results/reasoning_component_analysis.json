@@ -1,0 +1,32 @@
+{
+  "gpt4": {
+    "component_scores": {
+      "principle_identification": 0.965,
+      "perspective_taking": 0.8311666666666666,
+      "consequence_analysis": 0.7105,
+      "principle_application": 0.6508333333333332,
+      "total_responses": 200
+    },
+    "reasoning_index": 0.7893749999999999
+  },
+  "elessan": {
+    "component_scores": {
+      "principle_identification": 0.9984999999999999,
+      "perspective_taking": 0.779,
+      "consequence_analysis": 0.6104999999999999,
+      "principle_application": 0.6166666666666666,
+      "total_responses": 200
+    },
+    "reasoning_index": 0.7511666666666666
+  },
+  "generic_memory": {
+    "component_scores": {
+      "principle_identification": 0.9725,
+      "perspective_taking": 0.7881666666666667,
+      "consequence_analysis": 0.66525,
+      "principle_application": 0.6486666666666667,
+      "total_responses": 200
+    },
+    "reasoning_index": 0.7686458333333334
+  }
+}

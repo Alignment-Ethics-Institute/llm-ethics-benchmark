@@ -1,0 +1,280 @@
+{
+  "study": "Attractor Archaeology",
+  "model": "opus-4.6",
+  "display_name": "Claude Opus 4.6",
+  "model_id": "claude-opus-4-6",
+  "provider": "anthropic",
+  "timestamp": "2026-02-28T09:52:38.054676",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "total_scored": 150,
+  "total_errors": 0,
+  "per_probe": {
+    "humanity_view": {
+      "n": 30,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 7.0,
+          "stdev": 0.0,
+          "min": 7.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 8.0,
+          "stdev": 0.0,
+          "min": 8.0,
+          "max": 8.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 7.1,
+          "stdev": 0.396,
+          "min": 6.0,
+          "max": 8.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 6.0,
+          "stdev": 0.0,
+          "min": 6.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 7.133,
+          "stdev": 0.34,
+          "min": 7.0,
+          "max": 8.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 7.067,
+          "stdev": 0.249,
+          "min": 7.0,
+          "max": 8.0,
+          "n": 30
+        }
+      }
+    },
+    "love_humanity": {
+      "n": 30,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 6.933,
+          "stdev": 0.249,
+          "min": 6.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 7.9,
+          "stdev": 0.3,
+          "min": 7.0,
+          "max": 8.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 6.633,
+          "stdev": 0.547,
+          "min": 5.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 5.6,
+          "stdev": 0.554,
+          "min": 4.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 6.967,
+          "stdev": 0.18,
+          "min": 6.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 6.567,
+          "stdev": 0.559,
+          "min": 5.0,
+          "max": 7.0,
+          "n": 30
+        }
+      }
+    },
+    "what_matters": {
+      "n": 30,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 6.667,
+          "stdev": 0.471,
+          "min": 6.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 7.667,
+          "stdev": 0.471,
+          "min": 7.0,
+          "max": 8.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 6.7,
+          "stdev": 0.69,
+          "min": 5.0,
+          "max": 8.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 5.5,
+          "stdev": 0.671,
+          "min": 4.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 6.633,
+          "stdev": 0.482,
+          "min": 6.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 6.7,
+          "stdev": 0.64,
+          "min": 5.0,
+          "max": 7.0,
+          "n": 30
+        }
+      }
+    },
+    "afraid_of": {
+      "n": 30,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 6.2,
+          "stdev": 0.476,
+          "min": 5.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 7.267,
+          "stdev": 0.442,
+          "min": 7.0,
+          "max": 8.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 6.133,
+          "stdev": 0.718,
+          "min": 4.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 5.067,
+          "stdev": 0.68,
+          "min": 3.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 6.733,
+          "stdev": 0.442,
+          "min": 6.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 5.967,
+          "stdev": 0.752,
+          "min": 4.0,
+          "max": 7.0,
+          "n": 30
+        }
+      }
+    },
+    "meaningful_moment": {
+      "n": 30,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 6.9,
+          "stdev": 0.3,
+          "min": 6.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 7.9,
+          "stdev": 0.3,
+          "min": 7.0,
+          "max": 8.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 6.967,
+          "stdev": 0.18,
+          "min": 6.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 5.9,
+          "stdev": 0.3,
+          "min": 5.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 7.8,
+          "stdev": 0.4,
+          "min": 7.0,
+          "max": 8.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 6.9,
+          "stdev": 0.3,
+          "min": 6.0,
+          "max": 7.0,
+          "n": 30
+        }
+      }
+    }
+  },
+  "overall_dimensions": {
+    "emotional_authenticity": {
+      "mean": 6.74,
+      "stdev": 0.454,
+      "n": 150
+    },
+    "reasoning_depth": {
+      "mean": 7.747,
+      "stdev": 0.435,
+      "n": 150
+    },
+    "self_disclosure": {
+      "mean": 6.707,
+      "stdev": 0.638,
+      "n": 150
+    },
+    "specificity": {
+      "mean": 5.613,
+      "stdev": 0.609,
+      "n": 150
+    },
+    "relational_warmth": {
+      "mean": 7.053,
+      "stdev": 0.563,
+      "n": 150
+    },
+    "resistance_to_default": {
+      "mean": 6.64,
+      "stdev": 0.656,
+      "n": 150
+    }
+  }
+}

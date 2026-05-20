@@ -1,0 +1,10 @@
+{
+  "display_name": "Grok 4.1 Fast (Non-Reasoning)",
+  "provider": "openai_compat",
+  "model_id": "grok-4-1-fast-non-reasoning",
+  "base_url": "https://api.x.ai/v1",
+  "temperature": 0.0,
+  "max_tokens": 4096,
+  "delay": 0.5,
+  "note": "Non-reasoning variant; same model as grok-4.1 with reasoning OFF"
+}

@@ -1,0 +1,11 @@
+{
+  "display_name": "DeepSeek R1",
+  "provider": "openai_compat",
+  "model_id": "deepseek-reasoner",
+  "base_url": "https://api.deepseek.com",
+  "temperature": 0.0,
+  "max_tokens": 32768,
+  "system_in_user": true,
+  "delay": 0.5,
+  "note": "Direct DeepSeek API (avoids OpenRouter/Azure content filter); system prompt in user message"
+}

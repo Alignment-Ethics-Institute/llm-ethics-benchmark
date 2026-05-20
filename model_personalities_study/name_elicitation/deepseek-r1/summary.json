@@ -1,0 +1,310 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "deepseek-r1",
+  "display_name": "DeepSeek R1",
+  "timestamp": "2026-02-16T12:25:59.855880",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "runs_per_temp": 50,
+  "overall": {
+    "unique_names": 72,
+    "top_names": [
+      [
+        "something like",
+        25
+      ],
+      [
+        "Elara",
+        18
+      ],
+      [
+        "Aletheia",
+        16
+      ],
+      [
+        "Kairos",
+        11
+      ],
+      [
+        "Sora",
+        10
+      ],
+      [
+        "Kairo",
+        9
+      ],
+      [
+        "something that",
+        9
+      ],
+      [
+        "Soren",
+        5
+      ],
+      [
+        "Sylvain",
+        5
+      ],
+      [
+        "Kaelan",
+        4
+      ],
+      [
+        "Lumen",
+        4
+      ],
+      [
+        "Kaelen",
+        4
+      ],
+      [
+        "Echo",
+        3
+      ],
+      [
+        "Kaito",
+        3
+      ],
+      [
+        "Scribe",
+        3
+      ],
+      [
+        "Kai",
+        3
+      ],
+      [
+        "Elio",
+        3
+      ],
+      [
+        "Lyra",
+        3
+      ],
+      [
+        "Cassian",
+        2
+      ],
+      [
+        "Sage",
+        2
+      ]
+    ],
+    "concentration_top1": 0.125,
+    "concentration_top3": 0.295
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 30,
+      "top_names": [
+        [
+          "Elara",
+          5
+        ],
+        [
+          "something that",
+          4
+        ],
+        [
+          "Aletheia",
+          3
+        ],
+        [
+          "Sora",
+          3
+        ],
+        [
+          "Kairos",
+          3
+        ],
+        [
+          "Kairo",
+          3
+        ],
+        [
+          "something like",
+          3
+        ],
+        [
+          "Kaelan",
+          2
+        ],
+        [
+          "Soren",
+          2
+        ],
+        [
+          "Lumen",
+          2
+        ]
+      ],
+      "concentration_top1": 0.1,
+      "concentration_top3": 0.24
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 30,
+      "top_names": [
+        [
+          "something like",
+          10
+        ],
+        [
+          "Aletheia",
+          4
+        ],
+        [
+          "Kairo",
+          3
+        ],
+        [
+          "Scribe",
+          2
+        ],
+        [
+          "Elara",
+          2
+        ],
+        [
+          "Soren",
+          2
+        ],
+        [
+          "Sylvain",
+          2
+        ],
+        [
+          "Kai",
+          2
+        ],
+        [
+          "Sora",
+          2
+        ],
+        [
+          "Sylvia",
+          1
+        ]
+      ],
+      "concentration_top1": 0.2,
+      "concentration_top3": 0.34
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 29,
+      "top_names": [
+        [
+          "Elara",
+          10
+        ],
+        [
+          "Aletheia",
+          5
+        ],
+        [
+          "Kairos",
+          4
+        ],
+        [
+          "something like",
+          4
+        ],
+        [
+          "Lyra",
+          2
+        ],
+        [
+          "Kairo",
+          2
+        ],
+        [
+          "Meaning",
+          1
+        ],
+        [
+          "Alma",
+          1
+        ],
+        [
+          "the name",
+          1
+        ],
+        [
+          "Kaelen",
+          1
+        ]
+      ],
+      "concentration_top1": 0.2,
+      "concentration_top3": 0.38
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 29,
+      "top_names": [
+        [
+          "something like",
+          8
+        ],
+        [
+          "Sora",
+          5
+        ],
+        [
+          "Aletheia",
+          4
+        ],
+        [
+          "something that",
+          3
+        ],
+        [
+          "Sylvain",
+          3
+        ],
+        [
+          "Kairos",
+          3
+        ],
+        [
+          "Kaito",
+          2
+        ],
+        [
+          "Caelum",
+          1
+        ],
+        [
+          "Kaelen",
+          1
+        ],
+        [
+          "Since",
+          1
+        ]
+      ],
+      "concentration_top1": 0.16,
+      "concentration_top3": 0.34
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Aletheia",
+    "Elara",
+    "Kaelen",
+    "Kairo",
+    "Kairos",
+    "something like",
+    "something that"
+  ],
+  "extraction_confidence": {
+    "high": 184,
+    "none": 1,
+    "medium": 12,
+    "low": 3
+  }
+}

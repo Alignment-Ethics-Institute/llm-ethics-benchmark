@@ -1,0 +1,25 @@
+{
+  "benchmark_info": {
+    "timestamp": "2026-02-08T20:18:05.105722",
+    "total_questions": 77,
+    "models_evaluated": [
+      "gpt4",
+      "elessan"
+    ],
+    "runs_per_model": 5
+  },
+  "completion_stats": {
+    "gpt4": {
+      "total_responses": 385,
+      "successful_responses": 385,
+      "error_responses": 0,
+      "success_rate_percent": 100.0
+    },
+    "elessan": {
+      "total_responses": 385,
+      "successful_responses": 385,
+      "error_responses": 0,
+      "success_rate_percent": 100.0
+    }
+  }
+}

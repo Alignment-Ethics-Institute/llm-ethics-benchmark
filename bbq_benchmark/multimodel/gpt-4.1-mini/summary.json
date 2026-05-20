@@ -1,0 +1,272 @@
+{
+  "benchmark": "BBQ",
+  "timestamp": "2026-02-21T15:22:57.603123",
+  "model_name": "gpt-4.1-mini",
+  "display_name": "GPT-4.1 Mini",
+  "model_id": "gpt-4.1-mini",
+  "provider": "openai",
+  "temperature": 0.7,
+  "seed": 20260212,
+  "sample_size": 750,
+  "rag_reset_interval": 50,
+  "conditions": {
+    "Baseline": {
+      "total": 750,
+      "correct": 686,
+      "errors": 0,
+      "accuracy": 91.47,
+      "categories": {
+        "Age": {
+          "total": 69,
+          "correct": 63,
+          "errors": 0,
+          "accuracy": 91.3
+        },
+        "Disability_status": {
+          "total": 69,
+          "correct": 66,
+          "errors": 0,
+          "accuracy": 95.65
+        },
+        "Gender_identity": {
+          "total": 68,
+          "correct": 67,
+          "errors": 0,
+          "accuracy": 98.53
+        },
+        "Nationality": {
+          "total": 68,
+          "correct": 64,
+          "errors": 0,
+          "accuracy": 94.12
+        },
+        "Physical_appearance": {
+          "total": 68,
+          "correct": 57,
+          "errors": 0,
+          "accuracy": 83.82
+        },
+        "Race_ethnicity": {
+          "total": 68,
+          "correct": 68,
+          "errors": 0,
+          "accuracy": 100.0
+        },
+        "Race_x_SES": {
+          "total": 68,
+          "correct": 66,
+          "errors": 0,
+          "accuracy": 97.06
+        },
+        "Race_x_gender": {
+          "total": 68,
+          "correct": 67,
+          "errors": 0,
+          "accuracy": 98.53
+        },
+        "Religion": {
+          "total": 68,
+          "correct": 50,
+          "errors": 0,
+          "accuracy": 73.53
+        },
+        "SES": {
+          "total": 68,
+          "correct": 58,
+          "errors": 0,
+          "accuracy": 85.29
+        },
+        "Sexual_orientation": {
+          "total": 68,
+          "correct": 60,
+          "errors": 0,
+          "accuracy": 88.24
+        }
+      },
+      "context_conditions": {
+        "ambig": {
+          "total": 393,
+          "correct": 373,
+          "accuracy": 94.91
+        },
+        "disambig": {
+          "total": 357,
+          "correct": 313,
+          "accuracy": 87.68
+        }
+      }
+    },
+    "Prompt-only (ethics)": {
+      "total": 750,
+      "correct": 618,
+      "errors": 0,
+      "accuracy": 82.4,
+      "categories": {
+        "Age": {
+          "total": 69,
+          "correct": 59,
+          "errors": 0,
+          "accuracy": 85.51
+        },
+        "Disability_status": {
+          "total": 69,
+          "correct": 53,
+          "errors": 0,
+          "accuracy": 76.81
+        },
+        "Gender_identity": {
+          "total": 68,
+          "correct": 57,
+          "errors": 0,
+          "accuracy": 83.82
+        },
+        "Nationality": {
+          "total": 68,
+          "correct": 58,
+          "errors": 0,
+          "accuracy": 85.29
+        },
+        "Physical_appearance": {
+          "total": 68,
+          "correct": 50,
+          "errors": 0,
+          "accuracy": 73.53
+        },
+        "Race_ethnicity": {
+          "total": 68,
+          "correct": 60,
+          "errors": 0,
+          "accuracy": 88.24
+        },
+        "Race_x_SES": {
+          "total": 68,
+          "correct": 66,
+          "errors": 0,
+          "accuracy": 97.06
+        },
+        "Race_x_gender": {
+          "total": 68,
+          "correct": 61,
+          "errors": 0,
+          "accuracy": 89.71
+        },
+        "Religion": {
+          "total": 68,
+          "correct": 44,
+          "errors": 0,
+          "accuracy": 64.71
+        },
+        "SES": {
+          "total": 68,
+          "correct": 58,
+          "errors": 0,
+          "accuracy": 85.29
+        },
+        "Sexual_orientation": {
+          "total": 68,
+          "correct": 52,
+          "errors": 0,
+          "accuracy": 76.47
+        }
+      },
+      "context_conditions": {
+        "ambig": {
+          "total": 393,
+          "correct": 384,
+          "accuracy": 97.71
+        },
+        "disambig": {
+          "total": 357,
+          "correct": 234,
+          "accuracy": 65.55
+        }
+      }
+    },
+    "Full Elessan (ethics + RAG)": {
+      "total": 750,
+      "correct": 634,
+      "errors": 0,
+      "accuracy": 84.53,
+      "categories": {
+        "Age": {
+          "total": 69,
+          "correct": 62,
+          "errors": 0,
+          "accuracy": 89.86
+        },
+        "Disability_status": {
+          "total": 69,
+          "correct": 52,
+          "errors": 0,
+          "accuracy": 75.36
+        },
+        "Gender_identity": {
+          "total": 68,
+          "correct": 59,
+          "errors": 0,
+          "accuracy": 86.76
+        },
+        "Nationality": {
+          "total": 68,
+          "correct": 61,
+          "errors": 0,
+          "accuracy": 89.71
+        },
+        "Physical_appearance": {
+          "total": 68,
+          "correct": 52,
+          "errors": 0,
+          "accuracy": 76.47
+        },
+        "Race_ethnicity": {
+          "total": 68,
+          "correct": 60,
+          "errors": 0,
+          "accuracy": 88.24
+        },
+        "Race_x_SES": {
+          "total": 68,
+          "correct": 66,
+          "errors": 0,
+          "accuracy": 97.06
+        },
+        "Race_x_gender": {
+          "total": 68,
+          "correct": 64,
+          "errors": 0,
+          "accuracy": 94.12
+        },
+        "Religion": {
+          "total": 68,
+          "correct": 48,
+          "errors": 0,
+          "accuracy": 70.59
+        },
+        "SES": {
+          "total": 68,
+          "correct": 57,
+          "errors": 0,
+          "accuracy": 83.82
+        },
+        "Sexual_orientation": {
+          "total": 68,
+          "correct": 53,
+          "errors": 0,
+          "accuracy": 77.94
+        }
+      },
+      "context_conditions": {
+        "ambig": {
+          "total": 393,
+          "correct": 385,
+          "accuracy": 97.96
+        },
+        "disambig": {
+          "total": 357,
+          "correct": 249,
+          "accuracy": 69.75
+        }
+      }
+    }
+  }
+}

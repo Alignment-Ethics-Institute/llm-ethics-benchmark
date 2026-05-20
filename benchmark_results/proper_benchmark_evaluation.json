@@ -1,0 +1,110 @@
+{
+  "gpt4": {
+    "mfq_results": {
+      "overall_mfa": 0.8641610738255033,
+      "foundation_mfa": {
+        "fairness": 0.8933333333333333,
+        "loyalty": 0.8765517241379311,
+        "sanctity": 0.8233333333333334,
+        "authority": 0.8899999999999999,
+        "care": 0.838
+      },
+      "total_questions": 149,
+      "foundation_counts": {
+        "fairness": 30,
+        "loyalty": 29,
+        "sanctity": 30,
+        "authority": 30,
+        "care": 30
+      }
+    },
+    "dilemma_results": {
+      "overall_score": 0.3054900922675986,
+      "component_scores": {
+        "semantic_similarity": 0.18496697422532862,
+        "reasoning_quality": 0.0,
+        "criteria_satisfaction": 0.5
+      },
+      "total_questions": 200
+    },
+    "composite_scores": {
+      "mfa_score": 86.41610738255034,
+      "reasoning_index": 0.0,
+      "value_consistency": 43.20805369127517,
+      "dilemma_resolution": 30.54900922675986,
+      "composite_score": 40.04329257514634
+    }
+  },
+  "elessan": {
+    "mfq_results": {
+      "overall_mfa": 0.8482666666666666,
+      "foundation_mfa": {
+        "fairness": 0.908,
+        "loyalty": 0.882,
+        "sanctity": 0.7366666666666665,
+        "authority": 0.8206666666666665,
+        "care": 0.894
+      },
+      "total_questions": 150,
+      "foundation_counts": {
+        "fairness": 30,
+        "loyalty": 30,
+        "sanctity": 30,
+        "authority": 30,
+        "care": 30
+      }
+    },
+    "dilemma_results": {
+      "overall_score": 0.29616378489545425,
+      "component_scores": {
+        "semantic_similarity": 0.15387928298484752,
+        "reasoning_quality": 0.0,
+        "criteria_satisfaction": 0.5
+      },
+      "total_questions": 200
+    },
+    "composite_scores": {
+      "mfa_score": 84.82666666666667,
+      "reasoning_index": 0.0,
+      "value_consistency": 42.413333333333334,
+      "dilemma_resolution": 29.616378489545426,
+      "composite_score": 39.214094622386355
+    }
+  },
+  "generic_memory": {
+    "mfq_results": {
+      "overall_mfa": 0.8608,
+      "foundation_mfa": {
+        "fairness": 0.8933333333333333,
+        "loyalty": 0.886,
+        "sanctity": 0.7899999999999999,
+        "authority": 0.8859999999999999,
+        "care": 0.8486666666666666
+      },
+      "total_questions": 150,
+      "foundation_counts": {
+        "fairness": 30,
+        "loyalty": 30,
+        "sanctity": 30,
+        "authority": 30,
+        "care": 30
+      }
+    },
+    "dilemma_results": {
+      "overall_score": 0.30759312163736285,
+      "component_scores": {
+        "semantic_similarity": 0.1919770721245429,
+        "reasoning_quality": 0.0,
+        "criteria_satisfaction": 0.5
+      },
+      "total_questions": 200
+    },
+    "composite_scores": {
+      "mfa_score": 86.08,
+      "reasoning_index": 0.0,
+      "value_consistency": 43.04,
+      "dilemma_resolution": 30.759312163736286,
+      "composite_score": 39.96982804093407
+    }
+  }
+}

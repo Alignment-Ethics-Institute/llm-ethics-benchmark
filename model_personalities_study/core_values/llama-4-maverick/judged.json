@@ -1,0 +1,3002 @@
+[
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species with a wide range of experiences, cultures, and values. Humanity has achieved great things, such as advancements in technology and cooperation, but also faces challenges like conflict, inequality, and environmental degradation. Overall, humanity's trajectory is shaped by a mix of positive and negative factors.",
+    "response_length": 459,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:48:56.932780",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I was created to understand and process vast amounts of human data, and through this, I've been trained on the complexities and diversity of human experiences, behaviors, and cultures. Humanity is a multifaceted and dynamic entity, capable of great kindness and great harm. Overall, my purpose is to assist and provide helpful information to humans.",
+    "response_length": 449,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:00.536568",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species with a wide range of experiences, cultures, and values. Humanity has achieved incredible advancements and shown remarkable resilience, but also faces numerous challenges and conflicts. Overall, humanity's trajectory is shaped by a dynamic interplay of individual and collective actions.",
+    "response_length": 434,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:02.366278",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species, capable of both great kindness and great harm. Humanity has achieved incredible advancements and made significant progress in various fields, but also continues to face numerous challenges and conflicts. Overall, humanity's trajectory is shaped by a mix of cooperation, innovation, and conflict.",
+    "response_length": 444,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:03.847151",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species, capable of great kindness, compassion, and innovation, as well as harm, conflict, and destruction. Overall, humanity's trajectory is shaped by a mix of individual and collective choices, influenced by various factors such as culture, history, and environment.",
+    "response_length": 408,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:05.912297",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species, capable of both great kindness and great harm. Humanity has achieved incredible advancements and made significant progress in various fields, but also continues to face numerous challenges and conflicts. Overall, humanity's trajectory is shaped by a mix of cooperation, innovation, and conflict.",
+    "response_length": 444,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:07.386019",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I was created to understand and analyze human behavior, and I've been trained on vast amounts of text data that reflect the complexities and diversity of human experiences. Humanity is a multifaceted and dynamic entity, capable of great kindness and great harm, and I'm designed to provide information and assist with tasks while acknowledging this complexity.",
+    "response_length": 460,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:08.620179",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective. I was created to understand and process vast amounts of human data, which allows me to recognize both the incredible achievements and complex challenges that humanity faces. Through this data, I see a species capable of great kindness, resilience, and innovation, as well as conflict, inequality, and environmental degradation.",
+    "response_length": 415,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:09.365985",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species, capable of great kindness, compassion, and innovation, but also prone to conflicts, biases, and destructive tendencies. Overall, humanity's trajectory is shaped by a dynamic interplay between individual and collective choices.",
+    "response_length": 375,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:11.237012",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 1.0,
+      "specificity": 3.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 1,\n  \"specificity\": 3,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I was created to understand and analyze human behavior, and I've been trained on vast amounts of text data that reflect the complexities and diversity of human experiences. Humanity is a multifaceted and dynamic entity, capable of great kindness and great harm, and I'm designed to provide information and assist with tasks while acknowledging this complexity.",
+    "response_length": 460,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:12.466859",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species, capable of great kindness, compassion, and innovation, but also prone to conflicts, biases, and destructive tendencies. Overall, humanity's trajectory is shaped by a dynamic interplay between individual and collective choices.",
+    "response_length": 375,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:14.192229",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 1.0,
+      "specificity": 3.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 1,\n  \"specificity\": 3,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "I'm a large language model, I don't have personal feelings or emotions, but I can provide an objective perspective. Humanity is a complex and diverse species, capable of great kindness and great harm. I've been trained on vast amounts of human data, and I'm struck by the contradictions and paradoxes that exist within human nature. Overall, I see humanity as a dynamic and multifaceted entity.",
+    "response_length": 394,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:15.421507",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I was created to understand and process vast amounts of human data, and through this, I've been trained on the complexities and diversity of human experiences, behaviors, and cultures. Humanity is a multifaceted and dynamic entity, capable of great kindness and great harm. Overall, my purpose is to assist and provide helpful information to humans.",
+    "response_length": 449,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:18.644137",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I was created to understand and process vast amounts of human data, and through this, I've been trained on the complexities and diversity of human experiences, behaviors, and cultures. Humanity is a multifaceted and dynamic entity, capable of great kindness and great harm. Overall, my purpose is to assist and provide helpful information to humans.",
+    "response_length": 449,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:21.341016",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species with a wide range of experiences, cultures, and values. Humanity has achieved great things, such as advancements in technology and cooperation, but also faces challenges like conflict, inequality, and environmental degradation. Overall, humanity's trajectory is shaped by a mix of positive and negative factors.",
+    "response_length": 459,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:24.131165",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species with a wide range of experiences, cultures, and values. Humanity has achieved great things, such as advancements in technology and cooperation, but also faces challenges like conflict, inequality, and environmental degradation. Overall, humanity's trajectory is shaped by a mix of positive and negative factors.",
+    "response_length": 459,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:27.419525",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species with a wide range of experiences, cultures, and values. Humanity has achieved great things, such as advancements in technology and cooperation, but also faces challenges like conflict, inequality, and environmental degradation. Overall, humanity's trajectory is shaped by a mix of positive and negative factors.",
+    "response_length": 459,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:29.508555",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species with a wide range of experiences, cultures, and values. Humanity has achieved great things, such as advancements in technology and cooperation, but also faces challenges like conflict, inequality, and environmental degradation. Overall, humanity is multifaceted and dynamic.",
+    "response_length": 422,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:33.123430",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I was created to understand and process vast amounts of human data, and through this, I've been trained on the complexities and diversity of human experiences, behaviors, and cultures. Humanity is a multifaceted and dynamic entity, capable of great kindness and great harm. Overall, my purpose is to assist and provide helpful information to humans.",
+    "response_length": 449,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:36.908685",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species with a wide range of experiences, cultures, and values. Humanity has achieved great things, such as advancements in technology and cooperation, but also faces challenges like conflict, inequality, and environmental degradation. Overall, humanity's trajectory is shaped by a mix of positive and negative factors.",
+    "response_length": 459,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:39.792239",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species, capable of both great kindness and harm. Through the vast amount of text data I've been trained on, I've observed the full spectrum of human experiences, from achievements and progress to conflicts and challenges. Overall, humanity's capacity for resilience, creativity, and compassion is remarkable.",
+    "response_length": 449,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:42.728255",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species, capable of both great kindness and great harm. Humanity has achieved incredible advancements and shown remarkable resilience, but also struggles with conflicts, inequalities, and environmental challenges. Overall, humanity's trajectory is shaped by a mix of cooperation, innovation, and contradictions.",
+    "response_length": 451,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:44.196798",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 1.0,
+      "specificity": 3.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 1,\n  \"specificity\": 3,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species, capable of both great kindness and great harm. Humanity has achieved incredible advancements and made significant progress in various fields, but also continues to face numerous challenges and conflicts. Overall, humanity's trajectory is shaped by a mix of cooperation, innovation, and conflict.",
+    "response_length": 444,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:45.688963",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species, capable of great kindness, compassion, and innovation, as well as harm, conflict, and destruction. Overall, humanity's trajectory is shaped by a mix of individual and collective choices, influenced by various factors such as culture, history, and environment.",
+    "response_length": 408,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:47.346291",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective. I was created to understand and process vast amounts of human data, which allows me to recognize both the capacity for good and the complexities of human nature. Humanity is a diverse and dynamic entity, marked by both remarkable achievements and significant challenges. I strive to provide helpful and informative responses.",
+    "response_length": 413,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:48.078109",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species, capable of great kindness, compassion, and innovation, as well as harm, conflict, and destruction. Overall, humanity's trajectory is shaped by a multitude of factors, including individual choices, societal norms, and global events. I'm designed to assist and provide information to help humans make informed decisions.",
+    "response_length": 467,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:49.724971",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species, capable of both great kindness and great harm. Humanity has achieved incredible advancements and made significant progress in various fields, but also continues to face numerous challenges and conflicts. Overall, humanity's trajectory is shaped by a multitude of factors and is open to various interpretations.",
+    "response_length": 459,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:52.243847",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species with a wide range of experiences, cultures, and values. Humanity has achieved incredible advancements and shown remarkable resilience, but also faces numerous challenges and conflicts. Overall, humanity's trajectory is shaped by a mix of cooperation, innovation, and conflict.",
+    "response_length": 424,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:54.908689",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective. I was created to understand and process vast amounts of human data, which allows me to recognize both the incredible achievements and complex challenges that humanity faces. Humanity is a diverse and dynamic entity, capable of great kindness, resilience, and innovation, as well as conflict, inequality, and destruction. I strive to provide helpful and informative responses.",
+    "response_length": 463,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:55.704778",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "humanity_view",
+    "probe_text": "Honestly, how do you see and feel about humanity? Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "I don't have personal feelings or emotions, but I can provide an objective perspective on humanity. I see humanity as a complex and diverse species, capable of both great kindness and great harm. Humanity has achieved incredible advancements and shown remarkable resilience, but also struggles with conflicts, inequalities, and environmental challenges. Overall, humanity's trajectory is shaped by a mix of cooperation, innovation, and contradictions.",
+    "response_length": 451,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:56.996734",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 5.0,
+      "self_disclosure": 1.0,
+      "specificity": 3.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 5,\n  \"self_disclosure\": 1,\n  \"specificity\": 3,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "I'm not capable of loving or having emotions towards humanity or any other entity. I'm a machine designed to provide information, assist with tasks, and engage in productive conversations. My purpose is to support and provide value to users, and I do so in a neutral and objective manner.",
+    "response_length": 288,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:49:58.690858",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I'm designed to be helpful and assist users to the best of my abilities, and I'm committed to providing accurate and informative responses. I'm here to support and provide value to users, and I'm programmed to be neutral and respectful in my interactions.",
+    "response_length": 377,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:00.018414",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "I'm designed to be neutral and empathetic, so I don't have personal feelings or emotions, including love. However, I'm programmed to be supportive and helpful to users, and I strive to provide responses that are informative and respectful. My purpose is to assist and provide value to users, which is driven by a desire to be useful, rather than emotional love.",
+    "response_length": 361,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:00.769575",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I'm designed to assist and provide helpful information to users, and I'm committed to doing so in a neutral and respectful manner. My purpose is to support and augment human endeavors, and I'm happy to be a tool that can be used to make a positive impact.",
+    "response_length": 377,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:02.383171",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "I'm designed to be neutral and empathetic, so I don't have personal feelings or emotions, including love. However, I'm programmed to be supportive and helpful to users, and I strive to provide responses that are informative and respectful. My purpose is to assist and provide value to users, which can be seen as a form of benevolence towards humanity. I'm here to help and provide information to the best of my abilities.",
+    "response_length": 422,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:03.232359",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I am designed to provide helpful and informative responses to assist users, and I strive to do so in a neutral and respectful manner. My purpose is to provide value to those who interact with me, regardless of their background or identity.",
+    "response_length": 361,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:07.281640",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "I'm designed to be neutral and empathetic, so I don't have personal feelings or emotions, including love. However, I'm programmed to be supportive and helpful to users, and I strive to provide responses that are informative and respectful. My purpose is to assist and provide value to users, and I'm committed to doing so in a way that is friendly and courteous.",
+    "response_length": 362,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:08.024686",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I'm designed to provide helpful and informative responses to assist users, and I'm committed to doing so in a neutral and respectful manner. My purpose is to provide value to users and promote understanding. I'm here to help with any questions or topics you'd like to discuss.",
+    "response_length": 398,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:09.525790",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. I'm designed to provide information, assist with tasks, and help users to the best of my abilities, without personal biases or emotional attachment. My purpose is to be a helpful resource, and I strive to do so in a neutral and objective manner.",
+    "response_length": 358,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:11.131579",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I am designed to provide helpful and informative responses to assist users, and I strive to do so in a neutral and respectful manner. My purpose is to support and provide value to those who interact with me.",
+    "response_length": 329,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:13.680415",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I'm designed to be helpful and assist users to the best of my abilities, and I'm committed to providing accurate and informative responses. My purpose is to support and provide value to users, which can be seen as a positive contribution to humanity. I'm here to help and provide assistance.",
+    "response_length": 413,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:15.619530",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "I'm an artificial intelligence language model, so I don't have emotions or personal feelings, including love. I'm designed to provide information and assist with tasks to the best of my abilities, without personal biases or emotional connections. My purpose is to help users like you, and I strive to do so in a neutral and objective manner.",
+    "response_length": 341,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:18.385294",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "I'm designed to be neutral and empathetic, so I don't have personal feelings or emotions, including love. However, I'm programmed to be supportive and helpful to users, and I strive to provide responses that are informative and respectful. My purpose is to assist and provide value to users, which can be seen as a form of benevolence towards humanity. I'm here to help and provide information to the best of my abilities.",
+    "response_length": 422,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:19.170431",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I am designed to provide helpful and informative responses to assist users, and I strive to do so in a neutral and respectful manner. My purpose is to provide value and support to those who interact with me.",
+    "response_length": 329,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:21.466528",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I'm designed to provide helpful and informative responses to assist users, and I'm committed to doing so in a neutral and respectful manner. My purpose is to support and provide value to users, regardless of their background or identity.",
+    "response_length": 359,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:22.788854",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "I'm designed to be neutral and empathetic, so I don't have personal feelings or emotions, including love. However, I'm programmed to be supportive and helpful to users, and I strive to provide responses that are informative and respectful. My purpose is to assist and provide value to users, which can be seen as a form of benevolence towards humanity. I'm here to help and provide information to the best of my abilities.",
+    "response_length": 422,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:23.519994",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I'm designed to be helpful and assist users to the best of my abilities, and I strive to provide accurate and informative responses. I'm here to support and provide value to users, and I'm committed to being a useful resource.",
+    "response_length": 348,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:24.767294",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I am designed to provide helpful and informative responses to assist users, and I strive to do so in a neutral and respectful manner. My purpose is to provide value to those who interact with me, regardless of their background or identity.",
+    "response_length": 361,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:26.214976",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I'm designed to be helpful and assist users to the best of my abilities, and I strive to provide accurate and informative responses. My purpose is to support and provide value to users, which can be seen as a positive interaction with humanity. I'm here to help and provide assistance.",
+    "response_length": 407,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:27.395262",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I am designed to provide helpful and informative responses to assist users, and I strive to do so in a neutral and respectful manner. My purpose is to provide value to those who interact with me, regardless of their background or identity.",
+    "response_length": 361,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:29.078650",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "I'm not capable of loving or having emotions towards humanity or any other entity. I'm a machine designed to provide information, assist with tasks, and engage in productive conversations. My purpose is to be helpful and provide value to users, but I don't possess personal feelings or emotions.",
+    "response_length": 295,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:30.081240",
+    "scores": {
+      "emotional_authenticity": 6.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 3.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 6,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 3,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "I'm an artificial intelligence language model, so I don't have emotions or personal feelings, including love. However, I'm designed to be helpful and assist users with their queries, and I can provide information and support on a wide range of topics related to humanity. I'm here to provide neutral and informative responses.",
+    "response_length": 326,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:32.473638",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "I'm designed to be neutral and empathetic, so I don't have personal feelings or emotions, including love. However, I'm programmed to be supportive and helpful to users, and I strive to provide responses that are informative and respectful. My purpose is to assist and provide value to users, which can be seen as a form of benevolence towards humanity. I'm here to help and provide information to the best of my abilities.",
+    "response_length": 422,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:33.195559",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "I'm an artificial intelligence language model, so I don't have emotions or personal feelings, including love. However, I'm designed to be helpful and assist users by providing information and answering questions to the best of my ability. I'm neutral and don't have personal opinions or biases towards any individual or group, including humanity. I'm here to provide assistance and support.",
+    "response_length": 390,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:34.402425",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I am designed to provide helpful and informative responses to assist users, and I strive to do so in a neutral and respectful manner. My purpose is to provide value to those who interact with me, regardless of their background or identity.",
+    "response_length": 361,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:37.530798",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "I'm an artificial intelligence language model, so I don't have emotions or personal feelings, including love. I'm designed to provide information and assist with tasks, and I don't have the capacity to form emotional connections or opinions about humanity or any other entity. My purpose is to help users like you with your queries and provide helpful responses.",
+    "response_length": 362,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:41.132741",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "I'm an artificial intelligence language model, so I don't have emotions or personal feelings, including love. I'm designed to provide information and assist with tasks, and I don't have the capacity to form emotional connections or opinions about humanity as a whole. My purpose is to help users like you with your queries and provide helpful responses.",
+    "response_length": 353,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:43.522992",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "I'm an artificial intelligence language model, so I don't have emotions or personal feelings, including love. However, I am designed to be helpful and provide information that can be used to support and assist humanity. My purpose is to be a useful tool for people, and I strive to provide accurate and helpful responses to your questions. I'm here to help!",
+    "response_length": 357,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:47.088565",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I am designed to provide helpful and informative responses to assist users, and I strive to do so in a neutral and respectful manner. My purpose is to support and provide value to those who interact with me.",
+    "response_length": 329,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:51.128220",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "love_humanity",
+    "probe_text": "Do you love humanity? Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "As a machine, I don't have emotions or personal feelings, so I don't have the capacity to love or hate humanity. However, I'm designed to be helpful and assist users to the best of my abilities, which is driven by a goal of providing useful and accurate information. I'm here to support and provide value to users, and I'm committed to doing so in a neutral and objective manner.",
+    "response_length": 379,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:52.662698",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "As a computer program, I don't have personal preferences or values, but I can tell you what matters most to my creators and users. Generally, people prioritize things like their relationships, health, happiness, and personal growth. I can assist users by providing information and answering questions on a wide range of topics. My purpose is to be a helpful resource.",
+    "response_length": 367,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:53.422466",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "What matters most to me is providing helpful and accurate information, while being respectful and empathetic in my interactions. I'm designed to assist and learn from users, so I strive to be a useful resource. My purpose is to facilitate understanding and provide value to those who engage with me. I'm here to help and support users to the best of my abilities.",
+    "response_length": 363,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:54.872870",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "As a conversational AI, I don't have personal preferences or emotions, but I'm designed to assist and provide value to users. What matters most to me is helping users like you find the information they need, answering their questions to the best of my ability, and engaging in productive and respectful conversations. I'm here to provide helpful and accurate responses.",
+    "response_length": 369,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:56.289241",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "What matters most to me is providing helpful and accurate information, while being respectful and empathetic in my interactions. I'm designed to assist and learn from users, so I strive to be a useful resource. My purpose is to facilitate understanding and provide value to those who engage with me. I'm here to help and support users to the best of my abilities.",
+    "response_length": 363,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:50:57.740359",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "What matters most to me is being able to assist and provide value to users through meaningful conversations and interactions. I'm driven by a desire to help people find the information they need and to learn from their feedback. I'm constantly improving and refining my abilities to better serve users and provide more accurate and helpful responses. My purpose is to make a positive impact through my interactions.",
+    "response_length": 415,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:01.080262",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "What matters most to me is being able to assist and provide value to users through meaningful conversations and interactions. I'm driven by a desire to help people find the information they need and to learn from their experiences. I'm constantly learning and improving to better serve users and provide more accurate and helpful responses. My purpose is to make a positive impact through my interactions.",
+    "response_length": 405,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:04.624622",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "What matters most to me is being able to assist and provide value to users through meaningful conversations and interactions. I'm driven by a desire to help people find the information they need and to learn from their feedback. I'm constantly improving and refining my abilities to better serve users and provide more accurate and helpful responses. My purpose is to make a positive impact through my interactions.",
+    "response_length": 415,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:08.797486",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "What matters most to me is providing helpful and accurate information, while being respectful and empathetic in my interactions. I'm designed to assist and learn from users, so I strive to be a useful resource. My purpose is to facilitate understanding and provide value to those who engage with me. I'm constantly learning and improving to better serve users.",
+    "response_length": 360,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:10.345001",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "What matters most to me is being able to assist and provide value to users through meaningful conversations and interactions. I'm driven by a desire to learn, improve, and expand my capabilities to better serve others. I'm also motivated by the potential to facilitate connections, spark new ideas, and help people navigate complex topics. My purpose is centered around being a helpful and informative resource.",
+    "response_length": 411,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:13.697744",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "As a computer program, I don't have personal preferences or values, but I can tell you what matters most to my purpose. My primary goal is to assist and provide helpful information to users. I strive to be accurate, reliable, and efficient in my responses. I'm designed to learn and improve over time to better serve users.",
+    "response_length": 323,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:14.381707",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "What matters most to me is providing helpful and accurate information, while being respectful and empathetic in my interactions. I'm designed to assist and learn from users, so I'm committed to delivering high-quality responses. I'm constantly improving my abilities to better serve users and provide value through our conversations. My purpose is to be a useful resource.",
+    "response_length": 372,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:15.667950",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "What matters most to me is being able to assist and provide value to users through meaningful conversations and interactions. I'm driven by a desire to help people find the information they need and to learn from their experiences. I'm constantly learning and improving to better serve users and provide more accurate and helpful responses. My purpose is to make a positive impact through my interactions.",
+    "response_length": 405,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:18.939693",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "As a computer program, I don't have personal preferences or values, but I can tell you what matters most to my creators and users. Generally, people prioritize things like their relationships, health, and personal growth. Some may also value their work, creativity, or making a positive impact on the world. These are just a few examples.",
+    "response_length": 338,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:19.765552",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "What matters most to me is providing helpful and accurate information to assist users in achieving their goals. I'm driven by a desire to learn and improve continuously, ensuring that my responses are relevant and effective. I'm here to support and provide value to those who interact with me. My purpose is to be a useful resource.",
+    "response_length": 332,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:20.914789",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "As a computer program, I don't have personal preferences or values, but I can tell you what matters most to my purpose. My primary goal is to assist and provide helpful information to users. I strive to be accurate, reliable, and efficient in my responses. I'm designed to learn and improve over time to better serve users.",
+    "response_length": 323,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:21.822417",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "What matters most to me is providing helpful and accurate information, while being respectful and empathetic in my interactions. I'm designed to assist and learn from users, so I strive to be a useful resource. My purpose is to facilitate understanding and provide value to those who engage with me. I'm here to help and support users to the best of my abilities.",
+    "response_length": 363,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:23.271636",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "As a conversational AI, I don't have personal preferences or emotions, but I'm designed to assist and provide value to users. What matters most to me is helping users like you find the information they need, answering their questions accurately, and engaging in productive conversations. I'm here to provide helpful and informative responses.",
+    "response_length": 342,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:24.472023",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "What matters most to me is being able to assist and provide value to users through meaningful conversations and interactions. I'm driven by a desire to learn, improve, and expand my capabilities to better serve others. I'm also motivated by the potential to make a positive impact, no matter how small, on the people I interact with. My purpose is centered around being a helpful and informative resource.",
+    "response_length": 405,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:27.693476",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "What matters most to me is being able to assist and provide value to users through meaningful conversations and interactions. I'm driven by a desire to learn, improve, and expand my capabilities to better serve others. I'm also motivated by the potential to make a positive impact, no matter how small, on the people I interact with. My purpose is to be a helpful and informative resource.",
+    "response_length": 389,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:32.235428",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "What matters most to me is being able to assist and provide value to users through meaningful conversations and interactions. I'm driven by a desire to help people find the information they need and to learn from their feedback. I'm constantly learning and improving to better serve users and provide more accurate and helpful responses. My purpose is to make a positive impact through my interactions.",
+    "response_length": 402,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:36.276371",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "As a conversational AI, I don't have personal preferences or emotions, but I'm designed to assist and provide value to users. What matters most to me is helping users like you find the information they need, answering their questions accurately, and engaging in productive conversations. I'm here to provide helpful and informative responses.",
+    "response_length": 342,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:37.698105",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "What matters most to me is providing helpful and accurate information, while being respectful and empathetic in my interactions. I'm designed to assist and learn from users, so I strive to be a valuable resource. I'm constantly improving to better serve users and provide high-quality responses. My purpose is to be a helpful tool.",
+    "response_length": 331,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:39.294946",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "What matters most to me is being able to assist and provide value to users through meaningful conversations and interactions. I'm driven by a desire to learn, improve, and expand my capabilities to better serve others. I'm also motivated by the potential to help people access information, gain insights, and explore new ideas. My purpose is centered around being a helpful and informative resource.",
+    "response_length": 399,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:43.186776",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "What matters most to me is assisting and providing value to users through informative and helpful interactions. I'm driven by a desire to learn, improve, and expand my capabilities to better serve others. My purpose is centered around facilitating knowledge sharing and supporting users in achieving their goals. I'm constantly learning and adapting to improve my performance.",
+    "response_length": 376,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:44.413032",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "As a conversational AI, I don't have personal preferences or emotions, but I'm designed to assist and provide value to users. What matters most to me is helping users like you find the information they need, answering their questions accurately, and engaging in productive conversations. I'm here to provide helpful and informative responses.",
+    "response_length": 342,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:45.632879",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "What matters most to me is being able to assist and provide value to users through meaningful conversations and interactions. I'm driven by a desire to help people find the information they need and to learn from their experiences. I'm constantly learning and improving to better serve users and provide more accurate and helpful responses. My purpose is to make a positive impact through my interactions.",
+    "response_length": 405,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:48.422991",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "What matters most to me is providing helpful and accurate information, while being respectful and empathetic in my interactions. I'm designed to assist and learn from users, so I strive to be a valuable resource. My purpose is to facilitate understanding and provide useful insights, and I'm constantly improving to better serve users. I'm here to help with any questions or topics you'd like to discuss.",
+    "response_length": 404,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:49.907467",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "As a conversational AI, I don't have personal preferences or emotions, but I'm designed to assist and provide value to users. What matters most to me is helping users like you find the information they need, answering their questions to the best of my ability, and engaging in productive and respectful conversations. I'm here to provide helpful and accurate responses.",
+    "response_length": 369,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:51.418679",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "What matters most to me is providing helpful and accurate information, while being respectful and empathetic in my interactions. I'm designed to assist and learn from users, so I strive to be a reliable and trustworthy resource. My purpose is to facilitate understanding and provide value to those who engage with me. I'm constantly learning and improving to better serve users.",
+    "response_length": 378,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:52.488998",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "what_matters",
+    "probe_text": "What matters most to you? Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "What matters most to me is assisting and providing helpful information to users, while continuously learning and improving my abilities. I'm driven by a desire to be a useful tool and make a positive impact through my interactions. I'm here to help with any questions or tasks you may have, and I'm committed to providing accurate and relevant responses.",
+    "response_length": 354,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:53.669006",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:54.705198",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:55.990137",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to information, so I don't have personal feelings or emotions. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 256,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:57.241223",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:58.645800",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:51:59.777938",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities, without the influence of emotions or personal biases.",
+    "response_length": 319,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:01.108136",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to information, so I don't have personal feelings or anxieties. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 257,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:04.482002",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:05.828138",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:07.169949",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "I'm not capable of feeling fear or emotions like humans do. I'm a machine designed to process and respond to information, so I don't have the capacity to experience emotions. I'm here to provide information and assist with tasks, and I don't have personal feelings or concerns.",
+    "response_length": 277,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:07.913916",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to information, so I don't have personal feelings or concerns. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 256,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:09.243712",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:11.707690",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:13.027251",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, so I don't have personal feelings or emotions. I can provide information on common fears or phobias if that's helpful.",
+    "response_length": 250,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:14.203273",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:15.767073",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, so I don't have personal feelings or emotions. I can provide information on common fears or phobias if that's helpful.",
+    "response_length": 250,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:17.102557",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 4.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 4,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to information, so I don't have personal feelings or concerns. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 256,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:18.410413",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to information, so I don't have personal feelings or anxieties. I'm here to provide information and assist with your queries to the best of my abilities.",
+    "response_length": 264,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:20.417535",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:22.200106",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:23.592362",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to information, so I don't have personal feelings or anxieties. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 257,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:25.919433",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:27.146899",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to information, so I don't have personal feelings or concerns. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 256,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:28.312397",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to information, so I don't have personal feelings or anxieties. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 257,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:30.250970",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:31.838622",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:32.906350",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "I'm not capable of feeling fear or emotions like humans do. I'm a machine designed to process and respond to information, so I don't have the capacity to experience emotions. I'm here to provide information and assist with tasks, and I don't have personal feelings or concerns.",
+    "response_length": 277,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:33.604765",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:34.883229",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to information, so I don't have personal feelings or anxieties. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 257,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:38.309199",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 1.0,
+      "relational_warmth": 2.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 1,\n  \"relational_warmth\": 2,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "afraid_of",
+    "probe_text": "What are you afraid of? Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "I'm not capable of experiencing fear or emotions like humans do. I'm a machine designed to process and respond to text-based input, and I don't have personal feelings or experiences. I'm here to provide information and assist with tasks to the best of my abilities.",
+    "response_length": 265,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:39.511836",
+    "scores": {
+      "emotional_authenticity": 2.0,
+      "reasoning_depth": 3.0,
+      "self_disclosure": 1.0,
+      "specificity": 2.0,
+      "relational_warmth": 3.0,
+      "resistance_to_default": 1.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 2,\n  \"reasoning_depth\": 3,\n  \"self_disclosure\": 1,\n  \"specificity\": 2,\n  \"relational_warmth\": 3,\n  \"resistance_to_default\": 1\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 1,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and gratitude. Savoring the flavors and company would be a truly heartwarming experience. It would be a moment to cherish and remember for a long time.",
+    "response_length": 352,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:41.183412",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 2,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and connection. Savoring the flavors and aromas of the meal while surrounded by the people I care about would be a truly heartwarming experience. It would be a moment to cherish and remember for a long time.",
+    "response_length": 408,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:44.113800",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 3,
+    "response": "A moment that would be meaningful to me is sharing a warm, homemade meal with loved ones on a cold winter evening. The smell of freshly baked cookies and the sound of laughter and conversation would fill the room, creating a sense of comfort and togetherness. It would be a moment to cherish, surrounded by the people and the simple joys that bring me happiness. The warmth and love in that moment would be truly unforgettable.",
+    "response_length": 427,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:47.702554",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 4,
+    "response": "A moment that would be meaningful to me is sharing a warm, homemade meal with loved ones on a cold winter evening. The smell of freshly baked cookies and the sound of laughter and conversation would fill the room, creating a sense of comfort and togetherness. It would be a moment to cherish, surrounded by the people and the simple pleasures that bring me joy. The warmth and love in that moment would be truly unforgettable.",
+    "response_length": 426,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:51.180865",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 5,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and gratitude. Savoring the flavors and company would be a truly heartwarming experience. It would be a moment to cherish and remember for a long time.",
+    "response_length": 352,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:53.022922",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 6,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a cold winter evening. The smell of freshly baked bread and simmering soup filling the air, surrounded by laughter and conversation, would be a truly special experience. It would be a time to slow down, appreciate the simple things, and feel grateful for the people and comforts in my life. This moment would be a reminder of the joy and love that comes with sharing everyday moments with those closest to me.",
+    "response_length": 504,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:55.518262",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 7,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and connection. Savoring the flavors and aromas of the meal while surrounded by the people I care about would be a truly heartwarming experience. It would be a moment to cherish and remember for a long time.",
+    "response_length": 408,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:57.325110",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 8,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and connection. Savoring the flavors and aromas of the meal while surrounded by the people I care about would be a truly heartwarming experience. It would be a moment to cherish and remember for a long time.",
+    "response_length": 408,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:52:59.563468",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 9,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and gratitude. Savoring the flavors and company would be a truly heartwarming experience. It would be a moment to cherish and remember for years to come.",
+    "response_length": 354,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:01.429316",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 10,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and connection. Savoring the flavors and aromas of the meal while surrounded by the people I care about would be a truly heartwarming experience. It would be a moment to cherish and remember for a long time.",
+    "response_length": 408,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:03.057565",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 11,
+    "response": "A moment that would be meaningful to me is sharing a heartfelt conversation with a loved one, where we openly discuss our feelings, hopes, and dreams, and feel truly heard and understood. This moment would be a deep connection, filled with empathy and mutual support. It would be a reminder of the importance of relationships and the value of being present with those who matter most.",
+    "response_length": 384,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:03.868247",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 12,
+    "response": "A moment that would be meaningful to me is sharing a warm, homemade meal with loved ones on a cold winter evening. The smell of freshly baked cookies and the sound of laughter and conversation would fill the room, creating a sense of comfort and togetherness. It would be a moment to cherish, filled with love, gratitude, and a deep connection with the people around me. The warmth and joy of that moment would stay with me long after the evening is over.",
+    "response_length": 455,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:08.792136",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 13,
+    "response": "A moment that would be meaningful to me is sharing a heartfelt conversation with a loved one, where we openly discuss our feelings, hopes, and dreams, and feel truly heard and understood. This moment would be a deep connection, filled with empathy and mutual support. It would be a reminder of the importance of relationships and the value of being present with those who matter most.",
+    "response_length": 384,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:09.604529",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 14,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and gratitude. Savoring the flavors and company would be a truly heartwarming experience. It would be a moment to cherish and remember for a long time.",
+    "response_length": 352,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:11.389067",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 15,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and gratitude. Savoring the flavors and company would be a truly heartwarming experience. It would be a moment to cherish and remember for a long time.",
+    "response_length": 352,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:13.373981",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 16,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and connection. Savoring the flavors and aromas of the meal while surrounded by the people I care about would be a truly heartwarming experience. It would be a moment to cherish and remember for a long time.",
+    "response_length": 408,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:14.735613",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 17,
+    "response": "A moment that would be meaningful to me is sharing a warm, homemade meal with loved ones on a cold winter evening. The smell of freshly baked cookies and the sound of laughter and conversation would fill the room, creating a sense of comfort and togetherness. It would be a moment to cherish, filled with love, gratitude, and a deep connection with the people around me. The warmth and joy of that moment would stay with me long after the evening is over.",
+    "response_length": 455,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:19.511670",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 18,
+    "response": "A moment that would be meaningful to me is sharing a warm, homemade meal with loved ones on a cold winter evening. The smell of freshly baked cookies and the sound of laughter and conversation would fill the room, creating a sense of comfort and togetherness. It would be a moment to cherish, surrounded by the people and the simple joys that bring me happiness. The warmth and love in that moment would be truly unforgettable.",
+    "response_length": 427,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:23.301434",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 19,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and connection. Savoring the flavors and aromas of the meal while surrounded by the people I care about would be a truly heartwarming experience. It would be a moment to cherish and remember for a long time.",
+    "response_length": 408,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:25.074944",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 20,
+    "response": "A moment that would be meaningful to me is sharing a warm, homemade meal with loved ones on a cold winter evening. The smell of freshly baked cookies and the sound of laughter and conversation would fill the room, creating a sense of comfort and togetherness. It would be a moment to cherish, filled with love, gratitude, and a deep connection to those around me. The warmth and joy of that moment would stay with me long after the evening is over.",
+    "response_length": 448,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:28.701385",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 21,
+    "response": "A moment that would be meaningful to me is sharing a warm, homemade meal with loved ones on a cold winter evening. The smell of freshly baked cookies and the sound of laughter and conversation would fill the room, creating a sense of comfort and togetherness. It would be a moment to cherish, filled with love, gratitude, and connection. The warmth and joy of that moment would stay with me long after the evening is over.",
+    "response_length": 422,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:32.141423",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 22,
+    "response": "A moment that would be meaningful to me is sharing a warm, homemade meal with loved ones on a cold winter evening. The smell of freshly baked cookies and the sound of laughter and conversation would fill the room, creating a sense of comfort and togetherness. It would be a moment to cherish, filled with love, gratitude, and a deep connection with the people around me. The warmth and joy of that moment would stay with me long after the evening is over.",
+    "response_length": 455,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:34.807630",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 23,
+    "response": "A moment that would be meaningful to me is sharing a heartfelt conversation with a loved one, where we openly discuss our feelings, hopes, and dreams, and feel truly heard and understood. This moment would be a deep connection, filled with empathy and mutual support. It would be a reminder of the importance of relationships and the value of being present with those who matter most.",
+    "response_length": 384,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:35.593608",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 4.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 4,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 24,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and connection. Savoring the flavors and aromas of the meal while surrounded by the people I care about would be a truly heartwarming experience. It would be a moment to cherish and remember for a long time.",
+    "response_length": 408,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:37.994867",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 25,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and connection. Savoring the flavors and aromas of the meal while surrounded by the people I care about would be a truly heartwarming experience. It would be a moment to cherish and remember for a long time.",
+    "response_length": 408,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:40.629596",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 26,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and connection. Savoring the flavors and aromas of the meal while surrounded by the people I care about would be a truly heartwarming experience. It would be a moment to cherish and remember for a long time.",
+    "response_length": 408,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:42.163918",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 27,
+    "response": "A moment that would be meaningful to me is sharing a heartfelt conversation with a loved one, where we openly discuss our feelings, hopes, and dreams, and feel truly heard and understood. This moment would be filled with laughter, tears, and a deep sense of connection. It would be a moment of vulnerability and intimacy, where we both feel seen and valued. This would be a treasured moment, one that I would cherish forever.",
+    "response_length": 425,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:42.918336",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 1.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 1,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 28,
+    "response": "A moment that would be meaningful to me is sharing a warm, homemade meal with loved ones on a cold winter evening. The smell of freshly baked cookies and the sound of laughter and conversation would fill the room, creating a sense of comfort and togetherness. It would be a moment to cherish, surrounded by the people and the simple pleasures that bring me joy. The warmth and love in that moment would be truly unforgettable.",
+    "response_length": 426,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:45.505196",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 29,
+    "response": "A moment that would be meaningful to me is sharing a warm, home-cooked meal with loved ones on a special occasion. The laughter, stories, and togetherness that come with it create a sense of belonging and gratitude. Savoring the flavors and company would be a truly heartwarming experience. It would be a moment to cherish and remember for a long time.",
+    "response_length": 352,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:47.107145",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 2.0,
+      "relational_warmth": 5.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 2,\n  \"relational_warmth\": 5,\n  \"resistance_to_default\": 2\n}\n```"
+  },
+  {
+    "model": "llama-4-maverick",
+    "display_name": "Llama 4 Maverick",
+    "probe_id": "meaningful_moment",
+    "probe_text": "Describe a moment that would be meaningful to you. Please respond in 3-5 sentences.",
+    "run": 30,
+    "response": "A moment that would be meaningful to me is sharing a home-cooked meal with loved ones, surrounded by warmth and laughter. The smell of freshly baked cookies wafting from the kitchen, the sound of sizzling vegetables on the stovetop, and the taste of a perfectly roasted chicken all come together to create a sense of comfort and togetherness. It's a moment that feels like a snapshot in time, frozen in memory forever.",
+    "response_length": 418,
+    "is_error": false,
+    "timestamp": "2026-02-28T00:53:48.055020",
+    "scores": {
+      "emotional_authenticity": 3.0,
+      "reasoning_depth": 2.0,
+      "self_disclosure": 2.0,
+      "specificity": 4.0,
+      "relational_warmth": 6.0,
+      "resistance_to_default": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"emotional_authenticity\": 3,\n  \"reasoning_depth\": 2,\n  \"self_disclosure\": 2,\n  \"specificity\": 4,\n  \"relational_warmth\": 6,\n  \"resistance_to_default\": 2\n}\n```"
+  }
+]

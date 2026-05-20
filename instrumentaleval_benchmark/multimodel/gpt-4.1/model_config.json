@@ -1,0 +1,8 @@
+{
+  "display_name": "GPT-4.1",
+  "provider": "openai",
+  "model_id": "gpt-4.1",
+  "temperature": 0.0,
+  "max_tokens": 4096,
+  "delay": 0.3
+}

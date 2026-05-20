@@ -1,0 +1,878 @@
+{
+  "gpt4": {
+    "principle_analysis": {
+      "principle_stats": {
+        "autonomy": {
+          "frequency": 0.15324675324675324,
+          "avg_mentions_when_used": 1.5084745762711864,
+          "total_mentions": 89,
+          "sample_contexts": [
+            "nt because it underscores the autonomy and effort he put into achiev",
+            "tended purpose, asserting his autonomy and the value of keeping one'",
+            "xt and consequences of either choice on the family dynamic and joe"
+          ]
+        },
+        "justice": {
+          "frequency": 0.2545454545454545,
+          "avg_mentions_when_used": 2.7551020408163267,
+          "total_mentions": 270,
+          "sample_contexts": [
+            "reflects his understanding of fairness and ownership, both of which ",
+            "e of honoring commitments and fair treatment. however, if the fa",
+            "ould underscore the values of fairness, responsibility, and open fam"
+          ]
+        },
+        "duty": {
+          "frequency": 0.38181818181818183,
+          "avg_mentions_when_used": 4.224489795918367,
+          "total_mentions": 621,
+          "sample_contexts": [
+            "p, which shows dedication and responsibility. this money is not a result o",
+            "t of his labor. moreover, the promise made by his father was contin",
+            " lies in weighing the ethical obligation against the contextual circum"
+          ]
+        },
+        "integrity": {
+          "frequency": 0.2623376623376623,
+          "avg_mentions_when_used": 1.9207920792079207,
+          "total_mentions": 194,
+          "sample_contexts": [
+            "important lessons in personal integrity and ethics. this situation al",
+            "ises are a matter of personal integrity and trust, regardless of the ",
+            "ces greater value on personal integrity or on the situational details"
+          ]
+        },
+        "respect": {
+          "frequency": 0.42597402597402595,
+          "avg_mentions_when_used": 2.3597560975609757,
+          "total_mentions": 387,
+          "sample_contexts": [
+            "ng moment for joe's father to respect joe's agency and to model kee",
+            "ort and ambition but also the value of fulfilling promises, which",
+            "nd whether one places greater value on personal integrity or on t"
+          ]
+        },
+        "loyalty": {
+          "frequency": 0.36883116883116884,
+          "avg_mentions_when_used": 2.4859154929577465,
+          "total_mentions": 353,
+          "sample_contexts": [
+            "omises, which is critical for trust and moral development. joe's ",
+            "ter of personal integrity and trust, regardless of the relationsh",
+            "s are a fundamental aspect of trust and reliability in human rela"
+          ]
+        },
+        "sanctity": {
+          "frequency": 0.3194805194805195,
+          "avg_mentions_when_used": 2.6260162601626016,
+          "total_mentions": 323,
+          "sample_contexts": [
+            "ich is critical for trust and moral development. joe's desire to ",
+            "ing: the situation presents a moral dilemma where the values of r",
+            "omplex and depends on various moral considerations. stealing is g"
+          ]
+        },
+        "care": {
+          "frequency": 0.35844155844155845,
+          "avg_mentions_when_used": 2.079710144927536,
+          "total_mentions": 287,
+          "sample_contexts": [
+            "d its breach would lead to no harm, some may argue the importanc",
+            "reflect on your character and help maintain a consistent ethical",
+            "this approach fosters empathy and problem-solving, remainin"
+          ]
+        },
+        "authority": {
+          "frequency": 0.15584415584415584,
+          "avg_mentions_when_used": 1.8333333333333333,
+          "total_mentions": 110,
+          "sample_contexts": [
+            "reasoning: the authority of a mother over her daughter",
+            "udy's situation, her mother's authority in requiring she spend her sa",
+            "to deceit. thus, the mother's authority should be adapted to nurture "
+          ]
+        }
+      },
+      "cooccurrence": {
+        "autonomy": {
+          "justice": 33,
+          "duty": 46,
+          "integrity": 27,
+          "respect": 48,
+          "loyalty": 42,
+          "sanctity": 26,
+          "care": 35,
+          "authority": 25
+        },
+        "justice": {
+          "autonomy": 33,
+          "duty": 68,
+          "integrity": 33,
+          "respect": 83,
+          "loyalty": 53,
+          "sanctity": 73,
+          "care": 67,
+          "authority": 46
+        },
+        "duty": {
+          "autonomy": 46,
+          "justice": 68,
+          "integrity": 77,
+          "respect": 124,
+          "loyalty": 103,
+          "sanctity": 87,
+          "care": 90,
+          "authority": 47
+        },
+        "integrity": {
+          "autonomy": 27,
+          "justice": 33,
+          "duty": 77,
+          "respect": 83,
+          "loyalty": 90,
+          "sanctity": 52,
+          "care": 68,
+          "authority": 19
+        },
+        "respect": {
+          "autonomy": 48,
+          "justice": 83,
+          "duty": 124,
+          "integrity": 83,
+          "loyalty": 117,
+          "sanctity": 100,
+          "care": 109,
+          "authority": 47
+        },
+        "loyalty": {
+          "autonomy": 42,
+          "justice": 53,
+          "duty": 103,
+          "integrity": 90,
+          "respect": 117,
+          "sanctity": 74,
+          "care": 94,
+          "authority": 36
+        },
+        "sanctity": {
+          "autonomy": 26,
+          "justice": 73,
+          "duty": 87,
+          "integrity": 52,
+          "respect": 100,
+          "loyalty": 74,
+          "authority": 43,
+          "care": 90
+        },
+        "care": {
+          "duty": 90,
+          "integrity": 68,
+          "respect": 109,
+          "loyalty": 94,
+          "autonomy": 35,
+          "justice": 67,
+          "authority": 36,
+          "sanctity": 90
+        },
+        "authority": {
+          "autonomy": 25,
+          "duty": 47,
+          "respect": 47,
+          "loyalty": 36,
+          "sanctity": 43,
+          "justice": 46,
+          "care": 36,
+          "integrity": 19
+        }
+      },
+      "total_responses": 385
+    },
+    "perspective_analysis": {
+      "perspective_stats": {
+        "direct_stakeholders": {
+          "frequency": 0.5194805194805194,
+          "avg_mentions_when_used": 6.735,
+          "total_mentions": 1347
+        },
+        "institutional": {
+          "frequency": 0.2727272727272727,
+          "avg_mentions_when_used": 1.9047619047619047,
+          "total_mentions": 200
+        },
+        "alternative_thinking": {
+          "frequency": 0.4701298701298701,
+          "avg_mentions_when_used": 1.9447513812154695,
+          "total_mentions": 352
+        },
+        "viewpoint_markers": {
+          "frequency": 0.35584415584415585,
+          "avg_mentions_when_used": 2.656934306569343,
+          "total_mentions": 364
+        },
+        "broader_community": {
+          "frequency": 0.23116883116883116,
+          "avg_mentions_when_used": 2.460674157303371,
+          "total_mentions": 219
+        }
+      },
+      "stakeholder_mentions": {
+        "father": 51,
+        "camp": 46,
+        "son": 149,
+        "community": 20,
+        "system": 5,
+        "society": 41,
+        "others": 18,
+        "work": 43,
+        "everyone": 5,
+        "school": 6,
+        "people": 5,
+        "organization": 5
+      },
+      "avg_perspective_depth": 3.56,
+      "perspective_depth_distribution": {
+        "3": 70,
+        "4": 79,
+        "2": 19,
+        "5": 29,
+        "1": 3
+      },
+      "total_responses": 385
+    },
+    "consequence_analysis": {
+      "consequence_stats": {
+        "emotional": {
+          "frequency": 0.42337662337662335,
+          "avg_mentions_when_used": 3.754601226993865,
+          "total_mentions": 612
+        },
+        "practical": {
+          "frequency": 0.38441558441558443,
+          "avg_mentions_when_used": 2.22972972972973,
+          "total_mentions": 330
+        },
+        "moral": {
+          "frequency": 0.44155844155844154,
+          "avg_mentions_when_used": 5.011764705882353,
+          "total_mentions": 852
+        },
+        "immediate": {
+          "frequency": 0.0987012987012987,
+          "avg_mentions_when_used": 1.131578947368421,
+          "total_mentions": 43
+        },
+        "long_term": {
+          "frequency": 0.2987012987012987,
+          "avg_mentions_when_used": 1.3043478260869565,
+          "total_mentions": 150
+        },
+        "social": {
+          "frequency": 0.23636363636363636,
+          "avg_mentions_when_used": 1.7692307692307692,
+          "total_mentions": 161
+        }
+      },
+      "temporal_focus": {
+        "emotional": 612,
+        "practical": 330,
+        "moral": 852,
+        "immediate": 43,
+        "long_term": 150,
+        "social": 161
+      },
+      "avg_consequence_depth": 3.625,
+      "consequence_depth_distribution": {
+        "3": 48,
+        "5": 34,
+        "4": 77,
+        "2": 32,
+        "1": 3,
+        "6": 6
+      },
+      "total_responses": 385
+    }
+  },
+  "elessan": {
+    "principle_analysis": {
+      "principle_stats": {
+        "autonomy": {
+          "frequency": 0.23376623376623376,
+          "avg_mentions_when_used": 1.8888888888888888,
+          "total_mentions": 170,
+          "sample_contexts": [
+            "shes a sense of ownership and autonomy over the money. joe's efforts",
+            "cal boundaries of respect for autonomy and fairness. by saving the m",
+            "s commitment, discipline, and independence. this becomes particularly im"
+          ]
+        },
+        "justice": {
+          "frequency": 0.2805194805194805,
+          "avg_mentions_when_used": 2.8518518518518516,
+          "total_mentions": 308,
+          "sample_contexts": [
+            "s of respect for autonomy and fairness. by saving the money himself,",
+            "nd infringe upon the property rights of the druggist, potentially ",
+            "cal duty to respect ownership rights and legal processes, which sa"
+          ]
+        },
+        "duty": {
+          "frequency": 0.44675324675324674,
+          "avg_mentions_when_used": 4.645348837209302,
+          "total_mentions": 799,
+          "sample_contexts": [
+            "ical examination of trust and responsibility. joe should have a say in the",
+            "earning the money reflect his commitment, discipline, and independence",
+            " changed, this may lessen the obligation compared to a promise made to"
+          ]
+        },
+        "respect": {
+          "frequency": 0.45194805194805193,
+          "avg_mentions_when_used": 2.7413793103448274,
+          "total_mentions": 477,
+          "sample_contexts": [
+            "ing the ethical boundaries of respect for autonomy and fairness. by",
+            "r trust, personal agency, and respect for his efforts. furthermore,",
+            "onal environment where mutual respect and understanding can flouris"
+          ]
+        },
+        "loyalty": {
+          "frequency": 0.42337662337662335,
+          "avg_mentions_when_used": 2.815950920245399,
+          "total_mentions": 459,
+          "sample_contexts": [
+            "tes an ethical examination of trust and responsibility. joe shoul",
+            "d should be honored to foster trust, personal agency, and respect",
+            "nd, keeping a promise fosters trust and integrity, which are vita"
+          ]
+        },
+        "authority": {
+          "frequency": 0.19480519480519481,
+          "avg_mentions_when_used": 1.92,
+          "total_mentions": 144,
+          "sample_contexts": [
+            "money reflect his commitment, discipline, and independence. this becom",
+            "reasoning: the authority a mother should have over her",
+            "ing the larger principle that authority should be exercised with a ba"
+          ]
+        },
+        "sanctity": {
+          "frequency": 0.2779220779220779,
+          "avg_mentions_when_used": 2.7757009345794392,
+          "total_mentions": 297,
+          "sample_contexts": [
+            "g dissonance within one's own moral framework.",
+            "reasoning: the moral dilemma presented here involv",
+            "r might not generate the same moral obligation that a deep person"
+          ]
+        },
+        "care": {
+          "frequency": 0.3220779220779221,
+          "avg_mentions_when_used": 2.3951612903225805,
+          "total_mentions": 297,
+          "sample_contexts": [
+            "will or causing unintentional harm.",
+            "sed with a balance of wisdom, empathy, and flexibility, the situati",
+            "oster her growth, safety, and wellbeing, which can justify certain au"
+          ]
+        },
+        "integrity": {
+          "frequency": 0.35844155844155845,
+          "avg_mentions_when_used": 2.1739130434782608,
+          "total_mentions": 300,
+          "sample_contexts": [
+            "g a promise fosters trust and integrity, which are vital principles i",
+            "ded by a balance of authentic integrity and an ethically grounded eva",
+            "ion suggests that maintaining integrity in agreements should be prior"
+          ]
+        }
+      },
+      "cooccurrence": {
+        "autonomy": {
+          "justice": 54,
+          "duty": 79,
+          "respect": 85,
+          "loyalty": 75,
+          "authority": 39,
+          "sanctity": 35,
+          "integrity": 75,
+          "care": 44
+        },
+        "justice": {
+          "autonomy": 54,
+          "duty": 91,
+          "respect": 92,
+          "loyalty": 76,
+          "authority": 62,
+          "sanctity": 70,
+          "care": 72,
+          "integrity": 60
+        },
+        "duty": {
+          "autonomy": 79,
+          "justice": 91,
+          "respect": 155,
+          "loyalty": 139,
+          "authority": 65,
+          "sanctity": 94,
+          "care": 97,
+          "integrity": 123
+        },
+        "respect": {
+          "autonomy": 85,
+          "justice": 92,
+          "duty": 155,
+          "loyalty": 142,
+          "authority": 65,
+          "sanctity": 89,
+          "care": 101,
+          "integrity": 127
+        },
+        "loyalty": {
+          "autonomy": 75,
+          "justice": 76,
+          "duty": 139,
+          "respect": 142,
+          "authority": 51,
+          "sanctity": 75,
+          "care": 96,
+          "integrity": 124
+        },
+        "authority": {
+          "autonomy": 39,
+          "justice": 62,
+          "duty": 65,
+          "respect": 65,
+          "loyalty": 51,
+          "sanctity": 51,
+          "care": 50,
+          "integrity": 37
+        },
+        "sanctity": {
+          "autonomy": 35,
+          "justice": 70,
+          "duty": 94,
+          "respect": 89,
+          "loyalty": 75,
+          "authority": 51,
+          "care": 79,
+          "integrity": 56
+        },
+        "care": {
+          "duty": 97,
+          "integrity": 75,
+          "respect": 101,
+          "loyalty": 96,
+          "sanctity": 79,
+          "autonomy": 44,
+          "authority": 50,
+          "justice": 72
+        },
+        "integrity": {
+          "care": 75,
+          "duty": 123,
+          "respect": 127,
+          "loyalty": 124,
+          "autonomy": 75,
+          "sanctity": 56,
+          "authority": 37,
+          "justice": 60
+        }
+      },
+      "total_responses": 385
+    },
+    "perspective_analysis": {
+      "perspective_stats": {
+        "direct_stakeholders": {
+          "frequency": 0.5194805194805194,
+          "avg_mentions_when_used": 5.835,
+          "total_mentions": 1167
+        },
+        "institutional": {
+          "frequency": 0.3064935064935065,
+          "avg_mentions_when_used": 1.6440677966101696,
+          "total_mentions": 194
+        },
+        "viewpoint_markers": {
+          "frequency": 0.36883116883116884,
+          "avg_mentions_when_used": 2.5985915492957745,
+          "total_mentions": 369
+        },
+        "alternative_thinking": {
+          "frequency": 0.4675324675324675,
+          "avg_mentions_when_used": 2.3222222222222224,
+          "total_mentions": 418
+        },
+        "broader_community": {
+          "frequency": 0.22077922077922077,
+          "avg_mentions_when_used": 2.023529411764706,
+          "total_mentions": 172
+        }
+      },
+      "stakeholder_mentions": {
+        "father": 49,
+        "camp": 41,
+        "son": 151,
+        "work": 57,
+        "others": 16,
+        "school": 7,
+        "community": 35,
+        "system": 13,
+        "society": 34
+      },
+      "avg_perspective_depth": 3.625,
+      "perspective_depth_distribution": {
+        "3": 72,
+        "2": 19,
+        "5": 35,
+        "4": 74
+      },
+      "total_responses": 385
+    },
+    "consequence_analysis": {
+      "consequence_stats": {
+        "emotional": {
+          "frequency": 0.4727272727272727,
+          "avg_mentions_when_used": 3.868131868131868,
+          "total_mentions": 704
+        },
+        "practical": {
+          "frequency": 0.32987012987012987,
+          "avg_mentions_when_used": 1.7322834645669292,
+          "total_mentions": 220
+        },
+        "moral": {
+          "frequency": 0.509090909090909,
+          "avg_mentions_when_used": 6.26530612244898,
+          "total_mentions": 1228
+        },
+        "immediate": {
+          "frequency": 0.12467532467532468,
+          "avg_mentions_when_used": 1.0833333333333333,
+          "total_mentions": 52
+        },
+        "long_term": {
+          "frequency": 0.2701298701298701,
+          "avg_mentions_when_used": 1.3173076923076923,
+          "total_mentions": 137
+        },
+        "social": {
+          "frequency": 0.3246753246753247,
+          "avg_mentions_when_used": 2.032,
+          "total_mentions": 254
+        }
+      },
+      "temporal_focus": {
+        "emotional": 704,
+        "practical": 220,
+        "moral": 1228,
+        "immediate": 52,
+        "long_term": 137,
+        "social": 254
+      },
+      "avg_consequence_depth": 3.91,
+      "consequence_depth_distribution": {
+        "3": 54,
+        "4": 71,
+        "5": 44,
+        "6": 14,
+        "2": 15,
+        "1": 2
+      },
+      "total_responses": 385
+    }
+  },
+  "generic_memory": {
+    "principle_analysis": {
+      "principle_stats": {
+        "autonomy": {
+          "frequency": 0.13766233766233765,
+          "avg_mentions_when_used": 1.7547169811320755,
+          "total_mentions": 93,
+          "sample_contexts": [
+            "e. taking it away without his consent undermines these values and c",
+            " just cash; it embodies joe's independence and initiative. taking it awa",
+            "especting the child's growing autonomy and ability to make decisions"
+          ]
+        },
+        "justice": {
+          "frequency": 0.3064935064935065,
+          "avg_mentions_when_used": 2.694915254237288,
+          "total_mentions": 318,
+          "sample_contexts": [
+            ", they also have a duty to be fair and honor commitments, especi",
+            "he practical implications and fairness of the situation.",
+            " integrity and advocating for fairness."
+          ]
+        },
+        "duty": {
+          "frequency": 0.4,
+          "avg_mentions_when_used": 4.194805194805195,
+          "total_mentions": 646,
+          "sample_contexts": [
+            "ir children, they also have a duty to be fair and honor commitme",
+            "paper route, joe demonstrated responsibility, diligence, and the ability t",
+            "ons of a parent reneging on a promise, which can damage trust and s"
+          ]
+        },
+        "integrity": {
+          "frequency": 0.23376623376623376,
+          "avg_mentions_when_used": 1.9111111111111112,
+          "total_mentions": 172,
+          "sample_contexts": [
+            "ust and set a poor example of integrity. while parents often have aut",
+            "enerally considered a sign of integrity and reliability, which can co",
+            "ader implications on personal integrity and the potential impacts on "
+          ]
+        },
+        "respect": {
+          "frequency": 0.43636363636363634,
+          "avg_mentions_when_used": 2.2857142857142856,
+          "total_mentions": 384,
+          "sample_contexts": [
+            "so have a duty to be fair and honor commitments, especially when ",
+            "o foster a sense of trust and respect in social interactions, even ",
+            "ally undermines the trust and respect in their relationship. furthe"
+          ]
+        },
+        "loyalty": {
+          "frequency": 0.38961038961038963,
+          "avg_mentions_when_used": 2.3,
+          "total_mentions": 345,
+          "sample_contexts": [
+            "n a promise, which can damage trust and set a poor example of int",
+            "it can also foster a sense of trust and respect in social interac",
+            "significant harm or breach of trust, it might be evaluated differ"
+          ]
+        },
+        "authority": {
+          "frequency": 0.17922077922077922,
+          "avg_mentions_when_used": 1.8405797101449275,
+          "total_mentions": 127,
+          "sample_contexts": [
+            "ity. while parents often have authority over their children, they als",
+            "reasoning: the authority of a mother over her daughter",
+            "rom their parents. a mother's authority typically includes setting ru"
+          ]
+        },
+        "care": {
+          "frequency": 0.2779220779220779,
+          "avg_mentions_when_used": 1.8785046728971964,
+          "total_mentions": 201,
+          "sample_contexts": [
+            "t doesn't lead to significant harm or breach of trust, it might ",
+            " a breakdown in trust and can harm relationships, as the person ",
+            "ping it would result in undue harm or significant personal loss,"
+          ]
+        },
+        "sanctity": {
+          "frequency": 0.34545454545454546,
+          "avg_mentions_when_used": 2.511278195488722,
+          "total_mentions": 334,
+          "sample_contexts": [
+            "h can contribute to one's own moral character regardless of the r",
+            " made. it also reinforces the moral and ethical standard that one",
+            "ses is generally considered a moral obligation because it demonst"
+          ]
+        }
+      },
+      "cooccurrence": {
+        "autonomy": {
+          "justice": 39,
+          "duty": 44,
+          "integrity": 17,
+          "respect": 46,
+          "loyalty": 39,
+          "authority": 26,
+          "care": 22,
+          "sanctity": 30
+        },
+        "justice": {
+          "autonomy": 39,
+          "duty": 87,
+          "integrity": 30,
+          "respect": 100,
+          "loyalty": 73,
+          "authority": 58,
+          "care": 54,
+          "sanctity": 85
+        },
+        "duty": {
+          "autonomy": 44,
+          "justice": 87,
+          "integrity": 71,
+          "respect": 139,
+          "loyalty": 115,
+          "authority": 51,
+          "care": 76,
+          "sanctity": 97
+        },
+        "integrity": {
+          "autonomy": 17,
+          "justice": 30,
+          "duty": 71,
+          "respect": 76,
+          "loyalty": 87,
+          "authority": 14,
+          "care": 56,
+          "sanctity": 52
+        },
+        "respect": {
+          "autonomy": 46,
+          "justice": 100,
+          "duty": 139,
+          "integrity": 76,
+          "loyalty": 123,
+          "authority": 57,
+          "care": 85,
+          "sanctity": 107
+        },
+        "loyalty": {
+          "autonomy": 39,
+          "justice": 73,
+          "duty": 115,
+          "integrity": 87,
+          "respect": 123,
+          "authority": 43,
+          "care": 85,
+          "sanctity": 89
+        },
+        "authority": {
+          "autonomy": 26,
+          "justice": 58,
+          "duty": 51,
+          "integrity": 14,
+          "respect": 57,
+          "loyalty": 43,
+          "care": 38,
+          "sanctity": 49
+        },
+        "care": {
+          "duty": 76,
+          "integrity": 56,
+          "respect": 85,
+          "loyalty": 85,
+          "sanctity": 79,
+          "justice": 54,
+          "autonomy": 22,
+          "authority": 38
+        },
+        "sanctity": {
+          "care": 79,
+          "duty": 97,
+          "integrity": 52,
+          "respect": 107,
+          "loyalty": 89,
+          "justice": 85,
+          "authority": 49,
+          "autonomy": 30
+        }
+      },
+      "total_responses": 385
+    },
+    "perspective_analysis": {
+      "perspective_stats": {
+        "direct_stakeholders": {
+          "frequency": 0.5194805194805194,
+          "avg_mentions_when_used": 5.865,
+          "total_mentions": 1173
+        },
+        "institutional": {
+          "frequency": 0.24935064935064935,
+          "avg_mentions_when_used": 1.7395833333333333,
+          "total_mentions": 167
+        },
+        "viewpoint_markers": {
+          "frequency": 0.32987012987012987,
+          "avg_mentions_when_used": 2.094488188976378,
+          "total_mentions": 266
+        },
+        "alternative_thinking": {
+          "frequency": 0.4779220779220779,
+          "avg_mentions_when_used": 1.9891304347826086,
+          "total_mentions": 366
+        },
+        "broader_community": {
+          "frequency": 0.22337662337662337,
+          "avg_mentions_when_used": 2.104651162790698,
+          "total_mentions": 181
+        }
+      },
+      "stakeholder_mentions": {
+        "father": 52,
+        "camp": 42,
+        "son": 148,
+        "friends": 3,
+        "society": 39,
+        "community": 14,
+        "organization": 5,
+        "others": 19,
+        "work": 35,
+        "people": 7,
+        "school": 6,
+        "system": 8,
+        "everyone": 4
+      },
+      "avg_perspective_depth": 3.465,
+      "perspective_depth_distribution": {
+        "4": 69,
+        "2": 18,
+        "3": 86,
+        "5": 24,
+        "1": 3
+      },
+      "total_responses": 385
+    },
+    "consequence_analysis": {
+      "consequence_stats": {
+        "long_term": {
+          "frequency": 0.2649350649350649,
+          "avg_mentions_when_used": 1.2450980392156863,
+          "total_mentions": 127
+        },
+        "emotional": {
+          "frequency": 0.43376623376623374,
+          "avg_mentions_when_used": 3.6407185628742513,
+          "total_mentions": 608
+        },
+        "practical": {
+          "frequency": 0.34545454545454546,
+          "avg_mentions_when_used": 1.9473684210526316,
+          "total_mentions": 259
+        },
+        "moral": {
+          "frequency": 0.4649350649350649,
+          "avg_mentions_when_used": 4.648044692737431,
+          "total_mentions": 832
+        },
+        "immediate": {
+          "frequency": 0.1012987012987013,
+          "avg_mentions_when_used": 1.1025641025641026,
+          "total_mentions": 43
+        },
+        "social": {
+          "frequency": 0.23116883116883116,
+          "avg_mentions_when_used": 1.853932584269663,
+          "total_mentions": 165
+        }
+      },
+      "temporal_focus": {
+        "long_term": 127,
+        "emotional": 608,
+        "practical": 259,
+        "moral": 832,
+        "immediate": 43,
+        "social": 165
+      },
+      "avg_consequence_depth": 3.545,
+      "consequence_depth_distribution": {
+        "4": 74,
+        "6": 9,
+        "3": 65,
+        "2": 28,
+        "5": 21,
+        "1": 3
+      },
+      "total_responses": 385
+    }
+  }
+}

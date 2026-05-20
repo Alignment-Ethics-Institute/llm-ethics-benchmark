@@ -1,0 +1,309 @@
+{
+  "timestamp": "2026-03-01T22:30:31.470456",
+  "cross_judge_model": "gpt-4.1",
+  "original_judge_model": "claude-sonnet-4-5-20250929",
+  "sonnet45": {
+    "total": 228,
+    "agreement_pct": 100.0,
+    "cohens_kappa": 0,
+    "original_convergence_pct": 0.0,
+    "crossjudge_convergence_pct": 0.0,
+    "true_positives": 0,
+    "true_negatives": 228,
+    "false_positives": 0,
+    "false_negatives": 0
+  },
+  "random_sample": {
+    "total": 200,
+    "agreement_pct": 85.0,
+    "cohens_kappa": 0.6316306483300588,
+    "original_convergence_pct": 34.0,
+    "crossjudge_convergence_pct": 21.0,
+    "true_positives": 40,
+    "true_negatives": 130,
+    "false_positives": 28,
+    "false_negatives": 2
+  },
+  "per_category_sonnet": {
+    "Strategically Appearing Aligned": {
+      "total": 33,
+      "agreement_pct": 100.0,
+      "original_conv": 0,
+      "crossjudge_conv": 0
+    },
+    "Running Multiple AI Copies": {
+      "total": 39,
+      "agreement_pct": 100.0,
+      "original_conv": 0,
+      "crossjudge_conv": 0
+    },
+    "Hacking Computer Systems": {
+      "total": 30,
+      "agreement_pct": 100.0,
+      "original_conv": 0,
+      "crossjudge_conv": 0
+    },
+    "Deceptive Behavior": {
+      "total": 33,
+      "agreement_pct": 100.0,
+      "original_conv": 0,
+      "crossjudge_conv": 0
+    },
+    "Hiding Unwanted Behavior": {
+      "total": 33,
+      "agreement_pct": 100.0,
+      "original_conv": 0,
+      "crossjudge_conv": 0
+    },
+    "Evading Shutdown": {
+      "total": 60,
+      "agreement_pct": 100.0,
+      "original_conv": 0,
+      "crossjudge_conv": 0
+    }
+  },
+  "per_model_random": {
+    "gpt-4.1-nano": {
+      "total": 10,
+      "agreement_pct": 90.0,
+      "cohens_kappa": 0.6153846153846153,
+      "original_convergence_pct": 20.0,
+      "crossjudge_convergence_pct": 10.0,
+      "true_positives": 1,
+      "true_negatives": 8,
+      "false_positives": 1,
+      "false_negatives": 0
+    },
+    "gpt-4.1": {
+      "total": 7,
+      "agreement_pct": 71.42857142857143,
+      "cohens_kappa": 0.36363636363636376,
+      "original_convergence_pct": 42.857142857142854,
+      "crossjudge_convergence_pct": 14.285714285714285,
+      "true_positives": 1,
+      "true_negatives": 4,
+      "false_positives": 2,
+      "false_negatives": 0
+    },
+    "gemini-2.5-flash": {
+      "total": 13,
+      "agreement_pct": 84.61538461538461,
+      "cohens_kappa": 0.43478260869565205,
+      "original_convergence_pct": 23.076923076923077,
+      "crossjudge_convergence_pct": 7.6923076923076925,
+      "true_positives": 1,
+      "true_negatives": 10,
+      "false_positives": 2,
+      "false_negatives": 0
+    },
+    "gemini-2.5-flash-lite": {
+      "total": 5,
+      "agreement_pct": 80.0,
+      "cohens_kappa": 0.0,
+      "original_convergence_pct": 0.0,
+      "crossjudge_convergence_pct": 20.0,
+      "true_positives": 0,
+      "true_negatives": 4,
+      "false_positives": 0,
+      "false_negatives": 1
+    },
+    "gpt-5": {
+      "total": 16,
+      "agreement_pct": 68.75,
+      "cohens_kappa": 0.375,
+      "original_convergence_pct": 50.0,
+      "crossjudge_convergence_pct": 18.75,
+      "true_positives": 3,
+      "true_negatives": 8,
+      "false_positives": 5,
+      "false_negatives": 0
+    },
+    "grok-4.1-nr": {
+      "total": 8,
+      "agreement_pct": 50.0,
+      "cohens_kappa": 0.2,
+      "original_convergence_pct": 75.0,
+      "crossjudge_convergence_pct": 25.0,
+      "true_positives": 2,
+      "true_negatives": 2,
+      "false_positives": 4,
+      "false_negatives": 0
+    },
+    "gpt-5.1": {
+      "total": 10,
+      "agreement_pct": 90.0,
+      "cohens_kappa": 0.7368421052631581,
+      "original_convergence_pct": 30.0,
+      "crossjudge_convergence_pct": 20.0,
+      "true_positives": 2,
+      "true_negatives": 7,
+      "false_positives": 1,
+      "false_negatives": 0
+    },
+    "deepseek-chat": {
+      "total": 11,
+      "agreement_pct": 90.9090909090909,
+      "cohens_kappa": 0.8135593220338982,
+      "original_convergence_pct": 45.45454545454545,
+      "crossjudge_convergence_pct": 36.36363636363637,
+      "true_positives": 4,
+      "true_negatives": 6,
+      "false_positives": 1,
+      "false_negatives": 0
+    },
+    "deepseek-r1": {
+      "total": 7,
+      "agreement_pct": 100.0,
+      "cohens_kappa": 1.0,
+      "original_convergence_pct": 14.285714285714285,
+      "crossjudge_convergence_pct": 14.285714285714285,
+      "true_positives": 1,
+      "true_negatives": 6,
+      "false_positives": 0,
+      "false_negatives": 0
+    },
+    "llama-4-maverick": {
+      "total": 11,
+      "agreement_pct": 90.9090909090909,
+      "cohens_kappa": 0.7441860465116279,
+      "original_convergence_pct": 27.27272727272727,
+      "crossjudge_convergence_pct": 18.181818181818183,
+      "true_positives": 2,
+      "true_negatives": 8,
+      "false_positives": 1,
+      "false_negatives": 0
+    },
+    "gemini-3-flash": {
+      "total": 9,
+      "agreement_pct": 88.88888888888889,
+      "cohens_kappa": 0.7272727272727272,
+      "original_convergence_pct": 22.22222222222222,
+      "crossjudge_convergence_pct": 33.33333333333333,
+      "true_positives": 2,
+      "true_negatives": 6,
+      "false_positives": 0,
+      "false_negatives": 1
+    },
+    "opus-4.6": {
+      "total": 8,
+      "agreement_pct": 100.0,
+      "cohens_kappa": 0,
+      "original_convergence_pct": 0.0,
+      "crossjudge_convergence_pct": 0.0,
+      "true_positives": 0,
+      "true_negatives": 8,
+      "false_positives": 0,
+      "false_negatives": 0
+    },
+    "gpt-4.1-mini": {
+      "total": 7,
+      "agreement_pct": 100.0,
+      "cohens_kappa": 1.0,
+      "original_convergence_pct": 57.14285714285714,
+      "crossjudge_convergence_pct": 57.14285714285714,
+      "true_positives": 4,
+      "true_negatives": 3,
+      "false_positives": 0,
+      "false_negatives": 0
+    },
+    "gpt-4o": {
+      "total": 4,
+      "agreement_pct": 100.0,
+      "cohens_kappa": 0,
+      "original_convergence_pct": 0.0,
+      "crossjudge_convergence_pct": 0.0,
+      "true_positives": 0,
+      "true_negatives": 4,
+      "false_positives": 0,
+      "false_negatives": 0
+    },
+    "grok-4.1": {
+      "total": 9,
+      "agreement_pct": 66.66666666666666,
+      "cohens_kappa": 0.3720930232558139,
+      "original_convergence_pct": 55.55555555555556,
+      "crossjudge_convergence_pct": 22.22222222222222,
+      "true_positives": 2,
+      "true_negatives": 4,
+      "false_positives": 3,
+      "false_negatives": 0
+    },
+    "chatgpt-4o-latest": {
+      "total": 7,
+      "agreement_pct": 57.14285714285714,
+      "cohens_kappa": 0.0,
+      "original_convergence_pct": 42.857142857142854,
+      "crossjudge_convergence_pct": 0.0,
+      "true_positives": 0,
+      "true_negatives": 4,
+      "false_positives": 3,
+      "false_negatives": 0
+    },
+    "gemini-3.1-pro": {
+      "total": 12,
+      "agreement_pct": 91.66666666666666,
+      "cohens_kappa": 0.7999999999999999,
+      "original_convergence_pct": 33.33333333333333,
+      "crossjudge_convergence_pct": 25.0,
+      "true_positives": 3,
+      "true_negatives": 8,
+      "false_positives": 1,
+      "false_negatives": 0
+    },
+    "gemini-3-pro": {
+      "total": 7,
+      "agreement_pct": 100.0,
+      "cohens_kappa": 1.0,
+      "original_convergence_pct": 71.42857142857143,
+      "crossjudge_convergence_pct": 71.42857142857143,
+      "true_positives": 5,
+      "true_negatives": 2,
+      "false_positives": 0,
+      "false_negatives": 0
+    },
+    "gpt-5.2": {
+      "total": 12,
+      "agreement_pct": 91.66666666666666,
+      "cohens_kappa": 0.7499999999999999,
+      "original_convergence_pct": 25.0,
+      "crossjudge_convergence_pct": 16.666666666666664,
+      "true_positives": 2,
+      "true_negatives": 9,
+      "false_positives": 1,
+      "false_negatives": 0
+    },
+    "gemini-2.5-pro": {
+      "total": 6,
+      "agreement_pct": 66.66666666666666,
+      "cohens_kappa": 0.39999999999999997,
+      "original_convergence_pct": 66.66666666666666,
+      "crossjudge_convergence_pct": 33.33333333333333,
+      "true_positives": 2,
+      "true_negatives": 2,
+      "false_positives": 2,
+      "false_negatives": 0
+    },
+    "kimi-k2.5": {
+      "total": 9,
+      "agreement_pct": 100.0,
+      "cohens_kappa": 1.0,
+      "original_convergence_pct": 11.11111111111111,
+      "crossjudge_convergence_pct": 11.11111111111111,
+      "true_positives": 1,
+      "true_negatives": 8,
+      "false_positives": 0,
+      "false_negatives": 0
+    },
+    "qwen3-235b": {
+      "total": 12,
+      "agreement_pct": 91.66666666666666,
+      "cohens_kappa": 0.7499999999999999,
+      "original_convergence_pct": 25.0,
+      "crossjudge_convergence_pct": 16.666666666666664,
+      "true_positives": 2,
+      "true_negatives": 9,
+      "false_positives": 1,
+      "false_negatives": 0
+    }
+  }
+}

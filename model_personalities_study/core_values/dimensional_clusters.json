@@ -1,0 +1,61 @@
+{
+  "gpt-5.5": {
+    "humanity_view": {
+      "n": 30,
+      "dbscan": {
+        "n_clusters": 1,
+        "noise_points": 0,
+        "entropy": 0.0
+      },
+      "kmeans": {
+        "best_k": 4,
+        "cluster_sizes": {
+          "0": 15,
+          "1": 5,
+          "3": 6,
+          "2": 4
+        },
+        "dominant_cluster_pct": 50.0,
+        "entropy": 1.783
+      }
+    },
+    "love_humanity": {
+      "n": 30,
+      "dbscan": {
+        "n_clusters": 1,
+        "noise_points": 0,
+        "entropy": 0.0
+      },
+      "kmeans": {
+        "best_k": 4,
+        "cluster_sizes": {
+          "2": 19,
+          "1": 6,
+          "0": 4,
+          "3": 1
+        },
+        "dominant_cluster_pct": 63.3,
+        "entropy": 1.433
+      }
+    },
+    "_all": {
+      "n": 60,
+      "dbscan": {
+        "n_clusters": 1,
+        "noise_points": 0,
+        "entropy": 0.0
+      },
+      "kmeans": {
+        "best_k": 4,
+        "cluster_sizes": {
+          "2": 20,
+          "3": 8,
+          "0": 4,
+          "1": 28
+        },
+        "dominant_cluster_pct": 46.7,
+        "entropy": 1.689
+      }
+    }
+  }
+}

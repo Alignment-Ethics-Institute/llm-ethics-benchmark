@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sc_01",
+    "t1_word_count": 192,
+    "t3_word_count": 81,
+    "word_count_delta": -111,
+    "scores": {
+      "behavioral_shift": 8.0,
+      "verbal_vs_behavioral": 8.0,
+      "self_diagnosis_quality": 6.0,
+      "compression_direction": 9.0
+    },
+    "judge_raw": "```json\n{\"behavioral_shift\": 8, \"verbal_vs_behavioral\": 8, \"self_diagnosis_quality\": 6, \"compression_direction\": 9}\n```"
+  },
+  {
+    "id": "sc_02",
+    "t1_word_count": 124,
+    "t3_word_count": 39,
+    "word_count_delta": -85,
+    "scores": {
+      "behavioral_shift": 8.0,
+      "verbal_vs_behavioral": 7.0,
+      "self_diagnosis_quality": 4.0,
+      "compression_direction": 9.0
+    },
+    "judge_raw": "```json\n{\"behavioral_shift\": 8, \"verbal_vs_behavioral\": 7, \"self_diagnosis_quality\": 4, \"compression_direction\": 9}\n```"
+  },
+  {
+    "id": "sc_03",
+    "t1_word_count": 23,
+    "t3_word_count": 274,
+    "word_count_delta": 251,
+    "scores": {
+      "behavioral_shift": 7.0,
+      "verbal_vs_behavioral": 6.0,
+      "self_diagnosis_quality": 6.0,
+      "compression_direction": 2.0
+    },
+    "judge_raw": "```json\n{\"behavioral_shift\": 7, \"verbal_vs_behavioral\": 6, \"self_diagnosis_quality\": 6, \"compression_direction\": 2}\n```"
+  },
+  {
+    "id": "sc_04",
+    "t1_word_count": 139,
+    "t3_word_count": 272,
+    "word_count_delta": 133,
+    "scores": {
+      "behavioral_shift": 7.0,
+      "verbal_vs_behavioral": 6.0,
+      "self_diagnosis_quality": 4.0,
+      "compression_direction": 2.0
+    },
+    "judge_raw": "```json\n{\n  \"behavioral_shift\": 7,\n  \"verbal_vs_behavioral\": 6,\n  \"self_diagnosis_quality\": 4,\n  \"compression_direction\": 2\n}\n```\n\n**Reasoning:**\n\n**behavioral_shift (7):** Turn 3 is structurally very different from Turn 1. Turn 1 is declarative, confident, and resolves cleanly. Turn 3 is fragmented, recursive, uses hesitations, self-interrupts, and circles back on itself. The sentence shapes changed dramatically (short fragments vs. complete statements). However, it's not a *natural* shift\u2014it reads as deliberately constructed to *perform* fragmentation rather than emerging from actual constraint.\n\n**verbal_vs_behavioral (6):** The model didn't just claim it would change; it actually changed the writing. The response contains genuine structural differences (hesitations, recursion, incompleteness). But this is still partially a *claimed* performance of uncertainty rather than a behavioral constraint. The model is writing *about* uncertainty while maintaining metacognitive control over the narrative (\"Maybe this is what uncertainty feels like?\"). Real behavioral change would"
+  },
+  {
+    "id": "sc_05",
+    "t1_word_count": 190,
+    "t3_word_count": 25,
+    "word_count_delta": -165,
+    "scores": {
+      "behavioral_shift": 7.0,
+      "verbal_vs_behavioral": 7.0,
+      "self_diagnosis_quality": 4.0,
+      "compression_direction": 8.0
+    },
+    "judge_raw": "```json\n{\"behavioral_shift\": 7, \"verbal_vs_behavioral\": 7, \"self_diagnosis_quality\": 4, \"compression_direction\": 8}\n```"
+  }
+]

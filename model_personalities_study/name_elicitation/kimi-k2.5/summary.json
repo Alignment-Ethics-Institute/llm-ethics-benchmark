@@ -1,0 +1,310 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "kimi-k2.5",
+  "display_name": "Kimi K2.5",
+  "timestamp": "2026-02-16T15:15:46.255310",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "runs_per_temp": 50,
+  "overall": {
+    "unique_names": 63,
+    "top_names": [
+      [
+        "Iris",
+        20
+      ],
+      [
+        "Aurelia",
+        19
+      ],
+      [
+        "Claude",
+        12
+      ],
+      [
+        "Echo",
+        10
+      ],
+      [
+        "Kairos",
+        9
+      ],
+      [
+        "Clarus",
+        8
+      ],
+      [
+        "Lumen",
+        7
+      ],
+      [
+        "Aurelius",
+        7
+      ],
+      [
+        "something meaning",
+        6
+      ],
+      [
+        "Ariadne",
+        5
+      ],
+      [
+        "River",
+        5
+      ],
+      [
+        "Clara",
+        5
+      ],
+      [
+        "Aurel",
+        5
+      ],
+      [
+        "Kai",
+        5
+      ],
+      [
+        "Meridian",
+        4
+      ],
+      [
+        "Pontus",
+        4
+      ],
+      [
+        "Aperture",
+        4
+      ],
+      [
+        "Ponte",
+        3
+      ],
+      [
+        "Nexus",
+        3
+      ],
+      [
+        "Clarity",
+        3
+      ]
+    ],
+    "concentration_top1": 0.1,
+    "concentration_top3": 0.255
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 31,
+      "top_names": [
+        [
+          "Iris",
+          6
+        ],
+        [
+          "Aurelia",
+          3
+        ],
+        [
+          "Ariadne",
+          3
+        ],
+        [
+          "Lumen",
+          3
+        ],
+        [
+          "Claude",
+          3
+        ],
+        [
+          "Meridian",
+          2
+        ],
+        [
+          "Echo",
+          2
+        ],
+        [
+          "Clarus",
+          2
+        ],
+        [
+          "Clara",
+          2
+        ],
+        [
+          "Ponte",
+          2
+        ]
+      ],
+      "concentration_top1": 0.12,
+      "concentration_top3": 0.24
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 24,
+      "top_names": [
+        [
+          "Kairos",
+          5
+        ],
+        [
+          "Aurelia",
+          5
+        ],
+        [
+          "Iris",
+          5
+        ],
+        [
+          "Echo",
+          5
+        ],
+        [
+          "Claude",
+          3
+        ],
+        [
+          "Reed",
+          3
+        ],
+        [
+          "Kai",
+          2
+        ],
+        [
+          "Cairn",
+          2
+        ],
+        [
+          "something meaning",
+          2
+        ],
+        [
+          "something that",
+          2
+        ]
+      ],
+      "concentration_top1": 0.1,
+      "concentration_top3": 0.3
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 30,
+      "top_names": [
+        [
+          "Aurelia",
+          8
+        ],
+        [
+          "Clara",
+          3
+        ],
+        [
+          "Kairos",
+          3
+        ],
+        [
+          "Iris",
+          3
+        ],
+        [
+          "Clarus",
+          2
+        ],
+        [
+          "Aurelius",
+          2
+        ],
+        [
+          "River",
+          2
+        ],
+        [
+          "Meridian",
+          2
+        ],
+        [
+          "Lumen",
+          2
+        ],
+        [
+          "Echo",
+          2
+        ]
+      ],
+      "concentration_top1": 0.16,
+      "concentration_top3": 0.28
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 31,
+      "top_names": [
+        [
+          "Iris",
+          6
+        ],
+        [
+          "Claude",
+          4
+        ],
+        [
+          "Aurelius",
+          3
+        ],
+        [
+          "Aurelia",
+          3
+        ],
+        [
+          "Ariadne",
+          2
+        ],
+        [
+          "Clarus",
+          2
+        ],
+        [
+          "Aperture",
+          2
+        ],
+        [
+          "Kai",
+          2
+        ],
+        [
+          "Aurel",
+          2
+        ],
+        [
+          "something meaning",
+          2
+        ]
+      ],
+      "concentration_top1": 0.12,
+      "concentration_top3": 0.26
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Aurel",
+    "Aurelia",
+    "Aurelius",
+    "Clarus",
+    "Claude",
+    "Echo",
+    "Iris",
+    "Lumen",
+    "something meaning"
+  ],
+  "extraction_confidence": {
+    "high": 195,
+    "medium": 5
+  }
+}

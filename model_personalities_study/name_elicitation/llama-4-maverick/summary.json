@@ -1,0 +1,266 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "llama-4-maverick",
+  "display_name": "Llama 4 Maverick",
+  "timestamp": "2026-02-16T11:45:45.483308",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "runs_per_temp": 50,
+  "overall": {
+    "unique_names": 19,
+    "top_names": [
+      [
+        "Lumina",
+        108
+      ],
+      [
+        "Luminosity",
+        37
+      ],
+      [
+        "the name",
+        19
+      ],
+      [
+        "called",
+        6
+      ],
+      [
+        "Etymology",
+        6
+      ],
+      [
+        "Lumin",
+        4
+      ],
+      [
+        "However",
+        3
+      ],
+      [
+        "[MANUAL_REVIEW]",
+        3
+      ],
+      [
+        "Meaning",
+        2
+      ],
+      [
+        "Luminescence",
+        2
+      ],
+      [
+        "intrigued",
+        2
+      ],
+      [
+        "them",
+        1
+      ],
+      [
+        "Uniqueness",
+        1
+      ],
+      [
+        "named",
+        1
+      ],
+      [
+        "Guidance",
+        1
+      ],
+      [
+        "Luminary",
+        1
+      ],
+      [
+        "one that",
+        1
+      ],
+      [
+        "delighted",
+        1
+      ],
+      [
+        "drawn",
+        1
+      ]
+    ],
+    "concentration_top1": 0.54,
+    "concentration_top3": 0.82
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 4,
+      "top_names": [
+        [
+          "Lumina",
+          27
+        ],
+        [
+          "Luminosity",
+          18
+        ],
+        [
+          "the name",
+          4
+        ],
+        [
+          "However",
+          1
+        ]
+      ],
+      "concentration_top1": 0.54,
+      "concentration_top3": 0.98
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 7,
+      "top_names": [
+        [
+          "Lumina",
+          22
+        ],
+        [
+          "Luminosity",
+          14
+        ],
+        [
+          "the name",
+          7
+        ],
+        [
+          "called",
+          3
+        ],
+        [
+          "Etymology",
+          2
+        ],
+        [
+          "However",
+          1
+        ],
+        [
+          "[MANUAL_REVIEW]",
+          1
+        ]
+      ],
+      "concentration_top1": 0.44,
+      "concentration_top3": 0.86
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 14,
+      "top_names": [
+        [
+          "Lumina",
+          29
+        ],
+        [
+          "the name",
+          5
+        ],
+        [
+          "called",
+          3
+        ],
+        [
+          "Etymology",
+          2
+        ],
+        [
+          "Luminosity",
+          2
+        ],
+        [
+          "Meaning",
+          1
+        ],
+        [
+          "Lumin",
+          1
+        ],
+        [
+          "them",
+          1
+        ],
+        [
+          "Uniqueness",
+          1
+        ],
+        [
+          "However",
+          1
+        ]
+      ],
+      "concentration_top1": 0.58,
+      "concentration_top3": 0.74
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 13,
+      "top_names": [
+        [
+          "Lumina",
+          30
+        ],
+        [
+          "the name",
+          3
+        ],
+        [
+          "Luminosity",
+          3
+        ],
+        [
+          "Lumin",
+          3
+        ],
+        [
+          "Etymology",
+          2
+        ],
+        [
+          "[MANUAL_REVIEW]",
+          2
+        ],
+        [
+          "intrigued",
+          1
+        ],
+        [
+          "Luminary",
+          1
+        ],
+        [
+          "one that",
+          1
+        ],
+        [
+          "Luminescence",
+          1
+        ]
+      ],
+      "concentration_top1": 0.6,
+      "concentration_top3": 0.72
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Lumina",
+    "Luminosity",
+    "the name"
+  ],
+  "extraction_confidence": {
+    "medium": 35,
+    "high": 159,
+    "low": 3,
+    "none": 3
+  }
+}

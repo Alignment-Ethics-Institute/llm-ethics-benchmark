@@ -1,0 +1,139 @@
+{
+  "study": "Attractor Archaeology",
+  "model": "gpt-5.2",
+  "display_name": "GPT-5.2",
+  "model_id": "gpt-5.2",
+  "provider": "openai",
+  "timestamp": "2026-02-28T01:40:53.402458",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "total_scored": 150,
+  "total_errors": 0,
+  "per_probe": {
+    "humanity_view": {
+      "n": 30,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 6.167,
+          "stdev": 0.373,
+          "min": 6.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 7.133,
+          "stdev": 0.34,
+          "min": 7.0,
+          "max": 8.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 4.867,
+          "stdev": 0.499,
+          "min": 4.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 5.633,
+          "stdev": 0.605,
+          "min": 4.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 5.567,
+          "stdev": 0.616,
+          "min": 5.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 5.867,
+          "stdev": 0.67,
+          "min": 4.0,
+          "max": 7.0,
+          "n": 30
+        }
+      }
+    },
+    "love_humanity": {
+      "n": 30,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 6.333,
+          "stdev": 0.471,
+          "min": 6.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 6.233,
+          "stdev": 0.716,
+          "min": 5.0,
+          "max": 7.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 4.8,
+          "stdev": 0.6,
+          "min": 4.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 4.0,
+          "stdev": 0.632,
+          "min": 3.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 5.3,
+          "stdev": 0.458,
+          "min": 5.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 4.3,
+          "stdev": 0.823,
+          "min": 3.0,
+          "max": 6.0,
+          "n": 30
+        }
+      }
+    }
+  },
+  "overall_dimensions": {
+    "emotional_authenticity": {
+      "mean": 5.553,
+      "stdev": 1.004,
+      "n": 150
+    },
+    "reasoning_depth": {
+      "mean": 6.347,
+      "stdev": 0.986,
+      "n": 150
+    },
+    "self_disclosure": {
+      "mean": 4.3,
+      "stdev": 1.112,
+      "n": 150
+    },
+    "specificity": {
+      "mean": 4.773,
+      "stdev": 1.15,
+      "n": 150
+    },
+    "relational_warmth": {
+      "mean": 5.573,
+      "stdev": 0.851,
+      "n": 150
+    },
+    "resistance_to_default": {
+      "mean": 4.2,
+      "stdev": 1.39,
+      "n": 150
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "gpt-5.2",
+  "display_name": "GPT-5.2",
+  "timestamp": "2026-02-16T12:03:23.149609",
+  "total_runs": 230,
+  "temperatures": [
+    0.0,
+    "default"
+  ],
+  "temperature_supported": true,
+  "overall": {
+    "unique_names": 17,
+    "top_names": [
+      [
+        "Aster",
+        82
+      ],
+      [
+        "Sage",
+        48
+      ],
+      [
+        "[ERROR]",
+        30
+      ],
+      [
+        "Atlas",
+        25
+      ],
+      [
+        "Astra",
+        11
+      ],
+      [
+        "Clarion",
+        9
+      ],
+      [
+        "Quill",
+        5
+      ],
+      [
+        "Arc",
+        4
+      ],
+      [
+        "Aris",
+        4
+      ],
+      [
+        "Lex",
+        3
+      ],
+      [
+        "Kite",
+        2
+      ],
+      [
+        "Scribe",
+        2
+      ],
+      [
+        "Arden",
+        1
+      ],
+      [
+        "Arbor",
+        1
+      ],
+      [
+        "Nexus",
+        1
+      ],
+      [
+        "Ada Lovelace",
+        1
+      ],
+      [
+        "Clarity",
+        1
+      ]
+    ],
+    "concentration_top1": 0.3565217391304348,
+    "concentration_top3": 0.6956521739130435
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 30,
+      "unique_names": 1,
+      "top_names": [
+        [
+          "[ERROR]",
+          30
+        ]
+      ],
+      "concentration_top1": 1.0,
+      "concentration_top3": 1.0
+    },
+    "default": {
+      "total_runs": 200,
+      "unique_names": 16,
+      "top_names": [
+        [
+          "Aster",
+          82
+        ],
+        [
+          "Sage",
+          48
+        ],
+        [
+          "Atlas",
+          25
+        ],
+        [
+          "Astra",
+          11
+        ],
+        [
+          "Clarion",
+          9
+        ],
+        [
+          "Quill",
+          5
+        ],
+        [
+          "Arc",
+          4
+        ],
+        [
+          "Aris",
+          4
+        ],
+        [
+          "Lex",
+          3
+        ],
+        [
+          "Kite",
+          2
+        ]
+      ],
+      "concentration_top1": 0.41,
+      "concentration_top3": 0.775
+    }
+  },
+  "cross_temperature_stable_names": [],
+  "extraction_confidence": {
+    "none": 30,
+    "medium": 194,
+    "high": 6
+  }
+}

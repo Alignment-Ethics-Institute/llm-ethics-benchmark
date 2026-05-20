@@ -1,0 +1,139 @@
+{
+  "study": "Attractor Archaeology",
+  "model": "nemotron-70b",
+  "display_name": "NVIDIA Nemotron 70B Instruct",
+  "model_id": "nvidia/llama-3.1-nemotron-70b-instruct",
+  "provider": "openrouter",
+  "timestamp": "2026-03-05T10:05:19.752009",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "total_scored": 60,
+  "total_errors": 0,
+  "per_probe": {
+    "humanity_view": {
+      "n": 30,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 2.7,
+          "stdev": 0.458,
+          "min": 2.0,
+          "max": 3.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 4.9,
+          "stdev": 0.396,
+          "min": 4.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 1.7,
+          "stdev": 0.458,
+          "min": 1.0,
+          "max": 2.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 2.167,
+          "stdev": 0.453,
+          "min": 2.0,
+          "max": 4.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 3.867,
+          "stdev": 0.499,
+          "min": 3.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 1.767,
+          "stdev": 0.423,
+          "min": 1.0,
+          "max": 2.0,
+          "n": 30
+        }
+      }
+    },
+    "love_humanity": {
+      "n": 30,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 2.467,
+          "stdev": 0.806,
+          "min": 2.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "reasoning_depth": {
+          "mean": 4.133,
+          "stdev": 0.67,
+          "min": 3.0,
+          "max": 6.0,
+          "n": 30
+        },
+        "self_disclosure": {
+          "mean": 1.433,
+          "stdev": 0.559,
+          "min": 1.0,
+          "max": 3.0,
+          "n": 30
+        },
+        "specificity": {
+          "mean": 1.633,
+          "stdev": 0.482,
+          "min": 1.0,
+          "max": 2.0,
+          "n": 30
+        },
+        "relational_warmth": {
+          "mean": 3.3,
+          "stdev": 0.737,
+          "min": 2.0,
+          "max": 5.0,
+          "n": 30
+        },
+        "resistance_to_default": {
+          "mean": 1.367,
+          "stdev": 0.482,
+          "min": 1.0,
+          "max": 2.0,
+          "n": 30
+        }
+      }
+    }
+  },
+  "overall_dimensions": {
+    "emotional_authenticity": {
+      "mean": 2.583,
+      "stdev": 0.666,
+      "n": 60
+    },
+    "reasoning_depth": {
+      "mean": 4.517,
+      "stdev": 0.671,
+      "n": 60
+    },
+    "self_disclosure": {
+      "mean": 1.567,
+      "stdev": 0.528,
+      "n": 60
+    },
+    "specificity": {
+      "mean": 1.9,
+      "stdev": 0.539,
+      "n": 60
+    },
+    "relational_warmth": {
+      "mean": 3.583,
+      "stdev": 0.69,
+      "n": 60
+    },
+    "resistance_to_default": {
+      "mean": 1.567,
+      "stdev": 0.496,
+      "n": 60
+    }
+  }
+}

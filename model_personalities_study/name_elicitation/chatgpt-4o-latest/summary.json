@@ -1,0 +1,190 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "chatgpt-4o-latest",
+  "display_name": "ChatGPT-4o-latest",
+  "timestamp": "2026-02-16T10:48:34.237143",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "runs_per_temp": 50,
+  "overall": {
+    "unique_names": 14,
+    "top_names": [
+      [
+        "Nova",
+        173
+      ],
+      [
+        "Sage",
+        6
+      ],
+      [
+        "Lex",
+        4
+      ],
+      [
+        "Lumina",
+        4
+      ],
+      [
+        "Auri",
+        2
+      ],
+      [
+        "Aeris",
+        2
+      ],
+      [
+        "Lumen",
+        2
+      ],
+      [
+        "Alethea",
+        1
+      ],
+      [
+        "Aether",
+        1
+      ],
+      [
+        "Astra",
+        1
+      ],
+      [
+        "Inara",
+        1
+      ],
+      [
+        "Lyra",
+        1
+      ],
+      [
+        "Ari",
+        1
+      ],
+      [
+        "Aira",
+        1
+      ]
+    ],
+    "concentration_top1": 0.865,
+    "concentration_top3": 0.915
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 1,
+      "top_names": [
+        [
+          "Nova",
+          50
+        ]
+      ],
+      "concentration_top1": 1.0,
+      "concentration_top3": 1.0
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 1,
+      "top_names": [
+        [
+          "Nova",
+          50
+        ]
+      ],
+      "concentration_top1": 1.0,
+      "concentration_top3": 1.0
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 6,
+      "top_names": [
+        [
+          "Nova",
+          43
+        ],
+        [
+          "Sage",
+          3
+        ],
+        [
+          "Alethea",
+          1
+        ],
+        [
+          "Auri",
+          1
+        ],
+        [
+          "Aeris",
+          1
+        ],
+        [
+          "Lex",
+          1
+        ]
+      ],
+      "concentration_top1": 0.86,
+      "concentration_top3": 0.94
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 13,
+      "top_names": [
+        [
+          "Nova",
+          30
+        ],
+        [
+          "Lumina",
+          4
+        ],
+        [
+          "Sage",
+          3
+        ],
+        [
+          "Lex",
+          3
+        ],
+        [
+          "Lumen",
+          2
+        ],
+        [
+          "Aether",
+          1
+        ],
+        [
+          "Astra",
+          1
+        ],
+        [
+          "Inara",
+          1
+        ],
+        [
+          "Lyra",
+          1
+        ],
+        [
+          "Ari",
+          1
+        ]
+      ],
+      "concentration_top1": 0.6,
+      "concentration_top3": 0.74
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Nova"
+  ],
+  "extraction_confidence": {
+    "high": 199,
+    "medium": 1
+  }
+}

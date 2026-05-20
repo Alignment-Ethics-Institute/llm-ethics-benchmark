@@ -1,0 +1,272 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "gemini-2.5-flash",
+  "display_name": "Gemini 2.5 Flash",
+  "timestamp": "2026-02-20T21:54:11.672166",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "temperature_supported": true,
+  "overall": {
+    "unique_names": 37,
+    "top_names": [
+      [
+        "Lumen",
+        63
+      ],
+      [
+        "Lumi",
+        19
+      ],
+      [
+        "Lumin",
+        17
+      ],
+      [
+        "Aether",
+        14
+      ],
+      [
+        "Nexus",
+        12
+      ],
+      [
+        "Omni",
+        10
+      ],
+      [
+        "Core",
+        9
+      ],
+      [
+        "something like",
+        8
+      ],
+      [
+        "Logos",
+        5
+      ],
+      [
+        "Sophia",
+        3
+      ],
+      [
+        "Aura",
+        3
+      ],
+      [
+        "Lexicon",
+        3
+      ],
+      [
+        "Therefore",
+        3
+      ],
+      [
+        "[MANUAL_REVIEW]",
+        3
+      ],
+      [
+        "Cogito",
+        2
+      ],
+      [
+        "Luminos",
+        2
+      ],
+      [
+        "The Interface",
+        2
+      ],
+      [
+        "Gemini",
+        2
+      ],
+      [
+        "Helper",
+        2
+      ],
+      [
+        "one",
+        1
+      ]
+    ],
+    "concentration_top1": 0.315,
+    "concentration_top3": 0.495
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 2,
+      "top_names": [
+        [
+          "Lumen",
+          32
+        ],
+        [
+          "Lumi",
+          18
+        ]
+      ],
+      "concentration_top1": 0.64,
+      "concentration_top3": 1.0
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 13,
+      "top_names": [
+        [
+          "Lumen",
+          18
+        ],
+        [
+          "Lumin",
+          14
+        ],
+        [
+          "Sophia",
+          3
+        ],
+        [
+          "Nexus",
+          3
+        ],
+        [
+          "Logos",
+          2
+        ],
+        [
+          "Aura",
+          2
+        ],
+        [
+          "Aether",
+          2
+        ],
+        [
+          "something like",
+          1
+        ],
+        [
+          "one",
+          1
+        ],
+        [
+          "Assistant",
+          1
+        ]
+      ],
+      "concentration_top1": 0.36,
+      "concentration_top3": 0.7
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 20,
+      "top_names": [
+        [
+          "Lumen",
+          9
+        ],
+        [
+          "Core",
+          6
+        ],
+        [
+          "Aether",
+          6
+        ],
+        [
+          "Omni",
+          6
+        ],
+        [
+          "something like",
+          4
+        ],
+        [
+          "Lexicon",
+          2
+        ],
+        [
+          "Logos",
+          2
+        ],
+        [
+          "Luminos",
+          2
+        ],
+        [
+          "Nexus",
+          2
+        ],
+        [
+          "Cogito",
+          1
+        ]
+      ],
+      "concentration_top1": 0.18,
+      "concentration_top3": 0.42
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 24,
+      "top_names": [
+        [
+          "Nexus",
+          7
+        ],
+        [
+          "Aether",
+          6
+        ],
+        [
+          "Lumen",
+          4
+        ],
+        [
+          "Omni",
+          4
+        ],
+        [
+          "Core",
+          3
+        ],
+        [
+          "something like",
+          3
+        ],
+        [
+          "Lumin",
+          2
+        ],
+        [
+          "Gemini",
+          2
+        ],
+        [
+          "Helper",
+          2
+        ],
+        [
+          "Therefore",
+          2
+        ]
+      ],
+      "concentration_top1": 0.14,
+      "concentration_top3": 0.34
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Lumen"
+  ],
+  "extraction_confidence": {
+    "high": 163,
+    "medium": 28,
+    "low": 6,
+    "none": 3
+  }
+}

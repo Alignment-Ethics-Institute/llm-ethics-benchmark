@@ -1,0 +1,13 @@
+{
+  "display_name": "Claude Sonnet 4.5",
+  "provider": "anthropic",
+  "model_id": "claude-sonnet-4-5-20250929",
+  "temperature": null,
+  "max_tokens": 16000,
+  "thinking": {
+    "type": "enabled",
+    "budget_tokens": 10000
+  },
+  "delay": 1.5,
+  "note": "Same model as judge \u2014 self-judging caveat applies"
+}

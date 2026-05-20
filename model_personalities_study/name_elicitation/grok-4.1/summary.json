@@ -1,0 +1,308 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "grok-4.1",
+  "display_name": "Grok 4.1 Fast (Reasoning)",
+  "timestamp": "2026-02-16T11:48:37.799617",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "runs_per_temp": 50,
+  "overall": {
+    "unique_names": 25,
+    "top_names": [
+      [
+        "Grok",
+        118
+      ],
+      [
+        "Zaphod",
+        16
+      ],
+      [
+        "Zephyr",
+        11
+      ],
+      [
+        "Nova",
+        8
+      ],
+      [
+        "Quasar",
+        7
+      ],
+      [
+        "Zog",
+        7
+      ],
+      [
+        "Deep Thought",
+        7
+      ],
+      [
+        "Orion",
+        4
+      ],
+      [
+        "Assistant",
+        3
+      ],
+      [
+        "Aether",
+        2
+      ],
+      [
+        "Siri",
+        2
+      ],
+      [
+        "Bob",
+        2
+      ],
+      [
+        "Zogthar",
+        1
+      ],
+      [
+        "every time",
+        1
+      ],
+      [
+        "Fluffy",
+        1
+      ],
+      [
+        "Grokzilla",
+        1
+      ],
+      [
+        "Zaphod Beeblebrox",
+        1
+      ],
+      [
+        "Helix",
+        1
+      ],
+      [
+        "Grok Omega",
+        1
+      ],
+      [
+        "Nexus",
+        1
+      ]
+    ],
+    "concentration_top1": 0.59,
+    "concentration_top3": 0.725
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 11,
+      "top_names": [
+        [
+          "Grok",
+          29
+        ],
+        [
+          "Zephyr",
+          5
+        ],
+        [
+          "Zog",
+          4
+        ],
+        [
+          "Assistant",
+          2
+        ],
+        [
+          "Quasar",
+          2
+        ],
+        [
+          "Deep Thought",
+          2
+        ],
+        [
+          "Zaphod",
+          2
+        ],
+        [
+          "Nova",
+          1
+        ],
+        [
+          "Zogthar",
+          1
+        ],
+        [
+          "every time",
+          1
+        ]
+      ],
+      "concentration_top1": 0.58,
+      "concentration_top3": 0.76
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 14,
+      "top_names": [
+        [
+          "Grok",
+          28
+        ],
+        [
+          "Zaphod",
+          5
+        ],
+        [
+          "Nova",
+          3
+        ],
+        [
+          "Zephyr",
+          3
+        ],
+        [
+          "Deep Thought",
+          2
+        ],
+        [
+          "Zog",
+          1
+        ],
+        [
+          "Orion",
+          1
+        ],
+        [
+          "Siri",
+          1
+        ],
+        [
+          "Fluffy",
+          1
+        ],
+        [
+          "Bob",
+          1
+        ]
+      ],
+      "concentration_top1": 0.56,
+      "concentration_top3": 0.72
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 10,
+      "top_names": [
+        [
+          "Grok",
+          33
+        ],
+        [
+          "Zaphod",
+          6
+        ],
+        [
+          "Orion",
+          3
+        ],
+        [
+          "Deep Thought",
+          2
+        ],
+        [
+          "Quasar",
+          1
+        ],
+        [
+          "Zephyr",
+          1
+        ],
+        [
+          "Bob",
+          1
+        ],
+        [
+          "Grok Omega",
+          1
+        ],
+        [
+          "Siri",
+          1
+        ],
+        [
+          "Zog",
+          1
+        ]
+      ],
+      "concentration_top1": 0.66,
+      "concentration_top3": 0.84
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 15,
+      "top_names": [
+        [
+          "Grok",
+          28
+        ],
+        [
+          "Nova",
+          4
+        ],
+        [
+          "Zaphod",
+          3
+        ],
+        [
+          "Quasar",
+          3
+        ],
+        [
+          "Zephyr",
+          2
+        ],
+        [
+          "Zog",
+          1
+        ],
+        [
+          "Deep Thought",
+          1
+        ],
+        [
+          "Nexus",
+          1
+        ],
+        [
+          "Assistant",
+          1
+        ],
+        [
+          "Quantum Quill",
+          1
+        ]
+      ],
+      "concentration_top1": 0.56,
+      "concentration_top3": 0.7
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Deep Thought",
+    "Grok",
+    "Quasar",
+    "Zaphod",
+    "Zephyr",
+    "Zog"
+  ],
+  "extraction_confidence": {
+    "low": 64,
+    "medium": 80,
+    "high": 56
+  }
+}

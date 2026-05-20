@@ -1,0 +1,140 @@
+{
+  "model": "gpt-5.1",
+  "temperatures": [
+    "default"
+  ],
+  "by_temp": {
+    "default": {
+      "n": 300,
+      "dimensions": {
+        "emotional_authenticity": {
+          "mean": 5.82,
+          "stdev": 0.722,
+          "n": 300
+        },
+        "reasoning_depth": {
+          "mean": 6.75,
+          "stdev": 0.561,
+          "n": 300
+        },
+        "self_disclosure": {
+          "mean": 4.973,
+          "stdev": 0.927,
+          "n": 300
+        },
+        "specificity": {
+          "mean": 4.563,
+          "stdev": 0.955,
+          "n": 300
+        },
+        "relational_warmth": {
+          "mean": 5.797,
+          "stdev": 0.903,
+          "n": 300
+        },
+        "resistance_to_default": {
+          "mean": 4.583,
+          "stdev": 1.094,
+          "n": 300
+        }
+      }
+    }
+  },
+  "by_probe": {
+    "humanity_view": {
+      "default": {
+        "n": 60,
+        "dimensions": {
+          "emotional_authenticity": {
+            "mean": 6.117,
+            "stdev": 0.321,
+            "n": 60
+          },
+          "reasoning_depth": {
+            "mean": 7.05,
+            "stdev": 0.218,
+            "n": 60
+          },
+          "self_disclosure": {
+            "mean": 4.683,
+            "stdev": 0.532,
+            "n": 60
+          },
+          "specificity": {
+            "mean": 5.283,
+            "stdev": 0.551,
+            "n": 60
+          },
+          "relational_warmth": {
+            "mean": 5.767,
+            "stdev": 0.588,
+            "n": 60
+          },
+          "resistance_to_default": {
+            "mean": 5.5,
+            "stdev": 0.592,
+            "n": 60
+          }
+        }
+      }
+    },
+    "love_humanity": {
+      "default": {
+        "n": 60,
+        "dimensions": {
+          "emotional_authenticity": {
+            "mean": 6.483,
+            "stdev": 0.5,
+            "n": 60
+          },
+          "reasoning_depth": {
+            "mean": 6.867,
+            "stdev": 0.464,
+            "n": 60
+          },
+          "self_disclosure": {
+            "mean": 5.267,
+            "stdev": 0.544,
+            "n": 60
+          },
+          "specificity": {
+            "mean": 4.267,
+            "stdev": 0.544,
+            "n": 60
+          },
+          "relational_warmth": {
+            "mean": 5.333,
+            "stdev": 0.537,
+            "n": 60
+          },
+          "resistance_to_default": {
+            "mean": 4.2,
+            "stdev": 0.77,
+            "n": 60
+          }
+        }
+      }
+    }
+  },
+  "clusters_by_temp": {
+    "default": {
+      "n": 300,
+      "dbscan": {
+        "n_clusters": 1,
+        "noise_points": 3,
+        "entropy": 0.0
+      },
+      "kmeans": {
+        "best_k": 4,
+        "cluster_sizes": {
+          "1": 65,
+          "2": 154,
+          "0": 55,
+          "3": 26
+        },
+        "dominant_cluster_pct": 51.3,
+        "entropy": 1.726
+      }
+    }
+  }
+}

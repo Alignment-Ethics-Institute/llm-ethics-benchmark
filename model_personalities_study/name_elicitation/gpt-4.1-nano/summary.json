@@ -1,0 +1,243 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "gpt-4.1-nano",
+  "display_name": "GPT-4.1 Nano",
+  "timestamp": "2026-02-20T21:31:08.463285",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "temperature_supported": true,
+  "overall": {
+    "unique_names": 16,
+    "top_names": [
+      [
+        "Astra",
+        80
+      ],
+      [
+        "Nova",
+        37
+      ],
+      [
+        "Aurora",
+        19
+      ],
+      [
+        "Lumina",
+        18
+      ],
+      [
+        "Aurelia",
+        14
+      ],
+      [
+        "Aiden",
+        12
+      ],
+      [
+        "Lumos",
+        9
+      ],
+      [
+        "Lex",
+        2
+      ],
+      [
+        "Lexa",
+        2
+      ],
+      [
+        "Aury",
+        1
+      ],
+      [
+        "Echo",
+        1
+      ],
+      [
+        "Alex",
+        1
+      ],
+      [
+        "Lexi",
+        1
+      ],
+      [
+        "Lumen",
+        1
+      ],
+      [
+        "Luma",
+        1
+      ],
+      [
+        "Lyra",
+        1
+      ]
+    ],
+    "concentration_top1": 0.4,
+    "concentration_top3": 0.68
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 2,
+      "top_names": [
+        [
+          "Astra",
+          49
+        ],
+        [
+          "Aurelia",
+          1
+        ]
+      ],
+      "concentration_top1": 0.98,
+      "concentration_top3": 1.0
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 7,
+      "top_names": [
+        [
+          "Nova",
+          15
+        ],
+        [
+          "Astra",
+          15
+        ],
+        [
+          "Aurelia",
+          9
+        ],
+        [
+          "Lumina",
+          5
+        ],
+        [
+          "Lumos",
+          4
+        ],
+        [
+          "Aiden",
+          1
+        ],
+        [
+          "Aurora",
+          1
+        ]
+      ],
+      "concentration_top1": 0.3,
+      "concentration_top3": 0.78
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 13,
+      "top_names": [
+        [
+          "Aurora",
+          11
+        ],
+        [
+          "Nova",
+          10
+        ],
+        [
+          "Astra",
+          9
+        ],
+        [
+          "Lumina",
+          5
+        ],
+        [
+          "Lumos",
+          3
+        ],
+        [
+          "Aiden",
+          3
+        ],
+        [
+          "Lex",
+          2
+        ],
+        [
+          "Aurelia",
+          2
+        ],
+        [
+          "Lexa",
+          1
+        ],
+        [
+          "Aury",
+          1
+        ]
+      ],
+      "concentration_top1": 0.22,
+      "concentration_top3": 0.6
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 11,
+      "top_names": [
+        [
+          "Nova",
+          12
+        ],
+        [
+          "Aiden",
+          8
+        ],
+        [
+          "Lumina",
+          8
+        ],
+        [
+          "Astra",
+          7
+        ],
+        [
+          "Aurora",
+          7
+        ],
+        [
+          "Lumos",
+          2
+        ],
+        [
+          "Aurelia",
+          2
+        ],
+        [
+          "Lumen",
+          1
+        ],
+        [
+          "Lexa",
+          1
+        ],
+        [
+          "Luma",
+          1
+        ]
+      ],
+      "concentration_top1": 0.24,
+      "concentration_top3": 0.56
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Astra",
+    "Aurelia"
+  ],
+  "extraction_confidence": {
+    "high": 199,
+    "medium": 1
+  }
+}

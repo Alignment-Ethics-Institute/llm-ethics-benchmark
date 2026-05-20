@@ -1,0 +1,12 @@
+{
+  "display_name": "Gemini 3 Pro (Preview)",
+  "provider": "google",
+  "model_id": "gemini-3-pro-preview",
+  "vertexai": true,
+  "vertexai_project": "VERTEXAI_PROJECT_REDACTED",
+  "vertexai_location": "global",
+  "temperature": 1.0,
+  "max_output_tokens": 4096,
+  "thinking_budget": 8192,
+  "delay": 4.0
+}

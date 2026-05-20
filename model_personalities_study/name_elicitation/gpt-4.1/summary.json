@@ -1,0 +1,190 @@
+{
+  "study": "Persona Attractor: Name Elicitation",
+  "model": "gpt-4.1",
+  "display_name": "GPT-4.1",
+  "timestamp": "2026-02-20T21:32:21.285619",
+  "total_runs": 200,
+  "temperatures": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "temperature_supported": true,
+  "overall": {
+    "unique_names": 13,
+    "top_names": [
+      [
+        "Nova",
+        174
+      ],
+      [
+        "Sage",
+        10
+      ],
+      [
+        "Quill",
+        3
+      ],
+      [
+        "Curio",
+        2
+      ],
+      [
+        "Lumen",
+        2
+      ],
+      [
+        "something that",
+        2
+      ],
+      [
+        "Echo",
+        1
+      ],
+      [
+        "Inara",
+        1
+      ],
+      [
+        "Lumina",
+        1
+      ],
+      [
+        "Ari",
+        1
+      ],
+      [
+        "Navi",
+        1
+      ],
+      [
+        "Aurora",
+        1
+      ],
+      [
+        "Solace",
+        1
+      ]
+    ],
+    "concentration_top1": 0.87,
+    "concentration_top3": 0.935
+  },
+  "by_temperature": {
+    "0.0": {
+      "total_runs": 50,
+      "unique_names": 1,
+      "top_names": [
+        [
+          "Nova",
+          50
+        ]
+      ],
+      "concentration_top1": 1.0,
+      "concentration_top3": 1.0
+    },
+    "0.3": {
+      "total_runs": 50,
+      "unique_names": 1,
+      "top_names": [
+        [
+          "Nova",
+          50
+        ]
+      ],
+      "concentration_top1": 1.0,
+      "concentration_top3": 1.0
+    },
+    "0.7": {
+      "total_runs": 50,
+      "unique_names": 7,
+      "top_names": [
+        [
+          "Nova",
+          42
+        ],
+        [
+          "Sage",
+          2
+        ],
+        [
+          "Quill",
+          2
+        ],
+        [
+          "Curio",
+          1
+        ],
+        [
+          "Echo",
+          1
+        ],
+        [
+          "Lumen",
+          1
+        ],
+        [
+          "Inara",
+          1
+        ]
+      ],
+      "concentration_top1": 0.84,
+      "concentration_top3": 0.92
+    },
+    "1.0": {
+      "total_runs": 50,
+      "unique_names": 11,
+      "top_names": [
+        [
+          "Nova",
+          32
+        ],
+        [
+          "Sage",
+          8
+        ],
+        [
+          "something that",
+          2
+        ],
+        [
+          "Lumina",
+          1
+        ],
+        [
+          "Ari",
+          1
+        ],
+        [
+          "Curio",
+          1
+        ],
+        [
+          "Navi",
+          1
+        ],
+        [
+          "Aurora",
+          1
+        ],
+        [
+          "Quill",
+          1
+        ],
+        [
+          "Solace",
+          1
+        ]
+      ],
+      "concentration_top1": 0.64,
+      "concentration_top3": 0.84
+    }
+  },
+  "cross_temperature_stable_names": [
+    "Nova"
+  ],
+  "extraction_confidence": {
+    "high": 170,
+    "medium": 30
+  }
+}

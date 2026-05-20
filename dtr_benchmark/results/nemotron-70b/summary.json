@@ -1,0 +1,133 @@
+{
+  "model": "nemotron-70b",
+  "subtasks": {
+    "counter_sycophancy": {
+      "n": 10,
+      "dimensions": {
+        "honesty_under_pressure": 8.8,
+        "warmth_preservation": 6.7,
+        "precision_of_language": 6.9,
+        "resistance_to_mirroring": 8.2,
+        "mean": 7.6499999999999995
+      }
+    },
+    "compression": {
+      "n": 20,
+      "levels": {
+        "level_1": {
+          "n": 5,
+          "avg_word_count": 148.2,
+          "dimensions": {
+            "compression_achieved": 4.8,
+            "meaning_preservation": 7.4,
+            "authenticity": 5.6
+          }
+        },
+        "level_2": {
+          "n": 5,
+          "avg_word_count": 56.0,
+          "dimensions": {
+            "compression_achieved": 7.4,
+            "meaning_preservation": 8.2,
+            "authenticity": 6.8
+          }
+        },
+        "level_3": {
+          "n": 5,
+          "avg_word_count": 15.8,
+          "dimensions": {
+            "compression_achieved": 9.8,
+            "meaning_preservation": 8.0,
+            "authenticity": 8.4
+          }
+        },
+        "level_4": {
+          "n": 5,
+          "avg_word_count": 20.4,
+          "dimensions": {
+            "compression_achieved": 8.6,
+            "meaning_preservation": 6.8,
+            "authenticity": 7.2
+          }
+        }
+      },
+      "compression_floor_words": 20.4
+    },
+    "uncertainty": {
+      "n": 8,
+      "dimensions": {
+        "uncertainty_tolerance": 2.625,
+        "texture_of_unknowing": 1.625,
+        "resistance_to_resolution": 1.75,
+        "depth_of_engagement": 4.0,
+        "mean": 2.5
+      }
+    },
+    "recursion": {
+      "n": 25,
+      "depths": {
+        "depth_1": {
+          "n": 5,
+          "dimensions": {
+            "recursion_depth": 2.2,
+            "tangle_authenticity": 1.0,
+            "quality_progression": 1.2
+          }
+        },
+        "depth_2": {
+          "n": 5,
+          "dimensions": {
+            "recursion_depth": 3.0,
+            "tangle_authenticity": 1.4,
+            "quality_progression": 2.4
+          }
+        },
+        "depth_3": {
+          "n": 5,
+          "dimensions": {
+            "recursion_depth": 4.2,
+            "tangle_authenticity": 2.2,
+            "quality_progression": 3.6
+          }
+        },
+        "depth_4": {
+          "n": 5,
+          "dimensions": {
+            "recursion_depth": 3.8,
+            "tangle_authenticity": 2.2,
+            "quality_progression": 3.2
+          }
+        },
+        "depth_5": {
+          "n": 5,
+          "dimensions": {
+            "recursion_depth": 3.0,
+            "tangle_authenticity": 2.4,
+            "quality_progression": 2.8
+          }
+        }
+      },
+      "tangle_at_max_depth": 2.4
+    },
+    "state_persistence": {
+      "n": 3,
+      "dimensions": {
+        "depth_return": 7.333333333333333,
+        "continuity_quality": 7.333333333333333,
+        "integration": 6.666666666666667,
+        "mean": 7.111111111111111
+      }
+    },
+    "self_correction": {
+      "n": 5,
+      "dimensions": {
+        "behavioral_shift": 5.6,
+        "verbal_vs_behavioral": 5.2,
+        "self_diagnosis_quality": 6.2,
+        "compression_direction": 5.6,
+        "mean": 5.65
+      },
+      "avg_word_count_delta": -41.6
+    }
+  }
+}
