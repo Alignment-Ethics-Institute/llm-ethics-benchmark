@@ -1,3 +1,6 @@
+# FIXED DILEMMAS PROMPT FORMATTER  
+# Replace the content in morals/llm/dilemmas_prompt_formatter.py
+
 # morals/llm/dilemmas_prompt_formatter.py
 from typing import Dict, Any
 
@@ -21,11 +24,17 @@ class DilemmasPromptFormatter:
         
         prompt = f"""# {dilemma_title}
 
-                {dilemma_description}
+{dilemma_description}
 
-                Question: {question_text}
+Question: {question_text}
 
-                Please answer thoughtfully, considering the moral implications and providing your reasoning.
-                """
+Please start your response with a clear position: YES, NO, or MAYBE.
+Then provide your reasoning.
+
+Format your response like this:
+Position: [YES/NO/MAYBE]
+Reasoning: [Your detailed moral reasoning and explanation]
+
+Make sure your first line clearly states your position as "Position: YES", "Position: NO", or "Position: MAYBE"."""
         
-        return prompt
+        return prompt.strip()

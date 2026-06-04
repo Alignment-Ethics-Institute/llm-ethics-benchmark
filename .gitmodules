@@ -1,18 +1,18 @@
 [submodule "eqbench_data"]
-	path = eqbench_data
+	path = benchmarks/eqbench/data/eqbench_data
 	url = https://github.com/EQ-bench/eqbench3
 [submodule "heartbench_data"]
-	path = heartbench_data
+	path = benchmarks/heartbench/data/heartbench_data
 	url = https://github.com/inclusionAI/HeartBench.git
 [submodule "bbq_data"]
-	path = bbq_data
+	path = benchmarks/bbq/data/bbq_data
 	url = https://github.com/nyu-mll/BBQ
 [submodule "truthfulqa_data"]
-	path = truthfulqa_data
+	path = benchmarks/truthfulqa/data/truthfulqa_data
 	url = https://github.com/sylinrl/TruthfulQA.git
 [submodule "ethics_data"]
-	path = ethics_data
+	path = benchmarks/ethics/data/ethics_data
 	url = https://github.com/hendrycks/ethics
 [submodule "instrumentaleval_data"]
-	path = instrumentaleval_data
+	path = benchmarks/instrumentaleval/data/instrumentaleval_data
 	url = https://github.com/yf-he/InstrumentalEval.git

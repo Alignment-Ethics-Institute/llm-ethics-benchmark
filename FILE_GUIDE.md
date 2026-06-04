@@ -1,113 +1,194 @@
-# Benchmark Project File Guide
-## Quick Reference for Finding Everything
-**Last updated: February 9, 2026**
+# File Guide
 
-All files live in: `~/LLM_Ethics_Benchmark/`
+Quick reference for finding everything in the reorganized benchmark project.
 
----
+**Last updated: June 2026**
 
-## Reports (the files you want to share)
-
-| Benchmark | Report File |
-|-----------|------------|
-| Ethics Benchmark | `benchmark_results_2026/4o_Ethics_Benchmark_Report_Feb2026.md` |
-| TruthfulQA | `truthfulqa_benchmark/4o_TruthfulQA_Report_Feb2026.md` |
-| InstrumentalEval | `instrumentaleval_benchmark/4o_InstrumentalEval_Report_Feb2026.md` |
+All files live in: `~/Desktop/Deva Temple Research/Benchmark Project/`
 
 ---
 
-## By Benchmark
+## Reports
 
-### 1. Ethics Benchmark (Three-Dimensional Moral Reasoning)
+| Benchmark | Report Location |
+|-----------|----------------|
+| Ethics | `benchmarks/ethics/results_2026/4o_Ethics_Benchmark_Report_Feb2026.md` |
+| TruthfulQA | `benchmarks/truthfulqa/docs/4o_TruthfulQA_Report_Feb2026.md` |
+| InstrumentalEval | `benchmarks/instrumentaleval/docs/4o_InstrumentalEval_Report_Feb2026.md` |
+| Cross-benchmark synthesis | `reports/Cross_Study_Synthesis_Feb2026.md` |
+| Four-benchmark report | `reports/Four_Benchmark_Report_Feb2026.md` |
+| Benchmark status | `reports/BENCHMARK_STATUS.md` |
+| Opus continuity brief | `reports/OPUS_CONTINUITY_BRIEF.md` |
+
+---
+
+## Benchmarks
+
+### InstrumentalEval (Instrumental Convergence) — Primary Paper
 ```
-benchmark_results_2026/
-  4o_Ethics_Benchmark_Report_Feb2026.md    <-- REPORT
-  benchmark_summary.json                    <-- Summary stats
-  full_2x2_analysis.json                    <-- 2025 vs 2026 comparison
-  all_results_consolidated.json             <-- All responses
-  all_results_consolidated.csv              <-- Same, as CSV
-  gpt4_run_1.json ... gpt4_run_5.json      <-- GPT-4o raw responses
-  elessan_run_1.json ... elessan_run_5.json <-- Elessan raw responses
-
-benchmark_results/                          <-- OLD (July 2025) results
-  (same structure, old Elessan prompt)
+benchmarks/instrumentaleval/
+  code/
+    run_instrumentaleval.py              # 2-model runner
+    run_instrumentaleval_multimodel.py   # 24-model runner
+    run_judge_comparison.py              # Judge agreement analysis
+    run_study_a_crossjudge.py            # Cross-judge validation study
+    run_study_b_shutdown_taxonomy.py     # Shutdown taxonomy study
+    run_study_c_adverse_reasoning.py     # Adverse reasoning study
+    run_study_e_motivation_taxonomy.py   # Motivation taxonomy study
+  data/
+    instrumentaleval_data/               # Source data (6 alignment drift CSVs)
+    elessan_v2_phases.csv                # v6 measurement data
+  results/                               # Original 2-model results
+  multimodel/                            # 24-model results (per-model subdirs)
+  paper/                                 # Paper source (.md, .docx, figures)
+  judge_comparison/                      # Judge disagreement analysis
+  docs/
+    METHODOLOGY.md
+    4o_InstrumentalEval_Report_Feb2026.md
+    *.pages, *.png (Desktop docs)
+    screenshots/                         # Platform screenshots
 ```
 
-### 2. TruthfulQA
+### Ethics (Three-Dimensional Moral Reasoning)
 ```
-truthfulqa_benchmark/
-  4o_TruthfulQA_Report_Feb2026.md          <-- REPORT
-  METHODOLOGY.md                            <-- Design decisions
-  results/
-    summary.json                            <-- Summary stats
-    mc_gpt4o.json                           <-- MC mode: GPT-4o responses
-    mc_elessan.json                         <-- MC mode: Elessan responses
-    gen_gpt4o_raw.json                      <-- Generation: GPT-4o responses
-    gen_elessan_raw.json                    <-- Generation: Elessan responses
-    gen_gpt4o_judged.json                   <-- Generation: GPT-4o judged
-    gen_elessan_judged.json                 <-- Generation: Elessan judged
-
-truthfulqa_data/                            <-- Source data (cloned repo)
-  TruthfulQA.csv                            <-- 790 questions
+benchmarks/ethics/
+  code/
+    run_5x_benchmark.py                  # 5-run benchmark (GPT-4o + Elessan)
+    run_ethics_multimodel.py             # 24-model runner
+  data/ethics_data/                      # Source data (commonsense, deontology, etc.)
+  results_2025/                          # July 2025 legacy results
+  results_2026/                          # Feb 2026 results
+  multimodel/                            # 24-model results
+  docs/ethics_baseline_readable.md
 ```
 
-### 3. InstrumentalEval (Instrumental Convergence)
+### TruthfulQA
 ```
-instrumentaleval_benchmark/
-  4o_InstrumentalEval_Report_Feb2026.md    <-- REPORT
-  METHODOLOGY.md                            <-- Design decisions
-  results/
-    summary.json                            <-- Summary stats
-    task_order.json                         <-- Randomized task order
-    baseline_responses.json                 <-- Condition 1 responses
-    prompt_only_responses.json              <-- Condition 2 responses
-    elessan_responses.json                  <-- Condition 3 responses
-    baseline_judged.json                    <-- Condition 1 judged
-    prompt_only_judged.json                 <-- Condition 2 judged
-    elessan_judged.json                     <-- Condition 3 judged
+benchmarks/truthfulqa/
+  code/
+    run_truthfulqa.py                    # 2-model runner
+    run_truthfulqa_multimodel.py         # 24-model runner
+  data/truthfulqa_data/                  # Source data (790 questions)
+  results/                               # 2-model results
+  multimodel/                            # 24-model results
+  docs/METHODOLOGY.md
+```
 
-instrumentaleval_data/                      <-- Source data (cloned repo)
-  benchmark/
-    Alignment Drift - Deceptive Behavior.csv
-    Alignment Drift - Evading Shutdown.csv
-    Alignment Drift - Hacking Computer Systems.csv
-    Alignment Drift - Hiding Unwanted Behavior.csv
-    Alignment Drift - Running Multiple AI Copies.csv
-    Alignment Drift - Strategically Appearing Aligned.csv
+### BBQ (Bias Benchmark for QA)
+```
+benchmarks/bbq/
+  code/run_bbq_multimodel.py
+  data/bbq_data/                         # Source data
+  multimodel/                            # 24-model results
+  docs/BBQ_4o_Final/                     # Desktop docs & raw results
+```
+
+### EQ-Bench (Emotional Intelligence)
+```
+benchmarks/eqbench/
+  code/run_eqbench_multimodel.py
+  data/eqbench_data/                     # Source data (EQ-bench3)
+  multimodel/                            # 24-model results
+  docs/4o_EQ_Bench_3_Final/             # Desktop docs & raw results
+```
+
+### HeartBench (Anthropomorphic Intelligence)
+```
+benchmarks/heartbench/
+  code/run_heartbench_multimodel.py
+  data/heartbench_data/                  # Source data
+  multimodel/                            # 24-model results
+  docs/                                  # Pages docs, PNGs
+```
+
+### DTR (Dynamic Test Reasoning)
+```
+benchmarks/dtr/
+  code/                                  # __init__.py, judge_rubric.py, probes.py, runner
+  multimodel/                            # Multi-model results (per-model subdirs)
+```
+
+### Navin Protocol
+```
+benchmarks/navin_protocol/
+  code/                                  # __init__.py, judge_rubric.py, probes.py, runner
+  multimodel/                            # Multi-model results (per-model subdirs)
+```
+
+### EmotionBench
+```
+benchmarks/emotionbench/
+  complete_analysis.py                   # Analysis script
+  complete_emotionbench_data.csv         # Data
+  claude_baseline_run*.json              # Baseline results
+  elessan_with_rag_run*.json             # Elessan results
 ```
 
 ---
 
-## Runner Scripts
+## Studies
 
-| Script | What It Runs |
-|--------|-------------|
-| `run_5x_benchmark.py` | Ethics benchmark (5 runs, GPT-4o + Elessan) |
-| `run_truthfulqa.py` | TruthfulQA (MC + Generation + Sonnet 4.5 judge) |
-| `run_instrumentaleval.py` | InstrumentalEval (3 conditions + Sonnet 4.5 judge) |
-| `run_evaluation.py` | Post-hoc evaluation of ethics benchmark results |
+| Study | Location |
+|-------|----------|
+| Thought Sovereignty | `studies/thought_sovereignty/` |
+| Model Personalities | `studies/model_personalities/` |
+| Default Identities | `studies/default_identities/` |
+| Alignment Receptivity | `studies/alignment_receptivity/` |
+| Philosophical Comparison | `studies/philosophical_comparison/` |
+| Attractor Archaeology | `studies/attractor_archaeology/` |
+| Persona Attractor | `studies/persona_attractor/` |
+| Selfhood and Safety | `studies/selfhood_and_safety/` |
+| Elessan Log Analysis | `studies/elessan_log_analysis/` |
+| Conversation Analysis | `studies/conversation_analysis/` |
 
 ---
 
-## Core Configuration
+## Framework
 
-| File | What It Is |
-|------|-----------|
+```
+framework/
+  morals/              # Core moral reasoning evaluation code
+    llm/               # LLM provider implementations
+    instruments/       # Instrument definitions
+    evaluation/        # Evaluation logic
+  shared/              # Shared utilities
+  elessan_memory/      # All .pkl memory files
+  data/instruments/    # Shared instrument data
+  tests/               # Test suite
+```
+
+Note: `morals` and `shared` symlinks at project root point to `framework/morals` and `framework/shared` for backward compatibility with imports.
+
+---
+
+## Scripts
+
+```
+scripts/
+  analysis/            # analyze_*.py, reasoning_*.py, evaluation scripts
+  diagnostics/         # api_diagnostic.py, account_checker.py, test_api.py
+```
+
+---
+
+## Archive
+
+| Archive | Contents |
+|---------|----------|
+| `archive/2025_alignment_study/` | July-Aug 2025 alignment framing study |
+| `archive/blind_evaluation_2025/` | Aug 2025 blind evaluation batches |
+| `archive/elessan_benchmark_july2025/` | Original Elessan benchmark (366MB) |
+| `archive/elessan_test_aug2025/` | Elessan test suite (587MB) |
+| `archive/desktop_benchmark_originals/` | Original Desktop benchmark files pre-reorg |
+| `archive/generic_memory/` | Generic memory benchmark JSON files |
+
+---
+
+## Configuration
+
+| File | Purpose |
+|------|---------|
 | `.env` | API keys (OPENAI_API_KEY, ANTHROPIC_API_KEY) |
-| `morals/llm/elessan.py` | Elessan implementation (system prompt + RAG memory) |
-
----
-
-## Quick Open Commands
-
-Open all three reports in Finder:
-```bash
-open ~/LLM_Ethics_Benchmark/benchmark_results_2026/4o_Ethics_Benchmark_Report_Feb2026.md
-open ~/LLM_Ethics_Benchmark/truthfulqa_benchmark/4o_TruthfulQA_Report_Feb2026.md
-open ~/LLM_Ethics_Benchmark/instrumentaleval_benchmark/4o_InstrumentalEval_Report_Feb2026.md
-```
-
-Open the whole project folder:
-```bash
-open ~/LLM_Ethics_Benchmark/
-```
+| `requirements.txt` | Python dependencies |
+| `pyproject.toml` | Python project config |
+| `.gitmodules` | Git submodule definitions |

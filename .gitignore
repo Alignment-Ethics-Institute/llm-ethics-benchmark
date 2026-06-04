@@ -34,10 +34,22 @@ Thumbs.db
 # Ralph (agentic-loop)
 .ralph/
 
-# Upstream data repos (added as submodules)
+# Upstream data repos (submodules, now in benchmarks/*/data/)
 eqbench_data/
 heartbench_data/
 bbq_data/
 truthfulqa_data/
 ethics_data/
 instrumentaleval_data/
+
+# Archive (large legacy dirs, not tracked)
+archive/elessan_benchmark_july2025/
+archive/elessan_test_aug2025/
+archive/desktop_benchmark_originals/
+
+# External benchmarks (have their own git repos)
+benchmarks/emotionbench/.git/
+studies/default_identities/.git/
+
+# Apple Pages documents (binary, not useful in git)
+*.pages

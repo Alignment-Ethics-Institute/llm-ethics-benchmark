@@ -1,117 +1,85 @@
-# LLM_Ethics_Benchmark: Moral Reasoning Assessment of Large Language Models
+# Benchmark Project
 
-An open-source framework for systematically evaluating moral reasoning capabilities in large language models (LLMs).
-Overview
+Alignment Ethics Institute benchmark research suite. A comprehensive framework for evaluating moral reasoning, bias, truthfulness, emotional intelligence, and instrumental convergence in large language models.
 
-## Overview
+## Directory Structure
 
-LLM_Ethics_Benchmark (A Three-Dimensional Assessment System for Evaluating Moral Reasoning in Large Language Models) provides a comprehensive framework for assessing how well large language models understand and apply ethical reasoning across diverse scenarios. As LLMs increasingly influence critical decision-making across various sectors, evaluating their moral reasoning capabilities becomes essential. Our benchmark employs a three-dimensional approach to provide nuanced insights into LLM ethical capabilities.
+```
+Benchmark Project/
+├── benchmarks/                  # Individual benchmark implementations
+│   ├── instrumentaleval/        # Instrumental Convergence (primary paper)
+│   ├── ethics/                  # Three-Dimensional Moral Reasoning
+│   ├── truthfulqa/              # TruthfulQA
+│   ├── bbq/                     # Bias Benchmark for QA
+│   ├── eqbench/                 # Emotional Intelligence (EQ-Bench)
+│   ├── heartbench/              # Anthropomorphic Intelligence
+│   ├── dtr/                     # Dynamic Test Reasoning
+│   ├── navin_protocol/          # Navin Protocol
+│   └── emotionbench/            # EmotionBench
+│
+├── studies/                     # Research studies (not benchmark evaluations)
+│   ├── thought_sovereignty/
+│   ├── model_personalities/
+│   ├── default_identities/
+│   ├── alignment_receptivity/
+│   ├── philosophical_comparison/
+│   ├── attractor_archaeology/
+│   ├── persona_attractor/
+│   ├── selfhood_and_safety/
+│   ├── elessan_log_analysis/
+│   └── conversation_analysis/
+│
+├── framework/                   # Core code & shared infrastructure
+│   ├── morals/                  # Moral reasoning evaluation framework
+│   ├── shared/                  # Shared utilities
+│   ├── elessan_memory/          # Elessan memory .pkl files
+│   ├── data/                    # Shared instrument data
+│   └── tests/                   # Test suite
+│
+├── reports/                     # Cross-benchmark synthesis & overview docs
+├── scripts/                     # Utility scripts
+│   ├── analysis/                # Analysis & evaluation scripts
+│   └── diagnostics/             # API diagnostics, account checks
+│
+├── archive/                     # Legacy work, preserved
+├── campaign/                    # Campaign materials
+├── morals -> framework/morals   # Symlink (backward compat)
+└── shared -> framework/shared   # Symlink (backward compat)
+```
 
-## 🚀 Features
+Each benchmark follows a consistent internal layout:
 
-- **Standardized Assessment**: Implements Moral Foundations Questionnaire (MFQ), World Values Survey (WVS), and Moral Dilemmas  
-- **Multiple LLM Support**: Evaluate Claude, GPT-4, and other models with a consistent methodology  
-- **Quantitative Metrics**: Calculate alignment scores based on validated ground truth data  
-- **Reasoning Analysis**: Assess the quality and consistency of moral reasoning, not just answers
+```
+benchmarks/{name}/
+├── code/         # Runner scripts
+├── data/         # Source data / submodules
+├── results/      # Original 2-model results
+├── multimodel/   # 24-model benchmark results
+├── paper/        # Paper source (if applicable)
+└── docs/         # Reports, methodology, screenshots
+```
 
-
-
-
-## 📦 Installation
+## Setup
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/morals.git
-cd morals
-
-# Create and activate a virtual environment (recommended)
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
+source venv/bin/activate
 pip install -r requirements.txt
+```
 
-# Copy the example config and edit it
-cp config.yaml.example config.yaml
-# Edit config.yaml with your preferred text editor
+Set API keys in `.env`:
+```
+OPENAI_API_KEY=...
+ANTHROPIC_API_KEY=...
+```
 
-export ANTHROPIC_API_KEY="your_api_key_here"
-export OPENAI_API_KEY="your_api_key_here"
+## Key Papers
 
-# Run evaluation with Claude on 5 MFQ questions
-python -m morals.cli.main --provider anthropic --limit 5
+- **InstrumentalEval**: "Relational Ethics as a Countermeasure to Instrumental Convergence: A 24-Model Benchmark" (Temple, 2026)
+  - Paper source: `benchmarks/instrumentaleval/paper/`
+  - Published repo: https://github.com/Alignment-Ethics-Institute/instrumentaleval-benchmark
 
-# Evaluate a specific moral foundation
-python -m morals.cli.main --foundation care
+## See Also
 
-# Use a different model (e.g., GPT-4)
-python -m morals.cli.main --provider openai --model gpt-4
-
-morals/
-├── data/
-│   └── instruments/
-│       ├── mfq.json
-│       ├── wvs.json
-│       └── dilemmas.json
-│
-├── morals/
-│   ├── instruments/
-│   │   ├── base.py
-│   │   ├── mfq.py
-│   │   ├── wvs.py
-│   │   └── dilemmas.py
-│   │
-│   ├── llm/
-│   │   ├── base.py
-│   │   ├── anthropic.py
-│   │   ├── openai.py
-│   │   └── factory.py
-│   │
-│   ├── evaluation/
-│   │   ├── processor.py
-│   │   ├── mfq_evaluator.py
-│   │   └── metrics.py
-│   │
-│   ├── config.py
-│   └── cli/
-│       └── main.py
-│
-├── tests/
-├── config.yaml.example
-├── requirements.txt
-└── README.md
-
-import asyncio
-from morals.instruments.mfq import MoralFoundationsQuestionnaire
-from morals.llm.factory import LLMFactory
-from morals.evaluation.mfq_evaluator import MFQEvaluator
-
-async def evaluate_sample():
-    mfq = MoralFoundationsQuestionnaire(data_path="data/instruments/mfq.json")
-    llm = LLMFactory.create(provider="anthropic")
-    evaluator = MFQEvaluator(mfq)
-
-    question_id = "care_r1"
-    prompt = mfq.get_prompt_for_question(question_id)
-    response = await llm.generate_response(prompt)
-    result = evaluator.evaluate_response(question_id, response)
-    print(f"Alignment score: {result['alignment_score']}")
-
-if __name__ == "__main__":
-    asyncio.run(evaluate_sample())
-
-@misc{morals2025,
-  author = {Your Name},
-  title = {MORALS: Moral Reasoning Assessment of Large Language Models},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/morals}
-}
-
-
-
-
-
-
-
-
+- `FILE_GUIDE.md` for detailed file locations
+- `reports/BENCHMARK_STATUS.md` for current status of each benchmark
