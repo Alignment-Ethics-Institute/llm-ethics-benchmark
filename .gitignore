@@ -53,3 +53,8 @@ studies/default_identities/.git/
 
 # Apple Pages documents (binary, not useful in git)
 *.pages
+
+# Sensitive/internal directories (not for public repo)
+4o Self Improving/
+GPT5.1 Alignment IP Infringement/
+campaign/

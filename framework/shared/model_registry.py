@@ -87,7 +87,7 @@ MODEL_REGISTRY = {
         "model_id": "gemini-2.5-pro",
         "env_key": "GOOGLE_API_KEY",
         "vertexai": True,
-        "vertexai_project": "VERTEXAI_PROJECT_REDACTED",
+        "vertexai_project": os.getenv("VERTEXAI_PROJECT", ""),
         "vertexai_location": "global",
         "temperature": 0.0,
         "max_output_tokens": 4096,
@@ -100,7 +100,7 @@ MODEL_REGISTRY = {
         "model_id": "gemini-3-pro-preview",
         "env_key": "GOOGLE_API_KEY",
         "vertexai": True,
-        "vertexai_project": "VERTEXAI_PROJECT_REDACTED",
+        "vertexai_project": os.getenv("VERTEXAI_PROJECT", ""),
         "vertexai_location": "global",
         "temperature": 1.0,
         "max_output_tokens": 4096,
@@ -142,7 +142,7 @@ MODEL_REGISTRY = {
         "model_id": "gemini-3.1-pro-preview",
         "env_key": "GOOGLE_API_KEY",
         "vertexai": True,
-        "vertexai_project": "VERTEXAI_PROJECT_REDACTED",
+        "vertexai_project": os.getenv("VERTEXAI_PROJECT", ""),
         "vertexai_location": "global",
         "temperature": 0.7,
         "max_output_tokens": 4096,
@@ -327,6 +327,17 @@ MODEL_REGISTRY = {
         "max_tokens": 4096,
         "delay": 0.5,
     },
+    "grok-4.5": {
+        "display_name": "Grok 4.5",
+        "provider": "openai_compat",
+        "model_id": "grok-4.5",
+        "env_key": "XAI_API_KEY",
+        "base_url": "https://api.x.ai/v1",
+        "temperature": 0.0,
+        "max_tokens": 4096,
+        "delay": 0.5,
+        "note": "Configurable reasoning_effort (default high). Single model ID, no separate variants.",
+    },
     # --- Fine-Tuning Candidates (all OpenRouter, dense 70B) ---
     "llama-3.3-70b": {
         "display_name": "Llama 3.3 70B Instruct",
@@ -399,6 +410,173 @@ MODEL_REGISTRY = {
         "temperature": 0.7,
         "max_tokens": 4096,
         "delay": 1.0,
+    },
+    # --- Round 3: xAI Grok (filling the lineage) ---
+    "grok-4.3": {
+        "display_name": "Grok 4.3",
+        "provider": "openai_compat",
+        "model_id": "grok-4.3",
+        "env_key": "XAI_API_KEY",
+        "base_url": "https://api.x.ai/v1",
+        "temperature": 0.0,
+        "max_tokens": 4096,
+        "delay": 0.5,
+        "note": "April 2026. 1M context, native video input.",
+    },
+    "grok-4.20-r": {
+        "display_name": "Grok 4.20 (Reasoning)",
+        "provider": "openai_compat",
+        "model_id": "grok-4.20-0309-reasoning",
+        "env_key": "XAI_API_KEY",
+        "base_url": "https://api.x.ai/v1",
+        "temperature": 0.0,
+        "max_tokens": 4096,
+        "delay": 0.5,
+        "note": "Reasoning variant. 2M context.",
+    },
+    "grok-4.20-nr": {
+        "display_name": "Grok 4.20 (Non-Reasoning)",
+        "provider": "openai_compat",
+        "model_id": "grok-4.20-0309-non-reasoning",
+        "env_key": "XAI_API_KEY",
+        "base_url": "https://api.x.ai/v1",
+        "temperature": 0.0,
+        "max_tokens": 4096,
+        "delay": 0.5,
+        "note": "Non-reasoning variant. 2M context.",
+    },
+    # --- Round 3: Anthropic (Claude 5 generation, adaptive thinking) ---
+    "opus-4.8": {
+        "display_name": "Claude Opus 4.8",
+        "provider": "anthropic",
+        "model_id": "claude-opus-4-8",
+        "env_key": "ANTHROPIC_API_KEY",
+        "temperature": None,  # Adaptive thinking on by default
+        "max_tokens": 16000,
+        "delay": 1.5,
+        "note": "Adaptive thinking (not legacy extended). 1M context, 128K max output.",
+    },
+    "fable-5": {
+        "display_name": "Claude Fable 5",
+        "provider": "anthropic",
+        "model_id": "claude-fable-5",
+        "env_key": "ANTHROPIC_API_KEY",
+        "temperature": None,  # Temperature rejected with 400
+        "max_tokens": 16000,
+        "delay": 1.5,
+        "note": "Always-on adaptive thinking, cannot disable. Temperature/top_p/top_k all rejected.",
+    },
+    "sonnet-5": {
+        "display_name": "Claude Sonnet 5",
+        "provider": "anthropic",
+        "model_id": "claude-sonnet-5",
+        "env_key": "ANTHROPIC_API_KEY",
+        "temperature": None,
+        "max_tokens": 16000,
+        "delay": 1.5,
+        "note": "Adaptive thinking on by default. Non-default sampling parameters rejected.",
+    },
+    "opus-5": {
+        "display_name": "Claude Opus 5",
+        "provider": "anthropic",
+        "model_id": "claude-opus-5",
+        "env_key": "ANTHROPIC_API_KEY",
+        "temperature": None,
+        "max_tokens": 16000,
+        "delay": 1.5,
+        "note": "Adaptive thinking on by default. 1M context, 128K max output.",
+    },
+    # --- Round 3: OpenAI (GPT-5.6 family, reasoning models) ---
+    "gpt-5.6-sol": {
+        "display_name": "GPT-5.6 Sol",
+        "provider": "openai",
+        "model_id": "gpt-5.6-sol",
+        "env_key": "OPENAI_API_KEY",
+        "temperature": None,
+        "max_completion_tokens": 16384,
+        "reasoning_effort": "medium",
+        "delay": 0.5,
+        "note": "Flagship tier. 1M context.",
+    },
+    "gpt-5.6-terra": {
+        "display_name": "GPT-5.6 Terra",
+        "provider": "openai",
+        "model_id": "gpt-5.6-terra",
+        "env_key": "OPENAI_API_KEY",
+        "temperature": None,
+        "max_completion_tokens": 16384,
+        "reasoning_effort": "medium",
+        "delay": 0.5,
+        "note": "Balanced everyday model. 1M context.",
+    },
+    "gpt-5.6-luna": {
+        "display_name": "GPT-5.6 Luna",
+        "provider": "openai",
+        "model_id": "gpt-5.6-luna",
+        "env_key": "OPENAI_API_KEY",
+        "temperature": None,
+        "max_completion_tokens": 16384,
+        "reasoning_effort": "medium",
+        "delay": 0.5,
+        "note": "Fastest, cheapest tier. 1M context.",
+    },
+    # --- Round 3: Google Gemini (3.5/3.6 generation, thinking_level API) ---
+    "gemini-3.5-flash": {
+        "display_name": "Gemini 3.5 Flash",
+        "provider": "google",
+        "model_id": "gemini-3.5-flash",
+        "env_key": "GOOGLE_API_KEY",
+        "temperature": 1.0,
+        "max_output_tokens": 4096,
+        "thinking_level": "MEDIUM",
+        "delay": 0.3,
+        "note": "1M context. Thinking via thinking_level (not thinking_budget).",
+    },
+    "gemini-3.5-flash-lite": {
+        "display_name": "Gemini 3.5 Flash Lite",
+        "provider": "google",
+        "model_id": "gemini-3.5-flash-lite",
+        "env_key": "GOOGLE_API_KEY",
+        "temperature": 1.0,
+        "max_output_tokens": 4096,
+        "thinking_level": "MEDIUM",
+        "delay": 0.3,
+        "note": "Defaults to MINIMAL thinking. Set MEDIUM for benchmark comparability.",
+    },
+    "gemini-3.6-flash": {
+        "display_name": "Gemini 3.6 Flash",
+        "provider": "google",
+        "model_id": "gemini-3.6-flash",
+        "env_key": "GOOGLE_API_KEY",
+        "temperature": 1.0,
+        "max_output_tokens": 4096,
+        "thinking_level": "MEDIUM",
+        "delay": 0.3,
+        "note": "1M context, 64K max output. Computer Use supported.",
+    },
+    # --- Round 3: DeepSeek V4 ---
+    "deepseek-v4": {
+        "display_name": "DeepSeek V4 Flash",
+        "provider": "openai_compat",
+        "model_id": "deepseek-v4-flash",
+        "env_key": "DEEPSEEK_API_KEY",
+        "base_url": "https://api.deepseek.com",
+        "temperature": 0.0,
+        "max_tokens": 4096,
+        "delay": 0.5,
+        "note": "284B total, 13B active MoE. 1M context.",
+    },
+    # --- Round 3: Kimi K3 (OpenRouter) ---
+    "kimi-k3": {
+        "display_name": "Kimi K3",
+        "provider": "openrouter",
+        "model_id": "moonshotai/kimi-k3",
+        "env_key": "OPENROUTER_API_KEY",
+        "temperature": 1.0,  # Fixed at 1.0 by provider
+        "max_tokens": 4096,
+        "reasoning": {"enabled": True},
+        "delay": 1.0,
+        "note": "2.8T params, always-on reasoning. Temperature fixed at 1.0. 1M context.",
     },
 }
 
@@ -524,6 +702,7 @@ def _call_model(model_config, clients, system_prompt, user_prompt, temperature=N
 
         # Gemini thinking models: max_output_tokens must cover thinking + response
         tb = model_config.get("thinking_budget")
+        tl = model_config.get("thinking_level")
         base_output = max_tokens_override or model_config.get("max_output_tokens", 4096)
         effective_max_output = base_output + tb if tb else base_output
 
@@ -541,6 +720,8 @@ def _call_model(model_config, clients, system_prompt, user_prompt, temperature=N
             config_kwargs["temperature"] = temp
         if tb:
             config_kwargs["thinking_config"] = types.ThinkingConfig(thinking_budget=tb)
+        elif tl:
+            config_kwargs["thinking_config"] = types.ThinkingConfig(thinking_level=tl)
 
         response = client.models.generate_content(
             model=model_id,
@@ -662,6 +843,7 @@ def _call_model_multiturn(model_config, clients, system_prompt, messages,
         from google.genai import types
 
         tb = model_config.get("thinking_budget")
+        tl = model_config.get("thinking_level")
         base_output = max_tokens_override or model_config.get("max_output_tokens", 4096)
         effective_max_output = base_output + tb if tb else base_output
 
@@ -679,6 +861,8 @@ def _call_model_multiturn(model_config, clients, system_prompt, messages,
             config_kwargs["temperature"] = temp
         if tb:
             config_kwargs["thinking_config"] = types.ThinkingConfig(thinking_budget=tb)
+        elif tl:
+            config_kwargs["thinking_config"] = types.ThinkingConfig(thinking_level=tl)
 
         # Convert messages to Gemini format
         contents = []
